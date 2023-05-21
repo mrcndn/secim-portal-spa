@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-yenipazar",
+        "mahalle": "HAMZABALİ MAH.",
+        "ilce_adi": "YENİPAZAR",
+        "okul_adi": "HAMZABALİ KÖYÜ KÖY OKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "aydin-yenipazar-hamzabali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 7,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-yenipazar/1xxx/1023/aydin-yenipazar-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394594
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-yenipazar",
+        "mahalle": "HAMZABALİ MAH.",
+        "ilce_adi": "YENİPAZAR",
+        "okul_adi": "HAMZABALİ KÖYÜ KÖY OKULU",
+        "sandik_no": 1024,
+        "mahalle_id": "aydin-yenipazar-hamzabali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 47,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "ADALET VE KALKINMA PARTİSİ": 133,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-yenipazar/1xxx/1024/aydin-yenipazar-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "723015",
+            "oyveotesi_sync_timestamp": 1684394594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "723015",
+            "oyveotesi_sync_timestamp": 1684394594
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

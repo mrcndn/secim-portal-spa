@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-dursunbey",
+        "mahalle": "ŞENKÖY MAH.",
+        "ilce_adi": "DURSUNBEY",
+        "okul_adi": "ŞEN KÖY OKUL LOJMANI",
+        "sandik_no": 1134,
+        "mahalle_id": "balikesir-dursunbey-senkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1134/balikesir-dursunbey-1134-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "505399",
+            "oyveotesi_sync_timestamp": 1684331739
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1134/balikesir-dursunbey-1134-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "505399",
+            "oyveotesi_sync_timestamp": 1684331739
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

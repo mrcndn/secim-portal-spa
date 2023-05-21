@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "kirikkale",
+        "il_adi": "KIRIKKALE",
+        "il_kodu": 71,
+        "ilce_id": "kirikkale-bahsili",
+        "mahalle": "SARIKAYALAR KÖYÜ",
+        "ilce_adi": "BAHŞILI",
+        "okul_adi": "SARIKAYALAR KÖYÜ İLKOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "kirikkale-bahsili-sarikayalar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 143,
+            "sayim_sonuc": {
+                "TOPLAM": 143,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 65,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 57,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-bahsili/1xxx/1020/kirikkale-bahsili-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177447",
+            "oyveotesi_sync_timestamp": 1684348698
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 153,
+            "sayim_sonuc": {
+                "TOPLAM": 153,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 137
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-bahsili/1xxx/1020/kirikkale-bahsili-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177447",
+            "oyveotesi_sync_timestamp": 1684348698
+        },
+        "secim_bolge_id": "kirikkale"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "ilce_id": "yalova-armutlu",
+        "mahalle": "50. YIL MAH.",
+        "ilce_adi": "ARMUTLU",
+        "okul_adi": "DURSUN DUMANGÖZ ORTAOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "yalova-armutlu-50-yil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-armutlu/1xxx/1001/yalova-armutlu-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "275202",
+            "oyveotesi_sync_timestamp": 1684363314
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-armutlu/1xxx/1001/yalova-armutlu-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "275202",
+            "oyveotesi_sync_timestamp": 1684363314
+        },
+        "secim_bolge_id": "yalova"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-ortahisar",
+        "mahalle": "KARAKAYA MAH.",
+        "ilce_adi": "ORTAHİSAR",
+        "okul_adi": "KARAKAYA İLKOKULU",
+        "sandik_no": 2232,
+        "mahalle_id": "trabzon-ortahisar-karakaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "İYİ PARTİ": 40,
+                "ZAFER PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-ortahisar/2xxx/2232/trabzon-ortahisar-2232-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "204690",
+            "oyveotesi_sync_timestamp": 1684366349
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-ortahisar/2xxx/2232/trabzon-ortahisar-2232-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "204690",
+            "oyveotesi_sync_timestamp": 1684366349
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-ortahisar",
+        "mahalle": "KARAKAYA MAH.",
+        "ilce_adi": "ORTAHİSAR",
+        "okul_adi": "KARAKAYA İLKOKULU",
+        "sandik_no": 2231,
+        "mahalle_id": "trabzon-ortahisar-karakaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-ortahisar/2xxx/2231/trabzon-ortahisar-2231-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "283141",
+            "oyveotesi_sync_timestamp": 1684366349
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-ortahisar/2xxx/2231/trabzon-ortahisar-2231-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "283141",
+            "oyveotesi_sync_timestamp": 1684366349
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

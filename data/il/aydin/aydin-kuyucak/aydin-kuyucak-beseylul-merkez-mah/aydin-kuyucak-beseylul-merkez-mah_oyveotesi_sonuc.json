@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-kuyucak",
+        "mahalle": "BEŞEYLÜL (MERKEZ) MAH.",
+        "ilce_adi": "KUYUCAK",
+        "okul_adi": "BEŞEYLÜL KÖYÜ İLKOKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "aydin-kuyucak-beseylul-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 68,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1014/aydin-kuyucak-1014-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "593531",
+            "oyveotesi_sync_timestamp": 1684394527
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1014/aydin-kuyucak-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "593531",
+            "oyveotesi_sync_timestamp": 1684394527
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

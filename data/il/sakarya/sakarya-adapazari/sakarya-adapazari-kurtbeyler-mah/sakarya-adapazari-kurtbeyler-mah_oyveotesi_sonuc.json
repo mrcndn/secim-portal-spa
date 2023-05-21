@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "KURTBEYLER MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "KURTBEYLER ESKİ İLKOKULU",
+        "sandik_no": 2197,
+        "mahalle_id": "sakarya-adapazari-kurtbeyler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 49,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 18,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2197/sakarya-adapazari-2197-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "769956",
+            "oyveotesi_sync_timestamp": 1684357464
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2197/sakarya-adapazari-2197-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "769956",
+            "oyveotesi_sync_timestamp": 1684357464
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

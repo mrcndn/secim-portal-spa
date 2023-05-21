@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "ERİKLİ KÖYÜ",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "ERİKLİ KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1031,
+        "mahalle_id": "kutahya-domanic-erikli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350132
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1031/kutahya-domanic-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350132
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

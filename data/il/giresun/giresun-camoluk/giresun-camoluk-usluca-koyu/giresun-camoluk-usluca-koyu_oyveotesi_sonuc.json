@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-camoluk",
+        "mahalle": "USLUCA KÖYÜ",
+        "ilce_adi": "ÇAMOLUK",
+        "okul_adi": "USLUCA KÖYÜ İLKOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "giresun-camoluk-usluca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 137,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-camoluk/1xxx/1033/giresun-camoluk-1033-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "582125",
+            "oyveotesi_sync_timestamp": 1684342905
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "582125",
+            "oyveotesi_sync_timestamp": 1684342905
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

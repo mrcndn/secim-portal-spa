@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-iskilip",
+        "mahalle": "SAKARYA MAH.",
+        "ilce_adi": "İSKİLİP",
+        "okul_adi": "SAKARYA İLKÖĞRETİM OKULU",
+        "sandik_no": 1036,
+        "mahalle_id": "corum-iskilip-sakarya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369461
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369461
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-iskilip",
+        "mahalle": "SAKARYA MAH.",
+        "ilce_adi": "İSKİLİP",
+        "okul_adi": "SAKARYA İLKÖĞRETİM OKULU",
+        "sandik_no": 1035,
+        "mahalle_id": "corum-iskilip-sakarya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369461
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-iskilip/1xxx/1035/corum-iskilip-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369461
+        },
+        "secim_bolge_id": "corum"
+    }
+]

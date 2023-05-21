@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "DANAPINAR KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "DANAPINAR İLKOKULU (KÖY YAŞAM MERKEZİ)",
+        "sandik_no": 1093,
+        "mahalle_id": "canakkale-can-danapinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 250,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1093/canakkale-can-1093-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1013332",
+            "oyveotesi_sync_timestamp": 1684335925
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 275
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1093/canakkale-can-1093-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1013332",
+            "oyveotesi_sync_timestamp": 1684335925
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

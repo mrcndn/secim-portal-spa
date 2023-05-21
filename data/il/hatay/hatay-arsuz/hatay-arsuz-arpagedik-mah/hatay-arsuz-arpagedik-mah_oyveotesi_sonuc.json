@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "ARPAGEDİK MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "ARPAGEDİK İLKOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "hatay-arsuz-arpagedik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "İYİ PARTİ": 23,
+                "CUMHURİYET HALK PARTİSİ": 219,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 29,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1017/hatay-arsuz-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "777004",
+            "oyveotesi_sync_timestamp": 1684375300
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 277,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1017/hatay-arsuz-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "777004",
+            "oyveotesi_sync_timestamp": 1684375300
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "ARPAGEDİK MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "ARPAGEDİK İLKOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "hatay-arsuz-arpagedik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375300
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 271,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1018/hatay-arsuz-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375300
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

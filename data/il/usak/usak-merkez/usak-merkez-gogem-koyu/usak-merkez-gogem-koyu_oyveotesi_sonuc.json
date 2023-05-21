@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "GÖĞEM KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "GÖĞEM KÖY İLKOKULU",
+        "sandik_no": 1513,
+        "mahalle_id": "usak-merkez-gogem-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 41,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1513/usak-merkez-1513-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "512190",
+            "oyveotesi_sync_timestamp": 1684369686
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 136,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1513/usak-merkez-1513-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "512190",
+            "oyveotesi_sync_timestamp": 1684369686
+        },
+        "secim_bolge_id": "usak"
+    }
+]

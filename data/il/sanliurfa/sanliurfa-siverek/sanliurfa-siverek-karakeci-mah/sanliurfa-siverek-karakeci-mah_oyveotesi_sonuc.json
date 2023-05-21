@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-siverek",
+        "mahalle": "KARAKEÇİ MAH.",
+        "ilce_adi": "SİVEREK",
+        "okul_adi": "ENVER AKIL KARAKEÇİLİ ORTAOKULU",
+        "sandik_no": 1354,
+        "mahalle_id": "sanliurfa-siverek-karakeci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684372313
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 101
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-siverek/1xxx/1354/sanliurfa-siverek-1354-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684372313
+        },
+        "secim_bolge_id": "sanliurfa"
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-siverek",
+        "mahalle": "KARAKEÇİ MAH.",
+        "ilce_adi": "SİVEREK",
+        "okul_adi": "ENVER AKIL KARAKEÇİLİ ORTAOKULU",
+        "sandik_no": 1355,
+        "mahalle_id": "sanliurfa-siverek-karakeci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 12,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-siverek/1xxx/1355/sanliurfa-siverek-1355-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "666297",
+            "oyveotesi_sync_timestamp": 1684372313
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 185,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-siverek/1xxx/1355/sanliurfa-siverek-1355-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "666297",
+            "oyveotesi_sync_timestamp": 1684372313
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

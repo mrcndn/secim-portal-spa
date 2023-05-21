@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-luleburgaz",
+        "mahalle": "HAMZABEY KÖYÜ",
+        "ilce_adi": "LÜLEBURGAZ",
+        "okul_adi": "HAMZABEY KÖYÜ OKULU",
+        "sandik_no": 1330,
+        "mahalle_id": "kirklareli-luleburgaz-hamzabey-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 182,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1330/kirklareli-luleburgaz-1330-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "783580",
+            "oyveotesi_sync_timestamp": 1684348735
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 217,
+                "RECEP TAYYİP ERDOĞAN": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1330/kirklareli-luleburgaz-1330-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "783580",
+            "oyveotesi_sync_timestamp": 1684348735
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

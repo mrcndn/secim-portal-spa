@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "bayburt",
+        "il_adi": "BAYBURT",
+        "il_kodu": 69,
+        "ilce_id": "bayburt-merkez",
+        "mahalle": "KARŞIGEÇİT KÖYÜ",
+        "ilce_adi": "BAYBURT MERKEZ",
+        "okul_adi": "KARŞIGEÇİT İLKOKULU",
+        "sandik_no": 1156,
+        "mahalle_id": "bayburt-merkez-karsigecit-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 133,
+            "sayim_sonuc": {
+                "TOPLAM": 133,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1156/bayburt-merkez-1156-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "186984",
+            "oyveotesi_sync_timestamp": 1684328346
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1156/bayburt-merkez-1156-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "186984",
+            "oyveotesi_sync_timestamp": 1684328346
+        },
+        "secim_bolge_id": "bayburt"
+    }
+]

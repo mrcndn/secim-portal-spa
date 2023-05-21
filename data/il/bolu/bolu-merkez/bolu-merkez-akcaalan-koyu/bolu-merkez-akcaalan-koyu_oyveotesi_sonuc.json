@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "AKÇAALAN KÖYÜ",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "AKÇAALAN KÖY KONAĞI",
+        "sandik_no": 1373,
+        "mahalle_id": "bolu-merkez-akcaalan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 119,
+            "sayim_sonuc": {
+                "TOPLAM": 119,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 51,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1373/bolu-merkez-1373-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "181841",
+            "oyveotesi_sync_timestamp": 1684333647
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 123,
+            "sayim_sonuc": {
+                "TOPLAM": 123,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1373/bolu-merkez-1373-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "181841",
+            "oyveotesi_sync_timestamp": 1684333647
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

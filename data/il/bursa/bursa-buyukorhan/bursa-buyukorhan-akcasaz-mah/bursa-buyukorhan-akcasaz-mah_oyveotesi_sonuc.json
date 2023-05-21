@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-buyukorhan",
+        "mahalle": "AKÇASAZ MAH.",
+        "ilce_adi": "BÜYÜKORHAN",
+        "okul_adi": "AKÇASAZ MAH.OKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "bursa-buyukorhan-akcasaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 69,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "340039",
+            "oyveotesi_sync_timestamp": 1684328497
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "340039",
+            "oyveotesi_sync_timestamp": 1684328497
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

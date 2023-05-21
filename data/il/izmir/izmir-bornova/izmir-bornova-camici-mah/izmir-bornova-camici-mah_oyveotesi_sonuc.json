@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bornova",
+        "mahalle": "ÇAMİÇİ MAH.",
+        "ilce_adi": "BORNOVA",
+        "okul_adi": "ÇAMİÇİ KÖY İLKOKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "izmir-bornova-camici-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 203,
+            "sayim_sonuc": {
+                "TOPLAM": 203,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 4,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 72,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "TÜRKİYE İŞÇİ PARTİSİ": 11,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "815581",
+            "oyveotesi_sync_timestamp": 1684362373
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "815581",
+            "oyveotesi_sync_timestamp": 1684362373
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

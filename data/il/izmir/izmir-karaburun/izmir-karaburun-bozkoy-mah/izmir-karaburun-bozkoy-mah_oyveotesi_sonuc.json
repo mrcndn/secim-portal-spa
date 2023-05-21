@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-karaburun",
+        "mahalle": "BOZKÖY MAH.",
+        "ilce_adi": "KARABURUN",
+        "okul_adi": "BOZKÖY KÖY KONAĞI",
+        "sandik_no": 1002,
+        "mahalle_id": "izmir-karaburun-bozkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361857
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 157,
+                "RECEP TAYYİP ERDOĞAN": 34
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361857
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

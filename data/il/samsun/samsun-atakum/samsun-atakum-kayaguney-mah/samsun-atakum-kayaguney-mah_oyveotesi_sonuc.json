@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-atakum",
+        "mahalle": "KAYAGÜNEY MAH.",
+        "ilce_adi": "ATAKUM",
+        "okul_adi": "KAYAGÜNEY MAH. KÖY KONAĞI",
+        "sandik_no": 1216,
+        "mahalle_id": "samsun-atakum-kayaguney-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367881
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 156
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-atakum/1xxx/1216/samsun-atakum-1216-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367881
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-atakum",
+        "mahalle": "KAYAGÜNEY MAH.",
+        "ilce_adi": "ATAKUM",
+        "okul_adi": "KAYAGÜNEY MAH. KÖY KONAĞI",
+        "sandik_no": 1217,
+        "mahalle_id": "samsun-atakum-kayaguney-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-atakum/1xxx/1217/samsun-atakum-1217-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "779940",
+            "oyveotesi_sync_timestamp": 1684367881
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-atakum/1xxx/1217/samsun-atakum-1217-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "779940",
+            "oyveotesi_sync_timestamp": 1684367881
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

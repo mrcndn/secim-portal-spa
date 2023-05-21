@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-merkez",
+        "mahalle": "AYDOĞDU KÖYÜ",
+        "ilce_adi": "TOKAT MERKEZ",
+        "okul_adi": "AYDOĞDU KÖY OKULU",
+        "sandik_no": 1361,
+        "mahalle_id": "tokat-merkez-aydogdu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 77,
+            "sayim_sonuc": {
+                "TOPLAM": 77,
+                "İYİ PARTİ": 17,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1361/tokat-merkez-1361-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173321",
+            "oyveotesi_sync_timestamp": 1684365108
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1361/tokat-merkez-1361-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173321",
+            "oyveotesi_sync_timestamp": 1684365108
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

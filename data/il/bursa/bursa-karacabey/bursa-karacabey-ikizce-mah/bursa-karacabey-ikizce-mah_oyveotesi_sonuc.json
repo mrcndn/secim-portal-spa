@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "İKİZCE MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "İKİZCE CAMİ ALTI",
+        "sandik_no": 1113,
+        "mahalle_id": "bursa-karacabey-ikizce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334834
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 55
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334834
+        },
+        "secim_bolge_id": "bursa1"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "İKİZCE MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "İKİZCE CAMİ ALTI",
+        "sandik_no": 1112,
+        "mahalle_id": "bursa-karacabey-ikizce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 10,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 81,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "621248",
+            "oyveotesi_sync_timestamp": 1684334834
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "621248",
+            "oyveotesi_sync_timestamp": 1684334834
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

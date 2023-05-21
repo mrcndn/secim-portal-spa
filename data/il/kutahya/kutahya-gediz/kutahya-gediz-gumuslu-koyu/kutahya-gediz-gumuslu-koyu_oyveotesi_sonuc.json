@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-gediz",
+        "mahalle": "GÜMÜŞLÜ KÖYÜ",
+        "ilce_adi": "GEDİZ",
+        "okul_adi": "GÜMÜŞLÜ KÖYÜ İÖO",
+        "sandik_no": 1108,
+        "mahalle_id": "kutahya-gediz-gumuslu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 97,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1108/kutahya-gediz-1108-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "678862",
+            "oyveotesi_sync_timestamp": 1684350252
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1108/kutahya-gediz-1108-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "678862",
+            "oyveotesi_sync_timestamp": 1684350252
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

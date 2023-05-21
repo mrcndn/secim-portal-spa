@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-odemis",
+        "mahalle": "YEŞİLKÖY MAH.",
+        "ilce_adi": "ÖDEMİŞ",
+        "okul_adi": "YEŞİLKÖY MERKEZ KAHVEHANESİ",
+        "sandik_no": 1307,
+        "mahalle_id": "izmir-odemis-yesilkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "744534",
+            "oyveotesi_sync_timestamp": 1684362247
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "744534",
+            "oyveotesi_sync_timestamp": 1684362247
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

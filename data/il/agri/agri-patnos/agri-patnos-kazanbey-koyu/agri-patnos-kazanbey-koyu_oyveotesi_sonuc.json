@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-patnos",
+        "mahalle": "KAZANBEY KÖYÜ",
+        "ilce_adi": "PATNOS",
+        "okul_adi": "KAZANBEY KÖYÜ İLK VE ORTAOKULU",
+        "sandik_no": 1181,
+        "mahalle_id": "agri-patnos-kazanbey-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327055
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327055
+        },
+        "secim_bolge_id": "agri"
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-patnos",
+        "mahalle": "KAZANBEY KÖYÜ",
+        "ilce_adi": "PATNOS",
+        "okul_adi": "KAZANBEY KÖYÜ İLK VE ORTAOKULU",
+        "sandik_no": 1179,
+        "mahalle_id": "agri-patnos-kazanbey-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327055
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327055
+        },
+        "secim_bolge_id": "agri"
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-patnos",
+        "mahalle": "KAZANBEY KÖYÜ",
+        "ilce_adi": "PATNOS",
+        "okul_adi": "KAZANBEY KÖYÜ İLK VE ORTAOKULU",
+        "sandik_no": 1180,
+        "mahalle_id": "agri-patnos-kazanbey-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327055
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 200,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-patnos/1xxx/1180/agri-patnos-1180-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327055
+        },
+        "secim_bolge_id": "agri"
+    }
+]

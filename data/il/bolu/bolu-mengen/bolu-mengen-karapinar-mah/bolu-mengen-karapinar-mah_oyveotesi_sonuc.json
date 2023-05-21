@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-mengen",
+        "mahalle": "KARAPINAR MAH.",
+        "ilce_adi": "MENGEN",
+        "okul_adi": "İMAM HATİP LİSESİ",
+        "sandik_no": 1004,
+        "mahalle_id": "bolu-mengen-karapinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334136
+        },
+        "secim_bolge_id": "bolu"
+    },
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-mengen",
+        "mahalle": "KARAPINAR MAH.",
+        "ilce_adi": "MENGEN",
+        "okul_adi": "İMAM HATİP LİSESİ",
+        "sandik_no": 1005,
+        "mahalle_id": "bolu-mengen-karapinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-mengen/1xxx/1005/bolu-mengen-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334136
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

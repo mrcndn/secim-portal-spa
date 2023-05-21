@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "AKÇAÖREN MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "AKÇAÖREN KÖY KONAĞI",
+        "sandik_no": 1071,
+        "mahalle_id": "ankara-sincan-akcaoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393229
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393229
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

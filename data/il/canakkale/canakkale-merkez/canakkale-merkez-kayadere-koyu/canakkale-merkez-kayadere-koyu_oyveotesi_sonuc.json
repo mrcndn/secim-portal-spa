@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-merkez",
+        "mahalle": "KAYADERE KÖYÜ",
+        "ilce_adi": "ÇANAKKALE MERKEZ",
+        "okul_adi": "İLKOKUL-KAYADERE KÖYÜ",
+        "sandik_no": 1410,
+        "mahalle_id": "canakkale-merkez-kayadere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "GENÇ PARTİ": 1,
+                "ADALET PARTİSİ": 60,
+                "MİLLET PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 198,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1410/canakkale-merkez-1410-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "713405",
+            "oyveotesi_sync_timestamp": 1684336015
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 277,
+                "RECEP TAYYİP ERDOĞAN": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1410/canakkale-merkez-1410-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "713405",
+            "oyveotesi_sync_timestamp": 1684336015
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

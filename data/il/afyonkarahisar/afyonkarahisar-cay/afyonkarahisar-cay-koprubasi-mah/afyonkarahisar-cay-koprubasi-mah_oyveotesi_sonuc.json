@@ -1,0 +1,85 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ŞEHİT CENGİZ KARATAŞ İLKOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "afyonkarahisar-cay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324820
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1018/afyonkarahisar-cay-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324820
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ŞEHİT CENGİZ KARATAŞ İLKOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "afyonkarahisar-cay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 77,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 54,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1019/afyonkarahisar-cay-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732229",
+            "oyveotesi_sync_timestamp": 1684324820
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1019/afyonkarahisar-cay-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732229",
+            "oyveotesi_sync_timestamp": 1684324820
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

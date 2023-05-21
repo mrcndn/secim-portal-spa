@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "TAŞKIRAN MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "TAŞKIRAN İLKÖĞRETİM OKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "trabzon-caykara-taskiran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366228
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 214
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1044/trabzon-caykara-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366228
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "TAŞKIRAN MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "TAŞKIRAN İLKÖĞRETİM OKULU",
+        "sandik_no": 1043,
+        "mahalle_id": "trabzon-caykara-taskiran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 165,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1043/trabzon-caykara-1043-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023382",
+            "oyveotesi_sync_timestamp": 1684366228
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 210
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1043/trabzon-caykara-1043-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023382",
+            "oyveotesi_sync_timestamp": 1684366228
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

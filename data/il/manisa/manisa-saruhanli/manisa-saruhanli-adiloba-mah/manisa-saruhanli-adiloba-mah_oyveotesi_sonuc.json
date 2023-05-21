@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-saruhanli",
+        "mahalle": "ADİLOBA MAH.",
+        "ilce_adi": "SARUHANLI",
+        "okul_adi": "ADİLOBA İLKÖĞRETİM OKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "manisa-saruhanli-adiloba-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397010
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-saruhanli/1xxx/1002/manisa-saruhanli-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397010
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-saruhanli",
+        "mahalle": "ADİLOBA MAH.",
+        "ilce_adi": "SARUHANLI",
+        "okul_adi": "ADİLOBA İLKÖĞRETİM OKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "manisa-saruhanli-adiloba-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-saruhanli/1xxx/1001/manisa-saruhanli-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793935",
+            "oyveotesi_sync_timestamp": 1684397010
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-saruhanli/1xxx/1001/manisa-saruhanli-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793935",
+            "oyveotesi_sync_timestamp": 1684397010
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-gokceada",
+        "mahalle": "YENİBADEMLİ KÖYÜ",
+        "ilce_adi": "GÖKÇEADA",
+        "okul_adi": "YENİ BADEMLİ İLÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "canakkale-gokceada-yenibademli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-gokceada/1xxx/1027/canakkale-gokceada-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "643489",
+            "oyveotesi_sync_timestamp": 1684330053
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 119,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-gokceada/1xxx/1027/canakkale-gokceada-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "643489",
+            "oyveotesi_sync_timestamp": 1684330053
+        },
+        "secim_bolge_id": "canakkale"
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-gokceada",
+        "mahalle": "YENİBADEMLİ KÖYÜ",
+        "ilce_adi": "GÖKÇEADA",
+        "okul_adi": "YENİ BADEMLİ İLÖĞRETİM OKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "canakkale-gokceada-yenibademli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330053
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 99,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-gokceada/1xxx/1026/canakkale-gokceada-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330053
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

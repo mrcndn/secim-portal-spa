@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-bulancak",
+        "mahalle": "SİSİN MAH.",
+        "ilce_adi": "BULANCAK",
+        "okul_adi": "SİSİN MAHALLE KONAĞI",
+        "sandik_no": 1101,
+        "mahalle_id": "giresun-bulancak-sisin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342855
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1101/giresun-bulancak-1101-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342855
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

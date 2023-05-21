@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "YEŞİLOVA MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "YEŞİLOVA MH. İLKOKULU",
+        "sandik_no": 1343,
+        "mahalle_id": "manisa-salihli-yesilova-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397155
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 204,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1343/manisa-salihli-1343-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397155
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "YEŞİLOVA MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "YEŞİLOVA MH. İLKOKULU",
+        "sandik_no": 1344,
+        "mahalle_id": "manisa-salihli-yesilova-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397155
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 183,
+                "RECEP TAYYİP ERDOĞAN": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1344/manisa-salihli-1344-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397155
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

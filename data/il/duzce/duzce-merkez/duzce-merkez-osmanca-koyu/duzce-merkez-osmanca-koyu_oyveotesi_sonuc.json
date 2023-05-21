@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "OSMANCA KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "OSMANCA KÖYÜ KÖY ESKİ OKULU",
+        "sandik_no": 1512,
+        "mahalle_id": "duzce-merkez-osmanca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 161,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1512/duzce-merkez-1512-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "402151",
+            "oyveotesi_sync_timestamp": 1684338120
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1512/duzce-merkez-1512-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "402151",
+            "oyveotesi_sync_timestamp": 1684338120
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

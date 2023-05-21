@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "BUMSUZ MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "BUMSUZ MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "ankara-haymana-bumsuz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 97
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "721709",
+            "oyveotesi_sync_timestamp": 1684393523
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "KEMAL KILIÇDAROĞLU": 120,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "721709",
+            "oyveotesi_sync_timestamp": 1684393523
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "BUMSUZ MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "BUMSUZ MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1015,
+        "mahalle_id": "ankara-haymana-bumsuz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393523
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393523
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

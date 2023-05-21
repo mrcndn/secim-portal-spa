@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merkez",
+        "mahalle": "AVŞAR KÖYÜ",
+        "ilce_adi": "AMASYA MERKEZ",
+        "okul_adi": "AVŞAR KÖYÜ KÖY OKULU",
+        "sandik_no": 1249,
+        "mahalle_id": "amasya-merkez-avsar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324933
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1249/amasya-merkez-1249-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324933
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

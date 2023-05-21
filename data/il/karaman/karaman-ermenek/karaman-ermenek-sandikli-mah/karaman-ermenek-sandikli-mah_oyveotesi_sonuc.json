@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-ermenek",
+        "mahalle": "SANDIKLI MAH.",
+        "ilce_adi": "ERMENEK",
+        "okul_adi": "ERMENEK LİSESİ",
+        "sandik_no": 1021,
+        "mahalle_id": "karaman-ermenek-sandikli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346468
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346468
+        },
+        "secim_bolge_id": "karaman"
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-ermenek",
+        "mahalle": "SANDIKLI MAH.",
+        "ilce_adi": "ERMENEK",
+        "okul_adi": "ERMENEK LİSESİ",
+        "sandik_no": 1020,
+        "mahalle_id": "karaman-ermenek-sandikli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346468
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-ermenek/1xxx/1020/karaman-ermenek-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346468
+        },
+        "secim_bolge_id": "karaman"
+    }
+]

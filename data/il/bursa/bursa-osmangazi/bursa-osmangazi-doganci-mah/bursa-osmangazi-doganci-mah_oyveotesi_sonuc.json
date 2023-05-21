@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-osmangazi",
+        "mahalle": "DOĞANCI MAH.",
+        "ilce_adi": "OSMANGAZİ",
+        "okul_adi": "DOĞANCI MAHALLESİ HİZMET BİNASI",
+        "sandik_no": 3131,
+        "mahalle_id": "bursa-osmangazi-doganci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335312
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 198
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335312
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

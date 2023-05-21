@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "ÇELİKLİ MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "ÇELİKLİ MH. İLKOKULU",
+        "sandik_no": 1093,
+        "mahalle_id": "manisa-salihli-celikli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397234
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397234
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "ÇELİKLİ MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "ÇELİKLİ MH. İLKOKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "manisa-salihli-celikli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397234
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 156
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1092/manisa-salihli-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397234
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

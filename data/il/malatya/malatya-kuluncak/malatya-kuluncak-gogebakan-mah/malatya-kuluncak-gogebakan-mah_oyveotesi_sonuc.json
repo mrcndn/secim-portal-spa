@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-kuluncak",
+        "mahalle": "GÖĞEBAKAN MAH.",
+        "ilce_adi": "KULUNCAK",
+        "okul_adi": "GÖĞEBAKAN MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "malatya-kuluncak-gogebakan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351358
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-kuluncak/1xxx/1011/malatya-kuluncak-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351358
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

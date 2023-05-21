@@ -1,0 +1,109 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "ALCI MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "ALCI İLKOKULU/ORTAOKULU",
+        "sandik_no": 1120,
+        "mahalle_id": "ankara-sincan-alci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393232
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "ALCI MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "ALCI İLKOKULU/ORTAOKULU",
+        "sandik_no": 1118,
+        "mahalle_id": "ankara-sincan-alci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 303,
+            "sayim_sonuc": {
+                "TOPLAM": 303,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 127,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "370369",
+            "oyveotesi_sync_timestamp": 1684393232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "370369",
+            "oyveotesi_sync_timestamp": 1684393232
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "ALCI MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "ALCI İLKOKULU/ORTAOKULU",
+        "sandik_no": 1119,
+        "mahalle_id": "ankara-sincan-alci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 150,
+                "RECEP TAYYİP ERDOĞAN": 162
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393232
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

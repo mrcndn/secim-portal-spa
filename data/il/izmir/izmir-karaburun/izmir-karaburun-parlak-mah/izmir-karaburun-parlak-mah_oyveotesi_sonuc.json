@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-karaburun",
+        "mahalle": "PARLAK MAH.",
+        "ilce_adi": "KARABURUN",
+        "okul_adi": "PARLAK KÖY ODASI",
+        "sandik_no": 1032,
+        "mahalle_id": "izmir-karaburun-parlak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "458974",
+            "oyveotesi_sync_timestamp": 1684361867
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "458974",
+            "oyveotesi_sync_timestamp": 1684361867
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

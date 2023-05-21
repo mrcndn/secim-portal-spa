@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-corlu",
+        "mahalle": "SARILAR MAH.",
+        "ilce_adi": "ÇORLU",
+        "okul_adi": "SARILAR MAHALLE ODASI",
+        "sandik_no": 1213,
+        "mahalle_id": "tekirdag-corlu-sarilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 60,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 120,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-corlu/1xxx/1213/tekirdag-corlu-1213-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "212656",
+            "oyveotesi_sync_timestamp": 1684368667
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 255,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-corlu/1xxx/1213/tekirdag-corlu-1213-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "212656",
+            "oyveotesi_sync_timestamp": 1684368667
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

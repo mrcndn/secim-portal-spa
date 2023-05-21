@@ -1,0 +1,93 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "TAŞLI MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "TAŞLI İLKOKULU",
+        "sandik_no": 1238,
+        "mahalle_id": "mugla-mentese-tasli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 106,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1238/mugla-mentese-1238-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "754411",
+            "oyveotesi_sync_timestamp": 1684374347
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 133,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1238/mugla-mentese-1238-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "754411",
+            "oyveotesi_sync_timestamp": 1684374347
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "TAŞLI MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "TAŞLI İLKOKULU",
+        "sandik_no": 1237,
+        "mahalle_id": "mugla-mentese-tasli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 35,
+                "VATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 117,
+                "ADALET VE KALKINMA PARTİSİ": 44,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1237/mugla-mentese-1237-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718018",
+            "oyveotesi_sync_timestamp": 1684374347
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1237/mugla-mentese-1237-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718018",
+            "oyveotesi_sync_timestamp": 1684374347
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

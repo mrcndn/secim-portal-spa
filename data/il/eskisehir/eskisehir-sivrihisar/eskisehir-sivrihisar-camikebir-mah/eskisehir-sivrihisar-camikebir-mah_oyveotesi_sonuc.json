@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "CAMİKEBİR MAH ATATÜRK İ.Ö.O",
+        "sandik_no": 1015,
+        "mahalle_id": "eskisehir-sivrihisar-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 117,
+            "sayim_sonuc": {
+                "TOPLAM": 117,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1015/eskisehir-sivrihisar-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034506",
+            "oyveotesi_sync_timestamp": 1684341790
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1034506",
+            "oyveotesi_sync_timestamp": 1684341790
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

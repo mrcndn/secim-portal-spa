@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-guneysu",
+        "mahalle": "KİREMİT KÖYÜ",
+        "ilce_adi": "GÜNEYSU",
+        "okul_adi": "KİREMİT KY.MERKEZ CAMİSİNİN ALTINDAKİ KÖY ODASINA",
+        "sandik_no": 1032,
+        "mahalle_id": "rize-guneysu-kiremit-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356429
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 206
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-guneysu/1xxx/1032/rize-guneysu-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356429
+        },
+        "secim_bolge_id": "rize"
+    }
+]

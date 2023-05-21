@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-emet",
+        "mahalle": "MUSALAR KÖYÜ",
+        "ilce_adi": "EMET",
+        "okul_adi": "MUSALAR KÖYÜ KÖY ODASI",
+        "sandik_no": 1056,
+        "mahalle_id": "kutahya-emet-musalar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 17,
+            "sayim_sonuc": {
+                "TOPLAM": 17,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1056/kutahya-emet-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572395",
+            "oyveotesi_sync_timestamp": 1684350203
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 17,
+            "sayim_sonuc": {
+                "TOPLAM": 17,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 2,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1056/kutahya-emet-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572395",
+            "oyveotesi_sync_timestamp": 1684350203
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-tavas",
+        "mahalle": "GARİPKÖY MAH.",
+        "ilce_adi": "TAVAS",
+        "okul_adi": "GARİPKÖY MAH MEHMET PORAN İLKOKUL",
+        "sandik_no": 1026,
+        "mahalle_id": "denizli-tavas-garipkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365864
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365864
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-tavas",
+        "mahalle": "GARİPKÖY MAH.",
+        "ilce_adi": "TAVAS",
+        "okul_adi": "GARİPKÖY MAH MEHMET PORAN İLKOKUL",
+        "sandik_no": 1027,
+        "mahalle_id": "denizli-tavas-garipkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365864
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 130,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-tavas/1xxx/1027/denizli-tavas-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365864
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

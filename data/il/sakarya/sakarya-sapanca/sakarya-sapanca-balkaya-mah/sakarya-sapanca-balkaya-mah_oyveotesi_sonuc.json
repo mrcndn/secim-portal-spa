@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-sapanca",
+        "mahalle": "BALKAYA MAH.",
+        "ilce_adi": "SAPANCA",
+        "okul_adi": "BALKAYA MAHALLE KONAĞI",
+        "sandik_no": 1003,
+        "mahalle_id": "sakarya-sapanca-balkaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 62,
+            "sayim_sonuc": {
+                "TOPLAM": 62,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-sapanca/1xxx/1003/sakarya-sapanca-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463667",
+            "oyveotesi_sync_timestamp": 1684357665
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-sapanca/1xxx/1003/sakarya-sapanca-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463667",
+            "oyveotesi_sync_timestamp": 1684357665
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

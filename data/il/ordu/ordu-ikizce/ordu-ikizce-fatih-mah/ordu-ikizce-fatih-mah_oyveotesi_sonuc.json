@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ikizce",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "İKİZCE",
+        "okul_adi": "FATİH MAH. İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "ordu-ikizce-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360301
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 130
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ikizce/1xxx/1025/ordu-ikizce-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360301
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

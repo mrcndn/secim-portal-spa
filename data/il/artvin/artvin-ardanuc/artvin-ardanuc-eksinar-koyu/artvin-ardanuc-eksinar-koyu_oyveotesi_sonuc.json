@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-ardanuc",
+        "mahalle": "EKŞİNAR KÖYÜ",
+        "ilce_adi": "ARDANUÇ",
+        "okul_adi": "EKŞİNAR KÖYÜ KÖY DEĞİRMEN YERİ",
+        "sandik_no": 1031,
+        "mahalle_id": "artvin-ardanuc-eksinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1031/artvin-ardanuc-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "709956",
+            "oyveotesi_sync_timestamp": 1684361619
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1031/artvin-ardanuc-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "709956",
+            "oyveotesi_sync_timestamp": 1684361619
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

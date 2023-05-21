@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-cukurova",
+        "mahalle": "MEMİŞLİ MAH.",
+        "ilce_adi": "ÇUKUROVA",
+        "okul_adi": "MEMİŞLİ KÖY MUHTARLIĞINA AİT DÜKKAN",
+        "sandik_no": 1205,
+        "mahalle_id": "adana-cukurova-memisli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-cukurova/1xxx/1205/adana-cukurova-1205-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "327107",
+            "oyveotesi_sync_timestamp": 1684371152
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-cukurova/1xxx/1205/adana-cukurova-1205-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "327107",
+            "oyveotesi_sync_timestamp": 1684371152
+        },
+        "secim_bolge_id": "adana"
+    }
+]

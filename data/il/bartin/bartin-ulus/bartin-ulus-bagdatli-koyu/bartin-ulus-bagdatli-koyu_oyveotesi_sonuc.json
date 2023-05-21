@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "BAĞDATLI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "okul_adi": "BAĞDATLI KÖYÜ MERKEZ MEVKİİ SOSYAL TESİSİ",
+        "sandik_no": 1039,
+        "mahalle_id": "bartin-ulus-bagdatli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1039/bartin-ulus-1039-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176669",
+            "oyveotesi_sync_timestamp": 1684328125
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1039/bartin-ulus-1039-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176669",
+            "oyveotesi_sync_timestamp": 1684328125
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

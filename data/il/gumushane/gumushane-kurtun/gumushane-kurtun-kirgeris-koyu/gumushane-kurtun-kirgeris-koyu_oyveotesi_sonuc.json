@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "gumushane",
+        "il_adi": "GÜMÜŞHANE",
+        "il_kodu": 29,
+        "ilce_id": "gumushane-kurtun",
+        "mahalle": "KIRGERİŞ KÖYÜ",
+        "ilce_adi": "KÜRTÜN",
+        "okul_adi": "KIRGERİŞ KÖYÜ MERKEZ İLKÖĞRETİM-OKULU *",
+        "sandik_no": 1039,
+        "mahalle_id": "gumushane-kurtun-kirgeris-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395094
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395094
+        },
+        "secim_bolge_id": "gumushane"
+    },
+    {
+        "il_id": "gumushane",
+        "il_adi": "GÜMÜŞHANE",
+        "il_kodu": 29,
+        "ilce_id": "gumushane-kurtun",
+        "mahalle": "KIRGERİŞ KÖYÜ",
+        "ilce_adi": "KÜRTÜN",
+        "okul_adi": "KIRGERİŞ KÖYÜ HAPANDÜZÜ MEZRASI KÖY BİNASI *",
+        "sandik_no": 1038,
+        "mahalle_id": "gumushane-kurtun-kirgeris-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 71,
+            "sayim_sonuc": {
+                "TOPLAM": 71,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gumushane-tutanaklari/blob/main/tutanak/gumushane/gumushane-kurtun/1xxx/1038/gumushane-kurtun-1038-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "342087",
+            "oyveotesi_sync_timestamp": 1684395094
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "342087",
+            "oyveotesi_sync_timestamp": 1684395094
+        },
+        "secim_bolge_id": "gumushane"
+    }
+]

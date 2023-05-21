@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "SARIFASIL KÖYÜ",
+        "ilce_adi": "ULUS",
+        "okul_adi": "SARIFASIL KÖYÜ CAMİ ALTI KÖY ODASI",
+        "sandik_no": 1088,
+        "mahalle_id": "bartin-ulus-sarifasil-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 134,
+            "sayim_sonuc": {
+                "TOPLAM": 134,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 47,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 51,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1088/bartin-ulus-1088-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "245636",
+            "oyveotesi_sync_timestamp": 1684328256
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1088/bartin-ulus-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "245636",
+            "oyveotesi_sync_timestamp": 1684328256
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

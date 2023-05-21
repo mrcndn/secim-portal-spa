@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-ercis",
+        "mahalle": "ÇUBUKLU MAH.",
+        "ilce_adi": "ERCİŞ",
+        "okul_adi": "ÇUBUKLU İ.Ö. OKULU",
+        "sandik_no": 1125,
+        "mahalle_id": "van-ercis-cubuklu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SOL PARTİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 202
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1125/van-ercis-1125-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "214600",
+            "oyveotesi_sync_timestamp": 1684356816
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "214600",
+            "oyveotesi_sync_timestamp": 1684356816
+        },
+        "secim_bolge_id": "van"
+    },
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-ercis",
+        "mahalle": "ÇUBUKLU MAH.",
+        "ilce_adi": "ERCİŞ",
+        "okul_adi": "ÇUBUKLU İ.Ö. OKULU",
+        "sandik_no": 1124,
+        "mahalle_id": "van-ercis-cubuklu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SOL PARTİ": 5,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 197
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1124/van-ercis-1124-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "220960",
+            "oyveotesi_sync_timestamp": 1684356816
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 212,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1124/van-ercis-1124-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "220960",
+            "oyveotesi_sync_timestamp": 1684356816
+        },
+        "secim_bolge_id": "van"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-konak",
+        "mahalle": "KESTELLİ MAH.",
+        "ilce_adi": "KONAK",
+        "okul_adi": "İSMET PAŞA İLKOKULU",
+        "sandik_no": 1229,
+        "mahalle_id": "izmir-konak-kestelli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 44,
+            "sayim_sonuc": {
+                "TOPLAM": 44,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "304199",
+            "oyveotesi_sync_timestamp": 1684362525
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 46,
+            "sayim_sonuc": {
+                "TOPLAM": 46,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "304199",
+            "oyveotesi_sync_timestamp": 1684362525
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

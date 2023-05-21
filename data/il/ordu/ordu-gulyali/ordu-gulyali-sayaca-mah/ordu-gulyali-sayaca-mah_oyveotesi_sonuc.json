@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-gulyali",
+        "mahalle": "SAYACA MAH.",
+        "ilce_adi": "GÜLYALI",
+        "okul_adi": "SAYACA MAHALLESİ CAMİ YANI ÇAYEVİ",
+        "sandik_no": 1013,
+        "mahalle_id": "ordu-gulyali-sayaca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360102
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-gulyali/1xxx/1013/ordu-gulyali-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360102
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

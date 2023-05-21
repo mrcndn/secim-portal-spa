@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "KETENDERE MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "KETENDERE İLKOKULU",
+        "sandik_no": 1284,
+        "mahalle_id": "mugla-milas-ketendere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 96,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1284/mugla-milas-1284-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "766201",
+            "oyveotesi_sync_timestamp": 1684374418
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1284/mugla-milas-1284-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "766201",
+            "oyveotesi_sync_timestamp": 1684374418
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "KETENDERE MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "KETENDERE İLKOKULU",
+        "sandik_no": 1285,
+        "mahalle_id": "mugla-milas-ketendere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374418
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1285/mugla-milas-1285-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374418
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

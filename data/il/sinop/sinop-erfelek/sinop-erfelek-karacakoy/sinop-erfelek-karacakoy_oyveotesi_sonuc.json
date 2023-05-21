@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "KARACAKÖY",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "KARACA KÖYÜ İLK OKULU",
+        "sandik_no": 1036,
+        "mahalle_id": "sinop-erfelek-karacakoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354220
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1036/sinop-erfelek-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354220
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

@@ -1,0 +1,592 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ALANKIYI MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-alankiyi-mah",
+        "oyveotesi_neighborhood_id": 20164
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ALANKÖY MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-alankoy-mah",
+        "oyveotesi_neighborhood_id": 20140
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ARIKBAŞI MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-arikbasi-mah",
+        "oyveotesi_neighborhood_id": 20145
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ATATÜRK MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-ataturk-mah",
+        "oyveotesi_neighborhood_id": 20172
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "BALCILAR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-balcilar-mah",
+        "oyveotesi_neighborhood_id": 20152
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "BIYIKLAR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-biyiklar-mah",
+        "oyveotesi_neighborhood_id": 20136
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "BURUNCUK MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-buruncuk-mah",
+        "oyveotesi_neighborhood_id": 20137
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "CAMİİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-camii-mah",
+        "oyveotesi_neighborhood_id": 20118
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ÇAMLIBEL MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-camlibel-mah",
+        "oyveotesi_neighborhood_id": 20121
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ÇENİKLER MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-cenikler-mah",
+        "oyveotesi_neighborhood_id": 20139
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ÇİFTÇİGEDİĞİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-ciftcigedigi-mah",
+        "oyveotesi_neighborhood_id": 20167
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ÇINARDİBİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-cinardibi-mah",
+        "oyveotesi_neighborhood_id": 20127
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ÇINAR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-cinar-mah",
+        "oyveotesi_neighborhood_id": 20163
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ÇIRPI CAMİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-cirpi-cami-mah",
+        "oyveotesi_neighborhood_id": 20171
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 20168
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "DEMİRCİLİK MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-demircilik-mah",
+        "oyveotesi_neighborhood_id": 20155
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-derekoy-mah",
+        "oyveotesi_neighborhood_id": 20148
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "DERNEKLİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-dernekli-mah",
+        "oyveotesi_neighborhood_id": 20119
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ELİFLİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-elifli-mah",
+        "oyveotesi_neighborhood_id": 20159
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ERGENLİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-ergenli-mah",
+        "oyveotesi_neighborhood_id": 20156
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-fatih-mah",
+        "oyveotesi_neighborhood_id": 20169
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "FIRINLI MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-firinli-mah",
+        "oyveotesi_neighborhood_id": 20120
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "GAZİLER MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-gaziler-mah",
+        "oyveotesi_neighborhood_id": 20162
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "HACI BEŞİR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-haci-besir-mah",
+        "oyveotesi_neighborhood_id": 20122
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "HACI İBRAHİM MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-haci-ibrahim-mah",
+        "oyveotesi_neighborhood_id": 20157
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "HASKÖY MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-haskoy-mah",
+        "oyveotesi_neighborhood_id": 20128
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "HATAY MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-hatay-mah",
+        "oyveotesi_neighborhood_id": 20129
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "HAVUZBAŞI MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-havuzbasi-mah",
+        "oyveotesi_neighborhood_id": 20130
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "HİSARLIK MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-hisarlik-mah",
+        "oyveotesi_neighborhood_id": 20116
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "İBRAHİMÇAVUŞ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-ibrahimcavus-mah",
+        "oyveotesi_neighborhood_id": 20132
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KABAAĞAÇ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-kabaagac-mah",
+        "oyveotesi_neighborhood_id": 20125
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KARAHALİLLİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-karahalilli-mah",
+        "oyveotesi_neighborhood_id": 20138
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KARAHAYIT MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-karahayit-mah",
+        "oyveotesi_neighborhood_id": 20117
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KARAPINAR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-karapinar-mah",
+        "oyveotesi_neighborhood_id": 20165
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KARAVELİLER MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-karaveliler-mah",
+        "oyveotesi_neighborhood_id": 20166
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KIZILCAAĞAÇ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-kizilcaagac-mah",
+        "oyveotesi_neighborhood_id": 20133
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KIZILCAOVA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-kizilcaova-mah",
+        "oyveotesi_neighborhood_id": 20134
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KIZILKEÇİLİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-kizilkecili-mah",
+        "oyveotesi_neighborhood_id": 20173
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KIZILOBA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-kiziloba-mah",
+        "oyveotesi_neighborhood_id": 20141
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "KURT MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-kurt-mah",
+        "oyveotesi_neighborhood_id": 20149
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "LÜTUFLAR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-lutuflar-mah",
+        "oyveotesi_neighborhood_id": 20146
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "MEKTEP MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-mektep-mah",
+        "oyveotesi_neighborhood_id": 20123
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "MİTHATPAŞA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-mithatpasa-mah",
+        "oyveotesi_neighborhood_id": 20160
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "NECATİ UZA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-necati-uza-mah",
+        "oyveotesi_neighborhood_id": 20153
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ORTA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-orta-mah",
+        "oyveotesi_neighborhood_id": 20161
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "OSMANLAR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-osmanlar-mah",
+        "oyveotesi_neighborhood_id": 20131
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "PINARLI MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-pinarli-mah",
+        "oyveotesi_neighborhood_id": 20126
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "SADIKPAŞA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-sadikpasa-mah",
+        "oyveotesi_neighborhood_id": 20147
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "SARIYURT MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-sariyurt-mah",
+        "oyveotesi_neighborhood_id": 20154
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "SÖĞÜTÖREN MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-sogutoren-mah",
+        "oyveotesi_neighborhood_id": 20170
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "TOKATBAŞI MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-tokatbasi-mah",
+        "oyveotesi_neighborhood_id": 20143
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "TURAN MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-turan-mah",
+        "oyveotesi_neighborhood_id": 20135
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "YAKACIK MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-yakacik-mah",
+        "oyveotesi_neighborhood_id": 20144
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "YAKAPINAR MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-yakapinar-mah",
+        "oyveotesi_neighborhood_id": 20150
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-yenice-mah",
+        "oyveotesi_neighborhood_id": 20142
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-yeni-mah",
+        "oyveotesi_neighborhood_id": 20151
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "YEŞİLOVA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-yesilova-mah",
+        "oyveotesi_neighborhood_id": 20174
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "YUSUFLU MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-yusuflu-mah",
+        "oyveotesi_neighborhood_id": 20124
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayindir",
+        "mahalle": "ZEYTİNOVA MAH.",
+        "ilce_adi": "BAYINDIR",
+        "mahalle_id": "izmir-bayindir-zeytinova-mah",
+        "oyveotesi_neighborhood_id": 20158
+    }
+]

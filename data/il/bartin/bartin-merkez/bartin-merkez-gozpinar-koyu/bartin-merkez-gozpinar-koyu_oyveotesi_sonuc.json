@@ -1,0 +1,100 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "GÖZPINAR KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "GÖZPINAR İLKOKULU",
+        "sandik_no": 1282,
+        "mahalle_id": "bartin-merkez-gozpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1282/bartin-merkez-1282-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500115",
+            "oyveotesi_sync_timestamp": 1684327898
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1282/bartin-merkez-1282-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500115",
+            "oyveotesi_sync_timestamp": 1684327898
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "GÖZPINAR KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "GÖZPINAR İLKOKULU",
+        "sandik_no": 1283,
+        "mahalle_id": "bartin-merkez-gozpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 73,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1283/bartin-merkez-1283-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500117",
+            "oyveotesi_sync_timestamp": 1684327898
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1283/bartin-merkez-1283-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500117",
+            "oyveotesi_sync_timestamp": 1684327898
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "SAMAT MAH.",
+        "ilce_adi": "ULUS",
+        "okul_adi": "SAMAT MAH.HASANDEDE İLKÖĞRETİM OKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "bartin-ulus-samat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328255
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 197
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1009/bartin-ulus-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328255
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "SAMAT MAH.",
+        "ilce_adi": "ULUS",
+        "okul_adi": "SAMAT MAH.HASANDEDE İLKÖĞRETİM OKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "bartin-ulus-samat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328255
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 113,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1008/bartin-ulus-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328255
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

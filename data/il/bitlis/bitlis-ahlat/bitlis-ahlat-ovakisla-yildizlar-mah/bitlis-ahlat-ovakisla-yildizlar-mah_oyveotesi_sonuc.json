@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-ahlat",
+        "mahalle": "OVAKIŞLA-YILDIZLAR MAH.",
+        "ilce_adi": "AHLAT",
+        "okul_adi": "OVAKIŞLA CUMHURİYET İLKOKULU/ORTAOKULU",
+        "sandik_no": 1062,
+        "mahalle_id": "bitlis-ahlat-ovakisla-yildizlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 206,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bitlis-tutanaklari/blob/main/tutanak/bitlis/bitlis-ahlat/1xxx/1062/bitlis-ahlat-1062-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331129
+        },
+        "secim_bolge_id": "bitlis"
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-ahlat",
+        "mahalle": "OVAKIŞLA-YILDIZLAR MAH.",
+        "ilce_adi": "AHLAT",
+        "okul_adi": "OVAKIŞLA CUMHURİYET İLKOKULU/ORTAOKULU",
+        "sandik_no": 1063,
+        "mahalle_id": "bitlis-ahlat-ovakisla-yildizlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 193,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bitlis-tutanaklari/blob/main/tutanak/bitlis/bitlis-ahlat/1xxx/1063/bitlis-ahlat-1063-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331129
+        },
+        "secim_bolge_id": "bitlis"
+    }
+]

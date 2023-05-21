@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "ÇUKURCA-OSMANLI MAH.",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "ÇUKURCA BELEDİYE DÜĞÜN SALONU",
+        "sandik_no": 1018,
+        "mahalle_id": "kutahya-domanic-cukurca-osmanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 133,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1018/kutahya-domanic-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "608100",
+            "oyveotesi_sync_timestamp": 1684350128
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1018/kutahya-domanic-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "608100",
+            "oyveotesi_sync_timestamp": 1684350128
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "ÇUKURCA-OSMANLI MAH.",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "ÇUKURCA BELEDİYE DÜĞÜN SALONU",
+        "sandik_no": 1019,
+        "mahalle_id": "kutahya-domanic-cukurca-osmanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350128
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1019/kutahya-domanic-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350128
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

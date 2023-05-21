@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "SARIBOĞA KÖYÜ",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "SARIBOĞA KÖY KONAĞI",
+        "sandik_no": 1046,
+        "mahalle_id": "sinop-erfelek-sariboga-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1046/sinop-erfelek-1046-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "372126",
+            "oyveotesi_sync_timestamp": 1684354207
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1046/sinop-erfelek-1046-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "372126",
+            "oyveotesi_sync_timestamp": 1684354207
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

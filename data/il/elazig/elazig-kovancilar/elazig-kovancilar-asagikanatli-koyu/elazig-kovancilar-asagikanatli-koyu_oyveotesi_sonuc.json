@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "AŞAĞIKANATLI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "okul_adi": "AŞAĞIKANATLI KÖYÜ (KÖY ODASI)",
+        "sandik_no": 1055,
+        "mahalle_id": "elazig-kovancilar-asagikanatli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 14,
+            "sayim_sonuc": {
+                "TOPLAM": 14,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1055/elazig-kovancilar-1055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172797",
+            "oyveotesi_sync_timestamp": 1684339140
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 15,
+            "sayim_sonuc": {
+                "TOPLAM": 15,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1055/elazig-kovancilar-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172797",
+            "oyveotesi_sync_timestamp": 1684339140
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

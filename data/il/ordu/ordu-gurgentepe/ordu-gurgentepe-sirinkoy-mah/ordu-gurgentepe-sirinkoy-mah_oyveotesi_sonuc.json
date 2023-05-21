@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-gurgentepe",
+        "mahalle": "ŞİRİNKÖY MAH.",
+        "ilce_adi": "GÜRGENTEPE",
+        "okul_adi": "ŞİRİNKÖY İLK OKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "ordu-gurgentepe-sirinkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360119
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 121,
+            "sayim_sonuc": {
+                "TOPLAM": 121,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-gurgentepe/1xxx/1032/ordu-gurgentepe-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360119
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

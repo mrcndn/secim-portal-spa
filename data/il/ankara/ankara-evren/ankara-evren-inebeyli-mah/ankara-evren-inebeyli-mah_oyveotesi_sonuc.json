@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-evren",
+        "mahalle": "İNEBEYLİ MAH.",
+        "ilce_adi": "EVREN",
+        "okul_adi": "İNEBEYLİ MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "ankara-evren-inebeyli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "İYİ PARTİ": 12,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "228703",
+            "oyveotesi_sync_timestamp": 1684393168
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "228703",
+            "oyveotesi_sync_timestamp": 1684393168
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

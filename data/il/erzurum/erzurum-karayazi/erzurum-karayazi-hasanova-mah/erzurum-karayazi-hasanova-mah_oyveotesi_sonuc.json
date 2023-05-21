@@ -1,0 +1,67 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-karayazi",
+        "mahalle": "HASANOVA MAH.",
+        "ilce_adi": "KARAYAZI",
+        "okul_adi": "HASANOVA MAHALESİ OKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "erzurum-karayazi-hasanova-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 48,
+            "sayim_sonuc": {
+                "TOPLAM": 48,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-karayazi/1xxx/1040/erzurum-karayazi-1040-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "187454",
+            "oyveotesi_sync_timestamp": 1684340715
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-karayazi/1xxx/1040/erzurum-karayazi-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "187454",
+            "oyveotesi_sync_timestamp": 1684340715
+        },
+        "secim_bolge_id": "erzurum"
+    },
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-karayazi",
+        "mahalle": "HASANOVA MAH.",
+        "ilce_adi": "KARAYAZI",
+        "okul_adi": "HASANOVA-ALTINTAHT MEZRASI OKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "erzurum-karayazi-hasanova-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340715
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340715
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-abana",
+        "mahalle": "AKÇAM KÖYÜ",
+        "ilce_adi": "ABANA",
+        "okul_adi": "AKÇAM BAYRAM YERİ",
+        "sandik_no": 1013,
+        "mahalle_id": "kastamonu-abana-akcam-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "İYİ PARTİ": 3,
+                "ADALET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-abana/1xxx/1013/kastamonu-abana-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "441476",
+            "oyveotesi_sync_timestamp": 1684347181
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 86,
+            "sayim_sonuc": {
+                "TOPLAM": 86,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-abana/1xxx/1013/kastamonu-abana-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "441476",
+            "oyveotesi_sync_timestamp": 1684347181
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

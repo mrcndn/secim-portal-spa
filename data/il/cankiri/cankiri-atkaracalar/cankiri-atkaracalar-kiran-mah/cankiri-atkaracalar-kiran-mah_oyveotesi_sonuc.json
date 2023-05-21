@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-atkaracalar",
+        "mahalle": "KIRAN MAH.",
+        "ilce_adi": "ATKARACALAR",
+        "okul_adi": "KIRAN MAH. CUMHURİYET ORTAOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "cankiri-atkaracalar-kiran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336216
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 202
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-atkaracalar/1xxx/1006/cankiri-atkaracalar-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336216
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

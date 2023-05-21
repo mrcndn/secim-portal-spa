@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "ERDOĞAN KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "YURTTUTAN KÖYÜ HAMURPET İLKÖĞRETİM OKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "mus-varto-erdogan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1047/mus-varto-1047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "180762",
+            "oyveotesi_sync_timestamp": 1684393677
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 137,
+                "RECEP TAYYİP ERDOĞAN": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1047/mus-varto-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "180762",
+            "oyveotesi_sync_timestamp": 1684393677
+        },
+        "secim_bolge_id": "mus"
+    }
+]

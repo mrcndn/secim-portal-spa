@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-merkez",
+        "mahalle": "YUKARIKÜPKIRAN KÖYÜ",
+        "ilce_adi": "AĞRI MERKEZ",
+        "okul_adi": "YUKARIKÜPKIRAN KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1310,
+        "mahalle_id": "agri-merkez-yukarikupkiran-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326766
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 210,
+                "RECEP TAYYİP ERDOĞAN": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-merkez/1xxx/1310/agri-merkez-1310-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326766
+        },
+        "secim_bolge_id": "agri"
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-merkez",
+        "mahalle": "YUKARIKÜPKIRAN KÖYÜ",
+        "ilce_adi": "AĞRI MERKEZ",
+        "okul_adi": "YUKARIKÜPKIRAN KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1311,
+        "mahalle_id": "agri-merkez-yukarikupkiran-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326766
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326766
+        },
+        "secim_bolge_id": "agri"
+    }
+]

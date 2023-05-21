@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "ERENLER MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "ERENLER KÖYÜ KAHVESİ",
+        "sandik_no": 1065,
+        "mahalle_id": "istanbul-sile-erenler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 8,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 43,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "429553",
+            "oyveotesi_sync_timestamp": 1684345104
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 62
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "429553",
+            "oyveotesi_sync_timestamp": 1684345104
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

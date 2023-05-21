@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-horasan",
+        "mahalle": "MOLLAAHMET MAH.",
+        "ilce_adi": "HORASAN",
+        "okul_adi": "MOLLA AHMET İLKOKULU",
+        "sandik_no": 1088,
+        "mahalle_id": "erzurum-horasan-mollaahmet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340525
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 100
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-horasan/1xxx/1088/erzurum-horasan-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340525
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

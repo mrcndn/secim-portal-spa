@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "EMİRFAKI KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "EMİRFAKI KÖY İLKOKULU",
+        "sandik_no": 1508,
+        "mahalle_id": "usak-merkez-emirfaki-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1508/usak-merkez-1508-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536259",
+            "oyveotesi_sync_timestamp": 1684369679
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 120,
+            "sayim_sonuc": {
+                "TOPLAM": 120,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 58
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1508/usak-merkez-1508-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536259",
+            "oyveotesi_sync_timestamp": 1684369679
+        },
+        "secim_bolge_id": "usak"
+    }
+]

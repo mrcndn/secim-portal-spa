@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "KANLIGÜNEY MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "KANLIGÜNEY İLKOKULU",
+        "sandik_no": 1237,
+        "mahalle_id": "samsun-bafra-kanliguney-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1237/samsun-bafra-1237-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "799680",
+            "oyveotesi_sync_timestamp": 1684367607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "799680",
+            "oyveotesi_sync_timestamp": 1684367607
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

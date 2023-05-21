@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-hayrat",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "HAYRAT",
+        "okul_adi": "MERKEZ MİLLİEĞİTİM MÜDÜRLÜĞÜ KÜTÜPHANE",
+        "sandik_no": 1023,
+        "mahalle_id": "trabzon-hayrat-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 169,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-hayrat/1xxx/1023/trabzon-hayrat-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "643395",
+            "oyveotesi_sync_timestamp": 1684366058
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 232
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-hayrat/1xxx/1023/trabzon-hayrat-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "643395",
+            "oyveotesi_sync_timestamp": 1684366058
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

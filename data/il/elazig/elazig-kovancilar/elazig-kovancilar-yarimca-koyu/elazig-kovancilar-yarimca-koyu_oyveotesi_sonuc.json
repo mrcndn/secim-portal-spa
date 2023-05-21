@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YARIMCA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "okul_adi": "YARIMCA ŞEHİT RAŞİT ERCAN İLKOKULU",
+        "sandik_no": 1120,
+        "mahalle_id": "elazig-kovancilar-yarimca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339222
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 245
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1120/elazig-kovancilar-1120-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339222
+        },
+        "secim_bolge_id": "elazig"
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YARIMCA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "okul_adi": "YARIMCA ŞEHİT RAŞİT ERCAN İLKOKULU",
+        "sandik_no": 1119,
+        "mahalle_id": "elazig-kovancilar-yarimca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339222
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 227
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1119/elazig-kovancilar-1119-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339222
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "nevsehir",
+        "il_adi": "NEVŞEHİR",
+        "il_kodu": 50,
+        "ilce_id": "nevsehir-hacibektas",
+        "mahalle": "İLİCEK KÖYÜ",
+        "ilce_adi": "HACIBEKTAŞ",
+        "okul_adi": "İLİCEK İLKOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "nevsehir-hacibektas-ilicek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "İYİ PARTİ": 16,
+                "CUMHURİYET HALK PARTİSİ": 155,
+                "ADALET VE KALKINMA PARTİSİ": 12,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nevsehir-tutanaklari/blob/main/tutanak/nevsehir/nevsehir-hacibektas/1xxx/1028/nevsehir-hacibektas-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174704",
+            "oyveotesi_sync_timestamp": 1684354154
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "KEMAL KILIÇDAROĞLU": 175,
+                "RECEP TAYYİP ERDOĞAN": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nevsehir-tutanaklari/blob/main/tutanak/nevsehir/nevsehir-hacibektas/1xxx/1028/nevsehir-hacibektas-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174704",
+            "oyveotesi_sync_timestamp": 1684354154
+        },
+        "secim_bolge_id": "nevsehir"
+    }
+]

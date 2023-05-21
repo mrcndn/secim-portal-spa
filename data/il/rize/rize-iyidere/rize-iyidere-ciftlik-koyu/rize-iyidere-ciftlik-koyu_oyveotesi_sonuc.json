@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-iyidere",
+        "mahalle": "ÇİFTLİK KÖYÜ",
+        "ilce_adi": "İYİDERE",
+        "okul_adi": "ÇİFTLİK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "rize-iyidere-ciftlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356283
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356283
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-iyidere",
+        "mahalle": "ÇİFTLİK KÖYÜ",
+        "ilce_adi": "İYİDERE",
+        "okul_adi": "ÇİFTLİK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "rize-iyidere-ciftlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356283
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 183
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-iyidere/1xxx/1019/rize-iyidere-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356283
+        },
+        "secim_bolge_id": "rize"
+    }
+]

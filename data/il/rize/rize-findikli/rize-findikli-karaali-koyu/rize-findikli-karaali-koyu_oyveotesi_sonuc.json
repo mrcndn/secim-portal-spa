@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-findikli",
+        "mahalle": "KARAALİ KÖYÜ",
+        "ilce_adi": "FINDIKLI",
+        "okul_adi": "KARAALİ KÖYÜ KÖY LOJMANI",
+        "sandik_no": 1044,
+        "mahalle_id": "rize-findikli-karaali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 18,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1044/rize-findikli-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "702421",
+            "oyveotesi_sync_timestamp": 1684356378
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1044/rize-findikli-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "702421",
+            "oyveotesi_sync_timestamp": 1684356378
+        },
+        "secim_bolge_id": "rize"
+    }
+]

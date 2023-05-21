@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-karahalli",
+        "mahalle": "COĞUPLU KÖYÜ",
+        "ilce_adi": "KARAHALLI",
+        "okul_adi": "COĞUPLU KÖY KONAĞI",
+        "sandik_no": 1018,
+        "mahalle_id": "usak-karahalli-coguplu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 46,
+            "sayim_sonuc": {
+                "TOPLAM": 46,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 12,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-karahalli/1xxx/1018/usak-karahalli-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504701",
+            "oyveotesi_sync_timestamp": 1684369858
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 44,
+            "sayim_sonuc": {
+                "TOPLAM": 44,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-karahalli/1xxx/1018/usak-karahalli-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504701",
+            "oyveotesi_sync_timestamp": 1684369858
+        },
+        "secim_bolge_id": "usak"
+    }
+]

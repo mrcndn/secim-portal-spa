@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-luleburgaz",
+        "mahalle": "EVRENSEKİZ-KIRCAALİ MAH.",
+        "ilce_adi": "LÜLEBURGAZ",
+        "okul_adi": "E-SEKİZ-KIRCAALİ MAH./ORTAOKULU",
+        "sandik_no": 1304,
+        "mahalle_id": "kirklareli-luleburgaz-evrensekiz-kircaali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 352,
+            "sayim_sonuc": {
+                "TOPLAM": 352,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 249,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1304/kirklareli-luleburgaz-1304-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348730
+        },
+        "secim_bolge_id": "kirklareli"
+    },
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-luleburgaz",
+        "mahalle": "EVRENSEKİZ-KIRCAALİ MAH.",
+        "ilce_adi": "LÜLEBURGAZ",
+        "okul_adi": "E-SEKİZ-KIRCAALİ MAH./ORTAOKULU",
+        "sandik_no": 1303,
+        "mahalle_id": "kirklareli-luleburgaz-evrensekiz-kircaali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 233,
+                "RECEP TAYYİP ERDOĞAN": 81
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1303/kirklareli-luleburgaz-1303-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348730
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

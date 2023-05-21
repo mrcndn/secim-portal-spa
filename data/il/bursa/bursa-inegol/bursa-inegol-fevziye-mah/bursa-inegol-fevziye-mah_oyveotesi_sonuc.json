@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "FEVZİYE MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "FEVZİYE KÖY KONAĞI",
+        "sandik_no": 1037,
+        "mahalle_id": "bursa-inegol-fevziye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "İYİ PARTİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "191121",
+            "oyveotesi_sync_timestamp": 1684334663
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 110,
+            "sayim_sonuc": {
+                "TOPLAM": 110,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "191121",
+            "oyveotesi_sync_timestamp": 1684334663
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

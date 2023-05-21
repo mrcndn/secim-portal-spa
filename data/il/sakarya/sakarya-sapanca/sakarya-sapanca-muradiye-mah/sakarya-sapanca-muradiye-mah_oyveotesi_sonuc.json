@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-sapanca",
+        "mahalle": "MURADİYE MAH.",
+        "ilce_adi": "SAPANCA",
+        "okul_adi": "MURADİYE MAHALLE KONAĞI",
+        "sandik_no": 1078,
+        "mahalle_id": "sakarya-sapanca-muradiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 71,
+            "sayim_sonuc": {
+                "TOPLAM": 71,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 38,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-sapanca/1xxx/1078/sakarya-sapanca-1078-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463684",
+            "oyveotesi_sync_timestamp": 1684357655
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-sapanca/1xxx/1078/sakarya-sapanca-1078-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463684",
+            "oyveotesi_sync_timestamp": 1684357655
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

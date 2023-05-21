@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-korgun",
+        "mahalle": "KAYIÇİVİ KÖYÜ",
+        "ilce_adi": "KORGUN",
+        "okul_adi": "KAYIÇİVİ KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1015,
+        "mahalle_id": "cankiri-korgun-kayicivi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 76,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-korgun/1xxx/1015/cankiri-korgun-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1025143",
+            "oyveotesi_sync_timestamp": 1684336588
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 100
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-korgun/1xxx/1015/cankiri-korgun-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1025143",
+            "oyveotesi_sync_timestamp": 1684336588
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

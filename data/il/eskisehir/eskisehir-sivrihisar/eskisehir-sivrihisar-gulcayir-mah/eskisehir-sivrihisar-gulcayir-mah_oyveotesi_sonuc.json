@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "GÜLÇAYIR MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "GÜLÇAYIR MAHALLE ODASI",
+        "sandik_no": 1031,
+        "mahalle_id": "eskisehir-sivrihisar-gulcayir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341806
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 48,
+            "sayim_sonuc": {
+                "TOPLAM": 48,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1031/eskisehir-sivrihisar-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341806
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

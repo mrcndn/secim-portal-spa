@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-antakya",
+        "mahalle": "KOCAABDİ MAH.",
+        "ilce_adi": "ANTAKYA",
+        "okul_adi": "KOCA ABDİ MAH BAHÇESİ",
+        "sandik_no": 1204,
+        "mahalle_id": "hatay-antakya-kocaabdi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-antakya/1xxx/1204/hatay-antakya-1204-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832683",
+            "oyveotesi_sync_timestamp": 1684375450
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-antakya/1xxx/1204/hatay-antakya-1204-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832683",
+            "oyveotesi_sync_timestamp": 1684375450
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

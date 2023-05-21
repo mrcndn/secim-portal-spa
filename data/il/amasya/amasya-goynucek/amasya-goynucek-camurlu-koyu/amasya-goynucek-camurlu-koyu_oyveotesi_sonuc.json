@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "ÇAMURLU KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "ÇAMURLU KÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "amasya-goynucek-camurlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 24,
+            "sayim_sonuc": {
+                "TOPLAM": 24,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1016/amasya-goynucek-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026867",
+            "oyveotesi_sync_timestamp": 1684325175
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 24,
+            "sayim_sonuc": {
+                "TOPLAM": 24,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1016/amasya-goynucek-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026867",
+            "oyveotesi_sync_timestamp": 1684325175
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

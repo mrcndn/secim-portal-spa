@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-kemah",
+        "mahalle": "AKTAŞ KÖYÜ",
+        "ilce_adi": "KEMAH",
+        "okul_adi": "AKTAŞKÖYÜ OKUL BİNASI",
+        "sandik_no": 1016,
+        "mahalle_id": "erzincan-kemah-aktas-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 21,
+            "sayim_sonuc": {
+                "TOPLAM": 21,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-kemah/1xxx/1016/erzincan-kemah-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179507",
+            "oyveotesi_sync_timestamp": 1684339670
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 21,
+            "sayim_sonuc": {
+                "TOPLAM": 21,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-kemah/1xxx/1016/erzincan-kemah-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179507",
+            "oyveotesi_sync_timestamp": 1684339670
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "ADATOPRAKPINAR MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "ADATOPRAKPINAR MAH.İLKOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "ankara-polatli-adatoprakpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395473
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395473
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

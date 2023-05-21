@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-merkez",
+        "mahalle": "CEVDETİYE-KOCATEPE MAH.",
+        "ilce_adi": "OSMANİYE MERKEZ",
+        "okul_adi": "CEVDETİYE-KOCATTEPE MAH-Ç.P.AND. LİSESİ",
+        "sandik_no": 1459,
+        "mahalle_id": "osmaniye-merkez-cevdetiye-kocatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1459/osmaniye-merkez-1459-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375129
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-merkez",
+        "mahalle": "CEVDETİYE-KOCATEPE MAH.",
+        "ilce_adi": "OSMANİYE MERKEZ",
+        "okul_adi": "CEVDETİYE-KOCATTEPE MAH-Ç.P.AND. LİSESİ",
+        "sandik_no": 1458,
+        "mahalle_id": "osmaniye-merkez-cevdetiye-kocatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1458/osmaniye-merkez-1458-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375129
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

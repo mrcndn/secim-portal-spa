@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-kocaali",
+        "mahalle": "GÜMÜŞOLUK MAH.",
+        "ilce_adi": "KOCAALİ",
+        "okul_adi": "GÜMÜŞOLUK ORTAOKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "sakarya-kocaali-gumusoluk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357260
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1023/sakarya-kocaali-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357260
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-kocaali",
+        "mahalle": "GÜMÜŞOLUK MAH.",
+        "ilce_adi": "KOCAALİ",
+        "okul_adi": "GÜMÜŞOLUK ORTAOKULU",
+        "sandik_no": 1024,
+        "mahalle_id": "sakarya-kocaali-gumusoluk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1024/sakarya-kocaali-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568531",
+            "oyveotesi_sync_timestamp": 1684357260
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 200
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1024/sakarya-kocaali-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568531",
+            "oyveotesi_sync_timestamp": 1684357260
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

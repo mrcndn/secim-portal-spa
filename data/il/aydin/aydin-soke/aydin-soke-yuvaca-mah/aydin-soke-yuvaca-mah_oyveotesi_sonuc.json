@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-soke",
+        "mahalle": "YUVACA MAH.",
+        "ilce_adi": "SÖKE",
+        "okul_adi": "YUVACA MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1280,
+        "mahalle_id": "aydin-soke-yuvaca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394580
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394580
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-soke",
+        "mahalle": "YUVACA MAH.",
+        "ilce_adi": "SÖKE",
+        "okul_adi": "YUVACA MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1281,
+        "mahalle_id": "aydin-soke-yuvaca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394580
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-soke/1xxx/1281/aydin-soke-1281-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394580
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

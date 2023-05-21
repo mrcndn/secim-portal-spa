@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "BELEN MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "BELEN İLKOKULU (BELEN MAHALLESİ)",
+        "sandik_no": 1005,
+        "mahalle_id": "ordu-kabatas-belen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360454
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1005/ordu-kabatas-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360454
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "BELEN MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "BELEN İLKOKULU (BELEN MAHALLESİ)",
+        "sandik_no": 1006,
+        "mahalle_id": "ordu-kabatas-belen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360454
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360454
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

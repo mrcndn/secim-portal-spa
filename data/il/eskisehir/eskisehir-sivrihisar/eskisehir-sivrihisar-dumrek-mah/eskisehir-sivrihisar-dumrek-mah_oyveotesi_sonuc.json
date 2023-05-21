@@ -1,0 +1,93 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "DÜMREK MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "DÜMREK MAH.İLK.Ö.O",
+        "sandik_no": 1024,
+        "mahalle_id": "eskisehir-sivrihisar-dumrek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "İYİ PARTİ": 36,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1024/eskisehir-sivrihisar-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "766483",
+            "oyveotesi_sync_timestamp": 1684341799
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1024/eskisehir-sivrihisar-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "766483",
+            "oyveotesi_sync_timestamp": 1684341799
+        },
+        "secim_bolge_id": "eskisehir"
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "DÜMREK MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "DÜMREK MAH.İLK.Ö.O",
+        "sandik_no": 1023,
+        "mahalle_id": "eskisehir-sivrihisar-dumrek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 7,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "ADALET VE KALKINMA PARTİSİ": 115,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1023/eskisehir-sivrihisar-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "260585",
+            "oyveotesi_sync_timestamp": 1684341799
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1023/eskisehir-sivrihisar-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "260585",
+            "oyveotesi_sync_timestamp": 1684341799
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

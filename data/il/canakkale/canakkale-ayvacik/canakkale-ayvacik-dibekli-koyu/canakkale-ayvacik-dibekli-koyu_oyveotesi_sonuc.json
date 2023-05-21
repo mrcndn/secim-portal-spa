@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ayvacik",
+        "mahalle": "DİBEKLİ KÖYÜ",
+        "ilce_adi": "AYVACIK",
+        "okul_adi": "DİBEKLİ KÖYÜ KÖY ODASI",
+        "sandik_no": 1080,
+        "mahalle_id": "canakkale-ayvacik-dibekli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ayvacik/1xxx/1080/canakkale-ayvacik-1080-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828727",
+            "oyveotesi_sync_timestamp": 1684335646
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ayvacik/1xxx/1080/canakkale-ayvacik-1080-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828727",
+            "oyveotesi_sync_timestamp": 1684335646
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

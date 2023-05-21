@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "MÜLKKÖY MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "MÜLK MAHALLESİ İ.Ö.O.",
+        "sandik_no": 1073,
+        "mahalle_id": "eskisehir-sivrihisar-mulkkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341838
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1073/eskisehir-sivrihisar-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341838
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

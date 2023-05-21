@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DÖNGELLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "okul_adi": "DÖNGELLER KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1054,
+        "mahalle_id": "bartin-ulus-dongeller-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1054/bartin-ulus-1054-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "455240",
+            "oyveotesi_sync_timestamp": 1684328188
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1054/bartin-ulus-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "455240",
+            "oyveotesi_sync_timestamp": 1684328188
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

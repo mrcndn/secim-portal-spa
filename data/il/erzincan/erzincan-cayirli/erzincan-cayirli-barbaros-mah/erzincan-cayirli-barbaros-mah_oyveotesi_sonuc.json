@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-cayirli",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "ÇAYIRLI",
+        "okul_adi": "ZİYA GÖKALP İLKÖĞRETİM OKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "erzincan-cayirli-barbaros-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339406
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 241
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-cayirli/1xxx/1006/erzincan-cayirli-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339406
+        },
+        "secim_bolge_id": "erzincan"
+    },
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-cayirli",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "ÇAYIRLI",
+        "okul_adi": "ZİYA GÖKALP İLKÖĞRETİM OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "erzincan-cayirli-barbaros-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339406
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 233
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-cayirli/1xxx/1005/erzincan-cayirli-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339406
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

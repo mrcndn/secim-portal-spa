@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-altintas",
+        "mahalle": "ÇAYIRBAŞI KÖYÜ",
+        "ilce_adi": "ALTINTAŞ",
+        "okul_adi": "ÇAYIRBAŞI KÖYÜ-İÖ.O",
+        "sandik_no": 1024,
+        "mahalle_id": "kutahya-altintas-cayirbasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347506
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-altintas/1xxx/1024/kutahya-altintas-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347506
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-altintas",
+        "mahalle": "ÇAYIRBAŞI KÖYÜ",
+        "ilce_adi": "ALTINTAŞ",
+        "okul_adi": "ÇAYIRBAŞI KÖYÜ-İÖ.O",
+        "sandik_no": 1023,
+        "mahalle_id": "kutahya-altintas-cayirbasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 19,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 135,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-altintas/1xxx/1023/kutahya-altintas-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "597367",
+            "oyveotesi_sync_timestamp": 1684347506
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 195
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-altintas/1xxx/1023/kutahya-altintas-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "597367",
+            "oyveotesi_sync_timestamp": 1684347506
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

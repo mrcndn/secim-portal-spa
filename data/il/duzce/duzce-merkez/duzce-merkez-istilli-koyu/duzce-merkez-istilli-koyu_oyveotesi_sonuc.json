@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "İSTİLLİ KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "İSTİLLİ KÖYÜ KÖY ORTAOKULU",
+        "sandik_no": 1476,
+        "mahalle_id": "duzce-merkez-istilli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338083
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 178
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1476/duzce-merkez-1476-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338083
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "İSTİLLİ KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "İSTİLLİ KÖYÜ KÖY ORTAOKULU",
+        "sandik_no": 1477,
+        "mahalle_id": "duzce-merkez-istilli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1477/duzce-merkez-1477-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "396086",
+            "oyveotesi_sync_timestamp": 1684338083
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1477/duzce-merkez-1477-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "396086",
+            "oyveotesi_sync_timestamp": 1684338083
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

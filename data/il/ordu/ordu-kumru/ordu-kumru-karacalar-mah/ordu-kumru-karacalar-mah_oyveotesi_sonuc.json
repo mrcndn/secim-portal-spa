@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kumru",
+        "mahalle": "KARACALAR MAH.",
+        "ilce_adi": "KUMRU",
+        "okul_adi": "KARACALAR MAH. İLKOKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "ordu-kumru-karacalar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kumru/1xxx/1044/ordu-kumru-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "654011",
+            "oyveotesi_sync_timestamp": 1684360151
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kumru/1xxx/1044/ordu-kumru-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "654011",
+            "oyveotesi_sync_timestamp": 1684360151
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kumru",
+        "mahalle": "KARACALAR MAH.",
+        "ilce_adi": "KUMRU",
+        "okul_adi": "KARACALAR MAH. İLKOKULU",
+        "sandik_no": 1045,
+        "mahalle_id": "ordu-kumru-karacalar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360151
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360151
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

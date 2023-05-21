@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "TÜRKMENLİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "TÜRKMENLİ ORTAOKULU",
+        "sandik_no": 1102,
+        "mahalle_id": "canakkale-bayramic-turkmenli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335762
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1102/canakkale-bayramic-1102-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335762
+        },
+        "secim_bolge_id": "canakkale"
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "TÜRKMENLİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "TÜRKMENLİ ORTAOKULU",
+        "sandik_no": 1103,
+        "mahalle_id": "canakkale-bayramic-turkmenli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 28,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 128,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1103/canakkale-bayramic-1103-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "271449",
+            "oyveotesi_sync_timestamp": 1684335762
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 160,
+                "RECEP TAYYİP ERDOĞAN": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1103/canakkale-bayramic-1103-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "271449",
+            "oyveotesi_sync_timestamp": 1684335762
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

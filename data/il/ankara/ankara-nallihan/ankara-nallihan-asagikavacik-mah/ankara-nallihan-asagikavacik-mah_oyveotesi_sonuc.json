@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "AŞAĞIKAVACIK MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "AŞAĞIKAVACIK MAHALLESİ KONAĞI",
+        "sandik_no": 1017,
+        "mahalle_id": "ankara-nallihan-asagikavacik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 47,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "815641",
+            "oyveotesi_sync_timestamp": 1684376138
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 40,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "815641",
+            "oyveotesi_sync_timestamp": 1684376138
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

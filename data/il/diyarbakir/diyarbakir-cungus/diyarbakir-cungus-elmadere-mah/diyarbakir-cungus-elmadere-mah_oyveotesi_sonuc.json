@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-cungus",
+        "mahalle": "ELMADERE MAH.",
+        "ilce_adi": "ÇÜNGÜŞ",
+        "okul_adi": "ELMADERE İLKÖĞRETİM OKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "diyarbakir-cungus-elmadere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "İYİ PARTİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-cungus/1xxx/1017/diyarbakir-cungus-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177195",
+            "oyveotesi_sync_timestamp": 1684337168
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-cungus/1xxx/1017/diyarbakir-cungus-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177195",
+            "oyveotesi_sync_timestamp": 1684337168
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

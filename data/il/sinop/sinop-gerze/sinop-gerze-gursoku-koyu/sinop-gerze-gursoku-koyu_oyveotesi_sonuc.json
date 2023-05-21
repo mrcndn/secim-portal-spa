@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "GÜRSÖKÜ KÖYÜ",
+        "ilce_adi": "GERZE",
+        "okul_adi": "GÜRSÖKÜ KÖYÜ KADI MAH. İLKOKULU ESKİ",
+        "sandik_no": 1059,
+        "mahalle_id": "sinop-gerze-gursoku-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353895
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1059/sinop-gerze-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353895
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

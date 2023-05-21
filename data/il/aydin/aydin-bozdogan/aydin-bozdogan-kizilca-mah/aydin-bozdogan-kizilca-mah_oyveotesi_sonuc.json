@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-bozdogan",
+        "mahalle": "KIZILCA MAH.",
+        "ilce_adi": "BOZDOĞAN",
+        "okul_adi": "KIZILCA İLKOKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "aydin-bozdogan-kizilca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394132
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 204
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-bozdogan/1xxx/1055/aydin-bozdogan-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394132
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-bozdogan",
+        "mahalle": "KIZILCA MAH.",
+        "ilce_adi": "BOZDOĞAN",
+        "okul_adi": "KIZILCA İLKOKULU",
+        "sandik_no": 1054,
+        "mahalle_id": "aydin-bozdogan-kizilca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 239,
+            "sayim_sonuc": {
+                "TOPLAM": 239,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 129,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-bozdogan/1xxx/1054/aydin-bozdogan-1054-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "589447",
+            "oyveotesi_sync_timestamp": 1684394132
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-bozdogan/1xxx/1054/aydin-bozdogan-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "589447",
+            "oyveotesi_sync_timestamp": 1684394132
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

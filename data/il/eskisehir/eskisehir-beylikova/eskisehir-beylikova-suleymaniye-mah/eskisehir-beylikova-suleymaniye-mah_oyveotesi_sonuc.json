@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-beylikova",
+        "mahalle": "SÜLEYMANİYE MAH.",
+        "ilce_adi": "BEYLİKOVA",
+        "okul_adi": "SÜLEYMANİYE MAHALLE KONAĞI",
+        "sandik_no": 1019,
+        "mahalle_id": "eskisehir-beylikova-suleymaniye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "İYİ PARTİ": 6,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1019/eskisehir-beylikova-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "595968",
+            "oyveotesi_sync_timestamp": 1684341440
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 62,
+            "sayim_sonuc": {
+                "TOPLAM": 62,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1019/eskisehir-beylikova-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "595968",
+            "oyveotesi_sync_timestamp": 1684341440
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

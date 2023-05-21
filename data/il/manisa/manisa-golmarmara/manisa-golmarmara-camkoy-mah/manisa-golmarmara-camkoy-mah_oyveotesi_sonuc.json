@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "ÇAMKÖY MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "ÇAMKÖY MAHALLESİ İLKOKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "manisa-golmarmara-camkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397019
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 107,
+            "sayim_sonuc": {
+                "TOPLAM": 107,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1011/manisa-golmarmara-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397019
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

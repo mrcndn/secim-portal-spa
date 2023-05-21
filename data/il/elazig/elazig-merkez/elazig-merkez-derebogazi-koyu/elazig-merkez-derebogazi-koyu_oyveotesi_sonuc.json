@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-merkez",
+        "mahalle": "DEREBOĞAZI KÖYÜ",
+        "ilce_adi": "ELAZIĞ MERKEZ",
+        "okul_adi": "DEREBOĞAZI KÖYÜ SOSYAL TESİSİ",
+        "sandik_no": 2433,
+        "mahalle_id": "elazig-merkez-derebogazi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 84,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-merkez/2xxx/2433/elazig-merkez-2433-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "234469",
+            "oyveotesi_sync_timestamp": 1684338850
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-merkez/2xxx/2433/elazig-merkez-2433-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "234469",
+            "oyveotesi_sync_timestamp": 1684338850
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

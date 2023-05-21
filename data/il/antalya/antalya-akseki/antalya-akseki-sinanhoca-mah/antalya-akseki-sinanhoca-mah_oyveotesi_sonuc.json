@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-akseki",
+        "mahalle": "SİNANHOCA MAH.",
+        "ilce_adi": "AKSEKİ",
+        "okul_adi": "SİNANHOCA MAHALLE KONAĞI",
+        "sandik_no": 1053,
+        "mahalle_id": "antalya-akseki-sinanhoca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-akseki/1xxx/1053/antalya-akseki-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536749",
+            "oyveotesi_sync_timestamp": 1684325516
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 101
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-akseki/1xxx/1053/antalya-akseki-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536749",
+            "oyveotesi_sync_timestamp": 1684325516
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

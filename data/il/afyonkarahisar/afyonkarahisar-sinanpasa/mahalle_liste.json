@@ -1,0 +1,812 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "BAŞKİMSE KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-baskimse-koyu",
+        "oyveotesi_neighborhood_id": 2042
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-ÇİĞİLTEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-cigiltepe-mah",
+        "oyveotesi_neighborhood_id": 2036
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-DİBEKBAŞI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-dibekbasi-mah",
+        "oyveotesi_neighborhood_id": 2023
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-GÖLCÜK MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-golcuk-mah",
+        "oyveotesi_neighborhood_id": 2026
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-HALKALI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-halkali-mah",
+        "oyveotesi_neighborhood_id": 2061
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-KÜÇÜKTEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-kucuktepe-mah",
+        "oyveotesi_neighborhood_id": 2072
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-YUKARI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-yukari-mah",
+        "oyveotesi_neighborhood_id": 2066
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AKÇAŞAR KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-akcasar-koyu",
+        "oyveotesi_neighborhood_id": 2078
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AKDEĞİRMEN KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-akdegirmen-koyu",
+        "oyveotesi_neighborhood_id": 2043
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AKÖREN-BAĞDAT MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-akoren-bagdat-mah",
+        "oyveotesi_neighborhood_id": 2031
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AKÖREN-FATİH MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-akoren-fatih-mah",
+        "oyveotesi_neighborhood_id": 2018
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AKÖREN-YILDIRIM BEYAZIT MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-akoren-yildirim-beyazit-mah",
+        "oyveotesi_neighborhood_id": 2012
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-akpinar-mah",
+        "oyveotesi_neighborhood_id": 2044
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "ALİ ÇETİNKAYA MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ali-cetinkaya-mah",
+        "oyveotesi_neighborhood_id": 2079
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AYVALI KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ayvali-koyu",
+        "oyveotesi_neighborhood_id": 2041
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 2045
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "BALMAHMUT KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-balmahmut-koyu",
+        "oyveotesi_neighborhood_id": 2048
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "BOYALI KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-boyali-koyu",
+        "oyveotesi_neighborhood_id": 2046
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "BULCA KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-bulca-koyu",
+        "oyveotesi_neighborhood_id": 2037
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "ÇATKUYU KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-catkuyu-koyu",
+        "oyveotesi_neighborhood_id": 2035
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "ÇAYHİSAR KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-cayhisar-koyu",
+        "oyveotesi_neighborhood_id": 2025
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "ÇİĞİLTEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-cigiltepe-mah",
+        "oyveotesi_neighborhood_id": 2060
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "ÇOBANÖZÜ KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-cobanozu-koyu",
+        "oyveotesi_neighborhood_id": 2086
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 2013
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "DÜZAĞAÇ-CUMHURİYET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-duzagac-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 2019
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "DÜZAĞAÇ-FATİH MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-duzagac-fatih-mah",
+        "oyveotesi_neighborhood_id": 2024
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "DÜZAĞAÇ-IŞIK MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-duzagac-isik-mah",
+        "oyveotesi_neighborhood_id": 2052
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "DÜZAĞAÇ-ZAFER MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-duzagac-zafer-mah",
+        "oyveotesi_neighborhood_id": 2020
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "ELVANPAŞA KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-elvanpasa-koyu",
+        "oyveotesi_neighborhood_id": 2053
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "EYİCE KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-eyice-koyu",
+        "oyveotesi_neighborhood_id": 2080
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-fatih-mah",
+        "oyveotesi_neighborhood_id": 2014
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "GARİPCE KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-garipce-koyu",
+        "oyveotesi_neighborhood_id": 2062
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "GEZLER KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-gezler-koyu",
+        "oyveotesi_neighborhood_id": 2027
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "GÜNEY-AŞAĞI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-guney-asagi-mah",
+        "oyveotesi_neighborhood_id": 49424
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "GÜNEY-ÇALIŞLAR MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-guney-calislar-mah",
+        "oyveotesi_neighborhood_id": 50032
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "GÜNEY-ORTA MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-guney-orta-mah",
+        "oyveotesi_neighborhood_id": 49572
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "GÜNEY-YENİ MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-guney-yeni-mah",
+        "oyveotesi_neighborhood_id": 50098
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "GÜNEY-YUKARI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-guney-yukari-mah",
+        "oyveotesi_neighborhood_id": 50063
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "İĞDELİ KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-igdeli-koyu",
+        "oyveotesi_neighborhood_id": 2030
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KARACA ÖREN KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-karaca-oren-koyu",
+        "oyveotesi_neighborhood_id": 2073
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KAYADİBİ KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kayadibi-koyu",
+        "oyveotesi_neighborhood_id": 2009
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KILIÇARSLAN-ATATÜRK MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kilicarslan-ataturk-mah",
+        "oyveotesi_neighborhood_id": 2067
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KILIÇARSLAN-CUMHURİYET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kilicarslan-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 2081
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KILIÇARSLAN-FEVZİ ÇAKMAK MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kilicarslan-fevzi-cakmak-mah",
+        "oyveotesi_neighborhood_id": 2054
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KILIÇARSLAN-KOCATEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kilicarslan-kocatepe-mah",
+        "oyveotesi_neighborhood_id": 2032
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KINIK KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kinik-koyu",
+        "oyveotesi_neighborhood_id": 2028
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KIRKA-ATATÜRK MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kirka-ataturk-mah",
+        "oyveotesi_neighborhood_id": 2082
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KIRKA-FATİH MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kirka-fatih-mah",
+        "oyveotesi_neighborhood_id": 2068
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KIRKA-YAVUZ SULTAN SELİM MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kirka-yavuz-sultan-selim-mah",
+        "oyveotesi_neighborhood_id": 2055
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KIRKA-YILDIRIM BEYAZIT MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kirka-yildirim-beyazit-mah",
+        "oyveotesi_neighborhood_id": 2056
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KÜÇÜKHÜYÜK-ATATÜRK MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kucukhuyuk-ataturk-mah",
+        "oyveotesi_neighborhood_id": 2049
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KÜÇÜKHÜYÜK-CUMHURİYET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kucukhuyuk-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 2021
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KÜÇÜKHÜYÜK-FATİH MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kucukhuyuk-fatih-mah",
+        "oyveotesi_neighborhood_id": 2083
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KÜÇÜKHÜYÜK-KURTULUŞ MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kucukhuyuk-kurtulus-mah",
+        "oyveotesi_neighborhood_id": 2033
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KÜÇÜKHÜYÜK-ZAFER MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-kucukhuyuk-zafer-mah",
+        "oyveotesi_neighborhood_id": 2057
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "NUH KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-nuh-koyu",
+        "oyveotesi_neighborhood_id": 2076
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "ÖĞRETMENLER MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-ogretmenler-mah",
+        "oyveotesi_neighborhood_id": 2071
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "SARAYCIK KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-saraycik-koyu",
+        "oyveotesi_neighborhood_id": 2077
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "SERBAN-CUMHURİYET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-serban-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 2084
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "SERBAN-HİSAR MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-serban-hisar-mah",
+        "oyveotesi_neighborhood_id": 2038
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "SERBAN-HOZMAN MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-serban-hozman-mah",
+        "oyveotesi_neighborhood_id": 2069
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "SERBAN-KÖPRÜBAŞI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-serban-koprubasi-mah",
+        "oyveotesi_neighborhood_id": 2051
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "SERBAN-KÜMBET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-serban-kumbet-mah",
+        "oyveotesi_neighborhood_id": 2029
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "SERBAN-ORTA MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-serban-orta-mah",
+        "oyveotesi_neighborhood_id": 2022
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TAŞOLUK-BAHÇELİEVLER MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tasoluk-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 2074
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TAŞOLUK-ÇANKAYA MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tasoluk-cankaya-mah",
+        "oyveotesi_neighborhood_id": 2010
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TAŞOLUK-ÇINARLI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tasoluk-cinarli-mah",
+        "oyveotesi_neighborhood_id": 2039
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TAŞOLUK-CUMHURİYET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tasoluk-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 2075
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TAŞOLUK-HÜRRİYET MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tasoluk-hurriyet-mah",
+        "oyveotesi_neighborhood_id": 2015
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TAŞOLUK-YENİ MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tasoluk-yeni-mah",
+        "oyveotesi_neighborhood_id": 2085
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TAZLAR KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tazlar-koyu",
+        "oyveotesi_neighborhood_id": 2070
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TINAZTEPE-AMBAR MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tinaztepe-ambar-mah",
+        "oyveotesi_neighborhood_id": 2050
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TINAZTEPE-BAHÇELİEVLER MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tinaztepe-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 2016
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TINAZTEPE-FATİH MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tinaztepe-fatih-mah",
+        "oyveotesi_neighborhood_id": 2058
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TINAZTEPE-SARAY MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tinaztepe-saray-mah",
+        "oyveotesi_neighborhood_id": 2011
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TINAZTEPE-YENİ MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tinaztepe-yeni-mah",
+        "oyveotesi_neighborhood_id": 2047
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TINAZTEPE-ZAFER MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tinaztepe-zafer-mah",
+        "oyveotesi_neighborhood_id": 2034
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "TOKUŞLAR KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-tokuslar-koyu",
+        "oyveotesi_neighborhood_id": 2040
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "YILDIRIM KEMAL KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-yildirim-kemal-koyu",
+        "oyveotesi_neighborhood_id": 2064
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "YÖRÜK MEZARI KÖYÜ",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-yoruk-mezari-koyu",
+        "oyveotesi_neighborhood_id": 2059
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "YUKARI MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "mahalle_id": "afyonkarahisar-sinanpasa-yukari-mah",
+        "oyveotesi_neighborhood_id": 2065
+    }
+]

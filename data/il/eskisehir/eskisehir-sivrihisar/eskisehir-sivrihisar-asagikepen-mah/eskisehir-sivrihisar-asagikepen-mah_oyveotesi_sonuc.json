@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "AŞAĞIKEPEN MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "AŞAĞIKEPEN DÜĞÜN SALONU",
+        "sandik_no": 1003,
+        "mahalle_id": "eskisehir-sivrihisar-asagikepen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 52,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 74,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 81,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1003/eskisehir-sivrihisar-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034514",
+            "oyveotesi_sync_timestamp": 1684341778
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1003/eskisehir-sivrihisar-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034514",
+            "oyveotesi_sync_timestamp": 1684341778
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

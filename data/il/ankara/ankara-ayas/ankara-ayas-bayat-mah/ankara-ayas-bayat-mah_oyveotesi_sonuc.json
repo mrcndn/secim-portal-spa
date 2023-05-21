@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "BAYAT MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "BAYAT KÖY KONAĞI",
+        "sandik_no": 1004,
+        "mahalle_id": "ankara-ayas-bayat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "İYİ PARTİ": 44,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 13,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "537403",
+            "oyveotesi_sync_timestamp": 1684393643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "537403",
+            "oyveotesi_sync_timestamp": 1684393643
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

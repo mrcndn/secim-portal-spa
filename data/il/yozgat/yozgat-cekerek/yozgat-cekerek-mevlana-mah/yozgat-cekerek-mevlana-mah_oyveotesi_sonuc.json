@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-cekerek",
+        "mahalle": "MEVLANA MAH.",
+        "ilce_adi": "ÇEKEREK",
+        "okul_adi": "MEVLANA MAHALLESİ CUMHURİYET ORTAOKULU OKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "yozgat-cekerek-mevlana-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396618
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396618
+        },
+        "secim_bolge_id": "yozgat"
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-cekerek",
+        "mahalle": "MEVLANA MAH.",
+        "ilce_adi": "ÇEKEREK",
+        "okul_adi": "MEVLANA MAHALLESİ CUMHURİYET ORTAOKULU OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "yozgat-cekerek-mevlana-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396618
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 197
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1013/yozgat-cekerek-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396618
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

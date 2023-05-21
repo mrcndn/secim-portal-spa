@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "KARASAVCI MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "KARASAVCI MH. KÖY ODASI",
+        "sandik_no": 1176,
+        "mahalle_id": "manisa-salihli-karasavci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1176/manisa-salihli-1176-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "691431",
+            "oyveotesi_sync_timestamp": 1684397199
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1176/manisa-salihli-1176-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "691431",
+            "oyveotesi_sync_timestamp": 1684397199
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

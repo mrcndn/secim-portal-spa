@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-cumra",
+        "mahalle": "BEYLERCE MAH.",
+        "ilce_adi": "ÇUMRA",
+        "okul_adi": "BEYLERCE İLKOKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "konya-cumra-beylerce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 16,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-cumra/1xxx/1050/konya-cumra-1050-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834302",
+            "oyveotesi_sync_timestamp": 1684355619
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 57
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-cumra/1xxx/1050/konya-cumra-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834302",
+            "oyveotesi_sync_timestamp": 1684355619
+        },
+        "secim_bolge_id": "konya"
+    }
+]

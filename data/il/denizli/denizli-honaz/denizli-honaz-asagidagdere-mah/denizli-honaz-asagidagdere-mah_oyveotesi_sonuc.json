@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-honaz",
+        "mahalle": "AŞAĞIDAĞDERE MAH.",
+        "ilce_adi": "HONAZ",
+        "okul_adi": "AŞAĞIDAĞDERE İLKOKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "denizli-honaz-asagidagdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 50,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 20,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-honaz/1xxx/1008/denizli-honaz-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566642",
+            "oyveotesi_sync_timestamp": 1684365821
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 144,
+                "RECEP TAYYİP ERDOĞAN": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-honaz/1xxx/1008/denizli-honaz-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566642",
+            "oyveotesi_sync_timestamp": 1684365821
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-honaz",
+        "mahalle": "AŞAĞIDAĞDERE MAH.",
+        "ilce_adi": "HONAZ",
+        "okul_adi": "AŞAĞIDAĞDERE İLKOKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "denizli-honaz-asagidagdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 54,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 103,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-honaz/1xxx/1009/denizli-honaz-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566584",
+            "oyveotesi_sync_timestamp": 1684365821
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "566584",
+            "oyveotesi_sync_timestamp": 1684365821
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

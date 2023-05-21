@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-piraziz",
+        "mahalle": "KALEYANI MAH.",
+        "ilce_adi": "PİRAZİZ",
+        "okul_adi": "KALEYANI ÇAY OCAĞI",
+        "sandik_no": 1005,
+        "mahalle_id": "giresun-piraziz-kaleyani-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 107,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-piraziz/1xxx/1005/giresun-piraziz-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "311207",
+            "oyveotesi_sync_timestamp": 1684343335
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-piraziz/1xxx/1005/giresun-piraziz-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "311207",
+            "oyveotesi_sync_timestamp": 1684343335
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-babaeski",
+        "mahalle": "NADIRLI KÖYÜ",
+        "ilce_adi": "BABAESKİ",
+        "okul_adi": "NADIRLI KÖYÜ (MEHMET FEVZİ ÖZDEMİR İLKOKULU)",
+        "sandik_no": 1110,
+        "mahalle_id": "kirklareli-babaeski-nadirli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349100
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 171,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1110/kirklareli-babaeski-1110-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349100
+        },
+        "secim_bolge_id": "kirklareli"
+    },
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-babaeski",
+        "mahalle": "NADIRLI KÖYÜ",
+        "ilce_adi": "BABAESKİ",
+        "okul_adi": "NADIRLI KÖYÜ (MEHMET FEVZİ ÖZDEMİR İLKOKULU)",
+        "sandik_no": 1111,
+        "mahalle_id": "kirklareli-babaeski-nadirli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 32,
+                "VATAN PARTİSİ": 7,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1111/kirklareli-babaeski-1111-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "457785",
+            "oyveotesi_sync_timestamp": 1684349100
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 171,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1111/kirklareli-babaeski-1111-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "457785",
+            "oyveotesi_sync_timestamp": 1684349100
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

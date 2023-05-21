@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "BUDAKDÜZÜ KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "BUDAKDÜZÜ İLK OKULU",
+        "sandik_no": 1229,
+        "mahalle_id": "bartin-merkez-budakduzu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1229/bartin-merkez-1229-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "548230",
+            "oyveotesi_sync_timestamp": 1684327832
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1229/bartin-merkez-1229-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "548230",
+            "oyveotesi_sync_timestamp": 1684327832
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "BUDAKDÜZÜ KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "BUDAKDÜZÜ İLK OKULU",
+        "sandik_no": 1230,
+        "mahalle_id": "bartin-merkez-budakduzu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327832
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1230/bartin-merkez-1230-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327832
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

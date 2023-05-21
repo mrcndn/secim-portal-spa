@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-arifiye",
+        "mahalle": "BOĞAZKÖY MAH.",
+        "ilce_adi": "ARİFİYE",
+        "okul_adi": "BOĞAZKÖY MAHALLE KIRAATHANESİ",
+        "sandik_no": 1035,
+        "mahalle_id": "sakarya-arifiye-bogazkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-arifiye/1xxx/1035/sakarya-arifiye-1035-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741013",
+            "oyveotesi_sync_timestamp": 1684357338
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "741013",
+            "oyveotesi_sync_timestamp": 1684357338
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

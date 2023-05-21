@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-havsa",
+        "mahalle": "BOSTANLI KÖYÜ",
+        "ilce_adi": "HAVSA",
+        "okul_adi": "BOSTANLI İLKÖĞRETİM OKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "edirne-havsa-bostanli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "İYİ PARTİ": 24,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-havsa/1xxx/1030/edirne-havsa-1030-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "663785",
+            "oyveotesi_sync_timestamp": 1684338398
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-havsa/1xxx/1030/edirne-havsa-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "663785",
+            "oyveotesi_sync_timestamp": 1684338398
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

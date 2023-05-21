@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-sirvan",
+        "mahalle": "SULUDERE KÖYÜ",
+        "ilce_adi": "ŞİRVAN",
+        "okul_adi": "SULUYAZI İLKÖĞRETİM OKULU",
+        "sandik_no": 1058,
+        "mahalle_id": "siirt-sirvan-suludere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 22,
+            "sayim_sonuc": {
+                "TOPLAM": 22,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-sirvan/1xxx/1058/siirt-sirvan-1058-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "564870",
+            "oyveotesi_sync_timestamp": 1684360984
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "564870",
+            "oyveotesi_sync_timestamp": 1684360984
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

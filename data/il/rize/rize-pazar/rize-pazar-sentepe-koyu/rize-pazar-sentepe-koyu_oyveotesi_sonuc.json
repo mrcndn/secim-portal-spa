@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "ŞENTEPE KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "ŞENTEPE KÖYÜ LOJMANINDA",
+        "sandik_no": 1098,
+        "mahalle_id": "rize-pazar-sentepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1098/rize-pazar-1098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514234",
+            "oyveotesi_sync_timestamp": 1684355888
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 33,
+            "sayim_sonuc": {
+                "TOPLAM": 33,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1098/rize-pazar-1098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514234",
+            "oyveotesi_sync_timestamp": 1684355888
+        },
+        "secim_bolge_id": "rize"
+    }
+]

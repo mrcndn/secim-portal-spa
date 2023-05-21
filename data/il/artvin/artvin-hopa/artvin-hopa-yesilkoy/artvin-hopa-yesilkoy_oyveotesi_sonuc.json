@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-hopa",
+        "mahalle": "YEŞİLKÖY",
+        "ilce_adi": "HOPA",
+        "okul_adi": "YEŞİLKÖY KÖYÜ ÇAYALIM YERİ",
+        "sandik_no": 1072,
+        "mahalle_id": "artvin-hopa-yesilkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361750
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-hopa/1xxx/1072/artvin-hopa-1072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361750
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

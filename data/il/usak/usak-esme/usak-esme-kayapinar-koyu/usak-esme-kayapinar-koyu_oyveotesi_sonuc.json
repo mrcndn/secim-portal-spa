@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-esme",
+        "mahalle": "KAYAPINAR KÖYÜ",
+        "ilce_adi": "EŞME",
+        "okul_adi": "KAYAPINAR DÜĞÜN SALONU",
+        "sandik_no": 1092,
+        "mahalle_id": "usak-esme-kayapinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 22,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 52,
+                "CUMHURİYET HALK PARTİSİ": 216,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-esme/1xxx/1092/usak-esme-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "785974",
+            "oyveotesi_sync_timestamp": 1684369812
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 239,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-esme/1xxx/1092/usak-esme-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "785974",
+            "oyveotesi_sync_timestamp": 1684369812
+        },
+        "secim_bolge_id": "usak"
+    }
+]

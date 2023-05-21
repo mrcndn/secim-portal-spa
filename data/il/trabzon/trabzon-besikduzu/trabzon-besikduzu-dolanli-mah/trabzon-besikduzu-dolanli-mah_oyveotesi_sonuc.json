@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-besikduzu",
+        "mahalle": "DOLANLI MAH.",
+        "ilce_adi": "BEŞİKDÜZÜ",
+        "okul_adi": "DOLANLI MAH. CAMİİ LOJMANI ALTI",
+        "sandik_no": 1029,
+        "mahalle_id": "trabzon-besikduzu-dolanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "İYİ PARTİ": 59,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-besikduzu/1xxx/1029/trabzon-besikduzu-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "777065",
+            "oyveotesi_sync_timestamp": 1684366639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "777065",
+            "oyveotesi_sync_timestamp": 1684366639
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

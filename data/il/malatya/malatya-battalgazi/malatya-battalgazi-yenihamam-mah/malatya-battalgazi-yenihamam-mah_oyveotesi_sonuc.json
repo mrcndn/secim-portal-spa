@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-battalgazi",
+        "mahalle": "YENİHAMAM MAH.",
+        "ilce_adi": "BATTALGAZİ",
+        "okul_adi": "HACI HÜSEYİN KÖLÜK MES.VE TEKN.ANADOLU LİSESİ",
+        "sandik_no": 1250,
+        "mahalle_id": "malatya-battalgazi-yenihamam-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-battalgazi/1xxx/1250/malatya-battalgazi-1250-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "633768",
+            "oyveotesi_sync_timestamp": 1684351116
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 39,
+            "sayim_sonuc": {
+                "TOPLAM": 39,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-battalgazi/1xxx/1250/malatya-battalgazi-1250-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "633768",
+            "oyveotesi_sync_timestamp": 1684351116
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

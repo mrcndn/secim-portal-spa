@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-findikli",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "FINDIKLI",
+        "okul_adi": "HÜRRİYET MAHALLESİ ÇAYKUR ATMACA ÇAY ALIM MERKEZİ",
+        "sandik_no": 1007,
+        "mahalle_id": "rize-findikli-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1007/rize-findikli-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "625472",
+            "oyveotesi_sync_timestamp": 1684356370
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1007/rize-findikli-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "625472",
+            "oyveotesi_sync_timestamp": 1684356370
+        },
+        "secim_bolge_id": "rize"
+    }
+]

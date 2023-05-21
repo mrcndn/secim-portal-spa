@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-canakci",
+        "mahalle": "AKKÖY",
+        "ilce_adi": "ÇANAKÇI",
+        "okul_adi": "AKKÖY KÖY ODASI",
+        "sandik_no": 1007,
+        "mahalle_id": "giresun-canakci-akkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342911
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 245
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-canakci/1xxx/1007/giresun-canakci-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342911
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

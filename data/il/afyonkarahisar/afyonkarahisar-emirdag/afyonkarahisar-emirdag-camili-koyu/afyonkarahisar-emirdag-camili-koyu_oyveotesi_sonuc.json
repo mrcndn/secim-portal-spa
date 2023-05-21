@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-emirdag",
+        "mahalle": "CAMİLİ KÖYÜ",
+        "ilce_adi": "EMİRDAĞ",
+        "okul_adi": "CAMİLİ KÖY KONAĞI",
+        "sandik_no": 1087,
+        "mahalle_id": "afyonkarahisar-emirdag-camili-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "İYİ PARTİ": 7,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 11,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-emirdag/1xxx/1087/afyonkarahisar-emirdag-1087-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "789358",
+            "oyveotesi_sync_timestamp": 1684330157
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 41,
+            "sayim_sonuc": {
+                "TOPLAM": 41,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-emirdag/1xxx/1087/afyonkarahisar-emirdag-1087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "789358",
+            "oyveotesi_sync_timestamp": 1684330157
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

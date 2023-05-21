@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-sur",
+        "mahalle": "KAVAKLIBAĞ MAH.",
+        "ilce_adi": "SUR",
+        "okul_adi": "KAVAKLIBAĞ İ.Ö.O",
+        "sandik_no": 1134,
+        "mahalle_id": "diyarbakir-sur-kavaklibag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337754
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337754
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-sur",
+        "mahalle": "KAVAKLIBAĞ MAH.",
+        "ilce_adi": "SUR",
+        "okul_adi": "KAVAKLIBAĞ İ.Ö.O",
+        "sandik_no": 1135,
+        "mahalle_id": "diyarbakir-sur-kavaklibag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 67
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-sur/1xxx/1135/diyarbakir-sur-1135-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "206756",
+            "oyveotesi_sync_timestamp": 1684337754
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-sur/1xxx/1135/diyarbakir-sur-1135-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "206756",
+            "oyveotesi_sync_timestamp": 1684337754
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-bahce",
+        "mahalle": "ARICAKLI KÖYÜ",
+        "ilce_adi": "BAHÇE",
+        "okul_adi": "ARICAKLI İMAM ODASI",
+        "sandik_no": 1036,
+        "mahalle_id": "osmaniye-bahce-aricakli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "İYİ PARTİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1036/osmaniye-bahce-1036-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "633875",
+            "oyveotesi_sync_timestamp": 1684374913
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1036/osmaniye-bahce-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "633875",
+            "oyveotesi_sync_timestamp": 1684374913
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

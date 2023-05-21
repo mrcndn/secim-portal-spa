@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "DÜVENCİ-KULTAK MAH.",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "DÜVENCİ- KULTAK MAH. İ.Ö.O",
+        "sandik_no": 2006,
+        "mahalle_id": "corum-merkez-duvenci-kultak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369216
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 85,
+            "sayim_sonuc": {
+                "TOPLAM": 85,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2006/corum-merkez-2006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369216
+        },
+        "secim_bolge_id": "corum"
+    }
+]

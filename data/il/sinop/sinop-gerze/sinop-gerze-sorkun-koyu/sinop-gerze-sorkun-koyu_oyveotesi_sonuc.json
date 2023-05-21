@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "SORKUN KÖYÜ",
+        "ilce_adi": "GERZE",
+        "okul_adi": "SORKUN KÖYÜ MERKEZ İLKOKULU ESKİ",
+        "sandik_no": 1076,
+        "mahalle_id": "sinop-gerze-sorkun-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 16,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1076/sinop-gerze-1076-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "439547",
+            "oyveotesi_sync_timestamp": 1684353873
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1076/sinop-gerze-1076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "439547",
+            "oyveotesi_sync_timestamp": 1684353873
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

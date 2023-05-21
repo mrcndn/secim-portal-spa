@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-mamak",
+        "mahalle": "KUSUNLAR MAH.",
+        "ilce_adi": "MAMAK",
+        "okul_adi": "KUSUNLAR İLKOKULU",
+        "sandik_no": 3313,
+        "mahalle_id": "ankara-mamak-kusunlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 98,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "624094",
+            "oyveotesi_sync_timestamp": 1684376002
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 251
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "624094",
+            "oyveotesi_sync_timestamp": 1684376002
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "BAĞYOLU MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "BAĞYOLU İLKOKULU",
+        "sandik_no": 1090,
+        "mahalle_id": "manisa-yunusemre-bagyolu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397684
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 130
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1090/manisa-yunusemre-1090-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397684
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "BAĞYOLU MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "BAĞYOLU İLKOKULU",
+        "sandik_no": 1091,
+        "mahalle_id": "manisa-yunusemre-bagyolu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397684
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1091/manisa-yunusemre-1091-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397684
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

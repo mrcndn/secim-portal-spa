@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-tepebasi",
+        "mahalle": "YENİAKÇAYIR MAH.",
+        "ilce_adi": "TEPEBAŞI",
+        "okul_adi": "YENİAKÇAYIR İLKOKULU",
+        "sandik_no": 1429,
+        "mahalle_id": "eskisehir-tepebasi-yeniakcayir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/1xxx/1429/eskisehir-tepebasi-1429-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833513",
+            "oyveotesi_sync_timestamp": 1684341943
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 88,
+            "sayim_sonuc": {
+                "TOPLAM": 88,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/1xxx/1429/eskisehir-tepebasi-1429-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833513",
+            "oyveotesi_sync_timestamp": 1684341943
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cankaya",
+        "mahalle": "TOHUMLAR MAH.",
+        "ilce_adi": "ÇANKAYA",
+        "okul_adi": "TOHUMLAR MAHALLESİ SOSYAL TESİSLERİ",
+        "sandik_no": 3412,
+        "mahalle_id": "ankara-cankaya-tohumlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395754
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 172,
+            "sayim_sonuc": {
+                "TOPLAM": 172,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395754
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

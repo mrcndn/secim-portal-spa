@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-beylikova",
+        "mahalle": "ATA MAH.",
+        "ilce_adi": "BEYLİKOVA",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "eskisehir-beylikova-ata-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 157,
+            "sayim_sonuc": {
+                "TOPLAM": 157,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "ADALET VE KALKINMA PARTİSİ": 69,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1004/eskisehir-beylikova-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "591038",
+            "oyveotesi_sync_timestamp": 1684341427
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1004/eskisehir-beylikova-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "591038",
+            "oyveotesi_sync_timestamp": 1684341427
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

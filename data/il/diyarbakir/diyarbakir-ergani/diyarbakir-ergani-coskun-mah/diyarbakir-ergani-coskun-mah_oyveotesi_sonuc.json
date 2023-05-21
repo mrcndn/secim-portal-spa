@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-ergani",
+        "mahalle": "COŞKUN MAH.",
+        "ilce_adi": "ERGANİ",
+        "okul_adi": "COŞKUN İLKOKULU",
+        "sandik_no": 1112,
+        "mahalle_id": "diyarbakir-ergani-coskun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "İYİ PARTİ": 10,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 178
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-ergani/1xxx/1112/diyarbakir-ergani-1112-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "622620",
+            "oyveotesi_sync_timestamp": 1684337300
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "622620",
+            "oyveotesi_sync_timestamp": 1684337300
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

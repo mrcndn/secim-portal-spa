@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "KIZIK KÖYÜ",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "KIZIK KÖYÜ İLKOKULU",
+        "sandik_no": 1430,
+        "mahalle_id": "karaman-merkez-kizik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 61,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1430/karaman-merkez-1430-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1007788",
+            "oyveotesi_sync_timestamp": 1684346569
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 138
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1430/karaman-merkez-1430-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1007788",
+            "oyveotesi_sync_timestamp": 1684346569
+        },
+        "secim_bolge_id": "karaman"
+    }
+]

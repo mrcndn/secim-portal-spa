@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MISMILAĞAÇ MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "MISMILAĞAÇ MAHALLESİ İLKOKULU",
+        "sandik_no": 1105,
+        "mahalle_id": "samsun-havza-mismilagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1105/samsun-havza-1105-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367710
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MISMILAĞAÇ MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "MISMILAĞAÇ MAHALLESİ İLKOKULU",
+        "sandik_no": 1106,
+        "mahalle_id": "samsun-havza-mismilagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1106/samsun-havza-1106-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367710
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

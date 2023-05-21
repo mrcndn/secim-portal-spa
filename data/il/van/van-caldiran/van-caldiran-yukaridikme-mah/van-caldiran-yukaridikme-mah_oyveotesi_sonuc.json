@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-caldiran",
+        "mahalle": "YUKARIDİKME MAH.",
+        "ilce_adi": "ÇALDIRAN",
+        "okul_adi": "YUKARI DİKME İLKÖĞRETİM OKULU",
+        "sandik_no": 1115,
+        "mahalle_id": "van-caldiran-yukaridikme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 16,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-caldiran/1xxx/1115/van-caldiran-1115-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750838",
+            "oyveotesi_sync_timestamp": 1684356521
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 195,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-caldiran/1xxx/1115/van-caldiran-1115-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750838",
+            "oyveotesi_sync_timestamp": 1684356521
+        },
+        "secim_bolge_id": "van"
+    }
+]

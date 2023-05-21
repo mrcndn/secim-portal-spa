@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-ispir",
+        "mahalle": "ZEYREK MAH.",
+        "ilce_adi": "İSPİR",
+        "okul_adi": "ZEYREK MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1120,
+        "mahalle_id": "erzurum-ispir-zeyrek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340654
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-ispir/1xxx/1120/erzurum-ispir-1120-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340654
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

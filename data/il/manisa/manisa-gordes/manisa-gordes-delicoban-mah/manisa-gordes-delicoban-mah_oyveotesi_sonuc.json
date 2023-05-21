@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "DELİÇOBAN MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "DELİÇOBAN MAH. İLKOKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "manisa-gordes-delicoban-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 174,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1031/manisa-gordes-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569767",
+            "oyveotesi_sync_timestamp": 1684396666
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 251,
+            "sayim_sonuc": {
+                "TOPLAM": 251,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 229
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1031/manisa-gordes-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569767",
+            "oyveotesi_sync_timestamp": 1684396666
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

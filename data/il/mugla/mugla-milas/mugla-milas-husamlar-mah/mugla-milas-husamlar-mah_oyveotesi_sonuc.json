@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "HÜSAMLAR MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "HÜSAMLAR MAHALLE İMAMI LOJMANI",
+        "sandik_no": 1235,
+        "mahalle_id": "mugla-milas-husamlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374463
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 18,
+            "sayim_sonuc": {
+                "TOPLAM": 18,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1235/mugla-milas-1235-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374463
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

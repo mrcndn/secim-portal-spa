@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-burhaniye",
+        "mahalle": "KIRTIK MAH.",
+        "ilce_adi": "BURHANİYE",
+        "okul_adi": "KIRTIK İLKOKULU",
+        "sandik_no": 1080,
+        "mahalle_id": "balikesir-burhaniye-kirtik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-burhaniye/1xxx/1080/balikesir-burhaniye-1080-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "233314",
+            "oyveotesi_sync_timestamp": 1684331610
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-burhaniye/1xxx/1080/balikesir-burhaniye-1080-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "233314",
+            "oyveotesi_sync_timestamp": 1684331610
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

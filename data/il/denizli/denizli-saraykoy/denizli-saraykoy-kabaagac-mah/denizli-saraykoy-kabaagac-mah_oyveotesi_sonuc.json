@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-saraykoy",
+        "mahalle": "KABAAĞAÇ MAH.",
+        "ilce_adi": "SARAYKÖY",
+        "okul_adi": "KABAAĞAÇ MAH. SAĞLIK OCAĞI BİNASI",
+        "sandik_no": 1056,
+        "mahalle_id": "denizli-saraykoy-kabaagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "İYİ PARTİ": 51,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-saraykoy/1xxx/1056/denizli-saraykoy-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "811326",
+            "oyveotesi_sync_timestamp": 1684365455
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-saraykoy/1xxx/1056/denizli-saraykoy-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "811326",
+            "oyveotesi_sync_timestamp": 1684365455
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

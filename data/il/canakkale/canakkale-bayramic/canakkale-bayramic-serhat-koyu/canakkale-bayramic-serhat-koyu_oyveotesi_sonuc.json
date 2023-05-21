@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "SERHAT KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "SERHAT KÖYÜ KÖY ODASI",
+        "sandik_no": 1097,
+        "mahalle_id": "canakkale-bayramic-serhat-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 44,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 134,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE İŞÇİ PARTİSİ": 11,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1097/canakkale-bayramic-1097-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "426467",
+            "oyveotesi_sync_timestamp": 1684335755
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 216,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1097/canakkale-bayramic-1097-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "426467",
+            "oyveotesi_sync_timestamp": 1684335755
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

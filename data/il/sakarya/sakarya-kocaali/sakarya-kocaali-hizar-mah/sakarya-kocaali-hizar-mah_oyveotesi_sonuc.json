@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-kocaali",
+        "mahalle": "HIZAR MAH.",
+        "ilce_adi": "KOCAALİ",
+        "okul_adi": "HIZAR MAH. HALK EĞİTİM MERKEZİ HIZAR CAD. FATİH SK. NO 35 KOCAALİ",
+        "sandik_no": 1025,
+        "mahalle_id": "sakarya-kocaali-hizar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1025/sakarya-kocaali-1025-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568144",
+            "oyveotesi_sync_timestamp": 1684357261
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1025/sakarya-kocaali-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568144",
+            "oyveotesi_sync_timestamp": 1684357261
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-kocaali",
+        "mahalle": "HIZAR MAH.",
+        "ilce_adi": "KOCAALİ",
+        "okul_adi": "HIZAR MAH. HALK EĞİTİM MERKEZİ HIZAR CAD. FATİH SK. NO 35 KOCAALİ",
+        "sandik_no": 1026,
+        "mahalle_id": "sakarya-kocaali-hizar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357261
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 183
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1026/sakarya-kocaali-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357261
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

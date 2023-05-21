@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabaduz",
+        "mahalle": "KİRAZDERE MAH.",
+        "ilce_adi": "KABADÜZ",
+        "okul_adi": "KİRAZDERE KÖY ODASI",
+        "sandik_no": 1017,
+        "mahalle_id": "ordu-kabaduz-kirazdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 96,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabaduz/1xxx/1017/ordu-kabaduz-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "587268",
+            "oyveotesi_sync_timestamp": 1684360422
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 175
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabaduz/1xxx/1017/ordu-kabaduz-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "587268",
+            "oyveotesi_sync_timestamp": 1684360422
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

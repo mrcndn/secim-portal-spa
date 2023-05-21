@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "bayburt",
+        "il_adi": "BAYBURT",
+        "il_kodu": 69,
+        "ilce_id": "bayburt-merkez",
+        "mahalle": "AKŞAR KÖYÜ",
+        "ilce_adi": "BAYBURT MERKEZ",
+        "okul_adi": "AKŞAR GENÇOSMAN İLKOKULU",
+        "sandik_no": 1098,
+        "mahalle_id": "bayburt-merkez-aksar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328275
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 274
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1098/bayburt-merkez-1098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328275
+        },
+        "secim_bolge_id": "bayburt"
+    }
+]

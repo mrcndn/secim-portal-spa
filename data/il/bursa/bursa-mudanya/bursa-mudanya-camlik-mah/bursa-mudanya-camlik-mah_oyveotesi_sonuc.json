@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mudanya",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "MUDANYA",
+        "okul_adi": "ÇAMLIK MUHTARLIĞI EK HİZMET BİNASI",
+        "sandik_no": 1028,
+        "mahalle_id": "bursa-mudanya-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 77,
+            "sayim_sonuc": {
+                "TOPLAM": 77,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "834585",
+            "oyveotesi_sync_timestamp": 1684328682
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 77,
+            "sayim_sonuc": {
+                "TOPLAM": 77,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "834585",
+            "oyveotesi_sync_timestamp": 1684328682
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

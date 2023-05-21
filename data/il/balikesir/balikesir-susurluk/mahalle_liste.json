@@ -1,0 +1,542 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KIŞLA MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kisla-mah",
+        "oyveotesi_neighborhood_id": 27695
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KİRAZ MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kiraz-mah",
+        "oyveotesi_neighborhood_id": 27702
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KEPEKLER MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kepekler-mah",
+        "oyveotesi_neighborhood_id": 27718
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KAYIKÇI MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kayikci-mah",
+        "oyveotesi_neighborhood_id": 27707
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KAYALIDERE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kayalidere-mah",
+        "oyveotesi_neighborhood_id": 27697
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 27694
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KARAPÜRÇEK MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-karapurcek-mah",
+        "oyveotesi_neighborhood_id": 27688
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KARAKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-karakoy-mah",
+        "oyveotesi_neighborhood_id": 27687
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KOCAPINAR MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kocapinar-mah",
+        "oyveotesi_neighborhood_id": 27677
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KALFAKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kalfakoy-mah",
+        "oyveotesi_neighborhood_id": 27693
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "GÖBEL MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-gobel-mah",
+        "oyveotesi_neighborhood_id": 27704
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ILICABOĞAZI MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-ilicabogazi-mah",
+        "oyveotesi_neighborhood_id": 27683
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "GÖKÇEAĞAÇ MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-gokceagac-mah",
+        "oyveotesi_neighborhood_id": 27686
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "GÖKÇEDERE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-gokcedere-mah",
+        "oyveotesi_neighborhood_id": 27681
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "GÜNAYDIN MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-gunaydin-mah",
+        "oyveotesi_neighborhood_id": 27682
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "GÜRECE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-gurece-mah",
+        "oyveotesi_neighborhood_id": 27717
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "SÖVE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-sove-mah",
+        "oyveotesi_neighborhood_id": 27670
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "SÜLECEK MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-sulecek-mah",
+        "oyveotesi_neighborhood_id": 27678
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "SULTANÇAYIR MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-sultancayir-mah",
+        "oyveotesi_neighborhood_id": 27713
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "SULTANİYE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-sultaniye-mah",
+        "oyveotesi_neighborhood_id": 27720
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ÜMİTELİ MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-umiteli-mah",
+        "oyveotesi_neighborhood_id": 27675
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "YAĞCI MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-yagci-mah",
+        "oyveotesi_neighborhood_id": 27700
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "YAHYAKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-yahyakoy-mah",
+        "oyveotesi_neighborhood_id": 27684
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "YAYLAÇAYIR MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-yaylacayir-mah",
+        "oyveotesi_neighborhood_id": 27668
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-yeni-mah",
+        "oyveotesi_neighborhood_id": 27674
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "YILDIZ MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-yildiz-mah",
+        "oyveotesi_neighborhood_id": 27708
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "HAN MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-han-mah",
+        "oyveotesi_neighborhood_id": 27701
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "İCLALİYE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-iclaliye-mah",
+        "oyveotesi_neighborhood_id": 27706
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ALİBEY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-alibey-mah",
+        "oyveotesi_neighborhood_id": 27711
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ASMALIDERE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-asmalidere-mah",
+        "oyveotesi_neighborhood_id": 27698
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "AZİZİYE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-aziziye-mah",
+        "oyveotesi_neighborhood_id": 27709
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "SÖĞÜTÇAYIR MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-sogutcayir-mah",
+        "oyveotesi_neighborhood_id": 27667
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "BABAKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-babakoy-mah",
+        "oyveotesi_neighborhood_id": 27714
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "BALIKLIDERE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-baliklidere-mah",
+        "oyveotesi_neighborhood_id": 27671
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "BEYKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-beykoy-mah",
+        "oyveotesi_neighborhood_id": 27703
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ŞEKER MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-seker-mah",
+        "oyveotesi_neighborhood_id": 27669
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "REŞADİYE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-resadiye-mah",
+        "oyveotesi_neighborhood_id": 27712
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "PAŞAKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-pasakoy-mah",
+        "oyveotesi_neighborhood_id": 27705
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ORTA MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-orta-mah",
+        "oyveotesi_neighborhood_id": 27673
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ÖMERKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-omerkoy-mah",
+        "oyveotesi_neighborhood_id": 27685
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "OKÇUGÖL MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-okcugol-mah",
+        "oyveotesi_neighborhood_id": 27690
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "ODALIDAM MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-odalidam-mah",
+        "oyveotesi_neighborhood_id": 27672
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "MURADİYE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-muradiye-mah",
+        "oyveotesi_neighborhood_id": 27699
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KURUCAOLUK MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kurucaoluk-mah",
+        "oyveotesi_neighborhood_id": 27689
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KULAT MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-kulat-mah",
+        "oyveotesi_neighborhood_id": 27719
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "BOZEN MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-bozen-mah",
+        "oyveotesi_neighborhood_id": 27676
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "BURHANİYE MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-burhaniye-mah",
+        "oyveotesi_neighborhood_id": 27710
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "BUZAĞILIK MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-buzagilik-mah",
+        "oyveotesi_neighborhood_id": 27716
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "DANAVELİ MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-danaveli-mah",
+        "oyveotesi_neighborhood_id": 27679
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "DEMİRKAPI MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-demirkapi-mah",
+        "oyveotesi_neighborhood_id": 27691
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-derekoy-mah",
+        "oyveotesi_neighborhood_id": 27696
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "DUMAN MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-duman-mah",
+        "oyveotesi_neighborhood_id": 27715
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "EKİNLİK MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-ekinlik-mah",
+        "oyveotesi_neighborhood_id": 27680
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "EMİNPINARI MAH.",
+        "ilce_adi": "SUSURLUK",
+        "mahalle_id": "balikesir-susurluk-eminpinari-mah",
+        "oyveotesi_neighborhood_id": 27692
+    }
+]

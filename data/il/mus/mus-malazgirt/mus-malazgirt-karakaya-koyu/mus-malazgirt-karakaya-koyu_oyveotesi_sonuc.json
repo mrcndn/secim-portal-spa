@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-malazgirt",
+        "mahalle": "KARAKAYA KÖYÜ",
+        "ilce_adi": "MALAZGİRT",
+        "okul_adi": "KARAKAYA KÖYÜ İLKOKULU",
+        "sandik_no": 1083,
+        "mahalle_id": "mus-malazgirt-karakaya-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SOL PARTİ": 3,
+                "İYİ PARTİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 44,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 194
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-malazgirt/1xxx/1083/mus-malazgirt-1083-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034591",
+            "oyveotesi_sync_timestamp": 1684393917
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1034591",
+            "oyveotesi_sync_timestamp": 1684393917
+        },
+        "secim_bolge_id": "mus"
+    }
+]

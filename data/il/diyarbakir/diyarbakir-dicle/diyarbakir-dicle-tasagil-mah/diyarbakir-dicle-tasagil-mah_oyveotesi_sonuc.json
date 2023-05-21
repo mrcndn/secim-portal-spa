@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-dicle",
+        "mahalle": "TAŞAĞIL MAH.",
+        "ilce_adi": "DİCLE",
+        "okul_adi": "YEŞİLSIRT KÖYÜ İÖO",
+        "sandik_no": 1071,
+        "mahalle_id": "diyarbakir-dicle-tasagil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 33,
+            "sayim_sonuc": {
+                "TOPLAM": 33,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 11,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-dicle/1xxx/1071/diyarbakir-dicle-1071-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224793",
+            "oyveotesi_sync_timestamp": 1684337233
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-dicle/1xxx/1071/diyarbakir-dicle-1071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224793",
+            "oyveotesi_sync_timestamp": 1684337233
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

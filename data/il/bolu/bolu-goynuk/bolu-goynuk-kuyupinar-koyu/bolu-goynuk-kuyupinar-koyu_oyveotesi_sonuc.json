@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-goynuk",
+        "mahalle": "KUYUPINAR KÖYÜ",
+        "ilce_adi": "GÖYNÜK",
+        "okul_adi": "KUYUPINAR KÖY KONAĞI",
+        "sandik_no": 1061,
+        "mahalle_id": "bolu-goynuk-kuyupinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-goynuk/1xxx/1061/bolu-goynuk-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "524913",
+            "oyveotesi_sync_timestamp": 1684334050
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 157,
+            "sayim_sonuc": {
+                "TOPLAM": 157,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-goynuk/1xxx/1061/bolu-goynuk-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "524913",
+            "oyveotesi_sync_timestamp": 1684334050
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

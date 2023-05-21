@@ -1,0 +1,83 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-tufanbeyli",
+        "mahalle": "AYVAT MAH.",
+        "ilce_adi": "TUFANBEYLİ",
+        "okul_adi": "AKDERE MEZRASI İLKOKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "adana-tufanbeyli-ayvat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 5,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1003/adana-tufanbeyli-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198247",
+            "oyveotesi_sync_timestamp": 1684371384
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1003/adana-tufanbeyli-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198247",
+            "oyveotesi_sync_timestamp": 1684371384
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-tufanbeyli",
+        "mahalle": "AYVAT MAH.",
+        "ilce_adi": "TUFANBEYLİ",
+        "okul_adi": "AYVAT MAHALLESİ OKUL BAHÇESİ",
+        "sandik_no": 1004,
+        "mahalle_id": "adana-tufanbeyli-ayvat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "İYİ PARTİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1004/adana-tufanbeyli-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179254",
+            "oyveotesi_sync_timestamp": 1684371384
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1004/adana-tufanbeyli-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179254",
+            "oyveotesi_sync_timestamp": 1684371384
+        },
+        "secim_bolge_id": "adana"
+    }
+]

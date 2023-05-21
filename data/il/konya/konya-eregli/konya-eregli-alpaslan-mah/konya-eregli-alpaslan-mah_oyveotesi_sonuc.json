@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-eregli",
+        "mahalle": "ALPASLAN MAH.",
+        "ilce_adi": "EREĞLİ",
+        "okul_adi": "ÖĞRETMEN ABDURRAHİM İLKOKULU (ALPASLAN)",
+        "sandik_no": 1012,
+        "mahalle_id": "konya-eregli-alpaslan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355385
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355385
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-eregli",
+        "mahalle": "ALPASLAN MAH.",
+        "ilce_adi": "EREĞLİ",
+        "okul_adi": "ÖĞRETMEN ABDURRAHİM İLKOKULU (ALPASLAN)",
+        "sandik_no": 1013,
+        "mahalle_id": "konya-eregli-alpaslan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355385
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 144,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-eregli/1xxx/1013/konya-eregli-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355385
+        },
+        "secim_bolge_id": "konya"
+    }
+]

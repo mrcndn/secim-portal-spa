@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "bayburt",
+        "il_adi": "BAYBURT",
+        "il_kodu": 69,
+        "ilce_id": "bayburt-merkez",
+        "mahalle": "TAHT KÖYÜ",
+        "ilce_adi": "BAYBURT MERKEZ",
+        "okul_adi": "TAHT İLKOKULU",
+        "sandik_no": 1198,
+        "mahalle_id": "bayburt-merkez-taht-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 96,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1198/bayburt-merkez-1198-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "190222",
+            "oyveotesi_sync_timestamp": 1684328391
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "190222",
+            "oyveotesi_sync_timestamp": 1684328391
+        },
+        "secim_bolge_id": "bayburt"
+    }
+]

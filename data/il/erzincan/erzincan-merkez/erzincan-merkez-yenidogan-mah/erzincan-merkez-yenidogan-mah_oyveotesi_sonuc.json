@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "YENİDOĞAN MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "ŞEHİT JANDARMA KOMANDO ER GÖKSEL ÖZDEMİR ORTAOKULU",
+        "sandik_no": 1293,
+        "mahalle_id": "erzincan-merkez-yenidogan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339598
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1293/erzincan-merkez-1293-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339598
+        },
+        "secim_bolge_id": "erzincan"
+    },
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "YENİDOĞAN MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "ŞEHİT JANDARMA KOMANDO ER GÖKSEL ÖZDEMİR ORTAOKULU",
+        "sandik_no": 1292,
+        "mahalle_id": "erzincan-merkez-yenidogan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339598
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 160,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1292/erzincan-merkez-1292-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339598
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

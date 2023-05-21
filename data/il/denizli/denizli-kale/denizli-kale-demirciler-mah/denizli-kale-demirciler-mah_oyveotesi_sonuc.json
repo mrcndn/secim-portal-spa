@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-kale",
+        "mahalle": "DEMİRCİLER MAH.",
+        "ilce_adi": "KALE",
+        "okul_adi": "ALİ KUNDAKÇI BİNASI (KÖY KAHVESİ)",
+        "sandik_no": 1016,
+        "mahalle_id": "denizli-kale-demirciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-kale/1xxx/1016/denizli-kale-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739284",
+            "oyveotesi_sync_timestamp": 1684365352
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 172,
+            "sayim_sonuc": {
+                "TOPLAM": 172,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 79,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-kale/1xxx/1016/denizli-kale-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739284",
+            "oyveotesi_sync_timestamp": 1684365352
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-kale",
+        "mahalle": "DEMİRCİLER MAH.",
+        "ilce_adi": "KALE",
+        "okul_adi": "ALİ KUNDAKÇI BİNASI (KÖY KAHVESİ)",
+        "sandik_no": 1017,
+        "mahalle_id": "denizli-kale-demirciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365352
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365352
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

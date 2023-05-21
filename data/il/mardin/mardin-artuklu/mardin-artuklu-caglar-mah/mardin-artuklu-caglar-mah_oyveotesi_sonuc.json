@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇAĞLAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "okul_adi": "ÇAĞLAR İLKOKULU",
+        "sandik_no": 1091,
+        "mahalle_id": "mardin-artuklu-caglar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353626
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 166,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-artuklu/1xxx/1091/mardin-artuklu-1091-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353626
+        },
+        "secim_bolge_id": "mardin"
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇAĞLAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "okul_adi": "ÇAĞLAR İLKOKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "mardin-artuklu-caglar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353626
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 165,
+                "RECEP TAYYİP ERDOĞAN": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-artuklu/1xxx/1092/mardin-artuklu-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353626
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

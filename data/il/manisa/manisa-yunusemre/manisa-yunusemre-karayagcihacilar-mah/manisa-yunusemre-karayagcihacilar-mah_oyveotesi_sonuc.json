@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "KARAYAĞCIHACILAR MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "KARAYAĞCIHACILAR KÖY ODASI",
+        "sandik_no": 1235,
+        "mahalle_id": "manisa-yunusemre-karayagcihacilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397713
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 41,
+            "sayim_sonuc": {
+                "TOPLAM": 41,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1235/manisa-yunusemre-1235-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397713
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

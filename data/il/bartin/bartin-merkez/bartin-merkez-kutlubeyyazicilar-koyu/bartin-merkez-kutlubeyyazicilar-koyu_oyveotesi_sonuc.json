@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KUTLUBEYYAZICILAR KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KÖY KONAĞI",
+        "sandik_no": 1334,
+        "mahalle_id": "bartin-merkez-kutlubeyyazicilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327976
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327976
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KUTLUBEYYAZICILAR KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KÖY KONAĞI",
+        "sandik_no": 1333,
+        "mahalle_id": "bartin-merkez-kutlubeyyazicilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 104,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 61,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1333/bartin-merkez-1333-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "709910",
+            "oyveotesi_sync_timestamp": 1684327976
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 10,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 162
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1333/bartin-merkez-1333-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "709910",
+            "oyveotesi_sync_timestamp": 1684327976
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

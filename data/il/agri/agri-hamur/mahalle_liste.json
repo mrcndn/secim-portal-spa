@@ -1,0 +1,502 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KARASEYİTALİ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-karaseyitali-koyu",
+        "oyveotesi_neighborhood_id": 6918
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KAYNAKLI KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kaynakli-koyu",
+        "oyveotesi_neighborhood_id": 6933
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KILIÇ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kilic-koyu",
+        "oyveotesi_neighborhood_id": 6924
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KÖŞK KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kosk-koyu",
+        "oyveotesi_neighborhood_id": 6956
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KÜMBET MAH.",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kumbet-mah",
+        "oyveotesi_neighborhood_id": 6942
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "NALLIKONAK KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-nallikonak-koyu",
+        "oyveotesi_neighborhood_id": 6960
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "UĞURTAŞ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-ugurtas-koyu",
+        "oyveotesi_neighborhood_id": 49545
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "TÜKENMEZ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-tukenmez-koyu",
+        "oyveotesi_neighborhood_id": 6930
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "SÜLEYMANKÜMBET KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-suleymankumbet-koyu",
+        "oyveotesi_neighborhood_id": 6958
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "SOĞANLITEPE KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-soganlitepe-koyu",
+        "oyveotesi_neighborhood_id": 6919
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "SEYİTHANBEY KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-seyithanbey-koyu",
+        "oyveotesi_neighborhood_id": 6950
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "YOĞUNHİSAR KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-yogunhisar-koyu",
+        "oyveotesi_neighborhood_id": 6935
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "YUKARIALADAĞ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-yukarialadag-koyu",
+        "oyveotesi_neighborhood_id": 6943
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "YUKARIGÖZLÜCE KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-yukarigozluce-koyu",
+        "oyveotesi_neighborhood_id": 6952
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "YUKARIYENİGÜN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-yukariyenigun-koyu",
+        "oyveotesi_neighborhood_id": 6948
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "YUVACIK KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-yuvacik-koyu",
+        "oyveotesi_neighborhood_id": 6953
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "SESLİDOĞAN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-seslidogan-koyu",
+        "oyveotesi_neighborhood_id": 6957
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "SARIBUĞDAY KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-saribugday-koyu",
+        "oyveotesi_neighborhood_id": 6929
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "YAPILI KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-yapili-koyu",
+        "oyveotesi_neighborhood_id": 6940
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-yeni-mah",
+        "oyveotesi_neighborhood_id": 6951
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "ABDİÇIKMAZ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-abdicikmaz-koyu",
+        "oyveotesi_neighborhood_id": 6920
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "ADIMOVA KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-adimova-koyu",
+        "oyveotesi_neighborhood_id": 6937
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "AKYURT KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-akyurt-koyu",
+        "oyveotesi_neighborhood_id": 50172
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "ALAKOYUN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-alakoyun-koyu",
+        "oyveotesi_neighborhood_id": 6944
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "AŞAĞIALADAĞ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-asagialadag-koyu",
+        "oyveotesi_neighborhood_id": 6925
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "AŞAĞIDEREDİBİ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-asagideredibi-koyu",
+        "oyveotesi_neighborhood_id": 6945
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "AŞAĞIGÖZLÜCE KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-asagigozluce-koyu",
+        "oyveotesi_neighborhood_id": 6931
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "AŞAĞIKARABAL KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-asagikarabal-koyu",
+        "oyveotesi_neighborhood_id": 6959
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "AŞAĞIYENİGÜN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-asagiyenigun-koyu",
+        "oyveotesi_neighborhood_id": 6926
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "AYVACIK KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-ayvacik-koyu",
+        "oyveotesi_neighborhood_id": 50200
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "BALDERE KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-baldere-koyu",
+        "oyveotesi_neighborhood_id": 6938
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "BEKLEMEZ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-beklemez-koyu",
+        "oyveotesi_neighborhood_id": 6921
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "BUZHANE MAH.",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-buzhane-mah",
+        "oyveotesi_neighborhood_id": 6927
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "ÇAĞLAYAN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-caglayan-koyu",
+        "oyveotesi_neighborhood_id": 6936
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "ÖZDİREK KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-ozdirek-koyu",
+        "oyveotesi_neighborhood_id": 6954
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "CEYLANLI KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-ceylanli-koyu",
+        "oyveotesi_neighborhood_id": 6939
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "DANAKIRAN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-danakiran-koyu",
+        "oyveotesi_neighborhood_id": 6946
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "DEMİRKAPI KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-demirkapi-koyu",
+        "oyveotesi_neighborhood_id": 6922
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "EKİNCİK KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-ekincik-koyu",
+        "oyveotesi_neighborhood_id": 6955
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "ERDOĞAN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-erdogan-koyu",
+        "oyveotesi_neighborhood_id": 50205
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "ESENÖREN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-esenoren-koyu",
+        "oyveotesi_neighborhood_id": 50135
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "GÜLTEPE KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-gultepe-koyu",
+        "oyveotesi_neighborhood_id": 6949
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "GÜMÜŞKUŞAK KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-gumuskusak-koyu",
+        "oyveotesi_neighborhood_id": 6923
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KAÇMAZ KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kacmaz-koyu",
+        "oyveotesi_neighborhood_id": 6934
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KALE MAH.",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kale-mah",
+        "oyveotesi_neighborhood_id": 6947
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KAMIŞLI KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kamisli-koyu",
+        "oyveotesi_neighborhood_id": 50180
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KANDİLDAĞI KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-kandildagi-koyu",
+        "oyveotesi_neighborhood_id": 6917
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KARADOĞU KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-karadogu-koyu",
+        "oyveotesi_neighborhood_id": 6932
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KARAKAZAN KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-karakazan-koyu",
+        "oyveotesi_neighborhood_id": 6928
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-hamur",
+        "mahalle": "KARLICA KÖYÜ",
+        "ilce_adi": "HAMUR",
+        "mahalle_id": "agri-hamur-karlica-koyu",
+        "oyveotesi_neighborhood_id": 6941
+    }
+]

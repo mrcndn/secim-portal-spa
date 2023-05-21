@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-seyitgazi",
+        "mahalle": "SANCAR MAH.",
+        "ilce_adi": "SEYİTGAZİ",
+        "okul_adi": "SANCAR İ.Ö.O.",
+        "sandik_no": 1051,
+        "mahalle_id": "eskisehir-seyitgazi-sancar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 121,
+            "sayim_sonuc": {
+                "TOPLAM": 121,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1051/eskisehir-seyitgazi-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "646181",
+            "oyveotesi_sync_timestamp": 1684341762
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 120,
+            "sayim_sonuc": {
+                "TOPLAM": 120,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1051/eskisehir-seyitgazi-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "646181",
+            "oyveotesi_sync_timestamp": 1684341762
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

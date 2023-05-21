@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-kuyucak",
+        "mahalle": "GENCELLİ MAH.",
+        "ilce_adi": "KUYUCAK",
+        "okul_adi": "GENCELLİ ORTAOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "aydin-kuyucak-gencelli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394505
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 138
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1028/aydin-kuyucak-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394505
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-kuyucak",
+        "mahalle": "GENCELLİ MAH.",
+        "ilce_adi": "KUYUCAK",
+        "okul_adi": "GENCELLİ ORTAOKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "aydin-kuyucak-gencelli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 41,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 105,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1027/aydin-kuyucak-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "631514",
+            "oyveotesi_sync_timestamp": 1684394505
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 306,
+            "sayim_sonuc": {
+                "TOPLAM": 306,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1027/aydin-kuyucak-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "631514",
+            "oyveotesi_sync_timestamp": 1684394505
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

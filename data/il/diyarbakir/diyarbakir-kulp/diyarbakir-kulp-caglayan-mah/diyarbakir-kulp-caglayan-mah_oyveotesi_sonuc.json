@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-kulp",
+        "mahalle": "ÇAĞLAYAN MAH.",
+        "ilce_adi": "KULP",
+        "okul_adi": "ZEYREK KÖYÜ İLK.ÖĞR.OK.",
+        "sandik_no": 1023,
+        "mahalle_id": "diyarbakir-kulp-caglayan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 75,
+            "sayim_sonuc": {
+                "TOPLAM": 75,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-kulp/1xxx/1023/diyarbakir-kulp-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "487045",
+            "oyveotesi_sync_timestamp": 1684337558
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "487045",
+            "oyveotesi_sync_timestamp": 1684337558
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

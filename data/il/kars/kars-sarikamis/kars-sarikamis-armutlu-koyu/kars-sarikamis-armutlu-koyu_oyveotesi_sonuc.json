@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-sarikamis",
+        "mahalle": "ARMUTLU KÖYÜ",
+        "ilce_adi": "SARIKAMIŞ",
+        "okul_adi": "ARMUTLU İLKOKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "kars-sarikamis-armutlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346932
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346932
+        },
+        "secim_bolge_id": "kars"
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-sarikamis",
+        "mahalle": "ARMUTLU KÖYÜ",
+        "ilce_adi": "SARIKAMIŞ",
+        "okul_adi": "ARMUTLU İLKOKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "kars-sarikamis-armutlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 172,
+            "sayim_sonuc": {
+                "TOPLAM": 172,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-sarikamis/1xxx/1041/kars-sarikamis-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "775728",
+            "oyveotesi_sync_timestamp": 1684346932
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "775728",
+            "oyveotesi_sync_timestamp": 1684346932
+        },
+        "secim_bolge_id": "kars"
+    }
+]

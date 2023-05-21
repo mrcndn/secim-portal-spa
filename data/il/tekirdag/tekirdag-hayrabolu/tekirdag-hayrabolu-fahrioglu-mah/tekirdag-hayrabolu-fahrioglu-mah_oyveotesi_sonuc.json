@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-hayrabolu",
+        "mahalle": "FAHRİOĞLU MAH.",
+        "ilce_adi": "HAYRABOLU",
+        "okul_adi": "FAHRİOĞLU MAH. KAHVEHANESİ",
+        "sandik_no": 1034,
+        "mahalle_id": "tekirdag-hayrabolu-fahrioglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368617
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1034/tekirdag-hayrabolu-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368617
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

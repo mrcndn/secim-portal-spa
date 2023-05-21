@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-yenicaga",
+        "mahalle": "KEMALLER KÖYÜ",
+        "ilce_adi": "YENİÇAĞA",
+        "okul_adi": "KEMALLER KÖY ODASI",
+        "sandik_no": 1022,
+        "mahalle_id": "bolu-yenicaga-kemaller-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1022/bolu-yenicaga-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "605220",
+            "oyveotesi_sync_timestamp": 1684334289
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1022/bolu-yenicaga-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "605220",
+            "oyveotesi_sync_timestamp": 1684334289
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

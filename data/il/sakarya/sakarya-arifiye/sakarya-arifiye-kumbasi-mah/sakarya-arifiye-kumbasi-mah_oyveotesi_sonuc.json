@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-arifiye",
+        "mahalle": "KUMBAŞI MAH.",
+        "ilce_adi": "ARİFİYE",
+        "okul_adi": "KUMBAŞI KURAN KURSU",
+        "sandik_no": 1084,
+        "mahalle_id": "sakarya-arifiye-kumbasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-arifiye/1xxx/1084/sakarya-arifiye-1084-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "756851",
+            "oyveotesi_sync_timestamp": 1684357330
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-arifiye/1xxx/1084/sakarya-arifiye-1084-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "756851",
+            "oyveotesi_sync_timestamp": 1684357330
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

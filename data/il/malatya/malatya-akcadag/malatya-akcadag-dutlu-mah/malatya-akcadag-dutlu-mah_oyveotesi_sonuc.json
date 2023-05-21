@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-akcadag",
+        "mahalle": "DUTLU MAH.",
+        "ilce_adi": "AKÇADAĞ",
+        "okul_adi": "DUTLU İLKOKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "malatya-akcadag-dutlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-akcadag/1xxx/1044/malatya-akcadag-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "302647",
+            "oyveotesi_sync_timestamp": 1684350843
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 38,
+            "sayim_sonuc": {
+                "TOPLAM": 38,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-akcadag/1xxx/1044/malatya-akcadag-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "302647",
+            "oyveotesi_sync_timestamp": 1684350843
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

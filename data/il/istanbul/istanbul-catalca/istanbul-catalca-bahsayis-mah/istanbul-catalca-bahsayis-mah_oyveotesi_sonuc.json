@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-catalca",
+        "mahalle": "BAHŞAYİŞ MAH.",
+        "ilce_adi": "ÇATALCA",
+        "okul_adi": "BAHŞAYİŞ KÖY BİNASI",
+        "sandik_no": 1010,
+        "mahalle_id": "istanbul-catalca-bahsayis-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 78,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "334971",
+            "oyveotesi_sync_timestamp": 1684344596
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "334971",
+            "oyveotesi_sync_timestamp": 1684344596
+        },
+        "secim_bolge_id": "istanbul3"
+    }
+]

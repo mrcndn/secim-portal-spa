@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-tasova",
+        "mahalle": "MÜLKBÜKÜ KÖYÜ",
+        "ilce_adi": "TAŞOVA",
+        "okul_adi": "MÜLKBÜKÜ KÖYÜ KONAĞI",
+        "sandik_no": 1081,
+        "mahalle_id": "amasya-tasova-mulkbuku-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 65,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 92,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-tasova/1xxx/1081/amasya-tasova-1081-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819591",
+            "oyveotesi_sync_timestamp": 1684325435
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-tasova/1xxx/1081/amasya-tasova-1081-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819591",
+            "oyveotesi_sync_timestamp": 1684325435
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

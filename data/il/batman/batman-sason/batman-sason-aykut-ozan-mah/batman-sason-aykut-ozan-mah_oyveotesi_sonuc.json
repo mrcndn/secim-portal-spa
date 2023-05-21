@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-sason",
+        "mahalle": "AYKUT OZAN MAH.",
+        "ilce_adi": "SASON",
+        "okul_adi": "YUNUS EMRE ORTA OKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "batman-sason-aykut-ozan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332779
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332779
+        },
+        "secim_bolge_id": "batman"
+    },
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-sason",
+        "mahalle": "AYKUT OZAN MAH.",
+        "ilce_adi": "SASON",
+        "okul_adi": "YUNUS EMRE ORTA OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "batman-sason-aykut-ozan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SOL PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 112,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-sason/1xxx/1005/batman-sason-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "366670",
+            "oyveotesi_sync_timestamp": 1684332779
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-sason/1xxx/1005/batman-sason-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "366670",
+            "oyveotesi_sync_timestamp": 1684332779
+        },
+        "secim_bolge_id": "batman"
+    }
+]

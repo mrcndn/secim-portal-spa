@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "KÖPÜRLÜ KÖYÜ",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "KÖPÜRLÜ KÖY KONAĞI",
+        "sandik_no": 1036,
+        "mahalle_id": "cankiri-kursunlu-kopurlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336637
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1036/cankiri-kursunlu-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336637
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

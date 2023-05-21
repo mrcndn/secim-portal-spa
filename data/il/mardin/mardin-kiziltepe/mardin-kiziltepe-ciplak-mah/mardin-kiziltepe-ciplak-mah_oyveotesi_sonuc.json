@@ -1,0 +1,83 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-kiziltepe",
+        "mahalle": "ÇIPLAK MAH.",
+        "ilce_adi": "KIZILTEPE",
+        "okul_adi": "ÇIPLAK İLKOKULU",
+        "sandik_no": 1129,
+        "mahalle_id": "mardin-kiziltepe-ciplak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 98
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-kiziltepe/1xxx/1129/mardin-kiziltepe-1129-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "342829",
+            "oyveotesi_sync_timestamp": 1684353263
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 155,
+            "sayim_sonuc": {
+                "TOPLAM": 155,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 120,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-kiziltepe/1xxx/1129/mardin-kiziltepe-1129-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "342829",
+            "oyveotesi_sync_timestamp": 1684353263
+        },
+        "secim_bolge_id": "mardin"
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-kiziltepe",
+        "mahalle": "ÇIPLAK MAH.",
+        "ilce_adi": "KIZILTEPE",
+        "okul_adi": "ÇIPLAK İLKOKULU",
+        "sandik_no": 1130,
+        "mahalle_id": "mardin-kiziltepe-ciplak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353263
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "KEMAL KILIÇDAROĞLU": 167,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-kiziltepe/1xxx/1130/mardin-kiziltepe-1130-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353263
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

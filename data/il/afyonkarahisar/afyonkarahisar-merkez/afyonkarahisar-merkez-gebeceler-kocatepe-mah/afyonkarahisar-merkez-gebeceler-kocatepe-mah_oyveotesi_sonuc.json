@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-merkez",
+        "mahalle": "GEBECELER-KOCATEPE MAH.",
+        "ilce_adi": "AFYONKARAHİSAR MERKEZ",
+        "okul_adi": "GEBECELER İLKOKULU",
+        "sandik_no": 1317,
+        "mahalle_id": "afyonkarahisar-merkez-gebeceler-kocatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 115,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/1xxx/1317/afyonkarahisar-merkez-1317-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "800882",
+            "oyveotesi_sync_timestamp": 1684324554
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/1xxx/1317/afyonkarahisar-merkez-1317-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "800882",
+            "oyveotesi_sync_timestamp": 1684324554
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-merkez",
+        "mahalle": "GEBECELER-KOCATEPE MAH.",
+        "ilce_adi": "AFYONKARAHİSAR MERKEZ",
+        "okul_adi": "GEBECELER İLKOKULU",
+        "sandik_no": 1316,
+        "mahalle_id": "afyonkarahisar-merkez-gebeceler-kocatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324554
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/1xxx/1316/afyonkarahisar-merkez-1316-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324554
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

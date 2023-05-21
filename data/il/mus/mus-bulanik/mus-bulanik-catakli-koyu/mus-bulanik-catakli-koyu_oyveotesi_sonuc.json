@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-bulanik",
+        "mahalle": "ÇATAKLI KÖYÜ",
+        "ilce_adi": "BULANIK",
+        "okul_adi": "ÇATAKLI İLKOKULU",
+        "sandik_no": 1096,
+        "mahalle_id": "mus-bulanik-catakli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-bulanik/1xxx/1096/mus-bulanik-1096-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "180498",
+            "oyveotesi_sync_timestamp": 1684393785
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 175,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-bulanik/1xxx/1096/mus-bulanik-1096-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "180498",
+            "oyveotesi_sync_timestamp": 1684393785
+        },
+        "secim_bolge_id": "mus"
+    }
+]

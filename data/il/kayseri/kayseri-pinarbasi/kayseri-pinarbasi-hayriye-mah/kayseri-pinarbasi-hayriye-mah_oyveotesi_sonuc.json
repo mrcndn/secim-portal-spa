@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-pinarbasi",
+        "mahalle": "HAYRİYE MAH.",
+        "ilce_adi": "PINARBAŞI",
+        "okul_adi": "HAYRİYE KÖYÜ İLKOKULU",
+        "sandik_no": 1054,
+        "mahalle_id": "kayseri-pinarbasi-hayriye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359289
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-pinarbasi/1xxx/1054/kayseri-pinarbasi-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359289
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

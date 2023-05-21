@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "ilce_id": "yalova-cinarcik",
+        "mahalle": "TEŞVİKİYE-İSTİKLAL MAH.",
+        "ilce_adi": "ÇINARCIK",
+        "okul_adi": "TEŞVİKİYE CUMHURİYET İLKOKULU",
+        "sandik_no": 1070,
+        "mahalle_id": "yalova-cinarcik-tesvikiye-istiklal-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 154,
+            "sayim_sonuc": {
+                "TOPLAM": 154,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 8,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-cinarcik/1xxx/1070/yalova-cinarcik-1070-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570512",
+            "oyveotesi_sync_timestamp": 1684363266
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-cinarcik/1xxx/1070/yalova-cinarcik-1070-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570512",
+            "oyveotesi_sync_timestamp": 1684363266
+        },
+        "secim_bolge_id": "yalova"
+    },
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "ilce_id": "yalova-cinarcik",
+        "mahalle": "TEŞVİKİYE-İSTİKLAL MAH.",
+        "ilce_adi": "ÇINARCIK",
+        "okul_adi": "TEŞVİKİYE CUMHURİYET İLKOKULU",
+        "sandik_no": 1071,
+        "mahalle_id": "yalova-cinarcik-tesvikiye-istiklal-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363266
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-cinarcik/1xxx/1071/yalova-cinarcik-1071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363266
+        },
+        "secim_bolge_id": "yalova"
+    }
+]

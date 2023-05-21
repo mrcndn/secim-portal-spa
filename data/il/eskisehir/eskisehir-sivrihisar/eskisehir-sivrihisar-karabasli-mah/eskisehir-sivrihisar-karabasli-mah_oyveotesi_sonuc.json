@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "KARABAŞLI MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "KARABAŞLI MAH.SELMANİ FARİSİ İMAM HATİP ORTAOKULU",
+        "sandik_no": 1052,
+        "mahalle_id": "eskisehir-sivrihisar-karabasli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 4,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1052/eskisehir-sivrihisar-1052-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232626",
+            "oyveotesi_sync_timestamp": 1684341818
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1052/eskisehir-sivrihisar-1052-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232626",
+            "oyveotesi_sync_timestamp": 1684341818
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

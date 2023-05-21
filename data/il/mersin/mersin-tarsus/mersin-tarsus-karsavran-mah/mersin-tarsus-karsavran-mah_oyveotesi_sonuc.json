@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "KARSAVRAN MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "KARSAVRAN MAH. OKUL BİNASI",
+        "sandik_no": 2115,
+        "mahalle_id": "mersin-tarsus-karsavran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363595
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2115/mersin-tarsus-2115-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363595
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

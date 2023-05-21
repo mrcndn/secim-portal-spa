@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "KIZILCASÖĞÜT-BARIŞ MAH.",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "KIZILCASÖĞÜT İLKOKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "usak-banaz-kizilcasogut-baris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1040/usak-banaz-1040-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816654",
+            "oyveotesi_sync_timestamp": 1684369765
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1040/usak-banaz-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816654",
+            "oyveotesi_sync_timestamp": 1684369765
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "KIZILCASÖĞÜT-BARIŞ MAH.",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "KIZILCASÖĞÜT İLKOKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "usak-banaz-kizilcasogut-baris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369765
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1041/usak-banaz-1041-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369765
+        },
+        "secim_bolge_id": "usak"
+    }
+]

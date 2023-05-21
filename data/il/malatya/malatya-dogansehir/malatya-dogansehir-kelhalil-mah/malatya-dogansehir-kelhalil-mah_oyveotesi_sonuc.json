@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-dogansehir",
+        "mahalle": "KELHALİL MAH.",
+        "ilce_adi": "DOĞANŞEHİR",
+        "okul_adi": "KELHALİL MAHALLESİ KÜLTÜREVİ",
+        "sandik_no": 1054,
+        "mahalle_id": "malatya-dogansehir-kelhalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 128,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-dogansehir/1xxx/1054/malatya-dogansehir-1054-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176370",
+            "oyveotesi_sync_timestamp": 1684351215
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 157,
+                "RECEP TAYYİP ERDOĞAN": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-dogansehir/1xxx/1054/malatya-dogansehir-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176370",
+            "oyveotesi_sync_timestamp": 1684351215
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

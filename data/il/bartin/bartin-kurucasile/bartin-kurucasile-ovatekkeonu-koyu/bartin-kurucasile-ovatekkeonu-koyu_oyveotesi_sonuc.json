@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-kurucasile",
+        "mahalle": "OVATEKKEÖNÜ KÖYÜ",
+        "ilce_adi": "KURUCAŞİLE",
+        "okul_adi": "HİSAR PİRİ REİS İLKÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "bartin-kurucasile-ovatekkeonu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1027/bartin-kurucasile-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463543",
+            "oyveotesi_sync_timestamp": 1684331178
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 85,
+            "sayim_sonuc": {
+                "TOPLAM": 85,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1027/bartin-kurucasile-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463543",
+            "oyveotesi_sync_timestamp": 1684331178
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

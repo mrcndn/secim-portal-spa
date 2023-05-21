@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-atabey",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "ATABEY",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "isparta-atabey-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "İYİ PARTİ": 48,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 6,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 89,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 51,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-atabey/1xxx/1013/isparta-atabey-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "238552",
+            "oyveotesi_sync_timestamp": 1684343968
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-atabey/1xxx/1013/isparta-atabey-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "238552",
+            "oyveotesi_sync_timestamp": 1684343968
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-atabey",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "ATABEY",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "isparta-atabey-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343968
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 175
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-atabey/1xxx/1012/isparta-atabey-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343968
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

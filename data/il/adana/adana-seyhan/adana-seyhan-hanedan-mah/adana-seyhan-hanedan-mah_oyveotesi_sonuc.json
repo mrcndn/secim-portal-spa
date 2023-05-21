@@ -1,0 +1,87 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "HANEDAN MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "PLEVNE İLK OKULU",
+        "sandik_no": 2237,
+        "mahalle_id": "adana-seyhan-hanedan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370908
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 130,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/2xxx/2237/adana-seyhan-2237-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370908
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "HANEDAN MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "PLEVNE İLK OKULU",
+        "sandik_no": 2238,
+        "mahalle_id": "adana-seyhan-hanedan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 14,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 94,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/2xxx/2238/adana-seyhan-2238-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "251474",
+            "oyveotesi_sync_timestamp": 1684370908
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/2xxx/2238/adana-seyhan-2238-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "251474",
+            "oyveotesi_sync_timestamp": 1684370908
+        },
+        "secim_bolge_id": "adana"
+    }
+]

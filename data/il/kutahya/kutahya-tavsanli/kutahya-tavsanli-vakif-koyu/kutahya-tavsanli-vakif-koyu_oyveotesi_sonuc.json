@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-tavsanli",
+        "mahalle": "VAKIF KÖYÜ",
+        "ilce_adi": "TAVŞANLI",
+        "okul_adi": "VAKIF KÖYÜ DÜĞÜN SALONU",
+        "sandik_no": 1285,
+        "mahalle_id": "kutahya-tavsanli-vakif-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350806
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1285/kutahya-tavsanli-1285-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350806
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "ŞEHİTLİK KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "ŞEHİTLİK KÖYÜ ÇAY ALIM YERİ",
+        "sandik_no": 1096,
+        "mahalle_id": "rize-pazar-sehitlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "GÜÇ BİRLİĞİ PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 130,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1096/rize-pazar-1096-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "503615",
+            "oyveotesi_sync_timestamp": 1684355886
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 264,
+            "sayim_sonuc": {
+                "TOPLAM": 264,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1096/rize-pazar-1096-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "503615",
+            "oyveotesi_sync_timestamp": 1684355886
+        },
+        "secim_bolge_id": "rize"
+    }
+]

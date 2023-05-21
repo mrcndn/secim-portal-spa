@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-akhisar",
+        "mahalle": "İSACA MAH.",
+        "ilce_adi": "AKHİSAR",
+        "okul_adi": "İSACA KÖYÜ İLKOKULU",
+        "sandik_no": 1240,
+        "mahalle_id": "manisa-akhisar-isaca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397303
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1240/manisa-akhisar-1240-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397303
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-akhisar",
+        "mahalle": "İSACA MAH.",
+        "ilce_adi": "AKHİSAR",
+        "okul_adi": "İSACA KÖYÜ İLKOKULU",
+        "sandik_no": 1239,
+        "mahalle_id": "manisa-akhisar-isaca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 116,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1239/manisa-akhisar-1239-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816605",
+            "oyveotesi_sync_timestamp": 1684397303
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1239/manisa-akhisar-1239-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816605",
+            "oyveotesi_sync_timestamp": 1684397303
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

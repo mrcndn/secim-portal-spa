@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-karaisali",
+        "mahalle": "MERKEZBOZTAHTA MAH.",
+        "ilce_adi": "KARAİSALI",
+        "okul_adi": "MERKEZ BOZTAHTA İLKÖĞRETİM OKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "adana-karaisali-merkezboztahta-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 177,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-karaisali/1xxx/1065/adana-karaisali-1065-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "507419",
+            "oyveotesi_sync_timestamp": 1684371258
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "507419",
+            "oyveotesi_sync_timestamp": 1684371258
+        },
+        "secim_bolge_id": "adana"
+    }
+]

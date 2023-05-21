@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-tepebasi",
+        "mahalle": "KARAGÖZLER MAH.",
+        "ilce_adi": "TEPEBAŞI",
+        "okul_adi": "KARAGÖZLER İLKOKULU",
+        "sandik_no": 1242,
+        "mahalle_id": "eskisehir-tepebasi-karagozler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/1xxx/1242/eskisehir-tepebasi-1242-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173931",
+            "oyveotesi_sync_timestamp": 1684341905
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/1xxx/1242/eskisehir-tepebasi-1242-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173931",
+            "oyveotesi_sync_timestamp": 1684341905
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

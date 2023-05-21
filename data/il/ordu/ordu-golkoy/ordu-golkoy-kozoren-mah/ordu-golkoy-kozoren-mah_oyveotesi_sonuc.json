@@ -1,0 +1,100 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-golkoy",
+        "mahalle": "KOZÖREN MAH.",
+        "ilce_adi": "GÖLKÖY",
+        "okul_adi": "KOZÖREN MAHALLESİ CUMHURİYET İLK OKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "ordu-golkoy-kozoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 129,
+                "ADALET VE KALKINMA PARTİSİ": 12,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-golkoy/1xxx/1065/ordu-golkoy-1065-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818919",
+            "oyveotesi_sync_timestamp": 1684360479
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 152,
+                "RECEP TAYYİP ERDOĞAN": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-golkoy/1xxx/1065/ordu-golkoy-1065-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818919",
+            "oyveotesi_sync_timestamp": 1684360479
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-golkoy",
+        "mahalle": "KOZÖREN MAH.",
+        "ilce_adi": "GÖLKÖY",
+        "okul_adi": "KOZÖREN MAHALLESİ CUMHURİYET İLK OKULU",
+        "sandik_no": 1066,
+        "mahalle_id": "ordu-golkoy-kozoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 138,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-golkoy/1xxx/1066/ordu-golkoy-1066-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "813483",
+            "oyveotesi_sync_timestamp": 1684360479
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "813483",
+            "oyveotesi_sync_timestamp": 1684360479
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

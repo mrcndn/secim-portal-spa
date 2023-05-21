@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-pamukova",
+        "mahalle": "KAZIMİYE MAH.",
+        "ilce_adi": "PAMUKOVA",
+        "okul_adi": "KAZİMİYE MAH. İLKÖĞ. OKULU",
+        "sandik_no": 1057,
+        "mahalle_id": "sakarya-pamukova-kazimiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357307
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1057/sakarya-pamukova-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357307
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

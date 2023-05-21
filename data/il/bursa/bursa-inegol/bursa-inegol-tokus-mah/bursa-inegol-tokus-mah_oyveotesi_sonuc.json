@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "TOKUŞ MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "TOKUŞ KÖY KONAĞI",
+        "sandik_no": 2221,
+        "mahalle_id": "bursa-inegol-tokus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "836305",
+            "oyveotesi_sync_timestamp": 1684334732
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "836305",
+            "oyveotesi_sync_timestamp": 1684334732
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

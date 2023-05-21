@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "DERİNCE KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "YURTTUTAN KÖYÜ HAMURPET İLKÖĞRETİM OKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "mus-varto-derince-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "İYİ PARTİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1044/mus-varto-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "186573",
+            "oyveotesi_sync_timestamp": 1684393680
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1044/mus-varto-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "186573",
+            "oyveotesi_sync_timestamp": 1684393680
+        },
+        "secim_bolge_id": "mus"
+    }
+]

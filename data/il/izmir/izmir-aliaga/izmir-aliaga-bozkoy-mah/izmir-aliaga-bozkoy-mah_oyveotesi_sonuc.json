@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-aliaga",
+        "mahalle": "BOZKÖY MAH.",
+        "ilce_adi": "ALİAĞA",
+        "okul_adi": "BOZKÖY D.D.Ç. İLKOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "izmir-aliaga-bozkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "824592",
+            "oyveotesi_sync_timestamp": 1684362750
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "824592",
+            "oyveotesi_sync_timestamp": 1684362750
+        },
+        "secim_bolge_id": "izmir2"
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-aliaga",
+        "mahalle": "BOZKÖY MAH.",
+        "ilce_adi": "ALİAĞA",
+        "okul_adi": "BOZKÖY D.D.Ç. İLKOKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "izmir-aliaga-bozkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684362750
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 21,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684362750
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

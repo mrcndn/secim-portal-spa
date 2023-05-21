@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "nigde",
+        "il_adi": "NİĞDE",
+        "il_kodu": 51,
+        "ilce_id": "nigde-bor",
+        "mahalle": "KEMERHİSAR-KEMER MAH.",
+        "ilce_adi": "BOR",
+        "okul_adi": "KEMERHİSAR CUMHURİYET İLKOKULU",
+        "sandik_no": 1115,
+        "mahalle_id": "nigde-bor-kemerhisar-kemer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366787
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 187,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nigde-tutanaklari/blob/main/tutanak/nigde/nigde-bor/1xxx/1115/nigde-bor-1115-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366787
+        },
+        "secim_bolge_id": "nigde"
+    },
+    {
+        "il_id": "nigde",
+        "il_adi": "NİĞDE",
+        "il_kodu": 51,
+        "ilce_id": "nigde-bor",
+        "mahalle": "KEMERHİSAR-KEMER MAH.",
+        "ilce_adi": "BOR",
+        "okul_adi": "KEMERHİSAR CUMHURİYET İLKOKULU",
+        "sandik_no": 1116,
+        "mahalle_id": "nigde-bor-kemerhisar-kemer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 145,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nigde-tutanaklari/blob/main/tutanak/nigde/nigde-bor/1xxx/1116/nigde-bor-1116-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "724386",
+            "oyveotesi_sync_timestamp": 1684366787
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 178,
+                "RECEP TAYYİP ERDOĞAN": 98
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nigde-tutanaklari/blob/main/tutanak/nigde/nigde-bor/1xxx/1116/nigde-bor-1116-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "724386",
+            "oyveotesi_sync_timestamp": 1684366787
+        },
+        "secim_bolge_id": "nigde"
+    }
+]

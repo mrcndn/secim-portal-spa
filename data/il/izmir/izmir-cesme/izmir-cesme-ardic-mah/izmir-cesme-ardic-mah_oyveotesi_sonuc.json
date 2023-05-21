@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-cesme",
+        "mahalle": "ARDIÇ MAH.",
+        "ilce_adi": "ÇEŞME",
+        "okul_adi": "MUSTAFA BAHÇELİ İLK VE ORTAOKULU",
+        "sandik_no": 1035,
+        "mahalle_id": "izmir-cesme-ardic-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684362006
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 159,
+                "RECEP TAYYİP ERDOĞAN": 45
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684362006
+        },
+        "secim_bolge_id": "izmir1"
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-cesme",
+        "mahalle": "ARDIÇ MAH.",
+        "ilce_adi": "ÇEŞME",
+        "okul_adi": "MUSTAFA BAHÇELİ İLK VE ORTAOKULU",
+        "sandik_no": 1036,
+        "mahalle_id": "izmir-cesme-ardic-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 103,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 24
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "643810",
+            "oyveotesi_sync_timestamp": 1684362006
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 149,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "643810",
+            "oyveotesi_sync_timestamp": 1684362006
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "DEĞİRMENÖNÜ MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "DEĞİRMENÖNÜ MAHALLESİ KONAĞI",
+        "sandik_no": 1045,
+        "mahalle_id": "ankara-kizilcahamam-degirmenonu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395387
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395387
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

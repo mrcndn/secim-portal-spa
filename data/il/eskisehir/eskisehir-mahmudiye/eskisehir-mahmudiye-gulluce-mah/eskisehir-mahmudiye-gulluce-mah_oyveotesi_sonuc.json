@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-mahmudiye",
+        "mahalle": "GÜLLÜCE MAH.",
+        "ilce_adi": "MAHMUDİYE",
+        "okul_adi": "GÜLLÜCE İLKÖĞRETİM OKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "eskisehir-mahmudiye-gulluce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 38,
+            "sayim_sonuc": {
+                "TOPLAM": 38,
+                "İYİ PARTİ": 8,
+                "ZAFER PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-mahmudiye/1xxx/1007/eskisehir-mahmudiye-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015938",
+            "oyveotesi_sync_timestamp": 1684341541
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 38,
+            "sayim_sonuc": {
+                "TOPLAM": 38,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-mahmudiye/1xxx/1007/eskisehir-mahmudiye-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015938",
+            "oyveotesi_sync_timestamp": 1684341541
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

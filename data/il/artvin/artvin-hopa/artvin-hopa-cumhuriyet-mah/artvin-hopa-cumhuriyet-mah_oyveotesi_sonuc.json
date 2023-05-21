@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-hopa",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "HOPA",
+        "okul_adi": "CUMHURİYET İLKOKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "artvin-hopa-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361764
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 81
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-hopa/1xxx/1003/artvin-hopa-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361764
+        },
+        "secim_bolge_id": "artvin"
+    },
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-hopa",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "HOPA",
+        "okul_adi": "CUMHURİYET İLKOKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "artvin-hopa-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 9,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-hopa/1xxx/1004/artvin-hopa-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814291",
+            "oyveotesi_sync_timestamp": 1684361764
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-hopa/1xxx/1004/artvin-hopa-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814291",
+            "oyveotesi_sync_timestamp": 1684361764
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-turkeli",
+        "mahalle": "GENCEK KÖYÜ",
+        "ilce_adi": "TÜRKELİ",
+        "okul_adi": "GENCEK ÇAYAĞZI MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "sinop-turkeli-gencek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353052
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 162
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-turkeli/1xxx/1028/sinop-turkeli-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353052
+        },
+        "secim_bolge_id": "sinop"
+    },
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-turkeli",
+        "mahalle": "GENCEK KÖYÜ",
+        "ilce_adi": "TÜRKELİ",
+        "okul_adi": "GENCEK MERKEZ İLKÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "sinop-turkeli-gencek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353052
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 62,
+            "sayim_sonuc": {
+                "TOPLAM": 62,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-turkeli/1xxx/1027/sinop-turkeli-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353052
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

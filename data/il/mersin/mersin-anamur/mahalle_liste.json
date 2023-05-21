@@ -1,0 +1,562 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "SAĞLIK MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-saglik-mah",
+        "oyveotesi_neighborhood_id": 23124
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "AKARCA MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-akarca-mah",
+        "oyveotesi_neighborhood_id": 23170
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "AKDENİZ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-akdeniz-mah",
+        "oyveotesi_neighborhood_id": 23134
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "AKİNE MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-akine-mah",
+        "oyveotesi_neighborhood_id": 23151
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ALATAŞ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-alatas-mah",
+        "oyveotesi_neighborhood_id": 23167
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ANITLI MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-anitli-mah",
+        "oyveotesi_neighborhood_id": 23144
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "AŞAĞIKÜKÜR MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-asagikukur-mah",
+        "oyveotesi_neighborhood_id": 23125
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 23121
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "BAHÇE MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-bahce-mah",
+        "oyveotesi_neighborhood_id": 23168
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "BOĞUNTU MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-boguntu-mah",
+        "oyveotesi_neighborhood_id": 23145
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "BOZDOĞAN MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-bozdogan-mah",
+        "oyveotesi_neighborhood_id": 23126
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÇALTIBÜKÜ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-caltibuku-mah",
+        "oyveotesi_neighborhood_id": 23159
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÇAMLIPINARALANI MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-camlipinaralani-mah",
+        "oyveotesi_neighborhood_id": 23154
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÇAMLIPINAR MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-camlipinar-mah",
+        "oyveotesi_neighborhood_id": 23165
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÇARIKLAR MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-cariklar-mah",
+        "oyveotesi_neighborhood_id": 23143
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÇATALOLUK MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-cataloluk-mah",
+        "oyveotesi_neighborhood_id": 23139
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÇELTİKÇİ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-celtikci-mah",
+        "oyveotesi_neighborhood_id": 23132
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÇUKURABANOZ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-cukurabanoz-mah",
+        "oyveotesi_neighborhood_id": 23175
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "DEMİRÖREN MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-demiroren-mah",
+        "oyveotesi_neighborhood_id": 23160
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "EMİRŞAH MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-emirsah-mah",
+        "oyveotesi_neighborhood_id": 23161
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-esentepe-mah",
+        "oyveotesi_neighborhood_id": 23166
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "EVCİLER MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-evciler-mah",
+        "oyveotesi_neighborhood_id": 23146
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-fatih-mah",
+        "oyveotesi_neighborhood_id": 23135
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "GERCEBAHŞİŞ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-gercebahsis-mah",
+        "oyveotesi_neighborhood_id": 23152
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "GÖKTAŞ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-goktas-mah",
+        "oyveotesi_neighborhood_id": 23162
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "GÜLEÇ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-gulec-mah",
+        "oyveotesi_neighborhood_id": 23137
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "GÜNEYBAHŞİŞ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-guneybahsis-mah",
+        "oyveotesi_neighborhood_id": 23148
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "GÜNGÖREN MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-gungoren-mah",
+        "oyveotesi_neighborhood_id": 23173
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "GÜZELYURT MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-guzelyurt-mah",
+        "oyveotesi_neighborhood_id": 23138
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "İSKELE MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-iskele-mah",
+        "oyveotesi_neighborhood_id": 23140
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KALINÖREN MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-kalinoren-mah",
+        "oyveotesi_neighborhood_id": 23174
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KARAAĞA MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-karaaga-mah",
+        "oyveotesi_neighborhood_id": 23122
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KARAÇUKUR MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-karacukur-mah",
+        "oyveotesi_neighborhood_id": 23129
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KARADERE MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-karadere-mah",
+        "oyveotesi_neighborhood_id": 23123
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KARALARBAHŞİŞ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-karalarbahsis-mah",
+        "oyveotesi_neighborhood_id": 23155
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KAŞDİŞLEN MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-kasdislen-mah",
+        "oyveotesi_neighborhood_id": 23149
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KILIÇ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-kilic-mah",
+        "oyveotesi_neighborhood_id": 23150
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KIZILALİLER MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-kizilaliler-mah",
+        "oyveotesi_neighborhood_id": 23136
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-koprubasi-mah",
+        "oyveotesi_neighborhood_id": 23156
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KORUCUK MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-korucuk-mah",
+        "oyveotesi_neighborhood_id": 23147
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "LALE MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-lale-mah",
+        "oyveotesi_neighborhood_id": 23153
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "MALAKLAR MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-malaklar-mah",
+        "oyveotesi_neighborhood_id": 23163
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ÖREN MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-oren-mah",
+        "oyveotesi_neighborhood_id": 23176
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "ORMANCIK MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-ormancik-mah",
+        "oyveotesi_neighborhood_id": 23142
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "OVABAŞI MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-ovabasi-mah",
+        "oyveotesi_neighborhood_id": 23133
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "SARAY MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-saray-mah",
+        "oyveotesi_neighborhood_id": 23171
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "SARIAĞAÇ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-sariagac-mah",
+        "oyveotesi_neighborhood_id": 23157
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "SARIDANA MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-saridana-mah",
+        "oyveotesi_neighborhood_id": 23127
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "SUGÖZÜ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-sugozu-mah",
+        "oyveotesi_neighborhood_id": 23172
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "SULTAN ALAADDİN MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-sultan-alaaddin-mah",
+        "oyveotesi_neighborhood_id": 23164
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "TOROSLAR MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-toroslar-mah",
+        "oyveotesi_neighborhood_id": 23130
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "UÇARI MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-ucari-mah",
+        "oyveotesi_neighborhood_id": 23158
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "YALIEVLERİ MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-yalievleri-mah",
+        "oyveotesi_neighborhood_id": 23131
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-yesilyurt-mah",
+        "oyveotesi_neighborhood_id": 23169
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "YILDIRIM BEYAZIT MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-yildirim-beyazit-mah",
+        "oyveotesi_neighborhood_id": 23128
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "YUKARI KÜKÜR MAH.",
+        "ilce_adi": "ANAMUR",
+        "mahalle_id": "mersin-anamur-yukari-kukur-mah",
+        "oyveotesi_neighborhood_id": 49542
+    }
+]

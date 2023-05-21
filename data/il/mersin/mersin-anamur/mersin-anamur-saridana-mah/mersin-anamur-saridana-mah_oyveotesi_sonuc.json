@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "SARIDANA MAH.",
+        "ilce_adi": "ANAMUR",
+        "okul_adi": "SARIDANA KÖY KONAĞI",
+        "sandik_no": 1146,
+        "mahalle_id": "mersin-anamur-saridana-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363887
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 56
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1146/mersin-anamur-1146-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363887
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

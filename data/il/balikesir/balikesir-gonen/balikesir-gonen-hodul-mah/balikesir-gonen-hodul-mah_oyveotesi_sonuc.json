@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-gonen",
+        "mahalle": "HODUL MAH.",
+        "ilce_adi": "GÖNEN",
+        "okul_adi": "HODUL MAH KÖY KAHVEHANESİ",
+        "sandik_no": 1081,
+        "mahalle_id": "balikesir-gonen-hodul-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 9,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 87,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1081/balikesir-gonen-1081-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "341343",
+            "oyveotesi_sync_timestamp": 1684331850
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1081/balikesir-gonen-1081-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "341343",
+            "oyveotesi_sync_timestamp": 1684331850
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

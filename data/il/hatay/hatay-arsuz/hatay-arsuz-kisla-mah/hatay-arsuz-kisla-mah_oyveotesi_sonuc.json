@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "KIŞLA MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "KIŞLA M.ALİ ALPAYDIN İLKOKULU",
+        "sandik_no": 1153,
+        "mahalle_id": "hatay-arsuz-kisla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1153/hatay-arsuz-1153-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "249647",
+            "oyveotesi_sync_timestamp": 1684375269
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 175
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1153/hatay-arsuz-1153-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "249647",
+            "oyveotesi_sync_timestamp": 1684375269
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "KIŞLA MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "KIŞLA M.ALİ ALPAYDIN İLKOKULU",
+        "sandik_no": 1154,
+        "mahalle_id": "hatay-arsuz-kisla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375269
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 181
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1154/hatay-arsuz-1154-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375269
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

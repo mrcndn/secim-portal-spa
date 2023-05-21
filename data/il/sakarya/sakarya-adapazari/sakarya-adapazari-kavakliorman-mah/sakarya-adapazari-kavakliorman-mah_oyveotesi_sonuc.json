@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "KAVAKLIORMAN MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "KAVAKLIORMAN ESKİ İLKOKULU",
+        "sandik_no": 2146,
+        "mahalle_id": "sakarya-adapazari-kavakliorman-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357468
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 244
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2146/sakarya-adapazari-2146-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357468
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

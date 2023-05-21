@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "TAŞLIK KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "okul_adi": "TAŞLIK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1110,
+        "mahalle_id": "giresun-gorele-taslik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343233
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1110/giresun-gorele-1110-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343233
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

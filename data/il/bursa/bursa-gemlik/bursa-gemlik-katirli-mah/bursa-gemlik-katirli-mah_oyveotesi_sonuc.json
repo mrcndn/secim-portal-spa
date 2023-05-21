@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-gemlik",
+        "mahalle": "KATIRLI MAH.",
+        "ilce_adi": "GEMLİK",
+        "okul_adi": "KATIRLI MAH. ESKİ İLKOKULU",
+        "sandik_no": 1191,
+        "mahalle_id": "bursa-gemlik-katirli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 15,
+                "ADALET PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 126,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "787510",
+            "oyveotesi_sync_timestamp": 1684329007
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 207
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "787510",
+            "oyveotesi_sync_timestamp": 1684329007
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-mengen",
+        "mahalle": "KÖPRÜBAŞI KÖYÜ",
+        "ilce_adi": "MENGEN",
+        "okul_adi": "KÖPRÜBAŞI KÖYÜ İLKOKULU",
+        "sandik_no": 1062,
+        "mahalle_id": "bolu-mengen-koprubasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 69,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-mengen/1xxx/1062/bolu-mengen-1062-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790851",
+            "oyveotesi_sync_timestamp": 1684334144
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 69,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-mengen/1xxx/1062/bolu-mengen-1062-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790851",
+            "oyveotesi_sync_timestamp": 1684334144
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

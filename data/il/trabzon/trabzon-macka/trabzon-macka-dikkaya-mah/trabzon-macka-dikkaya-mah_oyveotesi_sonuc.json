@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-macka",
+        "mahalle": "DİKKAYA MAH.",
+        "ilce_adi": "MAÇKA",
+        "okul_adi": "DİKKAYA MAHALLESİ ESKİ SAĞLIK OCAĞI BİNASI",
+        "sandik_no": 1033,
+        "mahalle_id": "trabzon-macka-dikkaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366097
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366097
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-macka",
+        "mahalle": "DİKKAYA MAH.",
+        "ilce_adi": "MAÇKA",
+        "okul_adi": "DİKKAYA MAHALLESİ YUKARI MEVKİ LOJMANI",
+        "sandik_no": 1034,
+        "mahalle_id": "trabzon-macka-dikkaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366097
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-macka/1xxx/1034/trabzon-macka-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366097
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

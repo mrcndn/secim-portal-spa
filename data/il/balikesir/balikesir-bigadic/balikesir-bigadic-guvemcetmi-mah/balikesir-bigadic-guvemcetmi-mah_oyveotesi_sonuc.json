@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "GÜVEMÇETMİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "okul_adi": "GÜVEMÇETMİ İLKOKULU",
+        "sandik_no": 1076,
+        "mahalle_id": "balikesir-bigadic-guvemcetmi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 279,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bigadic/1xxx/1076/balikesir-bigadic-1076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331547
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "GÜVEMÇETMİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "okul_adi": "GÜVEMÇETMİ İLKOKULU",
+        "sandik_no": 1075,
+        "mahalle_id": "balikesir-bigadic-guvemcetmi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 225,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bigadic/1xxx/1075/balikesir-bigadic-1075-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "233372",
+            "oyveotesi_sync_timestamp": 1684331547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 262,
+                "RECEP TAYYİP ERDOĞAN": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bigadic/1xxx/1075/balikesir-bigadic-1075-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "233372",
+            "oyveotesi_sync_timestamp": 1684331547
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "NERGİZLİK MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "NERGİZLİK İLKOKULU",
+        "sandik_no": 1187,
+        "mahalle_id": "hatay-arsuz-nergizlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 266,
+            "sayim_sonuc": {
+                "TOPLAM": 266,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 70,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1187/hatay-arsuz-1187-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184461",
+            "oyveotesi_sync_timestamp": 1684375294
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 267,
+            "sayim_sonuc": {
+                "TOPLAM": 267,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 216
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1187/hatay-arsuz-1187-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184461",
+            "oyveotesi_sync_timestamp": 1684375294
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "NERGİZLİK MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "NERGİZLİK İLKOKULU",
+        "sandik_no": 1188,
+        "mahalle_id": "hatay-arsuz-nergizlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375294
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 210
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1188/hatay-arsuz-1188-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375294
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

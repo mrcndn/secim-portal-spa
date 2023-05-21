@@ -1,0 +1,52 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-gudul",
+        "mahalle": "KAMANLAR MAH.",
+        "ilce_adi": "GÜDÜL",
+        "okul_adi": "KAMANLAR MAHALLE KONAĞI",
+        "sandik_no": 1018,
+        "mahalle_id": "ankara-gudul-kamanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "500344",
+            "oyveotesi_sync_timestamp": 1684395268
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "500344",
+            "oyveotesi_sync_timestamp": 1684395268
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "HOCAKÖY",
+        "ilce_adi": "ULUS",
+        "okul_adi": "HOCA KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1067,
+        "mahalle_id": "bartin-ulus-hocakoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1067/bartin-ulus-1067-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199957",
+            "oyveotesi_sync_timestamp": 1684328218
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1067/bartin-ulus-1067-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199957",
+            "oyveotesi_sync_timestamp": 1684328218
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-karahalli",
+        "mahalle": "KIRKYAREN KÖYÜ",
+        "ilce_adi": "KARAHALLI",
+        "okul_adi": "KIRKYAREN KÖYÜ-HALİL AĞAOĞLU İLKÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "usak-karahalli-kirkyaren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "İYİ PARTİ": 27,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 117,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-karahalli/1xxx/1027/usak-karahalli-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510668",
+            "oyveotesi_sync_timestamp": 1684369868
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 149,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-karahalli/1xxx/1027/usak-karahalli-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510668",
+            "oyveotesi_sync_timestamp": 1684369868
+        },
+        "secim_bolge_id": "usak"
+    }
+]

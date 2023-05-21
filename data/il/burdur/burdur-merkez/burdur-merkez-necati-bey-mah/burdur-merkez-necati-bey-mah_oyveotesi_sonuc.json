@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-merkez",
+        "mahalle": "NECATİ BEY MAH.",
+        "ilce_adi": "BURDUR MERKEZ",
+        "okul_adi": "ŞEHİT HAKAN AKTÜRK ÖZEL EĞİTİM MESLEK OKULU",
+        "sandik_no": 1151,
+        "mahalle_id": "burdur-merkez-necati-bey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 14,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-merkez/1xxx/1151/burdur-merkez-1151-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "204960",
+            "oyveotesi_sync_timestamp": 1684334451
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-merkez/1xxx/1151/burdur-merkez-1151-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "204960",
+            "oyveotesi_sync_timestamp": 1684334451
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

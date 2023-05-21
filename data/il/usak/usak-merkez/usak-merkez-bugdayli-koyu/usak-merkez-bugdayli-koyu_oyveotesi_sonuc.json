@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "BUĞDAYLI KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "BUĞDAYLI KÖY KONAĞI",
+        "sandik_no": 1490,
+        "mahalle_id": "usak-merkez-bugdayli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369652
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1490/usak-merkez-1490-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369652
+        },
+        "secim_bolge_id": "usak"
+    }
+]

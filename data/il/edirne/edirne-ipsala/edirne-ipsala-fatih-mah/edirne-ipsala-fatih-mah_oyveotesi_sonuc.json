@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-ipsala",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "İPSALA",
+        "okul_adi": "FATİH MAHALLESİ KAHVEHANESİ",
+        "sandik_no": 1010,
+        "mahalle_id": "edirne-ipsala-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338430
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-ipsala/1xxx/1010/edirne-ipsala-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338430
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

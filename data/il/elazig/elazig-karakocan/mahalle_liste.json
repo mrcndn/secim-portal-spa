@@ -1,0 +1,962 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AĞAMEZRASI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-agamezrasi-koyu",
+        "oyveotesi_neighborhood_id": 21217
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AKARBAŞI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-akarbasi-koyu",
+        "oyveotesi_neighborhood_id": 21190
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AKBULAK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-akbulak-koyu",
+        "oyveotesi_neighborhood_id": 21255
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AKÇİÇEK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-akcicek-koyu",
+        "oyveotesi_neighborhood_id": 21250
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AKKUŞ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-akkus-koyu",
+        "oyveotesi_neighborhood_id": 50356
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AKPINAR KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-akpinar-koyu",
+        "oyveotesi_neighborhood_id": 50379
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AKYOKUŞ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-akyokus-koyu",
+        "oyveotesi_neighborhood_id": 21191
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ALABAL KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-alabal-koyu",
+        "oyveotesi_neighborhood_id": 21215
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ALAYAĞMUR KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-alayagmur-koyu",
+        "oyveotesi_neighborhood_id": 49645
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ALTINOLUK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-altinoluk-koyu",
+        "oyveotesi_neighborhood_id": 21216
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "AŞAĞIOVACIK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-asagiovacik-koyu",
+        "oyveotesi_neighborhood_id": 21226
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BAĞLIAĞAÇ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-bagliagac-koyu",
+        "oyveotesi_neighborhood_id": 21208
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BAHÇECİK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-bahcecik-koyu",
+        "oyveotesi_neighborhood_id": 21200
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 21192
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BALCALI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-balcali-koyu",
+        "oyveotesi_neighborhood_id": 50124
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BARDAKLI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-bardakli-koyu",
+        "oyveotesi_neighborhood_id": 50375
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BAŞYURT KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-basyurt-koyu",
+        "oyveotesi_neighborhood_id": 21247
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BAZLAMA KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-bazlama-koyu",
+        "oyveotesi_neighborhood_id": 21207
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BEYDERE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-beydere-koyu",
+        "oyveotesi_neighborhood_id": 50419
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "BULGURCUK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-bulgurcuk-koyu",
+        "oyveotesi_neighborhood_id": 21209
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇALIKAYA KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-calikaya-koyu",
+        "oyveotesi_neighborhood_id": 21235
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇAMARDI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-camardi-koyu",
+        "oyveotesi_neighborhood_id": 21225
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇANAKÇI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-canakci-koyu",
+        "oyveotesi_neighborhood_id": 21214
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇAN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-can-koyu",
+        "oyveotesi_neighborhood_id": 21241
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇATALYOL KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-catalyol-koyu",
+        "oyveotesi_neighborhood_id": 21202
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇAVUŞYOLU KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-cavusyolu-koyu",
+        "oyveotesi_neighborhood_id": 21260
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇAYIRDAM KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-cayirdam-koyu",
+        "oyveotesi_neighborhood_id": 21213
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇAYIRGÜLÜ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-cayirgulu-koyu",
+        "oyveotesi_neighborhood_id": 21242
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇELEBİ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-celebi-koyu",
+        "oyveotesi_neighborhood_id": 21205
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÇİTAK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-citak-koyu",
+        "oyveotesi_neighborhood_id": 21236
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "CUMHURİYET KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-cumhuriyet-koyu",
+        "oyveotesi_neighborhood_id": 21243
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DEMİRDELEN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-demirdelen-koyu",
+        "oyveotesi_neighborhood_id": 21203
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DEMİRTAŞ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-demirtas-koyu",
+        "oyveotesi_neighborhood_id": 50398
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DEMİRTEPE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-demirtepe-koyu",
+        "oyveotesi_neighborhood_id": 21227
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DEVECİ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-deveci-koyu",
+        "oyveotesi_neighborhood_id": 21204
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DOĞANOĞLU KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-doganoglu-koyu",
+        "oyveotesi_neighborhood_id": 21256
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DUMLUYAZI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-dumluyazi-koyu",
+        "oyveotesi_neighborhood_id": 49957
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DURMUŞKÖY",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-durmuskoy",
+        "oyveotesi_neighborhood_id": 21210
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "GÖLPINAR MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-golpinar-mah",
+        "oyveotesi_neighborhood_id": 21194
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "GÖZEREK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-gozerek-koyu",
+        "oyveotesi_neighborhood_id": 21251
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "GÜLLÜCE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-gulluce-koyu",
+        "oyveotesi_neighborhood_id": 21232
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "GÜMÜŞAKAR KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-gumusakar-koyu",
+        "oyveotesi_neighborhood_id": 50393
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "GÜNDEĞDİ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-gundegdi-koyu",
+        "oyveotesi_neighborhood_id": 21248
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "HAMURKESEN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-hamurkesen-koyu",
+        "oyveotesi_neighborhood_id": 50383
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "HAMZALI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-hamzali-koyu",
+        "oyveotesi_neighborhood_id": 21228
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "İSABEY KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-isabey-koyu",
+        "oyveotesi_neighborhood_id": 21261
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KALECİK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kalecik-koyu",
+        "oyveotesi_neighborhood_id": 21211
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KALKANKAYA KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kalkankaya-koyu",
+        "oyveotesi_neighborhood_id": 21185
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KARAÇAN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-karacan-koyu",
+        "oyveotesi_neighborhood_id": 49534
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KARAKOÇAN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-karakocan-koyu",
+        "oyveotesi_neighborhood_id": 21249
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KARAPINAR KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-karapinar-koyu",
+        "oyveotesi_neighborhood_id": 21229
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KARASAKAL KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-karasakal-koyu",
+        "oyveotesi_neighborhood_id": 49659
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 21244
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KAVAKDERE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kavakdere-koyu",
+        "oyveotesi_neighborhood_id": 21252
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KAVALCIK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kavalcik-koyu",
+        "oyveotesi_neighborhood_id": 21186
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KEKLİKKÖY",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-keklikkoy",
+        "oyveotesi_neighborhood_id": 21193
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KIRGIL KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kirgil-koyu",
+        "oyveotesi_neighborhood_id": 21187
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KIRKPINAR MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kirkpinar-mah",
+        "oyveotesi_neighborhood_id": 21195
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KIZILCA KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kizilca-koyu",
+        "oyveotesi_neighborhood_id": 21233
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KIZILPINAR KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kizilpinar-koyu",
+        "oyveotesi_neighborhood_id": 21196
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KOCADAYI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kocadayi-koyu",
+        "oyveotesi_neighborhood_id": 21188
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KOÇYİĞİTLER KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kocyigitler-koyu",
+        "oyveotesi_neighborhood_id": 21197
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KORUDİBİ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-korudibi-koyu",
+        "oyveotesi_neighborhood_id": 50086
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KÖRYUSUF KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-koryusuf-koyu",
+        "oyveotesi_neighborhood_id": 21253
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KULUBABA MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kulubaba-mah",
+        "oyveotesi_neighborhood_id": 21230
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KULUNDERE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kulundere-koyu",
+        "oyveotesi_neighborhood_id": 21198
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KÜMBET KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kumbet-koyu",
+        "oyveotesi_neighborhood_id": 21201
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KUŞBAYIRI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kusbayiri-koyu",
+        "oyveotesi_neighborhood_id": 21212
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KUŞÇU KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-kuscu-koyu",
+        "oyveotesi_neighborhood_id": 21199
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "MAHMUTLU KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-mahmutlu-koyu",
+        "oyveotesi_neighborhood_id": 21218
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "MAKSUTALİ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-maksutali-koyu",
+        "oyveotesi_neighborhood_id": 21257
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "MİRAHMET KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-mirahmet-koyu",
+        "oyveotesi_neighborhood_id": 21222
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "OKÇULAR KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-okcular-koyu",
+        "oyveotesi_neighborhood_id": 21189
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ORMANCIK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-ormancik-koyu",
+        "oyveotesi_neighborhood_id": 50397
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÖZLÜCE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-ozluce-koyu",
+        "oyveotesi_neighborhood_id": 50414
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "PAMUKLU KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-pamuklu-koyu",
+        "oyveotesi_neighborhood_id": 50425
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "PİLAVTEPE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-pilavtepe-koyu",
+        "oyveotesi_neighborhood_id": 49535
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "SAĞIN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-sagin-koyu",
+        "oyveotesi_neighborhood_id": 21237
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "SAĞUCAK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-sagucak-koyu",
+        "oyveotesi_neighborhood_id": 21219
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "SARIBAŞAK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-saribasak-koyu",
+        "oyveotesi_neighborhood_id": 21223
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "SARICAN-GÖLYAYLASI MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-sarican-golyaylasi-mah",
+        "oyveotesi_neighborhood_id": 21231
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "SARICAN-SUBAŞI MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-sarican-subasi-mah",
+        "oyveotesi_neighborhood_id": 21234
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "SARİHAN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-sarihan-koyu",
+        "oyveotesi_neighborhood_id": 49579
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "TEKARDIÇ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-tekardic-koyu",
+        "oyveotesi_neighborhood_id": 21238
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "TEPE MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-tepe-mah",
+        "oyveotesi_neighborhood_id": 21245
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "ÜÇBUDAK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-ucbudak-koyu",
+        "oyveotesi_neighborhood_id": 21206
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YALINTAŞ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yalintas-koyu",
+        "oyveotesi_neighborhood_id": 21239
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YENİCE KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yenice-koyu",
+        "oyveotesi_neighborhood_id": 21221
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YENİKAYA KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yenikaya-koyu",
+        "oyveotesi_neighborhood_id": 49938
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YENİKÖY",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yenikoy",
+        "oyveotesi_neighborhood_id": 21258
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yeni-mah",
+        "oyveotesi_neighborhood_id": 21220
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YEŞİLBELEN KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yesilbelen-koyu",
+        "oyveotesi_neighborhood_id": 21259
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YOĞUNAĞAÇ KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yogunagac-koyu",
+        "oyveotesi_neighborhood_id": 21240
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YÜCEKONAK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yucekonak-koyu",
+        "oyveotesi_neighborhood_id": 21224
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YUKARIOVACIK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yukariovacik-koyu",
+        "oyveotesi_neighborhood_id": 21246
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YÜZEV KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "mahalle_id": "elazig-karakocan-yuzev-koyu",
+        "oyveotesi_neighborhood_id": 21254
+    }
+]

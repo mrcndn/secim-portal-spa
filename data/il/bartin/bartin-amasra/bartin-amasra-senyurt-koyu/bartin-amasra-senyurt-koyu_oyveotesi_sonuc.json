@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "ŞENYURT KÖYÜ",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "ŞENYURT KÖY KONAĞI",
+        "sandik_no": 1041,
+        "mahalle_id": "bartin-amasra-senyurt-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 42,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1041/bartin-amasra-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "289583",
+            "oyveotesi_sync_timestamp": 1684327775
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 172,
+            "sayim_sonuc": {
+                "TOPLAM": 172,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 58
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1041/bartin-amasra-1041-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "289583",
+            "oyveotesi_sync_timestamp": 1684327775
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

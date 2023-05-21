@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-gazipasa",
+        "mahalle": "ÇİMENBAĞ MAH.",
+        "ilce_adi": "GAZİPAŞA",
+        "okul_adi": "ÇİMENBAĞ İ.Ö.O.",
+        "sandik_no": 1034,
+        "mahalle_id": "antalya-gazipasa-cimenbag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1034/antalya-gazipasa-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570910",
+            "oyveotesi_sync_timestamp": 1684325706
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 86,
+            "sayim_sonuc": {
+                "TOPLAM": 86,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1034/antalya-gazipasa-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570910",
+            "oyveotesi_sync_timestamp": 1684325706
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "HASANAĞA MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "HASANAĞA MAH. OKUL BİNASI",
+        "sandik_no": 2089,
+        "mahalle_id": "mersin-tarsus-hasanaga-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 153,
+            "sayim_sonuc": {
+                "TOPLAM": 153,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2089/mersin-tarsus-2089-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "634547",
+            "oyveotesi_sync_timestamp": 1684363615
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "634547",
+            "oyveotesi_sync_timestamp": 1684363615
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

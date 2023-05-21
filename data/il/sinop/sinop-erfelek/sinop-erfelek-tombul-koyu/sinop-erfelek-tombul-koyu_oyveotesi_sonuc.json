@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "TOMBUL KÖYÜ",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "TOMBUL KÖY ODASI",
+        "sandik_no": 1053,
+        "mahalle_id": "sinop-erfelek-tombul-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 11,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1053/sinop-erfelek-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369959",
+            "oyveotesi_sync_timestamp": 1684354200
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 120,
+            "sayim_sonuc": {
+                "TOPLAM": 120,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1053/sinop-erfelek-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369959",
+            "oyveotesi_sync_timestamp": 1684354200
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

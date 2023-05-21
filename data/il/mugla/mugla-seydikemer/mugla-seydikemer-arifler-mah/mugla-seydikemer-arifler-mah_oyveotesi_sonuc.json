@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "ARİFLER MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "ARİFLER İLKÖĞRETİM OKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "mugla-seydikemer-arifler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 32,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1004/mugla-seydikemer-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818324",
+            "oyveotesi_sync_timestamp": 1684374517
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 69,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1004/mugla-seydikemer-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818324",
+            "oyveotesi_sync_timestamp": 1684374517
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

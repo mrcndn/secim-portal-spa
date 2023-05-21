@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-merkez",
+        "mahalle": "YAVUZSELİM MAH.",
+        "ilce_adi": "KASTAMONU MERKEZ",
+        "okul_adi": "MERKEZ ORTA OKULU",
+        "sandik_no": 1249,
+        "mahalle_id": "kastamonu-merkez-yavuzselim-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348085
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 33,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-merkez/1xxx/1249/kastamonu-merkez-1249-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348085
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

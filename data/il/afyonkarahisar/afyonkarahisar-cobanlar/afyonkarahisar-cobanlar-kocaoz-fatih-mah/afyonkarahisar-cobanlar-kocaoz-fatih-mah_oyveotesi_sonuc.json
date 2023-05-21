@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cobanlar",
+        "mahalle": "KOCAÖZ-FATİH MAH.",
+        "ilce_adi": "ÇOBANLAR",
+        "okul_adi": "KOCAÖZ İLKOKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "afyonkarahisar-cobanlar-kocaoz-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 25,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 84,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cobanlar/1xxx/1027/afyonkarahisar-cobanlar-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "612095",
+            "oyveotesi_sync_timestamp": 1684328560
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cobanlar/1xxx/1027/afyonkarahisar-cobanlar-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "612095",
+            "oyveotesi_sync_timestamp": 1684328560
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cobanlar",
+        "mahalle": "KOCAÖZ-FATİH MAH.",
+        "ilce_adi": "ÇOBANLAR",
+        "okul_adi": "KOCAÖZ İLKOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "afyonkarahisar-cobanlar-kocaoz-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328560
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328560
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

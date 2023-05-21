@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "YEŞİLÇAT KÖYÜ",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "YEŞİLÇAT KÖYÜ İLK OKULU",
+        "sandik_no": 1385,
+        "mahalle_id": "erzincan-merkez-yesilcat-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1385/erzincan-merkez-1385-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172851",
+            "oyveotesi_sync_timestamp": 1684339601
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "KEMAL KILIÇDAROĞLU": 97,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1385/erzincan-merkez-1385-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172851",
+            "oyveotesi_sync_timestamp": 1684339601
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

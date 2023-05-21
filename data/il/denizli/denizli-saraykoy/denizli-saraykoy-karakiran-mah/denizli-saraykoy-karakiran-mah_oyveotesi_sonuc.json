@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-saraykoy",
+        "mahalle": "KARAKIRAN MAH.",
+        "ilce_adi": "SARAYKÖY",
+        "okul_adi": "KARAKIRAN KÖY KONAĞI",
+        "sandik_no": 1057,
+        "mahalle_id": "denizli-saraykoy-karakiran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 37,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-saraykoy/1xxx/1057/denizli-saraykoy-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "807752",
+            "oyveotesi_sync_timestamp": 1684365443
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 121,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-saraykoy/1xxx/1057/denizli-saraykoy-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "807752",
+            "oyveotesi_sync_timestamp": 1684365443
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

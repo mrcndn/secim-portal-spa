@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "EĞERLİDERE MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "EĞERLİDERE MAHALLESİ KONAĞI",
+        "sandik_no": 1053,
+        "mahalle_id": "ankara-kizilcahamam-egerlidere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395394
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 211
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395394
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

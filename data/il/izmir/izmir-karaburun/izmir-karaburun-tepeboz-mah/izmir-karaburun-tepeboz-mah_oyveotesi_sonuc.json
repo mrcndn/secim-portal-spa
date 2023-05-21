@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-karaburun",
+        "mahalle": "TEPEBOZ MAH.",
+        "ilce_adi": "KARABURUN",
+        "okul_adi": "TEPEBOZ KÖY ODASI",
+        "sandik_no": 1036,
+        "mahalle_id": "izmir-karaburun-tepeboz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 149,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "433017",
+            "oyveotesi_sync_timestamp": 1684361871
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 204,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "433017",
+            "oyveotesi_sync_timestamp": 1684361871
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

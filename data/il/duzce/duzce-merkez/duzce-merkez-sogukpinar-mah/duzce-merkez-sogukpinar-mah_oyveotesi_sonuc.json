@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "SOĞUKPINAR MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "SOĞUKPINAR MAH İLKOKULU",
+        "sandik_no": 1324,
+        "mahalle_id": "duzce-merkez-sogukpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338142
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 225
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1324/duzce-merkez-1324-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338142
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "SOĞUKPINAR MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "SOĞUKPINAR MAH İLKOKULU",
+        "sandik_no": 1325,
+        "mahalle_id": "duzce-merkez-sogukpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 173,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1325/duzce-merkez-1325-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "186580",
+            "oyveotesi_sync_timestamp": 1684338142
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 228
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1325/duzce-merkez-1325-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "186580",
+            "oyveotesi_sync_timestamp": 1684338142
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

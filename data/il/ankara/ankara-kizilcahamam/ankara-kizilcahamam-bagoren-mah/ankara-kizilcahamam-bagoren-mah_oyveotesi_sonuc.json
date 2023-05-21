@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "BAĞÖREN MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "BAĞÖREN MAHALLESİ KONAĞI",
+        "sandik_no": 1024,
+        "mahalle_id": "ankara-kizilcahamam-bagoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837294",
+            "oyveotesi_sync_timestamp": 1684395366
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837294",
+            "oyveotesi_sync_timestamp": 1684395366
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

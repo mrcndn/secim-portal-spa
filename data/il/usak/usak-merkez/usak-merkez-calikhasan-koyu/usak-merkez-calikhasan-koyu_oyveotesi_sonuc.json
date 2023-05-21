@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "ÇALIKHASAN KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "ÇALIKHASAN KÖYÜ İLKOKULU",
+        "sandik_no": 1492,
+        "mahalle_id": "usak-merkez-calikhasan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "İYİ PARTİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1492/usak-merkez-1492-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834173",
+            "oyveotesi_sync_timestamp": 1684369651
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1492/usak-merkez-1492-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834173",
+            "oyveotesi_sync_timestamp": 1684369651
+        },
+        "secim_bolge_id": "usak"
+    }
+]

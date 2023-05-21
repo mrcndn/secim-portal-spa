@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "ÇİMŞİT MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "ÇİMŞİT İLK OKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "ankara-golbasi-cimsit-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 246,
+            "sayim_sonuc": {
+                "TOPLAM": 246,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 47,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "473768",
+            "oyveotesi_sync_timestamp": 1684375949
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 251,
+            "sayim_sonuc": {
+                "TOPLAM": 251,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "473768",
+            "oyveotesi_sync_timestamp": 1684375949
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

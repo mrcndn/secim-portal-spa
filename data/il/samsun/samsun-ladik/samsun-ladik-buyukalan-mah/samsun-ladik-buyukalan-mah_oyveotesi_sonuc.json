@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "BÜYÜKALAN MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "BÜYÜKALAN MAH. MAHALLE ODASI",
+        "sandik_no": 1023,
+        "mahalle_id": "samsun-ladik-buyukalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 38,
+            "sayim_sonuc": {
+                "TOPLAM": 38,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1023/samsun-ladik-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "310467",
+            "oyveotesi_sync_timestamp": 1684367433
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "310467",
+            "oyveotesi_sync_timestamp": 1684367433
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

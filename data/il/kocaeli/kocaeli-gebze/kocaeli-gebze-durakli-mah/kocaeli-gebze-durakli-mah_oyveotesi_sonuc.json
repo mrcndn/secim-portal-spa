@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "DURAKLI MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "DURAKLI KÖYÜ DÜĞÜN SALONU",
+        "sandik_no": 2082,
+        "mahalle_id": "kocaeli-gebze-durakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 27,
+                "MİLLET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/2xxx/2082/kocaeli-gebze-2082-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "724955",
+            "oyveotesi_sync_timestamp": 1684349724
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "724955",
+            "oyveotesi_sync_timestamp": 1684349724
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

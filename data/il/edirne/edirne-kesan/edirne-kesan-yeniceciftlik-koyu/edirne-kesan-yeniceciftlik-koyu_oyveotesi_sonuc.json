@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "YENİCEÇİFTLİK KÖYÜ",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "YENİCEÇİFTLİK KÖY KONAĞI",
+        "sandik_no": 1206,
+        "mahalle_id": "edirne-kesan-yeniceciftlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338510
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 100,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1206/edirne-kesan-1206-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338510
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

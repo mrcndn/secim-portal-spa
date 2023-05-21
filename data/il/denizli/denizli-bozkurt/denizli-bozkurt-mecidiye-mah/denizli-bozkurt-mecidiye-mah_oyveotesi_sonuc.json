@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-bozkurt",
+        "mahalle": "MECİDİYE MAH.",
+        "ilce_adi": "BOZKURT",
+        "okul_adi": "MECİDİYE MAHALLESİ İLK OKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "denizli-bozkurt-mecidiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bozkurt/1xxx/1026/denizli-bozkurt-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835300",
+            "oyveotesi_sync_timestamp": 1684365918
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bozkurt/1xxx/1026/denizli-bozkurt-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835300",
+            "oyveotesi_sync_timestamp": 1684365918
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MEDRESE MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "MERKEZ İLKOKULU (TAŞMEKTEP) HAVZA",
+        "sandik_no": 1095,
+        "mahalle_id": "samsun-havza-medrese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367705
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1095/samsun-havza-1095-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367705
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MEDRESE MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "MERKEZ İLKOKULU (TAŞMEKTEP) HAVZA",
+        "sandik_no": 1096,
+        "mahalle_id": "samsun-havza-medrese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367705
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 69,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1096/samsun-havza-1096-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367705
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

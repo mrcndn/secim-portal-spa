@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-yakakent",
+        "mahalle": "KOZKÖY MAH.",
+        "ilce_adi": "YAKAKENT",
+        "okul_adi": "ÇOK PROGRAMLI ANADOLU LİSESİ",
+        "sandik_no": 1009,
+        "mahalle_id": "samsun-yakakent-kozkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "İYİ PARTİ": 43,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 91,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-yakakent/1xxx/1009/samsun-yakakent-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "327966",
+            "oyveotesi_sync_timestamp": 1684367225
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 143,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-yakakent/1xxx/1009/samsun-yakakent-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "327966",
+            "oyveotesi_sync_timestamp": 1684367225
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-yakakent",
+        "mahalle": "KOZKÖY MAH.",
+        "ilce_adi": "YAKAKENT",
+        "okul_adi": "ÇOK PROGRAMLI ANADOLU LİSESİ",
+        "sandik_no": 1010,
+        "mahalle_id": "samsun-yakakent-kozkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 42,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 72,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-yakakent/1xxx/1010/samsun-yakakent-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "357140",
+            "oyveotesi_sync_timestamp": 1684367225
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 303,
+            "sayim_sonuc": {
+                "TOPLAM": 303,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-yakakent/1xxx/1010/samsun-yakakent-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "357140",
+            "oyveotesi_sync_timestamp": 1684367225
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

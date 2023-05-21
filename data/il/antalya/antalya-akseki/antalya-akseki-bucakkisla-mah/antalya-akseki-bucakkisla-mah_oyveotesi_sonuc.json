@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-akseki",
+        "mahalle": "BUCAKKIŞLA MAH.",
+        "ilce_adi": "AKSEKİ",
+        "okul_adi": "BUCAKKIŞLA MAHALLESİ İLKOKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "antalya-akseki-bucakkisla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325469
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 33,
+            "sayim_sonuc": {
+                "TOPLAM": 33,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-akseki/1xxx/1008/antalya-akseki-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325469
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

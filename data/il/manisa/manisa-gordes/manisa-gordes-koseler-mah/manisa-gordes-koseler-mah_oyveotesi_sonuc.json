@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "KÖSELER MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "KÖSELER MAH. İLKOKULU",
+        "sandik_no": 1068,
+        "mahalle_id": "manisa-gordes-koseler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396693
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 154
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1068/manisa-gordes-1068-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396693
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "KÖSELER MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "KÖSELER MAH. İLKOKULU",
+        "sandik_no": 1069,
+        "mahalle_id": "manisa-gordes-koseler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 108,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1069/manisa-gordes-1069-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572894",
+            "oyveotesi_sync_timestamp": 1684396693
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1069/manisa-gordes-1069-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572894",
+            "oyveotesi_sync_timestamp": 1684396693
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

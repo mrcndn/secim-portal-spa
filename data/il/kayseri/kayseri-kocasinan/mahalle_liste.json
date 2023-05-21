@@ -1,0 +1,932 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "MOLU MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-molu-mah",
+        "oyveotesi_neighborhood_id": 23913
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "AHİ EVRAN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-ahi-evran-mah",
+        "oyveotesi_neighborhood_id": 23928
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "AKCATEPE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-akcatepe-mah",
+        "oyveotesi_neighborhood_id": 23920
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "AKİN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-akin-mah",
+        "oyveotesi_neighborhood_id": 23940
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ALSANCAK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-alsancak-mah",
+        "oyveotesi_neighborhood_id": 23887
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "AMARAT MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-amarat-mah",
+        "oyveotesi_neighborhood_id": 23941
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ARGINCIK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-argincik-mah",
+        "oyveotesi_neighborhood_id": 50548
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-barbaros-mah",
+        "oyveotesi_neighborhood_id": 23951
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BARSAMA MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-barsama-mah",
+        "oyveotesi_neighborhood_id": 23924
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BAYRAMHACI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-bayramhaci-mah",
+        "oyveotesi_neighborhood_id": 23973
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BEYAZŞEHİR MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-beyazsehir-mah",
+        "oyveotesi_neighborhood_id": 23935
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BEYDEĞİRMENİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-beydegirmeni-mah",
+        "oyveotesi_neighborhood_id": 23957
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BOĞAZKÖPRÜ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-bogazkopru-mah",
+        "oyveotesi_neighborhood_id": 23925
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BOYACI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-boyaci-mah",
+        "oyveotesi_neighborhood_id": 23969
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BOZTEPE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-boztepe-mah",
+        "oyveotesi_neighborhood_id": 23894
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "BUĞDAYLI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-bugdayli-mah",
+        "oyveotesi_neighborhood_id": 23926
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-camikebir-mah",
+        "oyveotesi_neighborhood_id": 50554
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ÇEVRİL MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-cevril-mah",
+        "oyveotesi_neighborhood_id": 49477
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "CIRGALAN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-cirgalan-mah",
+        "oyveotesi_neighborhood_id": 23872
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "DADAĞI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-dadagi-mah",
+        "oyveotesi_neighborhood_id": 23978
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "DORUKLU MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-doruklu-mah",
+        "oyveotesi_neighborhood_id": 23883
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "DÜVER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-duver-mah",
+        "oyveotesi_neighborhood_id": 23889
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "EBİÇ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-ebic-mah",
+        "oyveotesi_neighborhood_id": 49774
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ELAGÖZ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-elagoz-mah",
+        "oyveotesi_neighborhood_id": 23876
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ELMALI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-elmali-mah",
+        "oyveotesi_neighborhood_id": 23942
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "EMMİLER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-emmiler-mah",
+        "oyveotesi_neighborhood_id": 49749
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ERCİYESEVLER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-erciyesevler-mah",
+        "oyveotesi_neighborhood_id": 23896
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ERKİLET MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-erkilet-mah",
+        "oyveotesi_neighborhood_id": 50570
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ERTUĞRUL GAZİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-ertugrul-gazi-mah",
+        "oyveotesi_neighborhood_id": 50543
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ESKİÖMERLER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-eskiomerler-mah",
+        "oyveotesi_neighborhood_id": 23965
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "EYİM MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-eyim-mah",
+        "oyveotesi_neighborhood_id": 23921
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "FEVZİ ÇAKMAK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-fevzi-cakmak-mah",
+        "oyveotesi_neighborhood_id": 23908
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "FEVZİOĞLU MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-fevzioglu-mah",
+        "oyveotesi_neighborhood_id": 23873
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "GENERAL EMİR MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-general-emir-mah",
+        "oyveotesi_neighborhood_id": 49968
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "GEVHER NESİBE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-gevher-nesibe-mah",
+        "oyveotesi_neighborhood_id": 49444
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "GÖMEÇ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-gomec-mah",
+        "oyveotesi_neighborhood_id": 23878
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "GÜNEŞLİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-gunesli-mah",
+        "oyveotesi_neighborhood_id": 50640
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "HACI SAKİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-haci-saki-mah",
+        "oyveotesi_neighborhood_id": 23874
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "HASAN ARPA MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-hasan-arpa-mah",
+        "oyveotesi_neighborhood_id": 23927
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "HASANCI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-hasanci-mah",
+        "oyveotesi_neighborhood_id": 23905
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "HİMMETDEDE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-himmetdede-mah",
+        "oyveotesi_neighborhood_id": 23980
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "HIRKAKÖY MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-hirkakoy-mah",
+        "oyveotesi_neighborhood_id": 23952
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "HÖBEK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-hobek-mah",
+        "oyveotesi_neighborhood_id": 23879
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "HOCA AHMET YESEVİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-hoca-ahmet-yesevi-mah",
+        "oyveotesi_neighborhood_id": 23884
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KALKANCIK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kalkancik-mah",
+        "oyveotesi_neighborhood_id": 23955
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KARAHÖYÜK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-karahoyuk-mah",
+        "oyveotesi_neighborhood_id": 23885
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KARAKİMSE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-karakimse-mah",
+        "oyveotesi_neighborhood_id": 23971
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KAŞKÖY MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kaskoy-mah",
+        "oyveotesi_neighborhood_id": 23961
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KAYABAŞI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kayabasi-mah",
+        "oyveotesi_neighborhood_id": 23917
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KEMER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kemer-mah",
+        "oyveotesi_neighborhood_id": 23918
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KIZIK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kizik-mah",
+        "oyveotesi_neighborhood_id": 23911
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KOCASİNAN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kocasinan-mah",
+        "oyveotesi_neighborhood_id": 23912
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KUŞCAĞIZ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kuscagiz-mah",
+        "oyveotesi_neighborhood_id": 23898
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "KUŞÇU MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-kuscu-mah",
+        "oyveotesi_neighborhood_id": 23959
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "MAHZEMİN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-mahzemin-mah",
+        "oyveotesi_neighborhood_id": 49782
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "MEVLANA MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-mevlana-mah",
+        "oyveotesi_neighborhood_id": 23902
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "MİMARSİNAN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-mimarsinan-mah",
+        "oyveotesi_neighborhood_id": 23922
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "MİTHATPAŞA MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-mithatpasa-mah",
+        "oyveotesi_neighborhood_id": 23875
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "MOLLAHACI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-mollahaci-mah",
+        "oyveotesi_neighborhood_id": 23880
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "OBRUK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-obruk-mah",
+        "oyveotesi_neighborhood_id": 23933
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ORUÇREİS MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-orucreis-mah",
+        "oyveotesi_neighborhood_id": 23903
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "OSMANGAZİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-osmangazi-mah",
+        "oyveotesi_neighborhood_id": 50538
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "OYMAAĞAÇ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-oymaagac-mah",
+        "oyveotesi_neighborhood_id": 23909
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SAHABİYE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-sahabiye-mah",
+        "oyveotesi_neighborhood_id": 23891
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SALUR MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-salur-mah",
+        "oyveotesi_neighborhood_id": 23914
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SANAYİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-sanayi-mah",
+        "oyveotesi_neighborhood_id": 23949
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SANCAKTEPE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-sancaktepe-mah",
+        "oyveotesi_neighborhood_id": 23981
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SARAY BOSNA MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-saray-bosna-mah",
+        "oyveotesi_neighborhood_id": 23956
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SARAYCIK MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-saraycik-mah",
+        "oyveotesi_neighborhood_id": 23892
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ŞEKER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-seker-mah",
+        "oyveotesi_neighborhood_id": 23882
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SEYRANİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-seyrani-mah",
+        "oyveotesi_neighborhood_id": 23881
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "SÜMER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-sumer-mah",
+        "oyveotesi_neighborhood_id": 23915
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "TALATPAŞA MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-talatpasa-mah",
+        "oyveotesi_neighborhood_id": 23972
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "TAŞHAN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-tashan-mah",
+        "oyveotesi_neighborhood_id": 50680
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "TURGUT REİS MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-turgut-reis-mah",
+        "oyveotesi_neighborhood_id": 23886
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "UĞUREVLER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-ugurevler-mah",
+        "oyveotesi_neighborhood_id": 23895
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "VATAN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-vatan-mah",
+        "oyveotesi_neighborhood_id": 23923
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YAKUT MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yakut-mah",
+        "oyveotesi_neighborhood_id": 23982
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YAVUZLAR MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yavuzlar-mah",
+        "oyveotesi_neighborhood_id": 50545
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YAVUZ SELİM MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yavuz-selim-mah",
+        "oyveotesi_neighborhood_id": 50549
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YAZIR MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yazir-mah",
+        "oyveotesi_neighborhood_id": 23919
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YEMLİHA MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yemliha-mah",
+        "oyveotesi_neighborhood_id": 23977
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YENİDOĞAN MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yenidogan-mah",
+        "oyveotesi_neighborhood_id": 23963
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yeni-mah",
+        "oyveotesi_neighborhood_id": 23962
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YENİŞEHİR MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yenisehir-mah",
+        "oyveotesi_neighborhood_id": 23945
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YEŞİL MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yesil-mah",
+        "oyveotesi_neighborhood_id": 23950
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YILDIZEVLER MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yildizevler-mah",
+        "oyveotesi_neighborhood_id": 23893
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YUKARIHASİNLİ MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yukarihasinli-mah",
+        "oyveotesi_neighborhood_id": 23916
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YUNUS EMRE MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yunus-emre-mah",
+        "oyveotesi_neighborhood_id": 50553
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YÜREĞİL MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yuregil-mah",
+        "oyveotesi_neighborhood_id": 23937
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "YUVALI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-yuvali-mah",
+        "oyveotesi_neighborhood_id": 23899
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ZİYAGÖKALP MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-ziyagokalp-mah",
+        "oyveotesi_neighborhood_id": 23939
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ZÜMRÜT MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "mahalle_id": "kayseri-kocasinan-zumrut-mah",
+        "oyveotesi_neighborhood_id": 23938
+    }
+]

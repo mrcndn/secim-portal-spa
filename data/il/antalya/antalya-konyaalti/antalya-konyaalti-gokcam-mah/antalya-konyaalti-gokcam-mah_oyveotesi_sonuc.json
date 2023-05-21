@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-konyaalti",
+        "mahalle": "GÖKÇAM MAH.",
+        "ilce_adi": "KONYAALTI",
+        "okul_adi": "GÖKÇAM İLKOKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "antalya-konyaalti-gokcam-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 98,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 139,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-konyaalti/1xxx/1065/antalya-konyaalti-1065-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "472376",
+            "oyveotesi_sync_timestamp": 1684326038
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 139,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-konyaalti/1xxx/1065/antalya-konyaalti-1065-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "472376",
+            "oyveotesi_sync_timestamp": 1684326038
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

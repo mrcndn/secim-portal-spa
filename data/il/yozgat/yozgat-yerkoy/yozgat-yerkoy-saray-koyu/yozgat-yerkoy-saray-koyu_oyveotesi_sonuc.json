@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-yerkoy",
+        "mahalle": "SARAY KÖYÜ",
+        "ilce_adi": "YERKÖY",
+        "okul_adi": "SARAY YİBİTAŞ LAFARGE İLKÖĞRETİM KURUMU",
+        "sandik_no": 1109,
+        "mahalle_id": "yozgat-yerkoy-saray-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396088
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "SİNAN OĞAN": 27,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 196
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yerkoy/1xxx/1109/yozgat-yerkoy-1109-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396088
+        },
+        "secim_bolge_id": "yozgat"
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-yerkoy",
+        "mahalle": "SARAY KÖYÜ",
+        "ilce_adi": "YERKÖY",
+        "okul_adi": "SARAY YİBİTAŞ LAFARGE İLKÖĞRETİM KURUMU",
+        "sandik_no": 1108,
+        "mahalle_id": "yozgat-yerkoy-saray-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396088
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 251,
+            "sayim_sonuc": {
+                "TOPLAM": 251,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yerkoy/1xxx/1108/yozgat-yerkoy-1108-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396088
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

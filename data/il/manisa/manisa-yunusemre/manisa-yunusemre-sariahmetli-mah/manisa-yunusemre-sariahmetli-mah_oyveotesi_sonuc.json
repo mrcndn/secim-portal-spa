@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "SARIAHMETLİ MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "SARIAHMETLİ DÜĞÜN SALONU",
+        "sandik_no": 1433,
+        "mahalle_id": "manisa-yunusemre-sariahmetli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1433/manisa-yunusemre-1433-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "200838",
+            "oyveotesi_sync_timestamp": 1684397654
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 119,
+            "sayim_sonuc": {
+                "TOPLAM": 119,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 92
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1433/manisa-yunusemre-1433-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "200838",
+            "oyveotesi_sync_timestamp": 1684397654
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

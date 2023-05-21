@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BEYKÖY-KÜLTÜR MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BEYKÖY-KÜLTÜR MAH. ŞEHİT UFUK BAYSAN İLKOKULU",
+        "sandik_no": 1389,
+        "mahalle_id": "duzce-merkez-beykoy-kultur-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338020
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338020
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BEYKÖY-KÜLTÜR MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BEYKÖY-KÜLTÜR MAH. ŞEHİT UFUK BAYSAN İLKOKULU",
+        "sandik_no": 1390,
+        "mahalle_id": "duzce-merkez-beykoy-kultur-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 57,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 60,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1390/duzce-merkez-1390-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "408021",
+            "oyveotesi_sync_timestamp": 1684338020
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "408021",
+            "oyveotesi_sync_timestamp": 1684338020
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

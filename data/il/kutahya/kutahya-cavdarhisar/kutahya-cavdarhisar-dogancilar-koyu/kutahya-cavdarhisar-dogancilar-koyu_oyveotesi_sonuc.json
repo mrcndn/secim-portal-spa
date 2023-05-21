@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-cavdarhisar",
+        "mahalle": "DOĞANCILAR KÖYÜ",
+        "ilce_adi": "ÇAVDARHİSAR",
+        "okul_adi": "DOĞANCILAR KÖYÜ DÜĞÜN SALONU",
+        "sandik_no": 1015,
+        "mahalle_id": "kutahya-cavdarhisar-dogancilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 110,
+            "sayim_sonuc": {
+                "TOPLAM": 110,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-cavdarhisar/1xxx/1015/kutahya-cavdarhisar-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "526854",
+            "oyveotesi_sync_timestamp": 1684350097
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-cavdarhisar/1xxx/1015/kutahya-cavdarhisar-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "526854",
+            "oyveotesi_sync_timestamp": 1684350097
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

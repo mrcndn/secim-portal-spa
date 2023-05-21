@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "MESCİTLİ KÖYÜ",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "MESCİTLİ KÖYÜ İLKOKULU",
+        "sandik_no": 1346,
+        "mahalle_id": "mus-merkez-mescitli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 120,
+            "sayim_sonuc": {
+                "TOPLAM": 120,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 102
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1346/mus-merkez-1346-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177518",
+            "oyveotesi_sync_timestamp": 1684394030
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1346/mus-merkez-1346-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177518",
+            "oyveotesi_sync_timestamp": 1684394030
+        },
+        "secim_bolge_id": "mus"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-piraziz",
+        "mahalle": "ETLİKKIRAN MAH.",
+        "ilce_adi": "PİRAZİZ",
+        "okul_adi": "ETLİKKIRAN MAHALLE ODASI",
+        "sandik_no": 1004,
+        "mahalle_id": "giresun-piraziz-etlikkiran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-piraziz/1xxx/1004/giresun-piraziz-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "798512",
+            "oyveotesi_sync_timestamp": 1684343330
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 98,
+            "sayim_sonuc": {
+                "TOPLAM": 98,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-piraziz/1xxx/1004/giresun-piraziz-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "798512",
+            "oyveotesi_sync_timestamp": 1684343330
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

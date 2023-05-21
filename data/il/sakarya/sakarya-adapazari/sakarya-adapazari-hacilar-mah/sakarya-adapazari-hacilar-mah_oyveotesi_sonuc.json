@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "HACILAR MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "HACILAR ESKİ İLKOKUL",
+        "sandik_no": 2098,
+        "mahalle_id": "sakarya-adapazari-hacilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 10,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2098/sakarya-adapazari-2098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "774914",
+            "oyveotesi_sync_timestamp": 1684357488
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2098/sakarya-adapazari-2098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "774914",
+            "oyveotesi_sync_timestamp": 1684357488
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "HACILAR MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "HACILAR ESKİ İLKOKUL",
+        "sandik_no": 2099,
+        "mahalle_id": "sakarya-adapazari-hacilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357488
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2099/sakarya-adapazari-2099-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357488
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "KIZILCAYER MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "KIZILCAYER SAĞLIK EVİ",
+        "sandik_no": 1116,
+        "mahalle_id": "denizli-civril-kizilcayer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 33,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 101,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1116/denizli-civril-1116-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568570",
+            "oyveotesi_sync_timestamp": 1684365686
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 203,
+            "sayim_sonuc": {
+                "TOPLAM": 203,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 131,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1116/denizli-civril-1116-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568570",
+            "oyveotesi_sync_timestamp": 1684365686
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

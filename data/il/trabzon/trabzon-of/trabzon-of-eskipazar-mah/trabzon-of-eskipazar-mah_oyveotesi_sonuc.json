@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-of",
+        "mahalle": "ESKİPAZAR MAH.",
+        "ilce_adi": "OF",
+        "okul_adi": "ESKİPAZAR İLKÖĞRETİM OKULU",
+        "sandik_no": 1042,
+        "mahalle_id": "trabzon-of-eskipazar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366705
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366705
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-of",
+        "mahalle": "ESKİPAZAR MAH.",
+        "ilce_adi": "OF",
+        "okul_adi": "ESKİPAZAR İLKÖĞRETİM OKULU",
+        "sandik_no": 1043,
+        "mahalle_id": "trabzon-of-eskipazar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366705
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 225
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1043/trabzon-of-1043-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366705
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

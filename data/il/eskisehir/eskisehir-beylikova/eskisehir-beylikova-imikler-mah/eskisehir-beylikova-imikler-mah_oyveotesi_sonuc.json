@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-beylikova",
+        "mahalle": "İMİKLER MAH.",
+        "ilce_adi": "BEYLİKOVA",
+        "okul_adi": "İMİKLER MAHALLE KONAĞI",
+        "sandik_no": 1011,
+        "mahalle_id": "eskisehir-beylikova-imikler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341434
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 52,
+            "sayim_sonuc": {
+                "TOPLAM": 52,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1011/eskisehir-beylikova-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341434
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

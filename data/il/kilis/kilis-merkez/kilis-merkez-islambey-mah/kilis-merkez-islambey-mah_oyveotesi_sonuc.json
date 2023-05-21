@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "ilce_id": "kilis-merkez",
+        "mahalle": "İSLAMBEY MAH.",
+        "ilce_adi": "KİLİS MERKEZ",
+        "okul_adi": "CUMHURİYET ORTAOKULU",
+        "sandik_no": 1098,
+        "mahalle_id": "kilis-merkez-islambey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1098/kilis-merkez-1098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "239505",
+            "oyveotesi_sync_timestamp": 1684348544
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 105
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1098/kilis-merkez-1098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "239505",
+            "oyveotesi_sync_timestamp": 1684348544
+        },
+        "secim_bolge_id": "kilis"
+    }
+]

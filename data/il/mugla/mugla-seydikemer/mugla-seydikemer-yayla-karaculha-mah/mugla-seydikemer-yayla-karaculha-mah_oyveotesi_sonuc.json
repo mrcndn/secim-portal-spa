@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "YAYLA KARAÇULHA MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "YAYLA KARAÇULHA GÜREŞ SAHASINDAKİ BELEDİYE SOSYAL HİZMET BİNASI",
+        "sandik_no": 1156,
+        "mahalle_id": "mugla-seydikemer-yayla-karaculha-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374527
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374527
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "YAYLA KARAÇULHA MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "YAYLA KARAÇULHA GÜREŞ SAHASINDAKİ BELEDİYE SOSYAL HİZMET BİNASI",
+        "sandik_no": 1157,
+        "mahalle_id": "mugla-seydikemer-yayla-karaculha-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374527
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1157/mugla-seydikemer-1157-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374527
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

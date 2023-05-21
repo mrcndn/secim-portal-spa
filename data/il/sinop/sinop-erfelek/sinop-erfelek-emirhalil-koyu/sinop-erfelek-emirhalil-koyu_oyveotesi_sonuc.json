@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "EMİRHALİL KÖYÜ",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "EMİRHALİL KÖY KANAĞI",
+        "sandik_no": 1023,
+        "mahalle_id": "sinop-erfelek-emirhalil-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354195
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1023/sinop-erfelek-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354195
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

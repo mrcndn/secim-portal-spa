@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "ÇAYKIŞLA KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "ÇAYKIŞLA KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1018,
+        "mahalle_id": "amasya-goynucek-caykisla-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325177
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1018/amasya-goynucek-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325177
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

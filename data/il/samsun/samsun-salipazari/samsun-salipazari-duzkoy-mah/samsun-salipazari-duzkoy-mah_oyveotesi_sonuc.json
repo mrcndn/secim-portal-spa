@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-salipazari",
+        "mahalle": "DÜZKÖY MAH.",
+        "ilce_adi": "SALIPAZARI",
+        "okul_adi": "DÜZKÖY MAHALLESİ KÖY ODASI",
+        "sandik_no": 1016,
+        "mahalle_id": "samsun-salipazari-duzkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "İYİ PARTİ": 20,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-salipazari/1xxx/1016/samsun-salipazari-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784111",
+            "oyveotesi_sync_timestamp": 1684367750
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-salipazari/1xxx/1016/samsun-salipazari-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784111",
+            "oyveotesi_sync_timestamp": 1684367750
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

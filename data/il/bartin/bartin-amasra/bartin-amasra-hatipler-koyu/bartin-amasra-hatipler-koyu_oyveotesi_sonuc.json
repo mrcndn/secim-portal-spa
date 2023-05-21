@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "HATİPLER KÖYÜ",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "ÇAKRAZŞEYHLER ŞEHİT AHMET TELLİ İLKÖĞRETİM",
+        "sandik_no": 1030,
+        "mahalle_id": "bartin-amasra-hatipler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "ADALET VE KALKINMA PARTİSİ": 11,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1030/bartin-amasra-1030-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "350702",
+            "oyveotesi_sync_timestamp": 1684327760
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 73,
+            "sayim_sonuc": {
+                "TOPLAM": 73,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1030/bartin-amasra-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "350702",
+            "oyveotesi_sync_timestamp": 1684327760
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

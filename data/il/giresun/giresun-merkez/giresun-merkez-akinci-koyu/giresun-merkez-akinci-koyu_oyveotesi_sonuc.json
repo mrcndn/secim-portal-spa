@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "AKINCI KÖYÜ",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "AKINCI KÖYÜ KÖY ODASI",
+        "sandik_no": 1265,
+        "mahalle_id": "giresun-merkez-akinci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "İYİ PARTİ": 11,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1265/giresun-merkez-1265-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "820355",
+            "oyveotesi_sync_timestamp": 1684343063
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "820355",
+            "oyveotesi_sync_timestamp": 1684343063
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

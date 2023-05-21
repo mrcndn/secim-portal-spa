@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "İKİZYAKA KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "İKİZYAKA KÖYÜ SAĞLIK OCAĞI",
+        "sandik_no": 1029,
+        "mahalle_id": "amasya-goynucek-ikizyaka-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "İYİ PARTİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 119,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1029/amasya-goynucek-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026888",
+            "oyveotesi_sync_timestamp": 1684325187
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1029/amasya-goynucek-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026888",
+            "oyveotesi_sync_timestamp": 1684325187
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

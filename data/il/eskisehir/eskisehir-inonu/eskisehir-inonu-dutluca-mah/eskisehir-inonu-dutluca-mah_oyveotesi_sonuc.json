@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-inonu",
+        "mahalle": "DUTLUCA MAH.",
+        "ilce_adi": "İNÖNÜ",
+        "okul_adi": "DUTLUCA MAHALLE KONAĞI",
+        "sandik_no": 1005,
+        "mahalle_id": "eskisehir-inonu-dutluca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1005/eskisehir-inonu-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "274389",
+            "oyveotesi_sync_timestamp": 1684341521
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1005/eskisehir-inonu-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "274389",
+            "oyveotesi_sync_timestamp": 1684341521
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

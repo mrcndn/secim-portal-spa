@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-selcuklu",
+        "mahalle": "EĞRİBAYAT MAH.",
+        "ilce_adi": "SELÇUKLU",
+        "okul_adi": "EĞRİBAYAT MAHALLESİ SOSYAL TESİSİ",
+        "sandik_no": 3132,
+        "mahalle_id": "konya-selcuklu-egribayat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355012
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 244
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-selcuklu/3xxx/3132/konya-selcuklu-3132-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355012
+        },
+        "secim_bolge_id": "konya"
+    }
+]

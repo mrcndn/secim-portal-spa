@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ELMACIK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "okul_adi": "ELMACIK KÖYÜ DEĞİRMENCİK MAHALLESİ KÖY ODASI",
+        "sandik_no": 1059,
+        "mahalle_id": "bartin-ulus-elmacik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 77,
+            "sayim_sonuc": {
+                "TOPLAM": 77,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1059/bartin-ulus-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "298110",
+            "oyveotesi_sync_timestamp": 1684328205
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 82,
+            "sayim_sonuc": {
+                "TOPLAM": 82,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1059/bartin-ulus-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "298110",
+            "oyveotesi_sync_timestamp": 1684328205
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

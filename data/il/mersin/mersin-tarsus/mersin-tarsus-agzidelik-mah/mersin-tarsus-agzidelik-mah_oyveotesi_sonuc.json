@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "AĞZIDELİK MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "AĞZIDELİK MAH. OKUL BİNASI",
+        "sandik_no": 2001,
+        "mahalle_id": "mersin-tarsus-agzidelik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2001/mersin-tarsus-2001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "693145",
+            "oyveotesi_sync_timestamp": 1684363673
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2001/mersin-tarsus-2001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "693145",
+            "oyveotesi_sync_timestamp": 1684363673
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

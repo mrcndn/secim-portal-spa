@@ -1,0 +1,85 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-suloglu",
+        "mahalle": "GEÇKİNLİ KÖYÜ",
+        "ilce_adi": "SÜLOĞLU",
+        "okul_adi": "GEÇKİNLİ KÖYÜ İLK ÖĞRETİM OKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "edirne-suloglu-geckinli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338581
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 128,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-suloglu/1xxx/1012/edirne-suloglu-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338581
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-suloglu",
+        "mahalle": "GEÇKİNLİ KÖYÜ",
+        "ilce_adi": "SÜLOĞLU",
+        "okul_adi": "GEÇKİNLİ KÖYÜ İLK ÖĞRETİM OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "edirne-suloglu-geckinli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 49,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 73,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 47,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 4,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-suloglu/1xxx/1013/edirne-suloglu-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "679119",
+            "oyveotesi_sync_timestamp": 1684338581
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "679119",
+            "oyveotesi_sync_timestamp": 1684338581
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

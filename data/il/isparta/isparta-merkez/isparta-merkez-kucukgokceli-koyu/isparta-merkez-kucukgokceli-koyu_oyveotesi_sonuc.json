@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KÜÇÜKGÖKÇELİ KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "KÜÇÜKGÖKÇELİ KÖY KONAĞI",
+        "sandik_no": 1532,
+        "mahalle_id": "isparta-merkez-kucukgokceli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1532/isparta-merkez-1532-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "242217",
+            "oyveotesi_sync_timestamp": 1684344112
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1532/isparta-merkez-1532-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "242217",
+            "oyveotesi_sync_timestamp": 1684344112
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

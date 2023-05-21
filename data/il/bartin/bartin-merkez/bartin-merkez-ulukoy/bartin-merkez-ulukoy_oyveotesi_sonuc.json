@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ULUKÖY",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KÖY KONAĞI",
+        "sandik_no": 1379,
+        "mahalle_id": "bartin-merkez-ulukoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 78,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1379/bartin-merkez-1379-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "497484",
+            "oyveotesi_sync_timestamp": 1684328038
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1379/bartin-merkez-1379-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "497484",
+            "oyveotesi_sync_timestamp": 1684328038
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ULUKÖY",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KÖY KONAĞI",
+        "sandik_no": 1380,
+        "mahalle_id": "bartin-merkez-ulukoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328038
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 155
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1380/bartin-merkez-1380-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328038
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

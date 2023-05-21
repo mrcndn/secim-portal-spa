@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-malazgirt",
+        "mahalle": "KILIÇÇI KÖYÜ",
+        "ilce_adi": "MALAZGİRT",
+        "okul_adi": "KILIÇCI KÖYÜ İLKOKULU",
+        "sandik_no": 1088,
+        "mahalle_id": "mus-malazgirt-kilicci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393922
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-malazgirt/1xxx/1088/mus-malazgirt-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393922
+        },
+        "secim_bolge_id": "mus"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "KARAAĞAÇ MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "KARAAĞAÇ MH. CAMİ İMAMI LOJMANI",
+        "sandik_no": 1171,
+        "mahalle_id": "manisa-salihli-karaagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397202
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397202
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "KARAAĞAÇ MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "KARAAĞAÇ MH. CAMİ İMAMI LOJMANI",
+        "sandik_no": 1172,
+        "mahalle_id": "manisa-salihli-karaagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1172/manisa-salihli-1172-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809683",
+            "oyveotesi_sync_timestamp": 1684397202
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1172/manisa-salihli-1172-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809683",
+            "oyveotesi_sync_timestamp": 1684397202
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

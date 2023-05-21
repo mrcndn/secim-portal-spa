@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-dogubayazit",
+        "mahalle": "KUCAK KÖYÜ",
+        "ilce_adi": "DOĞUBAYAZIT",
+        "okul_adi": "KUCAK KÖYÜ İLKOKULU",
+        "sandik_no": 1201,
+        "mahalle_id": "agri-dogubayazit-kucak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326856
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-dogubayazit/1xxx/1201/agri-dogubayazit-1201-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326856
+        },
+        "secim_bolge_id": "agri"
+    }
+]

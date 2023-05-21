@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-arapgir",
+        "mahalle": "SELAMLI MAH.",
+        "ilce_adi": "ARAPGİR",
+        "okul_adi": "SELAMLI MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "malatya-arapgir-selamli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 36,
+            "sayim_sonuc": {
+                "TOPLAM": 36,
+                "İYİ PARTİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-arapgir/1xxx/1047/malatya-arapgir-1047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175228",
+            "oyveotesi_sync_timestamp": 1684350937
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 3,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-arapgir/1xxx/1047/malatya-arapgir-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175228",
+            "oyveotesi_sync_timestamp": 1684350937
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-seyitgazi",
+        "mahalle": "NUMANOLUK MAH.",
+        "ilce_adi": "SEYİTGAZİ",
+        "okul_adi": "NUMANOLUK İ.Ö.O.",
+        "sandik_no": 1047,
+        "mahalle_id": "eskisehir-seyitgazi-numanoluk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "İYİ PARTİ": 13,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1047/eskisehir-seyitgazi-1047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565220",
+            "oyveotesi_sync_timestamp": 1684341757
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1047/eskisehir-seyitgazi-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565220",
+            "oyveotesi_sync_timestamp": 1684341757
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

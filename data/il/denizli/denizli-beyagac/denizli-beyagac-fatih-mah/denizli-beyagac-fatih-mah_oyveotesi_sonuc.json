@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-beyagac",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "BEYAĞAÇ",
+        "okul_adi": "BEYAĞAÇ İMAM-HATİP ORTAOKULU VE LİSESİ",
+        "sandik_no": 1005,
+        "mahalle_id": "denizli-beyagac-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365536
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-beyagac/1xxx/1005/denizli-beyagac-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365536
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-beyagac",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "BEYAĞAÇ",
+        "okul_adi": "BEYAĞAÇ İMAM-HATİP ORTAOKULU VE LİSESİ",
+        "sandik_no": 1006,
+        "mahalle_id": "denizli-beyagac-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 70,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-beyagac/1xxx/1006/denizli-beyagac-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "796458",
+            "oyveotesi_sync_timestamp": 1684365536
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-beyagac/1xxx/1006/denizli-beyagac-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "796458",
+            "oyveotesi_sync_timestamp": 1684365536
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

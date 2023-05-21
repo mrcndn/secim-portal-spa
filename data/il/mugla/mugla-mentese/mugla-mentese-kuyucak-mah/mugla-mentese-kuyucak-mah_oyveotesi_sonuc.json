@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "KUYUCAK MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "KUYUCAK İLKOKULU",
+        "sandik_no": 1154,
+        "mahalle_id": "mugla-mentese-kuyucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 68,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 141,
+                "TÜRKİYE İŞÇİ PARTİSİ": 11,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1154/mugla-mentese-1154-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "257895",
+            "oyveotesi_sync_timestamp": 1684374363
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1154/mugla-mentese-1154-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "257895",
+            "oyveotesi_sync_timestamp": 1684374363
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

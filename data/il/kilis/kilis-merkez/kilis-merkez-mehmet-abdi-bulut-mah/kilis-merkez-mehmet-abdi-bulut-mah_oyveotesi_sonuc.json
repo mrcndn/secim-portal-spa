@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "ilce_id": "kilis-merkez",
+        "mahalle": "MEHMET ABDİ BULUT MAH.",
+        "ilce_adi": "KİLİS MERKEZ",
+        "okul_adi": "HASAN SÜNNÜOĞLU İLKOKULU",
+        "sandik_no": 1127,
+        "mahalle_id": "kilis-merkez-mehmet-abdi-bulut-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 44,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1127/kilis-merkez-1127-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232341",
+            "oyveotesi_sync_timestamp": 1684348563
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1127/kilis-merkez-1127-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232341",
+            "oyveotesi_sync_timestamp": 1684348563
+        },
+        "secim_bolge_id": "kilis"
+    }
+]

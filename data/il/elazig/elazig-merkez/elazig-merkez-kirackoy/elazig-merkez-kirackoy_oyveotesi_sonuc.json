@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-merkez",
+        "mahalle": "KIRAÇKÖY",
+        "ilce_adi": "ELAZIĞ MERKEZ",
+        "okul_adi": "KIRAÇ SOSYAL TESİSİ",
+        "sandik_no": 2451,
+        "mahalle_id": "elazig-merkez-kirackoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338900
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 198
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-merkez/2xxx/2451/elazig-merkez-2451-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338900
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

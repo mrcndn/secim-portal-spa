@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-pazar",
+        "mahalle": "DEREÇAYLI KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "DEREÇAYLI KÖY OKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "tokat-pazar-derecayli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 123,
+            "sayim_sonuc": {
+                "TOPLAM": 123,
+                "İYİ PARTİ": 28,
+                "CUMHURİYET HALK PARTİSİ": 89,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-pazar/1xxx/1029/tokat-pazar-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203806",
+            "oyveotesi_sync_timestamp": 1684365061
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-pazar/1xxx/1029/tokat-pazar-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203806",
+            "oyveotesi_sync_timestamp": 1684365061
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

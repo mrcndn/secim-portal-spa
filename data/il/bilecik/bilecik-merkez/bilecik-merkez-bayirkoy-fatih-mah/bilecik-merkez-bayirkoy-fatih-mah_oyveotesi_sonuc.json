@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-FATİH MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "okul_adi": "BAYIRKÖY İLK OKULU/ORTAOKULU(FATİH MAH.)",
+        "sandik_no": 1130,
+        "mahalle_id": "bilecik-merkez-bayirkoy-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 143,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1130/bilecik-merkez-1130-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327607
+        },
+        "secim_bolge_id": "bilecik"
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-FATİH MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "okul_adi": "BAYIRKÖY İLK OKULU/ORTAOKULU(FATİH MAH.)",
+        "sandik_no": 1129,
+        "mahalle_id": "bilecik-merkez-bayirkoy-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 7,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 82,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 129,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1129/bilecik-merkez-1129-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "407783",
+            "oyveotesi_sync_timestamp": 1684327607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1129/bilecik-merkez-1129-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "407783",
+            "oyveotesi_sync_timestamp": 1684327607
+        },
+        "secim_bolge_id": "bilecik"
+    }
+]

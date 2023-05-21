@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "AĞILÖZÜ KÖYÜ",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "AĞILÖZÜ KÖY KONAĞI",
+        "sandik_no": 1018,
+        "mahalle_id": "cankiri-kursunlu-agilozu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 39,
+            "sayim_sonuc": {
+                "TOPLAM": 39,
+                "İYİ PARTİ": 4,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1018/cankiri-kursunlu-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "787432",
+            "oyveotesi_sync_timestamp": 1684336594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "787432",
+            "oyveotesi_sync_timestamp": 1684336594
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

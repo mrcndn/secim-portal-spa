@@ -1,0 +1,1757 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3005,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 350,
+            "sayim_sonuc": {
+                "TOPLAM": 350,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 181
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3031,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 46,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 98,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 104,
+                "TÜRKİYE İŞÇİ PARTİSİ": 14,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "396524",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 22,
+                "KEMAL KILIÇDAROĞLU": 173,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "396524",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3030,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 87,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "TÜRKİYE İŞÇİ PARTİSİ": 12,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 21
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "234373",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 19,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "234373",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3029,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 49,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 94,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "408485",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 152,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "408485",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3028,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 42,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE İŞÇİ PARTİSİ": 15,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "667132",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 159,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "667132",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3027,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "SİNAN OĞAN": 16,
+                "KEMAL KILIÇDAROĞLU": 161,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3026,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "İYİ PARTİ": 32,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 14,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 120,
+                "TÜRKİYE İŞÇİ PARTİSİ": 19,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "543678",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 19,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 166
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "543678",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3025,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "TÜRKİYE İŞÇİ PARTİSİ": 14,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "344448",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "344448",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3024,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 175,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3023,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "İYİ PARTİ": 35,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 114,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "223098",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 174,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "223098",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3022,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 18,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "338909",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SİNAN OĞAN": 12,
+                "KEMAL KILIÇDAROĞLU": 137,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "338909",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3003,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "İYİ PARTİ": 28,
+                "VATAN PARTİSİ": 4,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 103,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 147,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "331787",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 345,
+            "sayim_sonuc": {
+                "TOPLAM": 345,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "331787",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3021,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 105,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 120,
+                "TÜRKİYE İŞÇİ PARTİSİ": 10,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "419483",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 160,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "419483",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3004,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 366,
+            "sayim_sonuc": {
+                "TOPLAM": 366,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 34,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 95,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 158,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "371634",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 368,
+            "sayim_sonuc": {
+                "TOPLAM": 368,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 209
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "371634",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3032,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 45,
+                "ZAFER PARTİSİ": 20,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 82,
+                "ADALET VE KALKINMA PARTİSİ": 129,
+                "TÜRKİYE İŞÇİ PARTİSİ": 12,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 19
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "542240",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 152,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "542240",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3033,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 48,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 21,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 90,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 114,
+                "TÜRKİYE İŞÇİ PARTİSİ": 20,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 21
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "425076",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 180,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "425076",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3034,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 31,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 15,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "422729",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 141,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "422729",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3035,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 90,
+                "ADALET VE KALKINMA PARTİSİ": 124,
+                "TÜRKİYE İŞÇİ PARTİSİ": 20,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 16
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "350727",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "350727",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3036,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 13,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "378739",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "378739",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3037,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "İYİ PARTİ": 38,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 13,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "431543",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 168,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "431543",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3038,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 35,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "ADALET VE KALKINMA PARTİSİ": 137,
+                "TÜRKİYE İŞÇİ PARTİSİ": 10,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "299662",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "299662",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3020,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 347,
+            "sayim_sonuc": {
+                "TOPLAM": 347,
+                "İYİ PARTİ": 35,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 94,
+                "ADALET VE KALKINMA PARTİSİ": 155,
+                "TÜRKİYE İŞÇİ PARTİSİ": 14,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "430950",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 349,
+            "sayim_sonuc": {
+                "TOPLAM": 349,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 196
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "430950",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "ÇAMLIK İLKOKULU",
+        "sandik_no": 3019,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 116,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "385566",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 160,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "385566",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3018,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "ADALET VE KALKINMA PARTİSİ": 130,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "346813",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 166
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "346813",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3017,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "TÜRKİYE İŞÇİ PARTİSİ": 13,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "370711",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 19,
+                "KEMAL KILIÇDAROĞLU": 141,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "370711",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3016,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 25,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 178
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3015,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 16,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "437362",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 347,
+            "sayim_sonuc": {
+                "TOPLAM": 347,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 175
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "437362",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3014,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 51,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "290384",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 345,
+            "sayim_sonuc": {
+                "TOPLAM": 345,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 159,
+                "RECEP TAYYİP ERDOĞAN": 162
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "290384",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3013,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 339,
+            "sayim_sonuc": {
+                "TOPLAM": 339,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 45,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 24,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 68,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 132,
+                "TÜRKİYE İŞÇİ PARTİSİ": 19,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 19
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "348926",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "348926",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3012,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 124,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "346027",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 308,
+            "sayim_sonuc": {
+                "TOPLAM": 308,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "346027",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3011,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 132,
+                "TÜRKİYE İŞÇİ PARTİSİ": 12,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "341686",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "341686",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3010,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 17,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "321211",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 25,
+                "KEMAL KILIÇDAROĞLU": 128,
+                "RECEP TAYYİP ERDOĞAN": 182
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "321211",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3009,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 89,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 126,
+                "TÜRKİYE İŞÇİ PARTİSİ": 10,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "462151",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 179
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "462151",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3008,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 81,
+                "ADALET VE KALKINMA PARTİSİ": 139,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 23
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "336376",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "336376",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3007,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 9,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 102,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE İŞÇİ PARTİSİ": 19,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "292608",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 345,
+            "sayim_sonuc": {
+                "TOPLAM": 345,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 167,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "292608",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-pendik",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "PENDİK",
+        "okul_adi": "NECİP FAZIL KISAKÜREK ORTAOKULU",
+        "sandik_no": 3006,
+        "mahalle_id": "istanbul-pendik-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "İYİ PARTİ": 39,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "ADALET VE KALKINMA PARTİSİ": 129,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "357560",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 147,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "357560",
+            "oyveotesi_sync_timestamp": 1684344979
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

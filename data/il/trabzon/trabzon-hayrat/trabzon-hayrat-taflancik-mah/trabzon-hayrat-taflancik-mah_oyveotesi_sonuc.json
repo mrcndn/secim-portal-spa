@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-hayrat",
+        "mahalle": "TAFLANCIK MAH.",
+        "ilce_adi": "HAYRAT",
+        "okul_adi": "TAFLANCIK İLKOKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "trabzon-hayrat-taflancik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366051
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366051
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-hayrat",
+        "mahalle": "TAFLANCIK MAH.",
+        "ilce_adi": "HAYRAT",
+        "okul_adi": "TAFLANCIK İLKOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "trabzon-hayrat-taflancik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366051
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-hayrat/1xxx/1033/trabzon-hayrat-1033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366051
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

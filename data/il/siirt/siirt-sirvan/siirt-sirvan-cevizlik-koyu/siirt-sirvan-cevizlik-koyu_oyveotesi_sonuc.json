@@ -1,0 +1,62 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-sirvan",
+        "mahalle": "CEVİZLİK KÖYÜ",
+        "ilce_adi": "ŞİRVAN",
+        "okul_adi": "CEVİZLİK İLKÖĞRETİM OKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "siirt-sirvan-cevizlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "İYİ PARTİ": 5,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 200,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-sirvan/1xxx/1019/siirt-sirvan-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "564759",
+            "oyveotesi_sync_timestamp": 1684361024
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "564759",
+            "oyveotesi_sync_timestamp": 1684361024
+        },
+        "secim_bolge_id": "siirt"
+    },
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-sirvan",
+        "mahalle": "CEVİZLİK KÖYÜ",
+        "ilce_adi": "ŞİRVAN",
+        "okul_adi": "CEVİZLİK İLKÖĞRETİM OKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "siirt-sirvan-cevizlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361024
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361024
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

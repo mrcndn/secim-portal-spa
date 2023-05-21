@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-elmadag",
+        "mahalle": "SEYİTCEMALİ MAH.",
+        "ilce_adi": "ELMADAĞ",
+        "okul_adi": "YEŞİLDERE FATİH ORTAOKULU (SEYİTCEMALİ MAH.)",
+        "sandik_no": 1076,
+        "mahalle_id": "ankara-elmadag-seyitcemali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393101
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 207
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393101
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-elmadag",
+        "mahalle": "SEYİTCEMALİ MAH.",
+        "ilce_adi": "ELMADAĞ",
+        "okul_adi": "YEŞİLDERE FATİH ORTAOKULU (SEYİTCEMALİ MAH.)",
+        "sandik_no": 1075,
+        "mahalle_id": "ankara-elmadag-seyitcemali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393101
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 84,
+                "RECEP TAYYİP ERDOĞAN": 220
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393101
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

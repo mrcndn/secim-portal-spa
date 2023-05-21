@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-merkez",
+        "mahalle": "MERTOĞLU KÖYÜ",
+        "ilce_adi": "SİNOP MERKEZ",
+        "okul_adi": "MERTOĞLU İLKOKULU",
+        "sandik_no": 1148,
+        "mahalle_id": "sinop-merkez-mertoglu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1148/sinop-merkez-1148-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1022058",
+            "oyveotesi_sync_timestamp": 1684354320
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1148/sinop-merkez-1148-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1022058",
+            "oyveotesi_sync_timestamp": 1684354320
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

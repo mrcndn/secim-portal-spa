@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-merkez",
+        "mahalle": "YAPILDAK KÖYÜ",
+        "ilce_adi": "ÇANAKKALE MERKEZ",
+        "okul_adi": "DÜĞÜN SALONU-YAPILDAK KÖYÜ",
+        "sandik_no": 1437,
+        "mahalle_id": "canakkale-merkez-yapildak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336044
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1437/canakkale-merkez-1437-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336044
+        },
+        "secim_bolge_id": "canakkale"
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-merkez",
+        "mahalle": "YAPILDAK KÖYÜ",
+        "ilce_adi": "ÇANAKKALE MERKEZ",
+        "okul_adi": "DÜĞÜN SALONU-YAPILDAK KÖYÜ",
+        "sandik_no": 1438,
+        "mahalle_id": "canakkale-merkez-yapildak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1438/canakkale-merkez-1438-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "704786",
+            "oyveotesi_sync_timestamp": 1684336044
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1438/canakkale-merkez-1438-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "704786",
+            "oyveotesi_sync_timestamp": 1684336044
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

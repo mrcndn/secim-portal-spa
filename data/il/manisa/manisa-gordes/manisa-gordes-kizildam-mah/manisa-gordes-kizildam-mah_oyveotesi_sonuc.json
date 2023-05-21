@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "KIZILDAM MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "KIZILDAM MAH. İLKOKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "manisa-gordes-kizildam-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396690
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 9,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 213
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1065/manisa-gordes-1065-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396690
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

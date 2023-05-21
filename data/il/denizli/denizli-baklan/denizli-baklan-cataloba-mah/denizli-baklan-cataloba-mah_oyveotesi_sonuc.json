@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-baklan",
+        "mahalle": "ÇATALOBA MAH.",
+        "ilce_adi": "BAKLAN",
+        "okul_adi": "ÇATALOBA İLKOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "denizli-baklan-cataloba-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1005/denizli-baklan-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585206",
+            "oyveotesi_sync_timestamp": 1684365747
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 169
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1005/denizli-baklan-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585206",
+            "oyveotesi_sync_timestamp": 1684365747
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

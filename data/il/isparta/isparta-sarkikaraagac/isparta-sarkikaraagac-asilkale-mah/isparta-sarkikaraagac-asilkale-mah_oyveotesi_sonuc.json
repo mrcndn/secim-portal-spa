@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-sarkikaraagac",
+        "mahalle": "ASILKALE MAH.",
+        "ilce_adi": "ŞARKİKARAAĞAÇ",
+        "okul_adi": "YUNUS EMRE ORTA OKULU (ASILKALE)",
+        "sandik_no": 1003,
+        "mahalle_id": "isparta-sarkikaraagac-asilkale-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "GENÇ PARTİ": 3,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 70,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-sarkikaraagac/1xxx/1003/isparta-sarkikaraagac-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266795",
+            "oyveotesi_sync_timestamp": 1684344196
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SİNAN OĞAN": 40,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 105,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-sarkikaraagac/1xxx/1003/isparta-sarkikaraagac-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266795",
+            "oyveotesi_sync_timestamp": 1684344196
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-havsa",
+        "mahalle": "ÇUKURKÖY",
+        "ilce_adi": "HAVSA",
+        "okul_adi": "ÇUKURKÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "edirne-havsa-cukurkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 48,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 124,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-havsa/1xxx/1031/edirne-havsa-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "782195",
+            "oyveotesi_sync_timestamp": 1684338399
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 174,
+                "RECEP TAYYİP ERDOĞAN": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-havsa/1xxx/1031/edirne-havsa-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "782195",
+            "oyveotesi_sync_timestamp": 1684338399
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

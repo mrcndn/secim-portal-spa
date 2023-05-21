@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "YUVAKÖY MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "YUVAKÖY KÖY KONAĞI",
+        "sandik_no": 1167,
+        "mahalle_id": "denizli-civril-yuvakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 30,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 102,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1167/denizli-civril-1167-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "315239",
+            "oyveotesi_sync_timestamp": 1684365714
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 95
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1167/denizli-civril-1167-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "315239",
+            "oyveotesi_sync_timestamp": 1684365714
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

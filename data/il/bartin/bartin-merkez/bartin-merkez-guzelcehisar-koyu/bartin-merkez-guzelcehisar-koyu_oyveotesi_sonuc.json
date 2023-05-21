@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "GÜZELCEHİSAR KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "GÜZELCEHİSAR OKULU",
+        "sandik_no": 1287,
+        "mahalle_id": "bartin-merkez-guzelcehisar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1287/bartin-merkez-1287-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790273",
+            "oyveotesi_sync_timestamp": 1684327901
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 119,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1287/bartin-merkez-1287-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790273",
+            "oyveotesi_sync_timestamp": 1684327901
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "GÜZELCEHİSAR KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "GÜZELCEHİSAR OKULU",
+        "sandik_no": 1288,
+        "mahalle_id": "bartin-merkez-guzelcehisar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327901
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 126,
+                "RECEP TAYYİP ERDOĞAN": 134
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1288/bartin-merkez-1288-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327901
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

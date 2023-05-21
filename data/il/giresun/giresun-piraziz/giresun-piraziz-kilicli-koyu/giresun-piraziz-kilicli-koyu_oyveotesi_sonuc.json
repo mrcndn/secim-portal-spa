@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-piraziz",
+        "mahalle": "KILIÇLI KÖYÜ",
+        "ilce_adi": "PİRAZİZ",
+        "okul_adi": "KILIÇLI İ.Ö.O.(ESKİ)",
+        "sandik_no": 1036,
+        "mahalle_id": "giresun-piraziz-kilicli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 148,
+            "sayim_sonuc": {
+                "TOPLAM": 148,
+                "İYİ PARTİ": 15,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-piraziz/1xxx/1036/giresun-piraziz-1036-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741873",
+            "oyveotesi_sync_timestamp": 1684343337
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 101
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-piraziz/1xxx/1036/giresun-piraziz-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741873",
+            "oyveotesi_sync_timestamp": 1684343337
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

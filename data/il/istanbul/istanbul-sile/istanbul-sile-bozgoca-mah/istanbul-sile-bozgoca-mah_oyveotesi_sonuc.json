@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "BOZGOCA MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "BOZGACA KÖY KAHVESİ",
+        "sandik_no": 1027,
+        "mahalle_id": "istanbul-sile-bozgoca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "207960",
+            "oyveotesi_sync_timestamp": 1684345093
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 102,
+            "sayim_sonuc": {
+                "TOPLAM": 102,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "207960",
+            "oyveotesi_sync_timestamp": 1684345093
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-arsin",
+        "mahalle": "GÜZELYALI MAH.",
+        "ilce_adi": "ARSİN",
+        "okul_adi": "ARSİN ANADOLU LİSESİ",
+        "sandik_no": 1037,
+        "mahalle_id": "trabzon-arsin-guzelyali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366612
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366612
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-arsin",
+        "mahalle": "GÜZELYALI MAH.",
+        "ilce_adi": "ARSİN",
+        "okul_adi": "ARSİN ANADOLU LİSESİ",
+        "sandik_no": 1036,
+        "mahalle_id": "trabzon-arsin-guzelyali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366612
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 239,
+            "sayim_sonuc": {
+                "TOPLAM": 239,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-arsin/1xxx/1036/trabzon-arsin-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366612
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

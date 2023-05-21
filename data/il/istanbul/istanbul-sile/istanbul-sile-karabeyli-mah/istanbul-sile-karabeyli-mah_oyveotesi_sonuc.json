@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "KARABEYLİ MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "KARABEYLİ KÖY KONAĞI",
+        "sandik_no": 1085,
+        "mahalle_id": "istanbul-sile-karabeyli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "246336",
+            "oyveotesi_sync_timestamp": 1684345119
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 130
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "246336",
+            "oyveotesi_sync_timestamp": 1684345119
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

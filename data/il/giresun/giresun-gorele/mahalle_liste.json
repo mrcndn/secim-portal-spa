@@ -1,0 +1,832 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "MAKSUTLU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-maksutlu-koyu",
+        "oyveotesi_neighborhood_id": 21736
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "AKHARMAN KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-akharman-koyu",
+        "oyveotesi_neighborhood_id": 21715
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ARALIKOZ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-aralikoz-koyu",
+        "oyveotesi_neighborhood_id": 21731
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ARDIÇ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-ardic-koyu",
+        "oyveotesi_neighborhood_id": 21716
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ATAKÖY",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-atakoy",
+        "oyveotesi_neighborhood_id": 21727
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "AYDINLAR KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-aydinlar-koyu",
+        "oyveotesi_neighborhood_id": 21760
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "AYDINLIKEVLER MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-aydinlikevler-mah",
+        "oyveotesi_neighborhood_id": 21752
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 21761
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "BAYAZIT KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-bayazit-koyu",
+        "oyveotesi_neighborhood_id": 21733
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "BEŞİRLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-besirli-koyu",
+        "oyveotesi_neighborhood_id": 21754
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "BOĞALI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-bogali-koyu",
+        "oyveotesi_neighborhood_id": 21723
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "BOZCAALİ MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-bozcaali-mah",
+        "oyveotesi_neighborhood_id": 21764
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "BURUNUCU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-burunucu-koyu",
+        "oyveotesi_neighborhood_id": 21765
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇALIŞ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-calis-koyu",
+        "oyveotesi_neighborhood_id": 21768
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇATAKKIRI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-catakkiri-koyu",
+        "oyveotesi_neighborhood_id": 21705
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇATAK KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-catak-koyu",
+        "oyveotesi_neighborhood_id": 21734
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-BAHŞİŞ MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cavuslu-bahsis-mah",
+        "oyveotesi_neighborhood_id": 21763
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-BEYLİ MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cavuslu-beyli-mah",
+        "oyveotesi_neighborhood_id": 21749
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-MERKEZ MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cavuslu-merkez-mah",
+        "oyveotesi_neighborhood_id": 21742
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-OBAKIRAN MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cavuslu-obakiran-mah",
+        "oyveotesi_neighborhood_id": 21759
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-ORTA MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cavuslu-orta-mah",
+        "oyveotesi_neighborhood_id": 21774
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-ŞAHALİ MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cavuslu-sahali-mah",
+        "oyveotesi_neighborhood_id": 21714
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-YENİKÖY MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cavuslu-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 21706
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇEŞMEBAŞI MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cesmebasi-mah",
+        "oyveotesi_neighborhood_id": 21718
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇİFTLİKKÖY",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-ciftlikkoy",
+        "oyveotesi_neighborhood_id": 21719
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "CİLLİOĞLU MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-cillioglu-mah",
+        "oyveotesi_neighborhood_id": 21724
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "DAYILI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-dayili-koyu",
+        "oyveotesi_neighborhood_id": 21721
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "DEDELİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-dedeli-koyu",
+        "oyveotesi_neighborhood_id": 21778
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "DEREBOYU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-dereboyu-koyu",
+        "oyveotesi_neighborhood_id": 21779
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "DEREKUŞÇULU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-derekusculu-koyu",
+        "oyveotesi_neighborhood_id": 21732
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "DİKMEN KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-dikmen-koyu",
+        "oyveotesi_neighborhood_id": 21729
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ESENLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-esenli-koyu",
+        "oyveotesi_neighborhood_id": 21730
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ESENYURT KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-esenyurt-koyu",
+        "oyveotesi_neighborhood_id": 21725
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ESERLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-eserli-koyu",
+        "oyveotesi_neighborhood_id": 21755
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "GÖLBAŞI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-golbasi-koyu",
+        "oyveotesi_neighborhood_id": 21753
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "GÜLPINAR KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-gulpinar-koyu",
+        "oyveotesi_neighborhood_id": 21722
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "GÜLTEPE KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-gultepe-koyu",
+        "oyveotesi_neighborhood_id": 21739
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "GÜNEYKÖY",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-guneykoy",
+        "oyveotesi_neighborhood_id": 21756
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "GÜVENDİK KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-guvendik-koyu",
+        "oyveotesi_neighborhood_id": 21709
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "HAMZALI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-hamzali-koyu",
+        "oyveotesi_neighborhood_id": 21740
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "HAYDARLI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-haydarli-koyu",
+        "oyveotesi_neighborhood_id": 21707
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "HENDEKBAŞI MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-hendekbasi-mah",
+        "oyveotesi_neighborhood_id": 21747
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-hurriyet-mah",
+        "oyveotesi_neighborhood_id": 21720
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "İNANCA KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-inanca-koyu",
+        "oyveotesi_neighborhood_id": 21776
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "İSMAİLBEYLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-ismailbeyli-koyu",
+        "oyveotesi_neighborhood_id": 21717
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KABA MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-kaba-mah",
+        "oyveotesi_neighborhood_id": 21741
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KALEKÖY",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-kalekoy",
+        "oyveotesi_neighborhood_id": 50438
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KARABURUN KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-karaburun-koyu",
+        "oyveotesi_neighborhood_id": 21708
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KARADERE KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-karadere-koyu",
+        "oyveotesi_neighborhood_id": 21701
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KARAKEŞ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-karakes-koyu",
+        "oyveotesi_neighborhood_id": 21748
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KARLIBEL KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-karlibel-koyu",
+        "oyveotesi_neighborhood_id": 21770
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KAYNAR KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-kaynar-koyu",
+        "oyveotesi_neighborhood_id": 21762
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KIDIR KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-kidir-koyu",
+        "oyveotesi_neighborhood_id": 50113
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KIRIKLI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-kirikli-koyu",
+        "oyveotesi_neighborhood_id": 21735
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KÖPRÜBAŞI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-koprubasi-koyu",
+        "oyveotesi_neighborhood_id": 21710
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KOYUNHAMZA KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-koyunhamza-koyu",
+        "oyveotesi_neighborhood_id": 21771
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KUMYALI MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-kumyali-mah",
+        "oyveotesi_neighborhood_id": 21702
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "KUŞÇULU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-kusculu-koyu",
+        "oyveotesi_neighborhood_id": 21757
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "MENTEŞE KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-mentese-koyu",
+        "oyveotesi_neighborhood_id": 21743
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÖNERLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-onerli-koyu",
+        "oyveotesi_neighborhood_id": 21775
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ORTAKÖY",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-ortakoy",
+        "oyveotesi_neighborhood_id": 21726
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "RECEPLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-recepli-koyu",
+        "oyveotesi_neighborhood_id": 21711
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ŞAFAKLI KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-safakli-koyu",
+        "oyveotesi_neighborhood_id": 21777
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "SAĞLIK KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-saglik-koyu",
+        "oyveotesi_neighborhood_id": 21703
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ŞAHİNYUVA KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-sahinyuva-koyu",
+        "oyveotesi_neighborhood_id": 21769
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "SAYFİYE MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-sayfiye-mah",
+        "oyveotesi_neighborhood_id": 21766
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "SEFERLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-seferli-koyu",
+        "oyveotesi_neighborhood_id": 21744
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ŞENLİK KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-senlik-koyu",
+        "oyveotesi_neighborhood_id": 50472
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "SOFULU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-sofulu-koyu",
+        "oyveotesi_neighborhood_id": 21750
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "SOĞUKPINAR KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-sogukpinar-koyu",
+        "oyveotesi_neighborhood_id": 21712
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "SOĞUKSU MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-soguksu-mah",
+        "oyveotesi_neighborhood_id": 21737
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "TAŞLIK KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-taslik-koyu",
+        "oyveotesi_neighborhood_id": 21704
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "TEKGÖZ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-tekgoz-koyu",
+        "oyveotesi_neighborhood_id": 21767
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "TEPEBAŞI MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-tepebasi-mah",
+        "oyveotesi_neighborhood_id": 21758
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "TEPEKÖY",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-tepekoy",
+        "oyveotesi_neighborhood_id": 21772
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "TERZİALİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-terziali-koyu",
+        "oyveotesi_neighborhood_id": 21745
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "TÜRKELLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-turkelli-koyu",
+        "oyveotesi_neighborhood_id": 21746
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "UMUTLU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-umutlu-koyu",
+        "oyveotesi_neighborhood_id": 21773
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÜNLÜCE MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-unluce-mah",
+        "oyveotesi_neighborhood_id": 21738
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "YALIKÖY",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-yalikoy",
+        "oyveotesi_neighborhood_id": 21713
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "YEĞENLİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-yegenli-koyu",
+        "oyveotesi_neighborhood_id": 21751
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "YEŞİLDERE KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-yesildere-koyu",
+        "oyveotesi_neighborhood_id": 21699
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "YEŞİLTEPE MAH.",
+        "ilce_adi": "GÖRELE",
+        "mahalle_id": "giresun-gorele-yesiltepe-mah",
+        "oyveotesi_neighborhood_id": 21700
+    }
+]

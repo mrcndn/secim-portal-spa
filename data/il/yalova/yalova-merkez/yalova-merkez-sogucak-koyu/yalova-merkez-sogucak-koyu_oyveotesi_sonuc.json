@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "ilce_id": "yalova-merkez",
+        "mahalle": "SOĞUCAK KÖYÜ",
+        "ilce_adi": "YALOVA MERKEZ",
+        "okul_adi": "SOGUCAK KÖY KONAĞI",
+        "sandik_no": 1285,
+        "mahalle_id": "yalova-merkez-sogucak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 30,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 19,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 147,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 83,
+                "TÜRKİYE İŞÇİ PARTİSİ": 11,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-merkez/1xxx/1285/yalova-merkez-1285-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "661214",
+            "oyveotesi_sync_timestamp": 1684363232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 346,
+            "sayim_sonuc": {
+                "TOPLAM": 346,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 202,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-merkez/1xxx/1285/yalova-merkez-1285-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "661214",
+            "oyveotesi_sync_timestamp": 1684363232
+        },
+        "secim_bolge_id": "yalova"
+    }
+]

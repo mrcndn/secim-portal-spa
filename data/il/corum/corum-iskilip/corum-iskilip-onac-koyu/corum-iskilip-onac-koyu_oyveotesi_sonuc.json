@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-iskilip",
+        "mahalle": "ONAÇ KÖYÜ",
+        "ilce_adi": "İSKİLİP",
+        "okul_adi": "ONAÇ KÖYÜ KÖY ODASI",
+        "sandik_no": 1100,
+        "mahalle_id": "corum-iskilip-onac-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 23,
+            "sayim_sonuc": {
+                "TOPLAM": 23,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 12,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-iskilip/1xxx/1100/corum-iskilip-1100-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172978",
+            "oyveotesi_sync_timestamp": 1684369459
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 24,
+            "sayim_sonuc": {
+                "TOPLAM": 24,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-iskilip/1xxx/1100/corum-iskilip-1100-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172978",
+            "oyveotesi_sync_timestamp": 1684369459
+        },
+        "secim_bolge_id": "corum"
+    }
+]

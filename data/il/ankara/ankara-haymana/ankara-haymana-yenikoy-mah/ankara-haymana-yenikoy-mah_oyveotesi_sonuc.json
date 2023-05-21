@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "YENİKÖY MAH. İLKOKULU",
+        "sandik_no": 1095,
+        "mahalle_id": "ankara-haymana-yenikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393460
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393460
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

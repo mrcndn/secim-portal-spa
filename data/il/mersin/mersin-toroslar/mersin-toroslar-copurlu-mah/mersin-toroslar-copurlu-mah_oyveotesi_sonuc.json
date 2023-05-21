@@ -1,0 +1,103 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-toroslar",
+        "mahalle": "ÇOPURLU MAH.",
+        "ilce_adi": "TOROSLAR",
+        "okul_adi": "ÇOPURLU MAHALLE KONAĞI",
+        "sandik_no": 1057,
+        "mahalle_id": "mersin-toroslar-copurlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 50,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/1xxx/1057/mersin-toroslar-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "191472",
+            "oyveotesi_sync_timestamp": 1684364106
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 133,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/1xxx/1057/mersin-toroslar-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "191472",
+            "oyveotesi_sync_timestamp": 1684364106
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-toroslar",
+        "mahalle": "ÇOPURLU MAH.",
+        "ilce_adi": "TOROSLAR",
+        "okul_adi": "ÇOPURLU MAHALLE KONAĞI",
+        "sandik_no": 1058,
+        "mahalle_id": "mersin-toroslar-copurlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "İYİ PARTİ": 39,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 91,
+                "ADALET VE KALKINMA PARTİSİ": 76,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/1xxx/1058/mersin-toroslar-1058-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "181023",
+            "oyveotesi_sync_timestamp": 1684364106
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "SİNAN OĞAN": 19,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/1xxx/1058/mersin-toroslar-1058-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "181023",
+            "oyveotesi_sync_timestamp": 1684364106
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

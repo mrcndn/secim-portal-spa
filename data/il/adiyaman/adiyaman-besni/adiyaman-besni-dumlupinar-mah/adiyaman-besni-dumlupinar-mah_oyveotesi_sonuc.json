@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-besni",
+        "mahalle": "DUMLUPINAR MAH.",
+        "ilce_adi": "BESNİ",
+        "okul_adi": "DUMLUPINAR MAH.BELEDİYE DÜĞÜN SALONU",
+        "sandik_no": 1029,
+        "mahalle_id": "adiyaman-besni-dumlupinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-besni/1xxx/1029/adiyaman-besni-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330594
+        },
+        "secim_bolge_id": "adiyaman"
+    },
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-besni",
+        "mahalle": "DUMLUPINAR MAH.",
+        "ilce_adi": "BESNİ",
+        "okul_adi": "DUMLUPINAR MAH.BELEDİYE DÜĞÜN SALONU",
+        "sandik_no": 1030,
+        "mahalle_id": "adiyaman-besni-dumlupinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SOL PARTİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 87,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-besni/1xxx/1030/adiyaman-besni-1030-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776642",
+            "oyveotesi_sync_timestamp": 1684330594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-besni/1xxx/1030/adiyaman-besni-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776642",
+            "oyveotesi_sync_timestamp": 1684330594
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

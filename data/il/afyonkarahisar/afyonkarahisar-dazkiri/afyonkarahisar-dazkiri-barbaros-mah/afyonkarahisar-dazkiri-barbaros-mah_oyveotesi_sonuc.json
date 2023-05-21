@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-dazkiri",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "DAZKIRI",
+        "okul_adi": "DAZKIRI İMAM HATİP ORTAOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "afyonkarahisar-dazkiri-barbaros-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330118
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 120,
+                "RECEP TAYYİP ERDOĞAN": 166
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dazkiri/1xxx/1001/afyonkarahisar-dazkiri-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330118
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-dazkiri",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "DAZKIRI",
+        "okul_adi": "DAZKIRI İMAM HATİP ORTAOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "afyonkarahisar-dazkiri-barbaros-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330118
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dazkiri/1xxx/1002/afyonkarahisar-dazkiri-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330118
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

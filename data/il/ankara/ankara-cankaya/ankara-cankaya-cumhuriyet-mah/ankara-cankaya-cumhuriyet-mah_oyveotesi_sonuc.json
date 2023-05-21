@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cankaya",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "ÇANKAYA",
+        "okul_adi": "MİMAR KEMAL ORTAOKULU B BLOK EK BİNA",
+        "sandik_no": 3139,
+        "mahalle_id": "ankara-cankaya-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "805778",
+            "oyveotesi_sync_timestamp": 1684395735
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "805778",
+            "oyveotesi_sync_timestamp": 1684395735
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

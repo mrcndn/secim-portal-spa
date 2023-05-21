@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "HACIBAŞTANLAR MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "HACIBAŞTANLAR MAHALLESİ KÖY ODASI",
+        "sandik_no": 1017,
+        "mahalle_id": "manisa-golmarmara-hacibastanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1017/manisa-golmarmara-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832146",
+            "oyveotesi_sync_timestamp": 1684397024
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1017/manisa-golmarmara-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832146",
+            "oyveotesi_sync_timestamp": 1684397024
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

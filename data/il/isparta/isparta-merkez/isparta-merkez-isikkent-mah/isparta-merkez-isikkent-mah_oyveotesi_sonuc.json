@@ -1,0 +1,778 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1304,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 339,
+            "sayim_sonuc": {
+                "TOPLAM": 339,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 183
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1304/isparta-merkez-1304-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1303,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "İYİ PARTİ": 54,
+                "ZAFER PARTİSİ": 11,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 78,
+                "ADALET VE KALKINMA PARTİSİ": 95,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 82,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1303/isparta-merkez-1303-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "364846",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 37,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 172
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1303/isparta-merkez-1303-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "364846",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1302,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 9,
+                "İYİ PARTİ": 69,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 100,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 82,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 65
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1302/isparta-merkez-1302-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "364868",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 144,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1302/isparta-merkez-1302-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "364868",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1301,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1292,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 45,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 73,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1292/isparta-merkez-1292-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "661249",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 110,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1292/isparta-merkez-1292-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "661249",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1293,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 44,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 80,
+                "ADALET VE KALKINMA PARTİSİ": 118,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 54,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1293/isparta-merkez-1293-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "651770",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "651770",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1294,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1294/isparta-merkez-1294-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1295,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 72,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 83,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 77,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1295/isparta-merkez-1295-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "663147",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 161,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1295/isparta-merkez-1295-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "663147",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1296,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "İYİ PARTİ": 68,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 100,
+                "ADALET VE KALKINMA PARTİSİ": 77,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1296/isparta-merkez-1296-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "697700",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 154,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1296/isparta-merkez-1296-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "697700",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1297,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 59,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 81,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 84,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1297/isparta-merkez-1297-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "647350",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1297/isparta-merkez-1297-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "647350",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1298,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 149,
+                "RECEP TAYYİP ERDOĞAN": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1298/isparta-merkez-1298-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1299,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 68,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 75,
+                "CUMHURİYET HALK PARTİSİ": 74,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 99,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1299/isparta-merkez-1299-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "444505",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 134,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1299/isparta-merkez-1299-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "444505",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1300,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 350,
+            "sayim_sonuc": {
+                "TOPLAM": 350,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 74,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 91,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 108,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 56,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1300/isparta-merkez-1300-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "265521",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 451,
+            "sayim_sonuc": {
+                "TOPLAM": 451,
+                "SİNAN OĞAN": 133,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 167,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1300/isparta-merkez-1300-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "265521",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1308,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 67,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 67,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 84,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1308/isparta-merkez-1308-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "401726",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 354,
+            "sayim_sonuc": {
+                "TOPLAM": 354,
+                "SİNAN OĞAN": 28,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 194
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1308/isparta-merkez-1308-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "401726",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1307,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SİNAN OĞAN": 34,
+                "KEMAL KILIÇDAROĞLU": 139,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1307/isparta-merkez-1307-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1306,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 61,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 74,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 90,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1306/isparta-merkez-1306-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "364835",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 130,
+                "RECEP TAYYİP ERDOĞAN": 178
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1306/isparta-merkez-1306-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "364835",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "okul_adi": "ŞEHİT ALİ YILMAZ BORSA İSTANBUL İLKOKULU",
+        "sandik_no": 1305,
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 70,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 89,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1305/isparta-merkez-1305-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "387869",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 154,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-merkez/1xxx/1305/isparta-merkez-1305-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "387869",
+            "oyveotesi_sync_timestamp": 1684344103
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-baklan",
+        "mahalle": "KAVAKLAR MAH.",
+        "ilce_adi": "BAKLAN",
+        "okul_adi": "KAVAKLAR KÖY KONAĞI",
+        "sandik_no": 1013,
+        "mahalle_id": "denizli-baklan-kavaklar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365739
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1013/denizli-baklan-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365739
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

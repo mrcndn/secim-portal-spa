@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-emet",
+        "mahalle": "YARIŞ KÖYÜ",
+        "ilce_adi": "EMET",
+        "okul_adi": "YARIŞ KÖYÜ İLKOKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "kutahya-emet-yaris-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 35,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 166,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1065/kutahya-emet-1065-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "722929",
+            "oyveotesi_sync_timestamp": 1684350212
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "722929",
+            "oyveotesi_sync_timestamp": 1684350212
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

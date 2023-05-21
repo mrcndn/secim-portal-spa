@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-marmaris",
+        "mahalle": "TAŞLICA MAH.",
+        "ilce_adi": "MARMARİS",
+        "okul_adi": "TAŞLICA İLKOKULU",
+        "sandik_no": 1184,
+        "mahalle_id": "mugla-marmaris-taslica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "ADALET VE KALKINMA PARTİSİ": 137,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-marmaris/1xxx/1184/mugla-marmaris-1184-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "445109",
+            "oyveotesi_sync_timestamp": 1684374290
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-marmaris/1xxx/1184/mugla-marmaris-1184-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "445109",
+            "oyveotesi_sync_timestamp": 1684374290
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

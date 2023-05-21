@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ÖZBAŞI KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ÖZBAŞI KÖYÜ DÜĞÜN SALONU",
+        "sandik_no": 1344,
+        "mahalle_id": "bartin-merkez-ozbasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327992
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 238
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1344/bartin-merkez-1344-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327992
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ÖZBAŞI KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ÖZBAŞI KÖYÜ DÜĞÜN SALONU",
+        "sandik_no": 1343,
+        "mahalle_id": "bartin-merkez-ozbasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327992
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 220
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1343/bartin-merkez-1343-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327992
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

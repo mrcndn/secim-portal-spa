@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "KABAAĞAÇ MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "KABAAĞAÇ İLKOKULU",
+        "sandik_no": 1087,
+        "mahalle_id": "mugla-seydikemer-kabaagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 73,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 70,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 110,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1087/mugla-seydikemer-1087-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "616509",
+            "oyveotesi_sync_timestamp": 1684374555
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 303,
+            "sayim_sonuc": {
+                "TOPLAM": 303,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 11,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1087/mugla-seydikemer-1087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "616509",
+            "oyveotesi_sync_timestamp": 1684374555
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "KABAAĞAÇ MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "KABAAĞAÇ İLKOKULU",
+        "sandik_no": 1088,
+        "mahalle_id": "mugla-seydikemer-kabaagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374555
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1088/mugla-seydikemer-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374555
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-bogazkale",
+        "mahalle": "ÇARŞICUMA KÖYÜ",
+        "ilce_adi": "BOĞAZKALE",
+        "okul_adi": "ÇARŞICUMA KÖYÜ MUHTARLIK HİZMET BİNASI",
+        "sandik_no": 1006,
+        "mahalle_id": "corum-bogazkale-carsicuma-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368811
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 82,
+            "sayim_sonuc": {
+                "TOPLAM": 82,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 1,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-bogazkale/1xxx/1006/corum-bogazkale-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368811
+        },
+        "secim_bolge_id": "corum"
+    }
+]

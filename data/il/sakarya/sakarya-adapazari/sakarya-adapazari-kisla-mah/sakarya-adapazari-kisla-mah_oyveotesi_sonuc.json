@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "KIŞLA MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "KÖY KONAĞITOPLANTI SALONU",
+        "sandik_no": 2149,
+        "mahalle_id": "sakarya-adapazari-kisla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2149/sakarya-adapazari-2149-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "826837",
+            "oyveotesi_sync_timestamp": 1684357465
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 71,
+            "sayim_sonuc": {
+                "TOPLAM": 71,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2149/sakarya-adapazari-2149-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "826837",
+            "oyveotesi_sync_timestamp": 1684357465
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

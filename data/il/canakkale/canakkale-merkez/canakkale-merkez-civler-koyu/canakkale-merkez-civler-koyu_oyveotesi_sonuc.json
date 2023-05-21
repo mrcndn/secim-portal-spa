@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-merkez",
+        "mahalle": "CİVLER KÖYÜ",
+        "ilce_adi": "ÇANAKKALE MERKEZ",
+        "okul_adi": "KÖY KAHVEHANESİ - CİVLER KÖYÜ",
+        "sandik_no": 1374,
+        "mahalle_id": "canakkale-merkez-civler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335995
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1374/canakkale-merkez-1374-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335995
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

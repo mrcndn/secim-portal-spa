@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "KILIÇLI MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "KILIÇLI MAH. CAMİ YANI",
+        "sandik_no": 1167,
+        "mahalle_id": "ordu-fatsa-kilicli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SOL PARTİ": 10,
+                "İYİ PARTİ": 18,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 123,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1167/ordu-fatsa-1167-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "751965",
+            "oyveotesi_sync_timestamp": 1684360827
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 203,
+            "sayim_sonuc": {
+                "TOPLAM": 203,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 158,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1167/ordu-fatsa-1167-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "751965",
+            "oyveotesi_sync_timestamp": 1684360827
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "KILIÇLI MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "KILIÇLI MAH. CAMİ YANI",
+        "sandik_no": 1166,
+        "mahalle_id": "ordu-fatsa-kilicli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360827
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1166/ordu-fatsa-1166-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360827
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

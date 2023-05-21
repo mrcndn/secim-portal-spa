@@ -1,0 +1,103 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-merkez",
+        "mahalle": "KABALI KÖYÜ",
+        "ilce_adi": "SİNOP MERKEZ",
+        "okul_adi": "KABALI ORTAOKULU",
+        "sandik_no": 1140,
+        "mahalle_id": "sinop-merkez-kabali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 26,
+                "CUMHURİYET HALK PARTİSİ": 70,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1140/sinop-merkez-1140-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1022010",
+            "oyveotesi_sync_timestamp": 1684354310
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 100,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1140/sinop-merkez-1140-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1022010",
+            "oyveotesi_sync_timestamp": 1684354310
+        },
+        "secim_bolge_id": "sinop"
+    },
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-merkez",
+        "mahalle": "KABALI KÖYÜ",
+        "ilce_adi": "SİNOP MERKEZ",
+        "okul_adi": "KABALI ORTAOKULU",
+        "sandik_no": 1139,
+        "mahalle_id": "sinop-merkez-kabali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1139/sinop-merkez-1139-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "648209",
+            "oyveotesi_sync_timestamp": 1684354310
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 122,
+                "RECEP TAYYİP ERDOĞAN": 92
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1139/sinop-merkez-1139-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "648209",
+            "oyveotesi_sync_timestamp": 1684354310
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-etimesgut",
+        "mahalle": "ŞEHİTALİ MAH.",
+        "ilce_adi": "ETİMESGUT",
+        "okul_adi": "ŞEHİTALİ (KÖY) İLKOKULU",
+        "sandik_no": 3196,
+        "mahalle_id": "ankara-etimesgut-sehitali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 122,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE İŞÇİ PARTİSİ": 12,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "243276",
+            "oyveotesi_sync_timestamp": 1684375884
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 144,
+                "RECEP TAYYİP ERDOĞAN": 113
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "243276",
+            "oyveotesi_sync_timestamp": 1684375884
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-etimesgut",
+        "mahalle": "ŞEHİTALİ MAH.",
+        "ilce_adi": "ETİMESGUT",
+        "okul_adi": "ŞEHİTALİ (KÖY) İLKOKULU",
+        "sandik_no": 3197,
+        "mahalle_id": "ankara-etimesgut-sehitali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 97,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "258842",
+            "oyveotesi_sync_timestamp": 1684375884
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "258842",
+            "oyveotesi_sync_timestamp": 1684375884
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

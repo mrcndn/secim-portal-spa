@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-akcaabat",
+        "mahalle": "YEŞİLTEPE MAH.",
+        "ilce_adi": "AKÇAABAT",
+        "okul_adi": "YEŞİLTEPE MAHALLESİ CAMİ YANI KÖY ODASI",
+        "sandik_no": 1318,
+        "mahalle_id": "trabzon-akcaabat-yesiltepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366292
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366292
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-akcaabat",
+        "mahalle": "YEŞİLTEPE MAH.",
+        "ilce_adi": "AKÇAABAT",
+        "okul_adi": "YEŞİLTEPE MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1319,
+        "mahalle_id": "trabzon-akcaabat-yesiltepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 65,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-akcaabat/1xxx/1319/trabzon-akcaabat-1319-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "678264",
+            "oyveotesi_sync_timestamp": 1684366292
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-akcaabat/1xxx/1319/trabzon-akcaabat-1319-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "678264",
+            "oyveotesi_sync_timestamp": 1684366292
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

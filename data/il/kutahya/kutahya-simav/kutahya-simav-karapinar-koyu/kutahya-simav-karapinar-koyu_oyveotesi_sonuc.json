@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-simav",
+        "mahalle": "KARAPINAR KÖYÜ",
+        "ilce_adi": "SİMAV",
+        "okul_adi": "KARAPINAR KÖY İLKOKULU",
+        "sandik_no": 1153,
+        "mahalle_id": "kutahya-simav-karapinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1153/kutahya-simav-1153-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536986",
+            "oyveotesi_sync_timestamp": 1684350623
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1153/kutahya-simav-1153-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536986",
+            "oyveotesi_sync_timestamp": 1684350623
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

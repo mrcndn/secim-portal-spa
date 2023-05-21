@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "BAYAT MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "BAYAT KÖY KONAĞI",
+        "sandik_no": 1014,
+        "mahalle_id": "denizli-civril-bayat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 76,
+            "sayim_sonuc": {
+                "TOPLAM": 76,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1014/denizli-civril-1014-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "802220",
+            "oyveotesi_sync_timestamp": 1684365671
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 77,
+            "sayim_sonuc": {
+                "TOPLAM": 77,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1014/denizli-civril-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "802220",
+            "oyveotesi_sync_timestamp": 1684365671
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-saray",
+        "mahalle": "KOÇBAŞI MAH.",
+        "ilce_adi": "SARAY",
+        "okul_adi": "KOÇBAŞI ORTAOKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "van-saray-kocbasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SOL PARTİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 136
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-saray/1xxx/1031/van-saray-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "720067",
+            "oyveotesi_sync_timestamp": 1684356503
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 184,
+            "sayim_sonuc": {
+                "TOPLAM": 184,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 141,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-saray/1xxx/1031/van-saray-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "720067",
+            "oyveotesi_sync_timestamp": 1684356503
+        },
+        "secim_bolge_id": "van"
+    }
+]

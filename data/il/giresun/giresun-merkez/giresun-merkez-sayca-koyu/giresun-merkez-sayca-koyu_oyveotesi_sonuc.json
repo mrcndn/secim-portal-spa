@@ -1,0 +1,94 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "SAYCA KÖYÜ",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "SAYCA KÖYÜ-KÖY MİSAFİRHANESİ-(CAMİ YANINDAKİ)",
+        "sandik_no": 1315,
+        "mahalle_id": "giresun-merkez-sayca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 144,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 78,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1315/giresun-merkez-1315-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739786",
+            "oyveotesi_sync_timestamp": 1684343142
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 226
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1315/giresun-merkez-1315-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739786",
+            "oyveotesi_sync_timestamp": 1684343142
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "SAYCA KÖYÜ",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "SAYCA KÖYÜ -SAYCA İLKOKULU",
+        "sandik_no": 1314,
+        "mahalle_id": "giresun-merkez-sayca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 56
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1314/giresun-merkez-1314-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805213",
+            "oyveotesi_sync_timestamp": 1684343142
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1314/giresun-merkez-1314-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805213",
+            "oyveotesi_sync_timestamp": 1684343142
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

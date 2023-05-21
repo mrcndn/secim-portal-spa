@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ulubey",
+        "mahalle": "ÖREN MAH.",
+        "ilce_adi": "ULUBEY",
+        "okul_adi": "ÖREN İLK ÖĞRETİM OKULU",
+        "sandik_no": 1049,
+        "mahalle_id": "ordu-ulubey-oren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360725
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 188,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ulubey/1xxx/1049/ordu-ulubey-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360725
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ulubey",
+        "mahalle": "ÖREN MAH.",
+        "ilce_adi": "ULUBEY",
+        "okul_adi": "ÖREN ÇATAK İLK ÖĞRETİM OKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "ordu-ulubey-oren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360725
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ulubey/1xxx/1050/ordu-ulubey-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360725
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

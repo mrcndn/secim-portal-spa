@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhaneli",
+        "mahalle": "YEŞİLLER MAH.",
+        "ilce_adi": "ORHANELİ",
+        "okul_adi": "YEŞİLLER MAH. KÖY KONAĞI",
+        "sandik_no": 1081,
+        "mahalle_id": "bursa-orhaneli-yesiller-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335234
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335234
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

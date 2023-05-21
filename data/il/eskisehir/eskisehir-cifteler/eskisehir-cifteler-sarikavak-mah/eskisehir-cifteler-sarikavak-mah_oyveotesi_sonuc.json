@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-cifteler",
+        "mahalle": "SARIKAVAK MAH.",
+        "ilce_adi": "ÇİFTELER",
+        "okul_adi": "SARIKAVAK KÖY KONAĞI",
+        "sandik_no": 1042,
+        "mahalle_id": "eskisehir-cifteler-sarikavak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341474
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-cifteler/1xxx/1042/eskisehir-cifteler-1042-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341474
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

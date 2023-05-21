@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-yenice",
+        "mahalle": "ÇAL KÖYÜ",
+        "ilce_adi": "YENİCE",
+        "okul_adi": "ÇAL KÖYÜ İLKOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "canakkale-yenice-cal-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 176,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1047/canakkale-yenice-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336136
+        },
+        "secim_bolge_id": "canakkale"
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-yenice",
+        "mahalle": "ÇAL KÖYÜ",
+        "ilce_adi": "YENİCE",
+        "okul_adi": "ÇAL KÖYÜ İLKOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "canakkale-yenice-cal-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "İYİ PARTİ": 56,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 135,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1048/canakkale-yenice-1048-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "575019",
+            "oyveotesi_sync_timestamp": 1684336136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 185,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1048/canakkale-yenice-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "575019",
+            "oyveotesi_sync_timestamp": 1684336136
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

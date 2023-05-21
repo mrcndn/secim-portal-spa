@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-baklan",
+        "mahalle": "KİRAZLI MAH.",
+        "ilce_adi": "BAKLAN",
+        "okul_adi": "LİMAK HÜSAMETTİN TUYJİ Ç.P.A.L",
+        "sandik_no": 1014,
+        "mahalle_id": "denizli-baklan-kirazli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365740
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1014/denizli-baklan-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365740
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-baklan",
+        "mahalle": "KİRAZLI MAH.",
+        "ilce_adi": "BAKLAN",
+        "okul_adi": "LİMAK HÜSAMETTİN TUYJİ Ç.P.A.L",
+        "sandik_no": 1015,
+        "mahalle_id": "denizli-baklan-kirazli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "İYİ PARTİ": 36,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1015/denizli-baklan-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "583721",
+            "oyveotesi_sync_timestamp": 1684365740
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1015/denizli-baklan-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "583721",
+            "oyveotesi_sync_timestamp": 1684365740
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

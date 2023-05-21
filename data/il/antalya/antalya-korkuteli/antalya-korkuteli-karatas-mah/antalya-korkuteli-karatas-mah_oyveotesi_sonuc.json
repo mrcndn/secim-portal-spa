@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-korkuteli",
+        "mahalle": "KARATAŞ MAH.",
+        "ilce_adi": "KORKUTELİ",
+        "okul_adi": "KARATAŞ İLKÖĞRETİM OKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "antalya-korkuteli-karatas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 123,
+            "sayim_sonuc": {
+                "TOPLAM": 123,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-korkuteli/1xxx/1055/antalya-korkuteli-1055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "660015",
+            "oyveotesi_sync_timestamp": 1684325815
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-korkuteli/1xxx/1055/antalya-korkuteli-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "660015",
+            "oyveotesi_sync_timestamp": 1684325815
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

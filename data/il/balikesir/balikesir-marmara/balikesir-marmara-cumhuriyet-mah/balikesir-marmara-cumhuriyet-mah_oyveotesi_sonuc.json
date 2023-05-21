@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-marmara",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "MARMARA",
+        "okul_adi": "RECEP AHMET MERCAN İLK/ORTAOKULU 1",
+        "sandik_no": 1006,
+        "mahalle_id": "balikesir-marmara-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332210
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 147,
+                "RECEP TAYYİP ERDOĞAN": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-marmara/1xxx/1006/balikesir-marmara-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332210
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-marmara",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "MARMARA",
+        "okul_adi": "RECEP AHMET MERCAN İLK/ORTAOKULU 1",
+        "sandik_no": 1007,
+        "mahalle_id": "balikesir-marmara-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332210
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-marmara/1xxx/1007/balikesir-marmara-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332210
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

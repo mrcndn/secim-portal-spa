@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-tusba",
+        "mahalle": "OCAKLI MAH.",
+        "ilce_adi": "TUŞBA",
+        "okul_adi": "OCAKLI İLKOKULU",
+        "sandik_no": 1233,
+        "mahalle_id": "van-tusba-ocakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-tusba/1xxx/1233/van-tusba-1233-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "210621",
+            "oyveotesi_sync_timestamp": 1684356984
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "210621",
+            "oyveotesi_sync_timestamp": 1684356984
+        },
+        "secim_bolge_id": "van"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "MURADİYEMENGENCİK KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "MURADİYE KÖYÜ SAĞLIK EVİ LOJMANI",
+        "sandik_no": 1505,
+        "mahalle_id": "duzce-merkez-muradiyemengencik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338113
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338113
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "MURADİYEMENGENCİK KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "MURADİYE KÖYÜ SAĞLIK EVİ LOJMANI",
+        "sandik_no": 1506,
+        "mahalle_id": "duzce-merkez-muradiyemengencik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1506/duzce-merkez-1506-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "404662",
+            "oyveotesi_sync_timestamp": 1684338113
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "404662",
+            "oyveotesi_sync_timestamp": 1684338113
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

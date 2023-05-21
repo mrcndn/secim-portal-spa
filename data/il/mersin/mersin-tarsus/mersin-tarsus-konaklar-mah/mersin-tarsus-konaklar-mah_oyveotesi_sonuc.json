@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "KONAKLAR MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "KONAKLAR MAH. OKUL BİNASI",
+        "sandik_no": 2126,
+        "mahalle_id": "mersin-tarsus-konaklar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 8,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2126/mersin-tarsus-2126-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793129",
+            "oyveotesi_sync_timestamp": 1684363581
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 149,
+            "sayim_sonuc": {
+                "TOPLAM": 149,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2126/mersin-tarsus-2126-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793129",
+            "oyveotesi_sync_timestamp": 1684363581
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "AĞCAMAHMUT MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "AĞCAMAHMUT MAHALLESİ İLK ÖĞRETİM OKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "samsun-havza-agcamahmut-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "İYİ PARTİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1009/samsun-havza-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568373",
+            "oyveotesi_sync_timestamp": 1684367640
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "568373",
+            "oyveotesi_sync_timestamp": 1684367640
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

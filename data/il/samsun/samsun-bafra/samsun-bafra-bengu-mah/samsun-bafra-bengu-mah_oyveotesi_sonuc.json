@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "BENGÜ MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "BENGÜ (İNCİDERESİ) İLKOKULU",
+        "sandik_no": 1061,
+        "mahalle_id": "samsun-bafra-bengu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1061/samsun-bafra-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174338",
+            "oyveotesi_sync_timestamp": 1684367565
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 123,
+            "sayim_sonuc": {
+                "TOPLAM": 123,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1061/samsun-bafra-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174338",
+            "oyveotesi_sync_timestamp": 1684367565
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "BENGÜ MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "BENGÜ(AMBARYANI) İLKOKULU",
+        "sandik_no": 1062,
+        "mahalle_id": "samsun-bafra-bengu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367565
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1062/samsun-bafra-1062-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367565
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

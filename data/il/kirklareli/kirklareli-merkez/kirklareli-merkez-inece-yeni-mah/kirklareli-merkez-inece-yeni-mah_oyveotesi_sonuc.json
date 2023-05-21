@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-merkez",
+        "mahalle": "İNECE-YENİ MAH.",
+        "ilce_adi": "KIRKLARELİ MERKEZ",
+        "okul_adi": "İNECE ŞEHİT ER TUNCAY DUMAN İLKOKULU",
+        "sandik_no": 1181,
+        "mahalle_id": "kirklareli-merkez-inece-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349164
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 241,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1181/kirklareli-merkez-1181-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349164
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

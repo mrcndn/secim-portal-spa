@@ -1,0 +1,602 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "GÖKPINAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-gokpinar-mah",
+        "oyveotesi_neighborhood_id": 26301
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "GÖLOVA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-golova-mah",
+        "oyveotesi_neighborhood_id": 26318
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "GÖLTARLA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-goltarla-mah",
+        "oyveotesi_neighborhood_id": 26293
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "GÜMÜŞYAKA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-gumusyaka-mah",
+        "oyveotesi_neighborhood_id": 26262
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "GÜNDOĞAN MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-gundogan-mah",
+        "oyveotesi_neighborhood_id": 26319
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "HACIMUSALAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-hacimusalar-mah",
+        "oyveotesi_neighborhood_id": 26276
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "HACIYUSUFLAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-haciyusuflar-mah",
+        "oyveotesi_neighborhood_id": 26294
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "İLYAĞI MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-ilyagi-mah",
+        "oyveotesi_neighborhood_id": 49608
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "İMİRCİK MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-imircik-mah",
+        "oyveotesi_neighborhood_id": 26280
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "İPLİK PAZARI MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-iplik-pazari-mah",
+        "oyveotesi_neighborhood_id": 26308
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "İSLAMLAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-islamlar-mah",
+        "oyveotesi_neighborhood_id": 26321
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KAPMESCİT MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-kapmescit-mah",
+        "oyveotesi_neighborhood_id": 26268
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KARAKÖY MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-karakoy-mah",
+        "oyveotesi_neighborhood_id": 26302
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KARAMIK MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-karamik-mah",
+        "oyveotesi_neighborhood_id": 26316
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KARYAĞDI MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-karyagdi-mah",
+        "oyveotesi_neighborhood_id": 26289
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KIŞLA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-kisla-mah",
+        "oyveotesi_neighborhood_id": 26281
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KIZILCA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-kizilca-mah",
+        "oyveotesi_neighborhood_id": 26303
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KOCAPINAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-kocapinar-mah",
+        "oyveotesi_neighborhood_id": 26297
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KÜÇÜKSÖĞLE MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-kucuksogle-mah",
+        "oyveotesi_neighborhood_id": 26269
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "KUZKÖY MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-kuzkoy-mah",
+        "oyveotesi_neighborhood_id": 26277
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "MACUN MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-macun-mah",
+        "oyveotesi_neighborhood_id": 26270
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "MURSAL MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-mursal-mah",
+        "oyveotesi_neighborhood_id": 26317
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "OVACIK MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-ovacik-mah",
+        "oyveotesi_neighborhood_id": 26264
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "ÖZDEMİR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-ozdemir-mah",
+        "oyveotesi_neighborhood_id": 26288
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "PİRHASANLAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-pirhasanlar-mah",
+        "oyveotesi_neighborhood_id": 26298
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "SALUR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-salur-mah",
+        "oyveotesi_neighborhood_id": 26287
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "SARILAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-sarilar-mah",
+        "oyveotesi_neighborhood_id": 26306
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "TAVULLAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-tavullar-mah",
+        "oyveotesi_neighborhood_id": 26311
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "TAHTAMESCİT MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-tahtamescit-mah",
+        "oyveotesi_neighborhood_id": 26320
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "ZÜMRÜTOVA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-zumrutova-mah",
+        "oyveotesi_neighborhood_id": 26272
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YUVA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-yuva-mah",
+        "oyveotesi_neighborhood_id": 26284
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YÖRENLER MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-yorenler-mah",
+        "oyveotesi_neighborhood_id": 26299
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YILMAZLI MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-yilmazli-mah",
+        "oyveotesi_neighborhood_id": 26283
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-yeni-mah",
+        "oyveotesi_neighborhood_id": 26304
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YAPRAKLI MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-yaprakli-mah",
+        "oyveotesi_neighborhood_id": 26271
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YALNIZDAM MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-yalnizdam-mah",
+        "oyveotesi_neighborhood_id": 26282
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YAKAÇİFTLİKKÖYÜ MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-yakaciftlikkoyu-mah",
+        "oyveotesi_neighborhood_id": 26312
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "TOKLULAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-toklular-mah",
+        "oyveotesi_neighborhood_id": 26265
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "TEKKE MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-tekke-mah",
+        "oyveotesi_neighborhood_id": 26310
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "AFŞAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-afsar-mah",
+        "oyveotesi_neighborhood_id": 26291
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "AHATLI MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-ahatli-mah",
+        "oyveotesi_neighborhood_id": 26266
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "AKÇAENİŞ MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-akcaenis-mah",
+        "oyveotesi_neighborhood_id": 26273
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "AKÇAY MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-akcay-mah",
+        "oyveotesi_neighborhood_id": 26292
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "ARMUTLU MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-armutlu-mah",
+        "oyveotesi_neighborhood_id": 26313
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "BAYINDIR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-bayindir-mah",
+        "oyveotesi_neighborhood_id": 26278
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "BAYRALAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-bayralar-mah",
+        "oyveotesi_neighborhood_id": 26314
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "BEYLER MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-beyler-mah",
+        "oyveotesi_neighborhood_id": 26300
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "BOZHÜYÜK MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-bozhuyuk-mah",
+        "oyveotesi_neighborhood_id": 26285
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "BÜYÜKSÖĞLE MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-buyuksogle-mah",
+        "oyveotesi_neighborhood_id": 26315
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "CAMİATİK MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-camiatik-mah",
+        "oyveotesi_neighborhood_id": 26267
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "CAMİCEDİT MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-camicedit-mah",
+        "oyveotesi_neighborhood_id": 26274
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "ÇAYBAŞI MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-caybasi-mah",
+        "oyveotesi_neighborhood_id": 26295
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "ÇOBANİSA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-cobanisa-mah",
+        "oyveotesi_neighborhood_id": 26307
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "ÇUKURELMA MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-cukurelma-mah",
+        "oyveotesi_neighborhood_id": 26263
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-derekoy-mah",
+        "oyveotesi_neighborhood_id": 26279
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "DÜDEN MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-duden-mah",
+        "oyveotesi_neighborhood_id": 26296
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "ESKİHİSAR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-eskihisar-mah",
+        "oyveotesi_neighborhood_id": 26305
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "EYMİR MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-eymir-mah",
+        "oyveotesi_neighborhood_id": 26309
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "GEÇİT MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-gecit-mah",
+        "oyveotesi_neighborhood_id": 26286
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "GEÇMEN MAH.",
+        "ilce_adi": "ELMALI",
+        "mahalle_id": "antalya-elmali-gecmen-mah",
+        "oyveotesi_neighborhood_id": 26275
+    }
+]

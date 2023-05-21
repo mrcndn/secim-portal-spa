@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-basiskele",
+        "mahalle": "SERİNDERE MAH.",
+        "ilce_adi": "BAŞİSKELE",
+        "okul_adi": "SERİNDERE İLKOKULU",
+        "sandik_no": 1159,
+        "mahalle_id": "kocaeli-basiskele-serindere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-basiskele/1xxx/1159/kocaeli-basiskele-1159-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "730475",
+            "oyveotesi_sync_timestamp": 1684349647
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 105
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-basiskele/1xxx/1159/kocaeli-basiskele-1159-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "730475",
+            "oyveotesi_sync_timestamp": 1684349647
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

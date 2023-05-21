@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-kepsut",
+        "mahalle": "KEÇİDERE MAH.",
+        "ilce_adi": "KEPSUT",
+        "okul_adi": "KEÇİDERE ORTAOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "balikesir-kepsut-kecidere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 160,
+            "sayim_sonuc": {
+                "TOPLAM": 160,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-kepsut/1xxx/1048/balikesir-kepsut-1048-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "240902",
+            "oyveotesi_sync_timestamp": 1684332121
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-kepsut/1xxx/1048/balikesir-kepsut-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "240902",
+            "oyveotesi_sync_timestamp": 1684332121
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-ovacik",
+        "mahalle": "BURNAK KÖYÜ",
+        "ilce_adi": "OVACIK",
+        "okul_adi": "YEŞİLYAZI HOCA AHMET YESEVİ YATILI BÖLGE OKULU 1",
+        "sandik_no": 1016,
+        "mahalle_id": "tunceli-ovacik-burnak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361429
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-ovacik/1xxx/1016/tunceli-ovacik-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361429
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

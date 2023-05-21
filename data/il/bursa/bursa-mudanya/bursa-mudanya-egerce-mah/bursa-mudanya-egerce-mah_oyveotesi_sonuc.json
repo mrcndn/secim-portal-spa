@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mudanya",
+        "mahalle": "EĞERCE MAH.",
+        "ilce_adi": "MUDANYA",
+        "okul_adi": "EĞERCE KÖYÜ KAHVESİ (ALT VE ÜST SALON)",
+        "sandik_no": 1037,
+        "mahalle_id": "bursa-mudanya-egerce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 97,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "825635",
+            "oyveotesi_sync_timestamp": 1684328690
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "825635",
+            "oyveotesi_sync_timestamp": 1684328690
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

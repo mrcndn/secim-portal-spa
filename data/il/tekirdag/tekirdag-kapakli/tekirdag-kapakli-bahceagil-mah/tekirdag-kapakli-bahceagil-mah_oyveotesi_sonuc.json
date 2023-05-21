@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-kapakli",
+        "mahalle": "BAHÇEAĞIL MAH.",
+        "ilce_adi": "KAPAKLI",
+        "okul_adi": "BAHÇEAĞIL İLK VE ORTAOKULU",
+        "sandik_no": 1068,
+        "mahalle_id": "tekirdag-kapakli-bahceagil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368676
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368676
+        },
+        "secim_bolge_id": "tekirdag"
+    },
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-kapakli",
+        "mahalle": "BAHÇEAĞIL MAH.",
+        "ilce_adi": "KAPAKLI",
+        "okul_adi": "BAHÇEAĞIL İLK VE ORTAOKULU",
+        "sandik_no": 1069,
+        "mahalle_id": "tekirdag-kapakli-bahceagil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368676
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 141,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-kapakli/1xxx/1069/tekirdag-kapakli-1069-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368676
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

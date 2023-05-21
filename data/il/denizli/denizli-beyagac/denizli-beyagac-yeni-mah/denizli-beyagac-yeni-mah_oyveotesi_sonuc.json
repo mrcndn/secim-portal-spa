@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-beyagac",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "BEYAĞAÇ",
+        "okul_adi": "BEYAĞAÇ LİSESİ",
+        "sandik_no": 1020,
+        "mahalle_id": "denizli-beyagac-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-beyagac/1xxx/1020/denizli-beyagac-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365530
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-beyagac",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "BEYAĞAÇ",
+        "okul_adi": "BEYAĞAÇ LİSESİ",
+        "sandik_no": 1021,
+        "mahalle_id": "denizli-beyagac-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-beyagac/1xxx/1021/denizli-beyagac-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365530
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

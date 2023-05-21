@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "HACILI MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "HACILI MH. İLKOKULU",
+        "sandik_no": 1160,
+        "mahalle_id": "manisa-salihli-hacili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "İYİ PARTİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1160/manisa-salihli-1160-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837338",
+            "oyveotesi_sync_timestamp": 1684397209
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 33,
+            "sayim_sonuc": {
+                "TOPLAM": 33,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1160/manisa-salihli-1160-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837338",
+            "oyveotesi_sync_timestamp": 1684397209
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

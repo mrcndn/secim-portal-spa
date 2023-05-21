@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "BOZDAĞ MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "BOZDAĞ KÖY KONAĞI",
+        "sandik_no": 1020,
+        "mahalle_id": "denizli-civril-bozdag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1020/denizli-civril-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569262",
+            "oyveotesi_sync_timestamp": 1684365665
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1020/denizli-civril-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569262",
+            "oyveotesi_sync_timestamp": 1684365665
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

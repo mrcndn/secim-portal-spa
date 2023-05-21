@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "KURCALI KÖYÜ",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "KURCALI İLKOKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "sinop-erfelek-kurcali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 76,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1041/sinop-erfelek-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369947",
+            "oyveotesi_sync_timestamp": 1684354215
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 157,
+            "sayim_sonuc": {
+                "TOPLAM": 157,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1041/sinop-erfelek-1041-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369947",
+            "oyveotesi_sync_timestamp": 1684354215
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

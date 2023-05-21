@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "BÜYÜKÇAKIRMAN MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "BÜYÜKÇAKIRMAN İLOKULU",
+        "sandik_no": 1061,
+        "mahalle_id": "erzincan-merkez-buyukcakirman-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1061/erzincan-merkez-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175204",
+            "oyveotesi_sync_timestamp": 1684339480
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 153,
+            "sayim_sonuc": {
+                "TOPLAM": 153,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1061/erzincan-merkez-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175204",
+            "oyveotesi_sync_timestamp": 1684339480
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

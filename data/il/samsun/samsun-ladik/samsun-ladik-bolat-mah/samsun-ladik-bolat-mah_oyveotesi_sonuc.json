@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "BOLAT MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "BOLAT MAH. KÜTÜPHANESİ",
+        "sandik_no": 1021,
+        "mahalle_id": "samsun-ladik-bolat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367435
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 219
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1021/samsun-ladik-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367435
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "KÜÇÜKKÖY MAH.",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "KÜÇÜKKÖY MAHALLESİ ÇAYOCAĞI",
+        "sandik_no": 1194,
+        "mahalle_id": "giresun-merkez-kucukkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1194/giresun-merkez-1194-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343129
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "KÜÇÜKKÖY MAH.",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "KÜÇÜKKÖY MAHALLESİ ÇAYOCAĞI",
+        "sandik_no": 1195,
+        "mahalle_id": "giresun-merkez-kucukkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1195/giresun-merkez-1195-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809969",
+            "oyveotesi_sync_timestamp": 1684343129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1195/giresun-merkez-1195-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809969",
+            "oyveotesi_sync_timestamp": 1684343129
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

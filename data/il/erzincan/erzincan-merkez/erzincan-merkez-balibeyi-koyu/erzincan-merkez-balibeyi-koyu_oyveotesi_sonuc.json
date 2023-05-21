@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "BALIBEYİ KÖYÜ",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "BALIBEYİ KÖYKONAĞI",
+        "sandik_no": 1331,
+        "mahalle_id": "erzincan-merkez-balibeyi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "SOL PARTİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 121,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1331/erzincan-merkez-1331-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "193956",
+            "oyveotesi_sync_timestamp": 1684339467
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1331/erzincan-merkez-1331-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "193956",
+            "oyveotesi_sync_timestamp": 1684339467
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-kuyucak",
+        "mahalle": "BAŞARAN MAH.",
+        "ilce_adi": "KUYUCAK",
+        "okul_adi": "BAŞARAN İLKOKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "aydin-kuyucak-basaran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1009/aydin-kuyucak-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "797548",
+            "oyveotesi_sync_timestamp": 1684394531
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 133,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1009/aydin-kuyucak-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "797548",
+            "oyveotesi_sync_timestamp": 1684394531
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-kuyucak",
+        "mahalle": "BAŞARAN MAH.",
+        "ilce_adi": "KUYUCAK",
+        "okul_adi": "BAŞARAN İLKOKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "aydin-kuyucak-basaran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394531
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1007/aydin-kuyucak-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394531
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-kuyucak",
+        "mahalle": "BAŞARAN MAH.",
+        "ilce_adi": "KUYUCAK",
+        "okul_adi": "BAŞARAN İLKOKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "aydin-kuyucak-basaran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394531
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 136,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-kuyucak/1xxx/1008/aydin-kuyucak-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394531
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

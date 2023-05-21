@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "SALMANLI MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "SALMANLI ESKİ İLKOKULU",
+        "sandik_no": 2207,
+        "mahalle_id": "sakarya-adapazari-salmanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 9,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 139,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2207/sakarya-adapazari-2207-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "771298",
+            "oyveotesi_sync_timestamp": 1684357534
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2207/sakarya-adapazari-2207-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "771298",
+            "oyveotesi_sync_timestamp": 1684357534
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

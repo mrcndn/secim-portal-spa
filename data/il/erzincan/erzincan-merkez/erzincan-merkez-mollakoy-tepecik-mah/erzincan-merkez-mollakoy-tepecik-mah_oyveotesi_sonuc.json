@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "MOLLAKÖY-TEPECİK MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "KÖY KAHVESİ",
+        "sandik_no": 1323,
+        "mahalle_id": "erzincan-merkez-mollakoy-tepecik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339560
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 150,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1323/erzincan-merkez-1323-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339560
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

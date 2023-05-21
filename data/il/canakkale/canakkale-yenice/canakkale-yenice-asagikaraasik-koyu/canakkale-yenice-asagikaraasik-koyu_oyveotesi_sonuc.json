@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-yenice",
+        "mahalle": "AŞAĞIKARAAŞIK KÖYÜ",
+        "ilce_adi": "YENİCE",
+        "okul_adi": "AŞAĞIKARAAŞIK KÖY KONAĞI",
+        "sandik_no": 1036,
+        "mahalle_id": "canakkale-yenice-asagikaraasik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "İYİ PARTİ": 11,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1036/canakkale-yenice-1036-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "588396",
+            "oyveotesi_sync_timestamp": 1684336126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1036/canakkale-yenice-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "588396",
+            "oyveotesi_sync_timestamp": 1684336126
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-sason",
+        "mahalle": "TEKİNLER MAH.",
+        "ilce_adi": "SASON",
+        "okul_adi": "YUNUSEMRE İLKÖĞRETİM OKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "batman-sason-tekinler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332838
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 154
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-sason/1xxx/1025/batman-sason-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332838
+        },
+        "secim_bolge_id": "batman"
+    }
+]

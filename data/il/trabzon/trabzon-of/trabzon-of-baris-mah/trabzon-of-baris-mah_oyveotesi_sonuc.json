@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-of",
+        "mahalle": "BARIŞ MAH.",
+        "ilce_adi": "OF",
+        "okul_adi": "BARIŞ MAH. MUHTARLIK ODASI",
+        "sandik_no": 1007,
+        "mahalle_id": "trabzon-of-baris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1007/trabzon-of-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "681551",
+            "oyveotesi_sync_timestamp": 1684366753
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1007/trabzon-of-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "681551",
+            "oyveotesi_sync_timestamp": 1684366753
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

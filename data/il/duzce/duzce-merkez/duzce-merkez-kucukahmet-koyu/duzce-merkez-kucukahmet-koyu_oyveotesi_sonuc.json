@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "KÜÇÜKAHMET KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "KÜÇÜKAHMET KÖYÜ CAMİ YANI KÖY KONAĞI",
+        "sandik_no": 1498,
+        "mahalle_id": "duzce-merkez-kucukahmet-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 162,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1498/duzce-merkez-1498-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "398247",
+            "oyveotesi_sync_timestamp": 1684338103
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 207
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1498/duzce-merkez-1498-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "398247",
+            "oyveotesi_sync_timestamp": 1684338103
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "ELBİZ MAH.",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ÇAY MESLEK YÜKSEK OKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "afyonkarahisar-cay-elbiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "İYİ PARTİ": 57,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1016/afyonkarahisar-cay-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "225480",
+            "oyveotesi_sync_timestamp": 1684324803
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1016/afyonkarahisar-cay-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "225480",
+            "oyveotesi_sync_timestamp": 1684324803
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

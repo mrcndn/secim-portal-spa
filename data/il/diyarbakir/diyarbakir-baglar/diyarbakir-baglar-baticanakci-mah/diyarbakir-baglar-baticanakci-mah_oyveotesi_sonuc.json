@@ -1,0 +1,70 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-baglar",
+        "mahalle": "BATIÇANAKÇI MAH.",
+        "ilce_adi": "BAĞLAR",
+        "okul_adi": "BAĞLAR 1 BATIÇANAKÇI İLKOKULU",
+        "sandik_no": 1272,
+        "mahalle_id": "diyarbakir-baglar-baticanakci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 240
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1272/diyarbakir-baglar-1272-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "287846",
+            "oyveotesi_sync_timestamp": 1684336779
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "KEMAL KILIÇDAROĞLU": 249,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1272/diyarbakir-baglar-1272-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "287846",
+            "oyveotesi_sync_timestamp": 1684336779
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-baglar",
+        "mahalle": "BATIÇANAKÇI MAH.",
+        "ilce_adi": "BAĞLAR",
+        "okul_adi": "BAĞLAR 1 BATIÇANAKÇI İLKOKULU",
+        "sandik_no": 1273,
+        "mahalle_id": "diyarbakir-baglar-baticanakci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336779
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 240,
+                "RECEP TAYYİP ERDOĞAN": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1273/diyarbakir-baglar-1273-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336779
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-buyukorhan",
+        "mahalle": "DERECİK MAH.",
+        "ilce_adi": "BÜYÜKORHAN",
+        "okul_adi": "DERECİK MAH. KÖY KONAĞI",
+        "sandik_no": 1014,
+        "mahalle_id": "bursa-buyukorhan-derecik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "448088",
+            "oyveotesi_sync_timestamp": 1684328513
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 23
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "448088",
+            "oyveotesi_sync_timestamp": 1684328513
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-akhisar",
+        "mahalle": "KOBAŞDERE MAH.",
+        "ilce_adi": "AKHİSAR",
+        "okul_adi": "KOBAŞDERE KÖY İLKOKULU",
+        "sandik_no": 1268,
+        "mahalle_id": "manisa-akhisar-kobasdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 51,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1268/manisa-akhisar-1268-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832856",
+            "oyveotesi_sync_timestamp": 1684397316
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1268/manisa-akhisar-1268-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832856",
+            "oyveotesi_sync_timestamp": 1684397316
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

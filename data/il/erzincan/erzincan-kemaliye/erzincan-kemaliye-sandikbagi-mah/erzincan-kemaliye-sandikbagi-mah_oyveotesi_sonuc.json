@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-kemaliye",
+        "mahalle": "SANDIKBAĞI MAH.",
+        "ilce_adi": "KEMALİYE",
+        "okul_adi": "SANDIKBAĞI MAHALLE ODASI",
+        "sandik_no": 1010,
+        "mahalle_id": "erzincan-kemaliye-sandikbagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-kemaliye/1xxx/1010/erzincan-kemaliye-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "440394",
+            "oyveotesi_sync_timestamp": 1684339806
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 96
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-kemaliye/1xxx/1010/erzincan-kemaliye-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "440394",
+            "oyveotesi_sync_timestamp": 1684339806
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "UZUNTEMUR KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "UZUNTEMUR KÖYÜ KÖY KONAĞI NO :38",
+        "sandik_no": 1095,
+        "mahalle_id": "sivas-imranli-uzuntemur-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359048
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 26,
+            "sayim_sonuc": {
+                "TOPLAM": 26,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1095/sivas-imranli-1095-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359048
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-digor",
+        "mahalle": "VARLI KÖYÜ",
+        "ilce_adi": "DİGOR",
+        "okul_adi": "VARLI KÖYÜ İLK VE ORTAOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "kars-digor-varli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346749
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 193,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-digor/1xxx/1051/kars-digor-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346749
+        },
+        "secim_bolge_id": "kars"
+    }
+]

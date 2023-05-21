@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "ÜYÜK KÖYÜ",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "ÜYÜK KÖY İLKOKULU",
+        "sandik_no": 2212,
+        "mahalle_id": "corum-merkez-uyuk-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369107
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369107
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "ÜYÜK KÖYÜ",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "ÜYÜK KÖY İLKOKULU",
+        "sandik_no": 2213,
+        "mahalle_id": "corum-merkez-uyuk-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 87,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 87,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2213/corum-merkez-2213-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429637",
+            "oyveotesi_sync_timestamp": 1684369107
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2213/corum-merkez-2213-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429637",
+            "oyveotesi_sync_timestamp": 1684369107
+        },
+        "secim_bolge_id": "corum"
+    }
+]

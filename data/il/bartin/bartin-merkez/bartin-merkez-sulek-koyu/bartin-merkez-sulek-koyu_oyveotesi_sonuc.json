@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "SÜLEK KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "SÜLEK KÖYÜ BSİ OKULU",
+        "sandik_no": 1351,
+        "mahalle_id": "bartin-merkez-sulek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328014
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1351/bartin-merkez-1351-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328014
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "SÜLEK KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "SÜLEK KÖYÜ BSİ OKULU",
+        "sandik_no": 1350,
+        "mahalle_id": "bartin-merkez-sulek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 116,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1350/bartin-merkez-1350-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "499190",
+            "oyveotesi_sync_timestamp": 1684328014
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 179
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1350/bartin-merkez-1350-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "499190",
+            "oyveotesi_sync_timestamp": 1684328014
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

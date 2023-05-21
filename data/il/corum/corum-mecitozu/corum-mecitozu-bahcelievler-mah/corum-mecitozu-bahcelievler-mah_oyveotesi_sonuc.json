@@ -1,0 +1,102 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "ATATÜRK ORTAOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "corum-mecitozu-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 107,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1001/corum-mecitozu-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "768902",
+            "oyveotesi_sync_timestamp": 1684368884
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 120,
+                "RECEP TAYYİP ERDOĞAN": 182
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1001/corum-mecitozu-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "768902",
+            "oyveotesi_sync_timestamp": 1684368884
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "ATATÜRK ORTAOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "corum-mecitozu-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 115,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 141,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1002/corum-mecitozu-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "742433",
+            "oyveotesi_sync_timestamp": 1684368884
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1002/corum-mecitozu-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "742433",
+            "oyveotesi_sync_timestamp": 1684368884
+        },
+        "secim_bolge_id": "corum"
+    }
+]

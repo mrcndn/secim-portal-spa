@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-merkez",
+        "mahalle": "KUŞKONDU KÖYÜ",
+        "ilce_adi": "BİNGÖL MERKEZ",
+        "okul_adi": "KUŞKONDU İLKOKULU",
+        "sandik_no": 1340,
+        "mahalle_id": "bingol-merkez-kuskondu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 3,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-merkez/1xxx/1340/bingol-merkez-1340-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "239308",
+            "oyveotesi_sync_timestamp": 1684333016
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 82,
+            "sayim_sonuc": {
+                "TOPLAM": 82,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-merkez/1xxx/1340/bingol-merkez-1340-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "239308",
+            "oyveotesi_sync_timestamp": 1684333016
+        },
+        "secim_bolge_id": "bingol"
+    }
+]

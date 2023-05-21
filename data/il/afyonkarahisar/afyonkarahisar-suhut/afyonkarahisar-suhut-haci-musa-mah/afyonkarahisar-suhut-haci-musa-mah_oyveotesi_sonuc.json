@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-suhut",
+        "mahalle": "HACI MUSA MAH.",
+        "ilce_adi": "ŞUHUT",
+        "okul_adi": "ZAFERYOLU İLKOKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "afyonkarahisar-suhut-haci-musa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "İYİ PARTİ": 45,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-suhut/1xxx/1011/afyonkarahisar-suhut-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732760",
+            "oyveotesi_sync_timestamp": 1684328950
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 233,
+            "sayim_sonuc": {
+                "TOPLAM": 233,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-suhut/1xxx/1011/afyonkarahisar-suhut-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732760",
+            "oyveotesi_sync_timestamp": 1684328950
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-suhut",
+        "mahalle": "HACI MUSA MAH.",
+        "ilce_adi": "ŞUHUT",
+        "okul_adi": "ZAFERYOLU İLKOKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "afyonkarahisar-suhut-haci-musa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328950
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-suhut/1xxx/1012/afyonkarahisar-suhut-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328950
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

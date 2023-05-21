@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-seyitgazi",
+        "mahalle": "GÜMÜŞBEL MAH.",
+        "ilce_adi": "SEYİTGAZİ",
+        "okul_adi": "GÜMÜŞBEL İ.Ö.O.",
+        "sandik_no": 1030,
+        "mahalle_id": "eskisehir-seyitgazi-gumusbel-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1030/eskisehir-seyitgazi-1030-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "658475",
+            "oyveotesi_sync_timestamp": 1684341748
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1030/eskisehir-seyitgazi-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "658475",
+            "oyveotesi_sync_timestamp": 1684341748
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

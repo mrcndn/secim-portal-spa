@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-mahmudiye",
+        "mahalle": "FAHRİYE MAH.",
+        "ilce_adi": "MAHMUDİYE",
+        "okul_adi": "FAHRİYE İLKÖĞRETİMOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "eskisehir-mahmudiye-fahriye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-mahmudiye/1xxx/1006/eskisehir-mahmudiye-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015908",
+            "oyveotesi_sync_timestamp": 1684341540
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-mahmudiye/1xxx/1006/eskisehir-mahmudiye-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015908",
+            "oyveotesi_sync_timestamp": 1684341540
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

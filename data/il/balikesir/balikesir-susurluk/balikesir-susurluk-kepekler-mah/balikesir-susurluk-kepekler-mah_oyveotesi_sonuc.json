@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-susurluk",
+        "mahalle": "KEPEKLER MAH.",
+        "ilce_adi": "SUSURLUK",
+        "okul_adi": "KEPEKLER KÖY KONAĞI",
+        "sandik_no": 1057,
+        "mahalle_id": "balikesir-susurluk-kepekler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 88,
+            "sayim_sonuc": {
+                "TOPLAM": 88,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-susurluk/1xxx/1057/balikesir-susurluk-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "239333",
+            "oyveotesi_sync_timestamp": 1684332390
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 89,
+            "sayim_sonuc": {
+                "TOPLAM": 89,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-susurluk/1xxx/1057/balikesir-susurluk-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "239333",
+            "oyveotesi_sync_timestamp": 1684332390
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

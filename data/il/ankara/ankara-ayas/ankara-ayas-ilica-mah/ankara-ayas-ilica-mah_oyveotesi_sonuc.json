@@ -1,0 +1,112 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "ILICA MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "ILICA İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "ankara-ayas-ilica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "539500",
+            "oyveotesi_sync_timestamp": 1684393623
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 172
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "539500",
+            "oyveotesi_sync_timestamp": 1684393623
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "ILICA MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "ILICA İLKOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "ankara-ayas-ilica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "658975",
+            "oyveotesi_sync_timestamp": 1684393623
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 181
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "658975",
+            "oyveotesi_sync_timestamp": 1684393623
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "SİMİTHACILI MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "SİMİTHACILI MAH. OKUL BİNASI",
+        "sandik_no": 2158,
+        "mahalle_id": "mersin-tarsus-simithacili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 56,
+            "sayim_sonuc": {
+                "TOPLAM": 56,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2158/mersin-tarsus-2158-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "660170",
+            "oyveotesi_sync_timestamp": 1684363643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2158/mersin-tarsus-2158-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "660170",
+            "oyveotesi_sync_timestamp": 1684363643
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

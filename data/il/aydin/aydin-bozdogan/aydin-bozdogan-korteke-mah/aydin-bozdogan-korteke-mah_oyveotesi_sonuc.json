@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-bozdogan",
+        "mahalle": "KÖRTEKE MAH.",
+        "ilce_adi": "BOZDOĞAN",
+        "okul_adi": "KÖRTEKE İLKOKULU",
+        "sandik_no": 1060,
+        "mahalle_id": "aydin-bozdogan-korteke-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "İYİ PARTİ": 28,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-bozdogan/1xxx/1060/aydin-bozdogan-1060-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "594272",
+            "oyveotesi_sync_timestamp": 1684394129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 8,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-bozdogan/1xxx/1060/aydin-bozdogan-1060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "594272",
+            "oyveotesi_sync_timestamp": 1684394129
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-merkez",
+        "mahalle": "YÜNLÜCE KÖYÜ",
+        "ilce_adi": "ELAZIĞ MERKEZ",
+        "okul_adi": "YÜNLÜCE İLKOKULU",
+        "sandik_no": 2482,
+        "mahalle_id": "elazig-merkez-yunluce-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "İYİ PARTİ": 7,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 135,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-merkez/2xxx/2482/elazig-merkez-2482-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "237248",
+            "oyveotesi_sync_timestamp": 1684338993
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "237248",
+            "oyveotesi_sync_timestamp": 1684338993
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

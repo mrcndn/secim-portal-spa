@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-yenisehir",
+        "mahalle": "KARASIL MAH.",
+        "ilce_adi": "YENİŞEHİR",
+        "okul_adi": "KARASIL KÖY KONAĞI",
+        "sandik_no": 1043,
+        "mahalle_id": "bursa-yenisehir-karasil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 16,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "486079",
+            "oyveotesi_sync_timestamp": 1684335461
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "486079",
+            "oyveotesi_sync_timestamp": 1684335461
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "İNÖNÜ MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "İNÖNÜ MAH. KÜLTÜR EVİ",
+        "sandik_no": 1150,
+        "mahalle_id": "ordu-fatsa-inonu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 118,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1150/ordu-fatsa-1150-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830331",
+            "oyveotesi_sync_timestamp": 1684360874
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1150/ordu-fatsa-1150-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830331",
+            "oyveotesi_sync_timestamp": 1684360874
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

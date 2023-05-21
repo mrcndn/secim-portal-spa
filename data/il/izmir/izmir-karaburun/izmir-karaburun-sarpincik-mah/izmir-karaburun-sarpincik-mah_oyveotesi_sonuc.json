@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-karaburun",
+        "mahalle": "SARPINCIK MAH.",
+        "ilce_adi": "KARABURUN",
+        "okul_adi": "SARPINCIK KÖY ODASI",
+        "sandik_no": 1035,
+        "mahalle_id": "izmir-karaburun-sarpincik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "529590",
+            "oyveotesi_sync_timestamp": 1684361870
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 99,
+            "sayim_sonuc": {
+                "TOPLAM": 99,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "529590",
+            "oyveotesi_sync_timestamp": 1684361870
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

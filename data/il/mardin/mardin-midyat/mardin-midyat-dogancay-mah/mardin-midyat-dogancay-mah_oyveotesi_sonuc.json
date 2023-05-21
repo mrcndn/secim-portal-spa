@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-midyat",
+        "mahalle": "DOĞANÇAY MAH.",
+        "ilce_adi": "MİDYAT",
+        "okul_adi": "DOĞANÇAY İLK ÖĞRETİM OKULU",
+        "sandik_no": 1102,
+        "mahalle_id": "mardin-midyat-dogancay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 71,
+            "sayim_sonuc": {
+                "TOPLAM": 71,
+                "İYİ PARTİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 16,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-midyat/1xxx/1102/mardin-midyat-1102-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "387895",
+            "oyveotesi_sync_timestamp": 1684353423
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 71,
+            "sayim_sonuc": {
+                "TOPLAM": 71,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-midyat/1xxx/1102/mardin-midyat-1102-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "387895",
+            "oyveotesi_sync_timestamp": 1684353423
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

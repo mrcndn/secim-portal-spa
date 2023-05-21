@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "hakkari",
+        "il_adi": "HAKKARİ",
+        "il_kodu": 30,
+        "ilce_id": "hakkari-yuksekova",
+        "mahalle": "SALKIMLI KÖYÜ",
+        "ilce_adi": "YÜKSEKOVA",
+        "okul_adi": "ORTAÇ KÖYÜ ORTAOKULU",
+        "sandik_no": 1235,
+        "mahalle_id": "hakkari-yuksekova-salkimli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SOL PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1235/hakkari-yuksekova-1235-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601194",
+            "oyveotesi_sync_timestamp": 1684343711
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "601194",
+            "oyveotesi_sync_timestamp": 1684343711
+        },
+        "secim_bolge_id": "hakkari"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-sarkisla",
+        "mahalle": "CEMEL-YENİ MAH.",
+        "ilce_adi": "ŞARKIŞLA",
+        "okul_adi": "CEMEL İLK-ORTAOKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "sivas-sarkisla-cemel-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 21,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-sarkisla/1xxx/1055/sivas-sarkisla-1055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "546793",
+            "oyveotesi_sync_timestamp": 1684358371
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 194
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-sarkisla/1xxx/1055/sivas-sarkisla-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "546793",
+            "oyveotesi_sync_timestamp": 1684358371
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

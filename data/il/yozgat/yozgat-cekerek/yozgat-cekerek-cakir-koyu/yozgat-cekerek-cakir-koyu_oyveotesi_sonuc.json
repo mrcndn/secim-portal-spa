@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-cekerek",
+        "mahalle": "ÇAKIR KÖYÜ",
+        "ilce_adi": "ÇEKEREK",
+        "okul_adi": "ÇAKIR KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1038,
+        "mahalle_id": "yozgat-cekerek-cakir-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396645
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1038/yozgat-cekerek-1038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396645
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

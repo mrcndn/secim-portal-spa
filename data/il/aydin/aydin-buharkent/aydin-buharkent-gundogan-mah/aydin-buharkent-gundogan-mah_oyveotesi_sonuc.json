@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-buharkent",
+        "mahalle": "GÜNDOĞAN MAH.",
+        "ilce_adi": "BUHARKENT",
+        "okul_adi": "GÜNDOĞAN KÖYÜ KÖY KONAĞI MİSAFİRHANESİ",
+        "sandik_no": 1005,
+        "mahalle_id": "aydin-buharkent-gundogan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 85,
+            "sayim_sonuc": {
+                "TOPLAM": 85,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-buharkent/1xxx/1005/aydin-buharkent-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542918",
+            "oyveotesi_sync_timestamp": 1684394648
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-buharkent/1xxx/1005/aydin-buharkent-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542918",
+            "oyveotesi_sync_timestamp": 1684394648
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

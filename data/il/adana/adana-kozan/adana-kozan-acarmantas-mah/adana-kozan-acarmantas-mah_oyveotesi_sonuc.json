@@ -1,0 +1,104 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-kozan",
+        "mahalle": "ACARMANTAŞ MAH.",
+        "ilce_adi": "KOZAN",
+        "okul_adi": "ACARMANTAŞ ORTAOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "adana-kozan-acarmantas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 54,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 19,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 147,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-kozan/1xxx/1002/adana-kozan-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "256715",
+            "oyveotesi_sync_timestamp": 1684371308
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 211
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-kozan/1xxx/1002/adana-kozan-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "256715",
+            "oyveotesi_sync_timestamp": 1684371308
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-kozan",
+        "mahalle": "ACARMANTAŞ MAH.",
+        "ilce_adi": "KOZAN",
+        "okul_adi": "ACARMANTAŞ ORTAOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "adana-kozan-acarmantas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 154,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 54,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-kozan/1xxx/1001/adana-kozan-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504587",
+            "oyveotesi_sync_timestamp": 1684371308
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 71,
+                "RECEP TAYYİP ERDOĞAN": 230
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-kozan/1xxx/1001/adana-kozan-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504587",
+            "oyveotesi_sync_timestamp": 1684371308
+        },
+        "secim_bolge_id": "adana"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-hilvan",
+        "mahalle": "SÖĞÜTLÜ MAH.",
+        "ilce_adi": "HİLVAN",
+        "okul_adi": "SÖĞÜTLÜ İLKOKULU",
+        "sandik_no": 1098,
+        "mahalle_id": "sanliurfa-hilvan-sogutlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SOL PARTİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 36,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-hilvan/1xxx/1098/sanliurfa-hilvan-1098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "182512",
+            "oyveotesi_sync_timestamp": 1684374080
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "182512",
+            "oyveotesi_sync_timestamp": 1684374080
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

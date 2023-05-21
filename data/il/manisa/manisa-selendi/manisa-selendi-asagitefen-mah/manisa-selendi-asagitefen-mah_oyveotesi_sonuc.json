@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-selendi",
+        "mahalle": "AŞAĞITEFEN MAH.",
+        "ilce_adi": "SELENDİ",
+        "okul_adi": "AŞAĞI TEFEN MH.MERKEZ SAĞLIK OCAĞI",
+        "sandik_no": 1004,
+        "mahalle_id": "manisa-selendi-asagitefen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396755
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396755
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-selendi",
+        "mahalle": "AŞAĞITEFEN MAH.",
+        "ilce_adi": "SELENDİ",
+        "okul_adi": "AŞAĞITEFEN MH.DOLAYDAMLARI İLKOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "manisa-selendi-asagitefen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396755
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-selendi/1xxx/1005/manisa-selendi-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396755
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

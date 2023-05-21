@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "SAZAK KÖYÜ",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "SAZAK KÖYÜ ANAOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "burdur-tefenni-sazak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334584
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1028/burdur-tefenni-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334584
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

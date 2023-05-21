@@ -1,0 +1,97 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "KANBERHÜYÜĞÜ MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "KAMBERHÜYÜĞÜ MAH. İLKOKULU",
+        "sandik_no": 2105,
+        "mahalle_id": "mersin-tarsus-kanberhuyugu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2105/mersin-tarsus-2105-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784612",
+            "oyveotesi_sync_timestamp": 1684363602
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 113
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2105/mersin-tarsus-2105-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784612",
+            "oyveotesi_sync_timestamp": 1684363602
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "KANBERHÜYÜĞÜ MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "KAMBERHÜYÜĞÜ MAH. İLKOKULU",
+        "sandik_no": 2104,
+        "mahalle_id": "mersin-tarsus-kanberhuyugu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "İYİ PARTİ": 19,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 65,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2104/mersin-tarsus-2104-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "787608",
+            "oyveotesi_sync_timestamp": 1684363602
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 77,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2104/mersin-tarsus-2104-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "787608",
+            "oyveotesi_sync_timestamp": 1684363602
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

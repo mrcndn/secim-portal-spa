@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "HASALAN MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "HASALAN MH. KÖY ODASI",
+        "sandik_no": 1161,
+        "mahalle_id": "manisa-salihli-hasalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397208
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 77,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1161/manisa-salihli-1161-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397208
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

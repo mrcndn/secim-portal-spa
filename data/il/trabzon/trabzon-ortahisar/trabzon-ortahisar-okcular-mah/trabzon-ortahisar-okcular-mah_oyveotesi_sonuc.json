@@ -1,0 +1,95 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-ortahisar",
+        "mahalle": "OKÇULAR MAH.",
+        "ilce_adi": "ORTAHİSAR",
+        "okul_adi": "OKÇULAR ARMUTLU SAĞLIK OCAĞI",
+        "sandik_no": 1237,
+        "mahalle_id": "trabzon-ortahisar-okcular-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366361
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366361
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-ortahisar",
+        "mahalle": "OKÇULAR MAH.",
+        "ilce_adi": "ORTAHİSAR",
+        "okul_adi": "OKÇULAR OKÇU MERKEZ İLKOKULU",
+        "sandik_no": 1239,
+        "mahalle_id": "trabzon-ortahisar-okcular-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366361
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366361
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-ortahisar",
+        "mahalle": "OKÇULAR MAH.",
+        "ilce_adi": "ORTAHİSAR",
+        "okul_adi": "OKÇULAR GÜNEY CAMİ ALTI LOJMANI",
+        "sandik_no": 1238,
+        "mahalle_id": "trabzon-ortahisar-okcular-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 207,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-ortahisar/1xxx/1238/trabzon-ortahisar-1238-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830770",
+            "oyveotesi_sync_timestamp": 1684366361
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 239
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-ortahisar/1xxx/1238/trabzon-ortahisar-1238-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830770",
+            "oyveotesi_sync_timestamp": 1684366361
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

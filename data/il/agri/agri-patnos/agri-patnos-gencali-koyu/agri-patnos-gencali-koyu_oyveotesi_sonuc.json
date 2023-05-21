@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-patnos",
+        "mahalle": "GENÇALİ KÖYÜ",
+        "ilce_adi": "PATNOS",
+        "okul_adi": "GENÇALİ KÖYÜ İLK VE ORTAOKULU",
+        "sandik_no": 1163,
+        "mahalle_id": "agri-patnos-gencali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327037
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 160,
+            "sayim_sonuc": {
+                "TOPLAM": 160,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 137,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-patnos/1xxx/1163/agri-patnos-1163-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327037
+        },
+        "secim_bolge_id": "agri"
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-patnos",
+        "mahalle": "GENÇALİ KÖYÜ",
+        "ilce_adi": "PATNOS",
+        "okul_adi": "GENÇALİ KÖYÜ İLK VE ORTAOKULU",
+        "sandik_no": 1164,
+        "mahalle_id": "agri-patnos-gencali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 159,
+            "sayim_sonuc": {
+                "TOPLAM": 159,
+                "GENÇ PARTİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-patnos/1xxx/1164/agri-patnos-1164-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762308",
+            "oyveotesi_sync_timestamp": 1684327037
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-patnos/1xxx/1164/agri-patnos-1164-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762308",
+            "oyveotesi_sync_timestamp": 1684327037
+        },
+        "secim_bolge_id": "agri"
+    }
+]

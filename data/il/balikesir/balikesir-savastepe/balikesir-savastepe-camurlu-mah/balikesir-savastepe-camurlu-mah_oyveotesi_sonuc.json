@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-savastepe",
+        "mahalle": "ÇAMURLU MAH.",
+        "ilce_adi": "SAVAŞTEPE",
+        "okul_adi": "ÇAMURLU MAHALLESİ SARIİSMAİLLER SOKAK KÖY ODASI",
+        "sandik_no": 1017,
+        "mahalle_id": "balikesir-savastepe-camurlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "İYİ PARTİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-savastepe/1xxx/1017/balikesir-savastepe-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829775",
+            "oyveotesi_sync_timestamp": 1684332227
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-savastepe/1xxx/1017/balikesir-savastepe-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829775",
+            "oyveotesi_sync_timestamp": 1684332227
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

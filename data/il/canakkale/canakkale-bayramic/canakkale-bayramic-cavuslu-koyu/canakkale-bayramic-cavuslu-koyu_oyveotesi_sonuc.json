@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇAVUŞLU KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "ÇAVUŞLU KÖYÜ SAĞLIK EVİ",
+        "sandik_no": 1056,
+        "mahalle_id": "canakkale-bayramic-cavuslu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 61,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 108,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1056/canakkale-bayramic-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "415796",
+            "oyveotesi_sync_timestamp": 1684335713
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 185,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1056/canakkale-bayramic-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "415796",
+            "oyveotesi_sync_timestamp": 1684335713
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

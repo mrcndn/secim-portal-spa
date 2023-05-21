@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-eregli",
+        "mahalle": "BALLICA KÖYÜ",
+        "ilce_adi": "EREĞLİ",
+        "okul_adi": "BALLICA KÖYÜ ESKİ OKUL",
+        "sandik_no": 1316,
+        "mahalle_id": "zonguldak-eregli-ballica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 122,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-eregli/1xxx/1316/zonguldak-eregli-1316-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "458279",
+            "oyveotesi_sync_timestamp": 1684369984
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 264,
+            "sayim_sonuc": {
+                "TOPLAM": 264,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 144,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-eregli/1xxx/1316/zonguldak-eregli-1316-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "458279",
+            "oyveotesi_sync_timestamp": 1684369984
+        },
+        "secim_bolge_id": "zonguldak"
+    }
+]

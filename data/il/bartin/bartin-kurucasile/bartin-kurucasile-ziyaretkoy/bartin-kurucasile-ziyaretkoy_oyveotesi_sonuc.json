@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-kurucasile",
+        "mahalle": "ZİYARETKÖY",
+        "ilce_adi": "KURUCAŞİLE",
+        "okul_adi": "ZİYARET KÖY KONAĞI",
+        "sandik_no": 1034,
+        "mahalle_id": "bartin-kurucasile-ziyaretkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 11,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1034/bartin-kurucasile-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463531",
+            "oyveotesi_sync_timestamp": 1684331185
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1034/bartin-kurucasile-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463531",
+            "oyveotesi_sync_timestamp": 1684331185
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

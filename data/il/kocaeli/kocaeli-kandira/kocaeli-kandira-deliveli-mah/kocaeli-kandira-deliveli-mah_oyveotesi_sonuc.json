@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-kandira",
+        "mahalle": "DELİVELİ MAH.",
+        "ilce_adi": "KANDIRA",
+        "okul_adi": "DELİVELİ İLKOKULU",
+        "sandik_no": 1070,
+        "mahalle_id": "kocaeli-kandira-deliveli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 88,
+            "sayim_sonuc": {
+                "TOPLAM": 88,
+                "İYİ PARTİ": 19,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 44,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-kandira/1xxx/1070/kocaeli-kandira-1070-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "181436",
+            "oyveotesi_sync_timestamp": 1684349956
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "181436",
+            "oyveotesi_sync_timestamp": 1684349956
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

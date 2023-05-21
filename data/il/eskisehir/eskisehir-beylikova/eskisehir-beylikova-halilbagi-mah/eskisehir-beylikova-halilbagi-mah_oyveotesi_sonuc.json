@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-beylikova",
+        "mahalle": "HALİLBAĞI MAH.",
+        "ilce_adi": "BEYLİKOVA",
+        "okul_adi": "HALİLBAĞI MAHALLE İLKOKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "eskisehir-beylikova-halilbagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "İYİ PARTİ": 20,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1009/eskisehir-beylikova-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "580795",
+            "oyveotesi_sync_timestamp": 1684341432
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1009/eskisehir-beylikova-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "580795",
+            "oyveotesi_sync_timestamp": 1684341432
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

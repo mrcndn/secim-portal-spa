@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-merkez",
+        "mahalle": "TUZLU KÖYÜ",
+        "ilce_adi": "ÇANKIRI MERKEZ",
+        "okul_adi": "TUZLU KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1213,
+        "mahalle_id": "cankiri-merkez-tuzlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "İYİ PARTİ": 10,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-merkez/1xxx/1213/cankiri-merkez-1213-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "416511",
+            "oyveotesi_sync_timestamp": 1684336315
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 96
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-merkez/1xxx/1213/cankiri-merkez-1213-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "416511",
+            "oyveotesi_sync_timestamp": 1684336315
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

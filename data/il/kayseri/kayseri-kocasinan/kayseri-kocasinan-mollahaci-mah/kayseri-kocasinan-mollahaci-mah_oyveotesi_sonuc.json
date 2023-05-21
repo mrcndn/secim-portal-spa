@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "MOLLAHACI MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "okul_adi": "MOLLAHACI KURAN KURSU TOPLANTI SALONU",
+        "sandik_no": 1250,
+        "mahalle_id": "kayseri-kocasinan-mollahaci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 118,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-kocasinan/1xxx/1250/kayseri-kocasinan-1250-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "672735",
+            "oyveotesi_sync_timestamp": 1684359874
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 178
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-kocasinan/1xxx/1250/kayseri-kocasinan-1250-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "672735",
+            "oyveotesi_sync_timestamp": 1684359874
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

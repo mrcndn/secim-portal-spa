@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-basiskele",
+        "mahalle": "CAMİDÜZÜ MAH.",
+        "ilce_adi": "BAŞİSKELE",
+        "okul_adi": "CAMİ DÜZÜ MAHALLE KONAĞI",
+        "sandik_no": 1051,
+        "mahalle_id": "kocaeli-basiskele-camiduzu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-basiskele/1xxx/1051/kocaeli-basiskele-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "786595",
+            "oyveotesi_sync_timestamp": 1684349622
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-basiskele/1xxx/1051/kocaeli-basiskele-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "786595",
+            "oyveotesi_sync_timestamp": 1684349622
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

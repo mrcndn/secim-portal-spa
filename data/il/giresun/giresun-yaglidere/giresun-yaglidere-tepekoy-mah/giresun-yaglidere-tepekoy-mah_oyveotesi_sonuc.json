@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-yaglidere",
+        "mahalle": "TEPEKÖY MAH.",
+        "ilce_adi": "YAĞLIDERE",
+        "okul_adi": "TEPEKÖY MAH.İLK.ÖĞ.OK.",
+        "sandik_no": 1019,
+        "mahalle_id": "giresun-yaglidere-tepekoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "İYİ PARTİ": 34,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 83,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-yaglidere/1xxx/1019/giresun-yaglidere-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "797369",
+            "oyveotesi_sync_timestamp": 1684343530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-yaglidere/1xxx/1019/giresun-yaglidere-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "797369",
+            "oyveotesi_sync_timestamp": 1684343530
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-yaglidere",
+        "mahalle": "TEPEKÖY MAH.",
+        "ilce_adi": "YAĞLIDERE",
+        "okul_adi": "TEPEKÖY MAH.İLK.ÖĞ.OK.",
+        "sandik_no": 1020,
+        "mahalle_id": "giresun-yaglidere-tepekoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343530
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

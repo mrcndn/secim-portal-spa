@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-han",
+        "mahalle": "KAYI MAH.",
+        "ilce_adi": "HAN",
+        "okul_adi": "KAYI /İLKÖĞRETİM OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "eskisehir-han-kayi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 89,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-han/1xxx/1013/eskisehir-han-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "688857",
+            "oyveotesi_sync_timestamp": 1684341514
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-han/1xxx/1013/eskisehir-han-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "688857",
+            "oyveotesi_sync_timestamp": 1684341514
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

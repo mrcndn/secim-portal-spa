@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-kale",
+        "mahalle": "NARLI MAH.",
+        "ilce_adi": "KALE",
+        "okul_adi": "NARLI İLKOKULU",
+        "sandik_no": 1046,
+        "mahalle_id": "denizli-kale-narli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 7,
+                "MİLLET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 144,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-kale/1xxx/1046/denizli-kale-1046-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "650508",
+            "oyveotesi_sync_timestamp": 1684365370
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 214
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-kale/1xxx/1046/denizli-kale-1046-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "650508",
+            "oyveotesi_sync_timestamp": 1684365370
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

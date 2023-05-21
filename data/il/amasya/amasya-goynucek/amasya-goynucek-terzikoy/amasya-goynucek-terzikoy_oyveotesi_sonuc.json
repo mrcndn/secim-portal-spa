@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "TERZİKÖY",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "TERZİKÖY MUHTARLIK BİNASI",
+        "sandik_no": 1046,
+        "mahalle_id": "amasya-goynucek-terzikoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325370
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1046/amasya-goynucek-1046-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325370
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

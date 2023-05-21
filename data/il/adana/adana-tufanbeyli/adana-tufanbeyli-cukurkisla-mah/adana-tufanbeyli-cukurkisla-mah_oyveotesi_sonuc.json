@@ -1,0 +1,84 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-tufanbeyli",
+        "mahalle": "ÇUKURKIŞLA MAH.",
+        "ilce_adi": "TUFANBEYLİ",
+        "okul_adi": "ÇUKURKIŞLA KÖY İLKOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "adana-tufanbeyli-cukurkisla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "İYİ PARTİ": 4,
+                "ZAFER PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1018/adana-tufanbeyli-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "507818",
+            "oyveotesi_sync_timestamp": 1684371380
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1018/adana-tufanbeyli-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "507818",
+            "oyveotesi_sync_timestamp": 1684371380
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-tufanbeyli",
+        "mahalle": "ÇUKURKIŞLA MAH.",
+        "ilce_adi": "TUFANBEYLİ",
+        "okul_adi": "ÇUKURKIŞLA KİREÇ MEZRASI İLKOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "adana-tufanbeyli-cukurkisla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1017/adana-tufanbeyli-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834704",
+            "oyveotesi_sync_timestamp": 1684371380
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1017/adana-tufanbeyli-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834704",
+            "oyveotesi_sync_timestamp": 1684371380
+        },
+        "secim_bolge_id": "adana"
+    }
+]

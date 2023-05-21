@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "ALİBEY MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "ALİBEY İLKOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "bursa-inegol-alibey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 67,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 163,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "274438",
+            "oyveotesi_sync_timestamp": 1684334628
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 207
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "274438",
+            "oyveotesi_sync_timestamp": 1684334628
+        },
+        "secim_bolge_id": "bursa2"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "ALİBEY MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "ALİBEY İLKOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "bursa-inegol-alibey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334628
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334628
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

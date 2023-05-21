@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "ÇEŞNİGİR MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "ÇEŞNİGİR MAHALLESİ KÖY BİNASI",
+        "sandik_no": 1026,
+        "mahalle_id": "bursa-karacabey-cesnigir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "619639",
+            "oyveotesi_sync_timestamp": 1684334808
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "619639",
+            "oyveotesi_sync_timestamp": 1684334808
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

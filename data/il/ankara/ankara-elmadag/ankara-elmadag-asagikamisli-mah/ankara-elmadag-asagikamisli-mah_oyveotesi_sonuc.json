@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-elmadag",
+        "mahalle": "AŞAĞIKAMIŞLI MAH.",
+        "ilce_adi": "ELMADAĞ",
+        "okul_adi": "AŞAĞIKAMIŞLI KÖY ODASI",
+        "sandik_no": 1002,
+        "mahalle_id": "ankara-elmadag-asagikamisli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "519105",
+            "oyveotesi_sync_timestamp": 1684393097
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 105
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "519105",
+            "oyveotesi_sync_timestamp": 1684393097
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

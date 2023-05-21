@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-dosemealti",
+        "mahalle": "CAMİLİ MAH.",
+        "ilce_adi": "DÖŞEMEALTI",
+        "okul_adi": "KAPALI PAZAR YERİ MUTFAĞI",
+        "sandik_no": 1047,
+        "mahalle_id": "antalya-dosemealti-camili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 114,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1047/antalya-dosemealti-1047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "688226",
+            "oyveotesi_sync_timestamp": 1684325671
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 147,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1047/antalya-dosemealti-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "688226",
+            "oyveotesi_sync_timestamp": 1684325671
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

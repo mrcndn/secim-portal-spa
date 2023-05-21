@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "ORAKLAR MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "ORAKLAR MH. CAMİ İMAM LOJMANI",
+        "sandik_no": 1263,
+        "mahalle_id": "manisa-salihli-oraklar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397179
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1263/manisa-salihli-1263-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397179
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

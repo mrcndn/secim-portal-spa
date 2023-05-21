@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "ÇUKURKUYU MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "ÇUKURKUYU ORTAOKULU",
+        "sandik_no": 1084,
+        "mahalle_id": "erzincan-merkez-cukurkuyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339495
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 251
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1084/erzincan-merkez-1084-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339495
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-derince",
+        "mahalle": "ÇAVUŞLU MAH.",
+        "ilce_adi": "DERİNCE",
+        "okul_adi": "İSHAKÇILAR İLKOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "kocaeli-derince-cavuslu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 23,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 135,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-derince/1xxx/1001/kocaeli-derince-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "346984",
+            "oyveotesi_sync_timestamp": 1684349683
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-derince/1xxx/1001/kocaeli-derince-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "346984",
+            "oyveotesi_sync_timestamp": 1684349683
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-derince",
+        "mahalle": "ÇAVUŞLU MAH.",
+        "ilce_adi": "DERİNCE",
+        "okul_adi": "İSHAKÇILAR İLKOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "kocaeli-derince-cavuslu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 29,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 124,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-derince/1xxx/1002/kocaeli-derince-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "305490",
+            "oyveotesi_sync_timestamp": 1684349683
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-derince/1xxx/1002/kocaeli-derince-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "305490",
+            "oyveotesi_sync_timestamp": 1684349683
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

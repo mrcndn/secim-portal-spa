@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YARDERE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "okul_adi": "YARDERE KÖY ODASI",
+        "sandik_no": 1070,
+        "mahalle_id": "ordu-mesudiye-yardere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 43,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-mesudiye/1xxx/1070/ordu-mesudiye-1070-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "801526",
+            "oyveotesi_sync_timestamp": 1684360579
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-mesudiye/1xxx/1070/ordu-mesudiye-1070-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "801526",
+            "oyveotesi_sync_timestamp": 1684360579
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

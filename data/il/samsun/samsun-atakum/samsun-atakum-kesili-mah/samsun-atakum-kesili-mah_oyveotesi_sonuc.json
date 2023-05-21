@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-atakum",
+        "mahalle": "KESİLİ MAH.",
+        "ilce_adi": "ATAKUM",
+        "okul_adi": "KESİLİ MERKEZ MAHALLE ODASI",
+        "sandik_no": 1218,
+        "mahalle_id": "samsun-atakum-kesili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-atakum/1xxx/1218/samsun-atakum-1218-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834429",
+            "oyveotesi_sync_timestamp": 1684367882
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 101
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-atakum/1xxx/1218/samsun-atakum-1218-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834429",
+            "oyveotesi_sync_timestamp": 1684367882
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

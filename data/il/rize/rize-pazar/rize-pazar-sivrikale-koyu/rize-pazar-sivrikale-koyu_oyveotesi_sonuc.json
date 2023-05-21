@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "SİVRİKALE KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "SİVRİKALE KÖYÜ SAĞLIK OCAĞI",
+        "sandik_no": 1089,
+        "mahalle_id": "rize-pazar-sivrikale-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1089/rize-pazar-1089-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514233",
+            "oyveotesi_sync_timestamp": 1684355891
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 81
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1089/rize-pazar-1089-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514233",
+            "oyveotesi_sync_timestamp": 1684355891
+        },
+        "secim_bolge_id": "rize"
+    }
+]

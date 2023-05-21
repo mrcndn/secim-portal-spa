@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-lapseki",
+        "mahalle": "DİŞBUDAK KÖYÜ",
+        "ilce_adi": "LAPSEKİ",
+        "okul_adi": "DIŞBUDAK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1064,
+        "mahalle_id": "canakkale-lapseki-disbudak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "ADALET VE KALKINMA PARTİSİ": 174,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1064/canakkale-lapseki-1064-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "581650",
+            "oyveotesi_sync_timestamp": 1684335590
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 204
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1064/canakkale-lapseki-1064-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "581650",
+            "oyveotesi_sync_timestamp": 1684335590
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

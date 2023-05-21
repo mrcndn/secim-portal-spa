@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-oguzlar",
+        "mahalle": "KARADONLU MAH.",
+        "ilce_adi": "OĞUZLAR",
+        "okul_adi": "OĞUZLAR İLKOKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "corum-oguzlar-karadonlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369601
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-oguzlar/1xxx/1008/corum-oguzlar-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369601
+        },
+        "secim_bolge_id": "corum"
+    }
+]

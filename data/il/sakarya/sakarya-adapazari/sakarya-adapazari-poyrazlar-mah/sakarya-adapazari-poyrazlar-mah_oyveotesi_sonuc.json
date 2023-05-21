@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "POYRAZLAR MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "POYRAZLAR KÖY KONAĞI TOPLANTI SALONU",
+        "sandik_no": 2202,
+        "mahalle_id": "sakarya-adapazari-poyrazlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 84,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2202/sakarya-adapazari-2202-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357530
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

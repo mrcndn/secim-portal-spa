@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-yesilova",
+        "mahalle": "ÇELTEK KÖYÜ",
+        "ilce_adi": "YEŞİLOVA",
+        "okul_adi": "ÇELTEK KÖY KAHVESİ",
+        "sandik_no": 1030,
+        "mahalle_id": "burdur-yesilova-celtek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333829
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-yesilova/1xxx/1030/burdur-yesilova-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333829
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

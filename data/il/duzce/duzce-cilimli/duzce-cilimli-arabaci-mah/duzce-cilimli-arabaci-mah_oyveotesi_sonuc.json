@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-cilimli",
+        "mahalle": "ARABACI MAH.",
+        "ilce_adi": "ÇİLİMLİ",
+        "okul_adi": "ARABACI MAHALLESİ TOPÇULAR İLKOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "duzce-cilimli-arabaci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "GENÇ PARTİ": 4,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-cilimli/1xxx/1001/duzce-cilimli-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "642719",
+            "oyveotesi_sync_timestamp": 1684337898
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 251,
+            "sayim_sonuc": {
+                "TOPLAM": 251,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 198
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-cilimli/1xxx/1001/duzce-cilimli-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "642719",
+            "oyveotesi_sync_timestamp": 1684337898
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-cilimli",
+        "mahalle": "ARABACI MAH.",
+        "ilce_adi": "ÇİLİMLİ",
+        "okul_adi": "ARABACI MAHALLESİ TOPÇULAR İLKOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "duzce-cilimli-arabaci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337898
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337898
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

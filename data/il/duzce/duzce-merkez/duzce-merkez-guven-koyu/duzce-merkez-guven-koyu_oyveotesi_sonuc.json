@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "GÜVEN KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "GÜVEN KÖYÜ KÖY İLKOKULU",
+        "sandik_no": 1465,
+        "mahalle_id": "duzce-merkez-guven-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 185,
+            "sayim_sonuc": {
+                "TOPLAM": 185,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1465/duzce-merkez-1465-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "391931",
+            "oyveotesi_sync_timestamp": 1684338073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 125
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1465/duzce-merkez-1465-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "391931",
+            "oyveotesi_sync_timestamp": 1684338073
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "GÜVEN KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "GÜVEN KÖYÜ KÖY İLKOKULU",
+        "sandik_no": 1464,
+        "mahalle_id": "duzce-merkez-guven-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1464/duzce-merkez-1464-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338073
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

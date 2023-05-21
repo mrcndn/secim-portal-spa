@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merkez",
+        "mahalle": "GÖKDERE KÖYÜ",
+        "ilce_adi": "AMASYA MERKEZ",
+        "okul_adi": "GÖKDERE KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1284,
+        "mahalle_id": "amasya-merkez-gokdere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 24,
+            "sayim_sonuc": {
+                "TOPLAM": 24,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1284/amasya-merkez-1284-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "541900",
+            "oyveotesi_sync_timestamp": 1684324973
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "541900",
+            "oyveotesi_sync_timestamp": 1684324973
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

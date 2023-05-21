@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-golyaka",
+        "mahalle": "KUYUDÜZÜ MAH.",
+        "ilce_adi": "GÖLYAKA",
+        "okul_adi": "KUYUDÜZÜ MAHALLESİ KUYUDÜZÜ SOSYAL TESİSİ",
+        "sandik_no": 1012,
+        "mahalle_id": "duzce-golyaka-kuyuduzu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-golyaka/1xxx/1012/duzce-golyaka-1012-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823072",
+            "oyveotesi_sync_timestamp": 1684338192
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-golyaka/1xxx/1012/duzce-golyaka-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823072",
+            "oyveotesi_sync_timestamp": 1684338192
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-golyaka",
+        "mahalle": "KUYUDÜZÜ MAH.",
+        "ilce_adi": "GÖLYAKA",
+        "okul_adi": "KUYUDÜZÜ MAHALLESİ KUYUDÜZÜ SOSYAL TESİSİ",
+        "sandik_no": 1013,
+        "mahalle_id": "duzce-golyaka-kuyuduzu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-golyaka/1xxx/1013/duzce-golyaka-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821501",
+            "oyveotesi_sync_timestamp": 1684338192
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-golyaka/1xxx/1013/duzce-golyaka-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821501",
+            "oyveotesi_sync_timestamp": 1684338192
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

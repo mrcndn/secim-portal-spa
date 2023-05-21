@@ -1,0 +1,124 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-altin",
+        "mahalle": "GÜNÖREN MAH.",
+        "ilce_adi": "ALTINORDU",
+        "okul_adi": "KUŞLUVAN İLKÖĞRETİM OKULU",
+        "sandik_no": 1186,
+        "mahalle_id": "ordu-altin-gunoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360358
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360358
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-altin",
+        "mahalle": "GÜNÖREN MAH.",
+        "ilce_adi": "ALTINORDU",
+        "okul_adi": "ÇATALAĞZI İLKOKULU",
+        "sandik_no": 1187,
+        "mahalle_id": "ordu-altin-gunoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 122,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1187/ordu-altin-1187-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "503051",
+            "oyveotesi_sync_timestamp": 1684360358
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1187/ordu-altin-1187-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "503051",
+            "oyveotesi_sync_timestamp": 1684360358
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-altin",
+        "mahalle": "GÜNÖREN MAH.",
+        "ilce_adi": "ALTINORDU",
+        "okul_adi": "ÇATALAĞZI İLKOKULU",
+        "sandik_no": 1188,
+        "mahalle_id": "ordu-altin-gunoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "İYİ PARTİ": 6,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1188/ordu-altin-1188-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "503048",
+            "oyveotesi_sync_timestamp": 1684360358
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "503048",
+            "oyveotesi_sync_timestamp": 1684360358
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

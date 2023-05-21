@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhangazi",
+        "mahalle": "ÖRNEKKÖY MAH.",
+        "ilce_adi": "ORHANGAZİ",
+        "okul_adi": "ÖRNEKKÖY ORHANÖCALGİRAY İLKÖĞRETİM OKULU",
+        "sandik_no": 1158,
+        "mahalle_id": "bursa-orhangazi-ornekkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335259
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335259
+        },
+        "secim_bolge_id": "bursa2"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhangazi",
+        "mahalle": "ÖRNEKKÖY MAH.",
+        "ilce_adi": "ORHANGAZİ",
+        "okul_adi": "ÖRNEKKÖY ORHANÖCALGİRAY İLKÖĞRETİM OKULU",
+        "sandik_no": 1159,
+        "mahalle_id": "bursa-orhangazi-ornekkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335259
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335259
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-tavsanli",
+        "mahalle": "GÖBEL KÖYÜ",
+        "ilce_adi": "TAVŞANLI",
+        "okul_adi": "GÖBEL İLKOKULU",
+        "sandik_no": 1242,
+        "mahalle_id": "kutahya-tavsanli-gobel-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1242/kutahya-tavsanli-1242-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566952",
+            "oyveotesi_sync_timestamp": 1684350741
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1242/kutahya-tavsanli-1242-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566952",
+            "oyveotesi_sync_timestamp": 1684350741
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-tavsanli",
+        "mahalle": "GÖBEL KÖYÜ",
+        "ilce_adi": "TAVŞANLI",
+        "okul_adi": "GÖBEL İLKOKULU",
+        "sandik_no": 1241,
+        "mahalle_id": "kutahya-tavsanli-gobel-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350741
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 199
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1241/kutahya-tavsanli-1241-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350741
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

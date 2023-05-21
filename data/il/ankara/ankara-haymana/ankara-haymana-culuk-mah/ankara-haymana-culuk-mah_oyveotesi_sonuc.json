@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "CULUK MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "CULUK MAH. İLKOKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "ankara-haymana-culuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393517
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393517
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "CULUK MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "CULUK MAH. İLKOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "ankara-haymana-culuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 172,
+            "sayim_sonuc": {
+                "TOPLAM": 172,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 45,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "791669",
+            "oyveotesi_sync_timestamp": 1684393517
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "791669",
+            "oyveotesi_sync_timestamp": 1684393517
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

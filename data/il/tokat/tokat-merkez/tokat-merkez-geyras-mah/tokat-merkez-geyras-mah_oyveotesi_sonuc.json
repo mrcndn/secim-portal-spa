@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-merkez",
+        "mahalle": "GEYRAS MAH.",
+        "ilce_adi": "TOKAT MERKEZ",
+        "okul_adi": "ÖĞRETMEN RUKİYE SARIER BUMİN ANAOKULU",
+        "sandik_no": 1118,
+        "mahalle_id": "tokat-merkez-geyras-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "İYİ PARTİ": 58,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1118/tokat-merkez-1118-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732011",
+            "oyveotesi_sync_timestamp": 1684365153
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1118/tokat-merkez-1118-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732011",
+            "oyveotesi_sync_timestamp": 1684365153
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

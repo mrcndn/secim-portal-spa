@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "BAŞPINAR KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "BAŞPINAR KÖY KONAĞI",
+        "sandik_no": 1013,
+        "mahalle_id": "amasya-goynucek-baspinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1013/amasya-goynucek-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026974",
+            "oyveotesi_sync_timestamp": 1684325172
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1013/amasya-goynucek-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026974",
+            "oyveotesi_sync_timestamp": 1684325172
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

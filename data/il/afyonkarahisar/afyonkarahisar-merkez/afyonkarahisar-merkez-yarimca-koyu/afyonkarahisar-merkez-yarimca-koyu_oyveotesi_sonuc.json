@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-merkez",
+        "mahalle": "YARIMCA KÖYÜ",
+        "ilce_adi": "AFYONKARAHİSAR MERKEZ",
+        "okul_adi": "YARIMCA KÖYÜ İLKOKULU",
+        "sandik_no": 2304,
+        "mahalle_id": "afyonkarahisar-merkez-yarimca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 16,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/2xxx/2304/afyonkarahisar-merkez-2304-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825503",
+            "oyveotesi_sync_timestamp": 1684324653
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 56,
+            "sayim_sonuc": {
+                "TOPLAM": 56,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/2xxx/2304/afyonkarahisar-merkez-2304-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825503",
+            "oyveotesi_sync_timestamp": 1684324653
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

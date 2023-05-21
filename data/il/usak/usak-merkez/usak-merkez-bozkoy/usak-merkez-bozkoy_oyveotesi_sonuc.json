@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "BOZKÖY",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "BOZKÖY İLKOKULU",
+        "sandik_no": 1486,
+        "mahalle_id": "usak-merkez-bozkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "İYİ PARTİ": 14,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1486/usak-merkez-1486-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "425967",
+            "oyveotesi_sync_timestamp": 1684369655
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 105
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1486/usak-merkez-1486-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "425967",
+            "oyveotesi_sync_timestamp": 1684369655
+        },
+        "secim_bolge_id": "usak"
+    }
+]

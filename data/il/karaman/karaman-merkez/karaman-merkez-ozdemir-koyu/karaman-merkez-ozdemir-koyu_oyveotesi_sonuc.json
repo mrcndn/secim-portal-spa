@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "ÖZDEMİR KÖYÜ",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "ÖZDEMİR KÖYÜ İLKOKULU",
+        "sandik_no": 1450,
+        "mahalle_id": "karaman-merkez-ozdemir-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 144,
+            "sayim_sonuc": {
+                "TOPLAM": 144,
+                "İYİ PARTİ": 6,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1450/karaman-merkez-1450-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1007764",
+            "oyveotesi_sync_timestamp": 1684346594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1007764",
+            "oyveotesi_sync_timestamp": 1684346594
+        },
+        "secim_bolge_id": "karaman"
+    }
+]

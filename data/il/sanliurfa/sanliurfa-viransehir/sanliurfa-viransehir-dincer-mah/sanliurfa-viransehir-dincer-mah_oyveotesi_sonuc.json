@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-viransehir",
+        "mahalle": "DİNÇER MAH.",
+        "ilce_adi": "VİRANŞEHİR",
+        "okul_adi": "DİNÇER İLKÖĞRETİM OKULU",
+        "sandik_no": 1094,
+        "mahalle_id": "sanliurfa-viransehir-dincer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "SOL PARTİ": 7,
+                "İYİ PARTİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 114
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-viransehir/1xxx/1094/sanliurfa-viransehir-1094-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178040",
+            "oyveotesi_sync_timestamp": 1684374128
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-viransehir/1xxx/1094/sanliurfa-viransehir-1094-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178040",
+            "oyveotesi_sync_timestamp": 1684374128
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

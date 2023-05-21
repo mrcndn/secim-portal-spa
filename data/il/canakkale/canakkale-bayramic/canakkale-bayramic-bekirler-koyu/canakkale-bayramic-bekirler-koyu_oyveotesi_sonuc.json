@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "BEKİRLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "BEKİRLER KÖYÜ KÖY KAHVEHANESİ",
+        "sandik_no": 1047,
+        "mahalle_id": "canakkale-bayramic-bekirler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "İYİ PARTİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1047/canakkale-bayramic-1047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "545414",
+            "oyveotesi_sync_timestamp": 1684335702
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1047/canakkale-bayramic-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "545414",
+            "oyveotesi_sync_timestamp": 1684335702
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

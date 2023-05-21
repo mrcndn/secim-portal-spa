@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-egirdir",
+        "mahalle": "POYRAZ MAH.",
+        "ilce_adi": "EĞİRDİR",
+        "okul_adi": "MESLEKİ EĞİTİM MERKEZİ",
+        "sandik_no": 1033,
+        "mahalle_id": "isparta-egirdir-poyraz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 123,
+            "sayim_sonuc": {
+                "TOPLAM": 123,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 7,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-egirdir/1xxx/1033/isparta-egirdir-1033-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "600067",
+            "oyveotesi_sync_timestamp": 1684344009
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-egirdir/1xxx/1033/isparta-egirdir-1033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "600067",
+            "oyveotesi_sync_timestamp": 1684344009
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

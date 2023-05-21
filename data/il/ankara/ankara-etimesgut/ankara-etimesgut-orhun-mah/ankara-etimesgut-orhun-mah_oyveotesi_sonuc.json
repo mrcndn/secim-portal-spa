@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-etimesgut",
+        "mahalle": "ORHUN MAH.",
+        "ilce_adi": "ETİMESGUT",
+        "okul_adi": "ÖZEL YAŞAMKENT ŞENER ÇAKMAK İLKOKULU (ORHUN MAHALLESİ)",
+        "sandik_no": 3195,
+        "mahalle_id": "ankara-etimesgut-orhun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "İYİ PARTİ": 53,
+                "ZAFER PARTİSİ": 12,
+                "MİLLİ YOL PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 163,
+                "ADALET VE KALKINMA PARTİSİ": 47,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "366657",
+            "oyveotesi_sync_timestamp": 1684375881
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 228,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "366657",
+            "oyveotesi_sync_timestamp": 1684375881
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

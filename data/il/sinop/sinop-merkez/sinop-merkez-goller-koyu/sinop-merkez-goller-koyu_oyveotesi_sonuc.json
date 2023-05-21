@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-merkez",
+        "mahalle": "GÖLLER KÖYÜ",
+        "ilce_adi": "SİNOP MERKEZ",
+        "okul_adi": "GÖLLER KÖY KONAĞI",
+        "sandik_no": 1136,
+        "mahalle_id": "sinop-merkez-goller-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354305
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 92,
+            "sayim_sonuc": {
+                "TOPLAM": 92,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1136/sinop-merkez-1136-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354305
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

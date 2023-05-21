@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-turgutlu",
+        "mahalle": "OSMANCIK MAH.",
+        "ilce_adi": "TURGUTLU",
+        "okul_adi": "OSMANCIK KAHVESİ",
+        "sandik_no": 1195,
+        "mahalle_id": "manisa-turgutlu-osmancik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397618
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-turgutlu/1xxx/1195/manisa-turgutlu-1195-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397618
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

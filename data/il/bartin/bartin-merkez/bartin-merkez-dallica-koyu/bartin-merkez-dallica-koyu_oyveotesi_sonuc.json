@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "DALLICA KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "DALLICA KÖYÜ ESKİ OKULU",
+        "sandik_no": 1250,
+        "mahalle_id": "bartin-merkez-dallica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "GENÇ PARTİ": 2,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "ADALET VE KALKINMA PARTİSİ": 63,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1250/bartin-merkez-1250-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "367967",
+            "oyveotesi_sync_timestamp": 1684327861
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 96
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1250/bartin-merkez-1250-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "367967",
+            "oyveotesi_sync_timestamp": 1684327861
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "DALLICA KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "DALLICA KÖYÜ ESKİ OKULU",
+        "sandik_no": 1251,
+        "mahalle_id": "bartin-merkez-dallica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327861
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1251/bartin-merkez-1251-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327861
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "TEPEKÖY MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "TEPEKÖY KÖY HİZMET BİNASI",
+        "sandik_no": 1101,
+        "mahalle_id": "ordu-persembe-tepekoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "İYİ PARTİ": 17,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 48,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1101/ordu-persembe-1101-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "330566",
+            "oyveotesi_sync_timestamp": 1684360595
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 99,
+            "sayim_sonuc": {
+                "TOPLAM": 99,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1101/ordu-persembe-1101-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "330566",
+            "oyveotesi_sync_timestamp": 1684360595
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

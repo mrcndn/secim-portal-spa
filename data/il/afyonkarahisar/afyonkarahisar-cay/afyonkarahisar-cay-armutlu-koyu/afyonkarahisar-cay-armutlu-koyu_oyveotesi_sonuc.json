@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "ARMUTLU KÖYÜ",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ARMUTLU KÖYÜ DÜĞÜN SALONU",
+        "sandik_no": 1054,
+        "mahalle_id": "afyonkarahisar-cay-armutlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 134,
+            "sayim_sonuc": {
+                "TOPLAM": 134,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 79,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1054/afyonkarahisar-cay-1054-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "637149",
+            "oyveotesi_sync_timestamp": 1684324783
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 98
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1054/afyonkarahisar-cay-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "637149",
+            "oyveotesi_sync_timestamp": 1684324783
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

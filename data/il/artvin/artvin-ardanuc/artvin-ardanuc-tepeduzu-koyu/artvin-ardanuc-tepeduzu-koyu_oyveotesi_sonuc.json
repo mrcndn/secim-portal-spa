@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-ardanuc",
+        "mahalle": "TEPEDÜZÜ KÖYÜ",
+        "ilce_adi": "ARDANUÇ",
+        "okul_adi": "TEPEDÜZÜ KÖYÜ KÖY ODASI",
+        "sandik_no": 1057,
+        "mahalle_id": "artvin-ardanuc-tepeduzu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1057/artvin-ardanuc-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361643
+        },
+        "secim_bolge_id": "artvin"
+    },
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-ardanuc",
+        "mahalle": "TEPEDÜZÜ KÖYÜ",
+        "ilce_adi": "ARDANUÇ",
+        "okul_adi": "TEPEDÜZÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "artvin-ardanuc-tepeduzu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 45,
+            "sayim_sonuc": {
+                "TOPLAM": 45,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1056/artvin-ardanuc-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361643
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BOSTANLIK KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BOSTANLIK KÖYÜ KÖY İLKOKULU",
+        "sandik_no": 1421,
+        "mahalle_id": "duzce-merkez-bostanlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "GENÇ PARTİ": 3,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 173,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1421/duzce-merkez-1421-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814194",
+            "oyveotesi_sync_timestamp": 1684338028
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 222
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1421/duzce-merkez-1421-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814194",
+            "oyveotesi_sync_timestamp": 1684338028
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BOSTANLIK KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BOSTANLIK KÖYÜ KÖY İLKOKULU",
+        "sandik_no": 1422,
+        "mahalle_id": "duzce-merkez-bostanlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 178,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1422/duzce-merkez-1422-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830616",
+            "oyveotesi_sync_timestamp": 1684338028
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 223
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1422/duzce-merkez-1422-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830616",
+            "oyveotesi_sync_timestamp": 1684338028
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

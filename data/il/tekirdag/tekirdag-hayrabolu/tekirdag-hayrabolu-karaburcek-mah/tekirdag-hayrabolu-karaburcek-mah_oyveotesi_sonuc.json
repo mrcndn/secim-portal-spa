@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-hayrabolu",
+        "mahalle": "KARABÜRÇEK MAH.",
+        "ilce_adi": "HAYRABOLU",
+        "okul_adi": "KARABÜRÇEK MAH. KAHVEHANESİ",
+        "sandik_no": 1071,
+        "mahalle_id": "tekirdag-hayrabolu-karaburcek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 72,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 18,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1071/tekirdag-hayrabolu-1071-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829378",
+            "oyveotesi_sync_timestamp": 1684368577
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1071/tekirdag-hayrabolu-1071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829378",
+            "oyveotesi_sync_timestamp": 1684368577
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

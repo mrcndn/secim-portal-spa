@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "YONCABAYIRI KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "YONCABAYIR KÖYÜ KÖY KONAĞI NO:29",
+        "sandik_no": 1101,
+        "mahalle_id": "sivas-imranli-yoncabayiri-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1101/sivas-imranli-1101-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "387184",
+            "oyveotesi_sync_timestamp": 1684359038
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "387184",
+            "oyveotesi_sync_timestamp": 1684359038
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

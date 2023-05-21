@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-eflani",
+        "mahalle": "BAĞLICA KÖYÜ",
+        "ilce_adi": "EFLANİ",
+        "okul_adi": "BAĞLICA KÖY İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "karabuk-eflani-baglica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345967
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-eflani/1xxx/1016/karabuk-eflani-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345967
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

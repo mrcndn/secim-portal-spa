@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-han",
+        "mahalle": "HACILAR MAH.",
+        "ilce_adi": "HAN",
+        "okul_adi": "ŞBÖ LİSESİ",
+        "sandik_no": 1008,
+        "mahalle_id": "eskisehir-han-hacilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-han/1xxx/1008/eskisehir-han-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "696331",
+            "oyveotesi_sync_timestamp": 1684341510
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-han/1xxx/1008/eskisehir-han-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "696331",
+            "oyveotesi_sync_timestamp": 1684341510
+        },
+        "secim_bolge_id": "eskisehir"
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-han",
+        "mahalle": "HACILAR MAH.",
+        "ilce_adi": "HAN",
+        "okul_adi": "ŞBÖ LİSESİ",
+        "sandik_no": 1009,
+        "mahalle_id": "eskisehir-han-hacilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341510
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-han/1xxx/1009/eskisehir-han-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341510
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

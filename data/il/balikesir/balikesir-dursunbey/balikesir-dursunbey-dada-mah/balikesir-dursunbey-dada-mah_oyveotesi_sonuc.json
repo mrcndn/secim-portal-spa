@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-dursunbey",
+        "mahalle": "DADA MAH.",
+        "ilce_adi": "DURSUNBEY",
+        "okul_adi": "DADA BÜYÜK.M.KONAĞI",
+        "sandik_no": 1045,
+        "mahalle_id": "balikesir-dursunbey-dada-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1045/balikesir-dursunbey-1045-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504793",
+            "oyveotesi_sync_timestamp": 1684331660
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1045/balikesir-dursunbey-1045-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504793",
+            "oyveotesi_sync_timestamp": 1684331660
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

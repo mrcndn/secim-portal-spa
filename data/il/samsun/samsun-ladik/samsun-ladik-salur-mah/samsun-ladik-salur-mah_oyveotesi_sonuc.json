@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "SALUR MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "SALUR MAH. MAHALLE ODASI",
+        "sandik_no": 1062,
+        "mahalle_id": "samsun-ladik-salur-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367397
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367397
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "SALUR MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "SALUR MAH. MAHALLE ODASI",
+        "sandik_no": 1063,
+        "mahalle_id": "samsun-ladik-salur-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 24,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1063/samsun-ladik-1063-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "293360",
+            "oyveotesi_sync_timestamp": 1684367397
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 169
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1063/samsun-ladik-1063-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "293360",
+            "oyveotesi_sync_timestamp": 1684367397
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

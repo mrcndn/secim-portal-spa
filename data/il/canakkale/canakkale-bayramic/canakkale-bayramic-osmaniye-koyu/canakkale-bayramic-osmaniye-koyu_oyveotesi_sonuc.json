@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "OSMANİYE KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "OSMANİYE KÖYÜ KÖY KAHVESİ",
+        "sandik_no": 1088,
+        "mahalle_id": "canakkale-bayramic-osmaniye-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 22,
+            "sayim_sonuc": {
+                "TOPLAM": 22,
+                "İYİ PARTİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1088/canakkale-bayramic-1088-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172824",
+            "oyveotesi_sync_timestamp": 1684335747
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 23,
+            "sayim_sonuc": {
+                "TOPLAM": 23,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1088/canakkale-bayramic-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172824",
+            "oyveotesi_sync_timestamp": 1684335747
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

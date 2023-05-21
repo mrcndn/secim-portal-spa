@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "KÖŞK MAH.",
+        "ilce_adi": "GERZE",
+        "okul_adi": "BELEDİYE KÜLTÜR MERKEZİ",
+        "sandik_no": 1041,
+        "mahalle_id": "sinop-gerze-kosk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353882
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353882
+        },
+        "secim_bolge_id": "sinop"
+    },
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "KÖŞK MAH.",
+        "ilce_adi": "GERZE",
+        "okul_adi": "BELEDİYE KÜLTÜR MERKEZİ",
+        "sandik_no": 1042,
+        "mahalle_id": "sinop-gerze-kosk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "İYİ PARTİ": 27,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 107,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1042/sinop-gerze-1042-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "230870",
+            "oyveotesi_sync_timestamp": 1684353882
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1042/sinop-gerze-1042-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "230870",
+            "oyveotesi_sync_timestamp": 1684353882
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

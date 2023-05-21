@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "YURTBEYİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "YURTBEYİ İLKOKULU",
+        "sandik_no": 1306,
+        "mahalle_id": "ankara-golbasi-yurtbeyi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375961
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375961
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "YURTBEYİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "YURTBEYİ İLKOKULU",
+        "sandik_no": 1307,
+        "mahalle_id": "ankara-golbasi-yurtbeyi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 21
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "617343",
+            "oyveotesi_sync_timestamp": 1684375961
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 119,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "617343",
+            "oyveotesi_sync_timestamp": 1684375961
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

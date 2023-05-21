@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-besikduzu",
+        "mahalle": "AKKESE MAH.",
+        "ilce_adi": "BEŞİKDÜZÜ",
+        "okul_adi": "AKKESE MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "trabzon-besikduzu-akkese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "İYİ PARTİ": 116,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-besikduzu/1xxx/1005/trabzon-besikduzu-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "678850",
+            "oyveotesi_sync_timestamp": 1684366654
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-besikduzu/1xxx/1005/trabzon-besikduzu-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "678850",
+            "oyveotesi_sync_timestamp": 1684366654
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-besikduzu",
+        "mahalle": "AKKESE MAH.",
+        "ilce_adi": "BEŞİKDÜZÜ",
+        "okul_adi": "AKKESE MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "trabzon-besikduzu-akkese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366654
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-besikduzu/1xxx/1004/trabzon-besikduzu-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366654
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

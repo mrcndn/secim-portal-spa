@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "EMEKYEMEZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "BAHÇEŞEHİR ÜNİVERSİTESİ KONSERVATUVARI.",
+        "sandik_no": 1032,
+        "mahalle_id": "istanbul-beyoglu-emekyemez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "179179",
+            "oyveotesi_sync_timestamp": 1684330067
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 56
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "179179",
+            "oyveotesi_sync_timestamp": 1684330067
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

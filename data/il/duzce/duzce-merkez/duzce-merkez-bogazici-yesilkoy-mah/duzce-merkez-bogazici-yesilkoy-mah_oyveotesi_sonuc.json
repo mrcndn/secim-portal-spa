@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BOĞAZİÇİ-YEŞİLKÖY MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BOĞAZİÇİ - YEŞİLKÖY MAH. CAMİ ALTI OTURMA ODASI",
+        "sandik_no": 1401,
+        "mahalle_id": "duzce-merkez-bogazici-yesilkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1401/duzce-merkez-1401-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "404997",
+            "oyveotesi_sync_timestamp": 1684338027
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "404997",
+            "oyveotesi_sync_timestamp": 1684338027
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BOĞAZİÇİ-YEŞİLKÖY MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BOĞAZİÇİ - YEŞİLKÖY MAH. CAMİ ALTI OTURMA ODASI",
+        "sandik_no": 1400,
+        "mahalle_id": "duzce-merkez-bogazici-yesilkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1400/duzce-merkez-1400-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "388651",
+            "oyveotesi_sync_timestamp": 1684338027
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "388651",
+            "oyveotesi_sync_timestamp": 1684338027
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

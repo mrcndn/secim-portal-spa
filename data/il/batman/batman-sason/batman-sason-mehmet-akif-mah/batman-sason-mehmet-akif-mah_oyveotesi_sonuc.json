@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-sason",
+        "mahalle": "MEHMET AKİF MAH.",
+        "ilce_adi": "SASON",
+        "okul_adi": "MEHMETAKİF İLKÖĞRETİM OKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "batman-sason-mehmet-akif-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "ADALET VE KALKINMA PARTİSİ": 103,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-sason/1xxx/1017/batman-sason-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530643",
+            "oyveotesi_sync_timestamp": 1684332827
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-sason/1xxx/1017/batman-sason-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530643",
+            "oyveotesi_sync_timestamp": 1684332827
+        },
+        "secim_bolge_id": "batman"
+    }
+]

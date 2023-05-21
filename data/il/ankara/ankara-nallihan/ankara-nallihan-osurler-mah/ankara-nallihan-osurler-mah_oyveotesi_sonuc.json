@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "ÖŞÜRLER MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "ÖŞÜRLER MAHALLESİ KONAĞI",
+        "sandik_no": 1100,
+        "mahalle_id": "ankara-nallihan-osurler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 36,
+            "sayim_sonuc": {
+                "TOPLAM": 36,
+                "ADALET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "574197",
+            "oyveotesi_sync_timestamp": 1684376111
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 37,
+            "sayim_sonuc": {
+                "TOPLAM": 37,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "574197",
+            "oyveotesi_sync_timestamp": 1684376111
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

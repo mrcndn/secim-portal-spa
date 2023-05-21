@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-suhut",
+        "mahalle": "KAVAKLI KÖYÜ",
+        "ilce_adi": "ŞUHUT",
+        "okul_adi": "KAVAKLI İLKOKULU",
+        "sandik_no": 1078,
+        "mahalle_id": "afyonkarahisar-suhut-kavakli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328966
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 224
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-suhut/1xxx/1078/afyonkarahisar-suhut-1078-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328966
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

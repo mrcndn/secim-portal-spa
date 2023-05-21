@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merkez",
+        "mahalle": "SAZKÖY",
+        "ilce_adi": "AMASYA MERKEZ",
+        "okul_adi": "SAZ KÖYÜ KÖY OKULU",
+        "sandik_no": 1336,
+        "mahalle_id": "amasya-merkez-sazkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1336/amasya-merkez-1336-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178608",
+            "oyveotesi_sync_timestamp": 1684325132
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1336/amasya-merkez-1336-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178608",
+            "oyveotesi_sync_timestamp": 1684325132
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

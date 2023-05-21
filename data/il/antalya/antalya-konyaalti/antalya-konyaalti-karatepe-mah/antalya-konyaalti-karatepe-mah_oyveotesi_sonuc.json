@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-konyaalti",
+        "mahalle": "KARATEPE MAH.",
+        "ilce_adi": "KONYAALTI",
+        "okul_adi": "KARATEPE OKULU",
+        "sandik_no": 1142,
+        "mahalle_id": "antalya-konyaalti-karatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 349,
+            "sayim_sonuc": {
+                "TOPLAM": 349,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 255,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 38,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-konyaalti/1xxx/1142/antalya-konyaalti-1142-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "723914",
+            "oyveotesi_sync_timestamp": 1684326045
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 352,
+            "sayim_sonuc": {
+                "TOPLAM": 352,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 320,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-konyaalti/1xxx/1142/antalya-konyaalti-1142-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "723914",
+            "oyveotesi_sync_timestamp": 1684326045
+        },
+        "secim_bolge_id": "antalya"
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-konyaalti",
+        "mahalle": "KARATEPE MAH.",
+        "ilce_adi": "KONYAALTI",
+        "okul_adi": "KARATEPE OKULU",
+        "sandik_no": 1143,
+        "mahalle_id": "antalya-konyaalti-karatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 354,
+            "sayim_sonuc": {
+                "TOPLAM": 354,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 270,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 37,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-konyaalti/1xxx/1143/antalya-konyaalti-1143-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "703264",
+            "oyveotesi_sync_timestamp": 1684326045
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 357,
+            "sayim_sonuc": {
+                "TOPLAM": 357,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 328,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-konyaalti/1xxx/1143/antalya-konyaalti-1143-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "703264",
+            "oyveotesi_sync_timestamp": 1684326045
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

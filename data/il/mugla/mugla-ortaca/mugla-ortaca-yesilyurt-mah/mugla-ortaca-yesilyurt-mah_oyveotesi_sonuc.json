@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-ortaca",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "ORTACA",
+        "okul_adi": "YEŞİLYURT MAHALLESİ İLKOKULU",
+        "sandik_no": 1125,
+        "mahalle_id": "mugla-ortaca-yesilyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374787
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 119,
+                "RECEP TAYYİP ERDOĞAN": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-ortaca/1xxx/1125/mugla-ortaca-1125-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374787
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-ortaca",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "ORTACA",
+        "okul_adi": "YEŞİLYURT MAHALLESİ İLKOKULU",
+        "sandik_no": 1126,
+        "mahalle_id": "mugla-ortaca-yesilyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "İYİ PARTİ": 46,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-ortaca/1xxx/1126/mugla-ortaca-1126-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834239",
+            "oyveotesi_sync_timestamp": 1684374787
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 185,
+            "sayim_sonuc": {
+                "TOPLAM": 185,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 128,
+                "RECEP TAYYİP ERDOĞAN": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-ortaca/1xxx/1126/mugla-ortaca-1126-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834239",
+            "oyveotesi_sync_timestamp": 1684374787
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

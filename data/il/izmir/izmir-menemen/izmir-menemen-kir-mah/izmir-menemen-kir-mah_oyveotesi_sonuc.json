@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "KIR MAH.",
+        "ilce_adi": "MENEMEN",
+        "okul_adi": "KÖY KAHVESİ",
+        "sandik_no": 1312,
+        "mahalle_id": "izmir-menemen-kir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "202272",
+            "oyveotesi_sync_timestamp": 1684362132
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "202272",
+            "oyveotesi_sync_timestamp": 1684362132
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

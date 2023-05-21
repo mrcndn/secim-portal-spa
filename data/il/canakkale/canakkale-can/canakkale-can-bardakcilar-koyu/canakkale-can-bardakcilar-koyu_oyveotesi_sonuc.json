@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "BARDAKÇILAR KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "BARDAKÇILAR KÖY KONAĞI",
+        "sandik_no": 1080,
+        "mahalle_id": "canakkale-can-bardakcilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335912
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1080/canakkale-can-1080-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335912
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

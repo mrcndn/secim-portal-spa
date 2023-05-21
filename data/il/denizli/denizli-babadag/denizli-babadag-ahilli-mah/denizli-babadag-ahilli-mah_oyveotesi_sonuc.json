@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-babadag",
+        "mahalle": "AHILLI MAH.",
+        "ilce_adi": "BABADAĞ",
+        "okul_adi": "AHILLI MAHALLESİ CAMİİ",
+        "sandik_no": 1001,
+        "mahalle_id": "denizli-babadag-ahilli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365774
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 47,
+            "sayim_sonuc": {
+                "TOPLAM": 47,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-babadag/1xxx/1001/denizli-babadag-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365774
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

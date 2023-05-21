@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-imamoglu",
+        "mahalle": "AĞZIKARACA MAH.",
+        "ilce_adi": "İMAMOĞLU",
+        "okul_adi": "AĞZIKARACA MAH. MİSAFİR ODASI",
+        "sandik_no": 1005,
+        "mahalle_id": "adana-imamoglu-agzikaraca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371455
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-imamoglu/1xxx/1005/adana-imamoglu-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371455
+        },
+        "secim_bolge_id": "adana"
+    }
+]

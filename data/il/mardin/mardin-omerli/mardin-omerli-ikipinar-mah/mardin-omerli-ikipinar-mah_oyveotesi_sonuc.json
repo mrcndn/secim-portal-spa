@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-omerli",
+        "mahalle": "İKİPINAR MAH.",
+        "ilce_adi": "ÖMERLİ",
+        "okul_adi": "İKİPINARKÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "mardin-omerli-ikipinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-omerli/1xxx/1014/mardin-omerli-1014-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "475216",
+            "oyveotesi_sync_timestamp": 1684353843
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-omerli/1xxx/1014/mardin-omerli-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "475216",
+            "oyveotesi_sync_timestamp": 1684353843
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

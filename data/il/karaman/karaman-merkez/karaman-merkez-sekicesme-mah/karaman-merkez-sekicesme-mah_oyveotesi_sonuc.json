@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "SEKİÇEŞME MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "YUNUS EMRE ORTAOKULU",
+        "sandik_no": 1251,
+        "mahalle_id": "karaman-merkez-sekicesme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 30,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 15,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1251/karaman-merkez-1251-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "208107",
+            "oyveotesi_sync_timestamp": 1684346604
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1251/karaman-merkez-1251-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "208107",
+            "oyveotesi_sync_timestamp": 1684346604
+        },
+        "secim_bolge_id": "karaman"
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "SEKİÇEŞME MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "YUNUS EMRE ORTAOKULU",
+        "sandik_no": 1250,
+        "mahalle_id": "karaman-merkez-sekicesme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346604
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1250/karaman-merkez-1250-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346604
+        },
+        "secim_bolge_id": "karaman"
+    }
+]

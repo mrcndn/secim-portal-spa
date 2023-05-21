@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-yalvac",
+        "mahalle": "HÜYÜKLÜ-YANARIK MAH.",
+        "ilce_adi": "YALVAÇ",
+        "okul_adi": "HÜYÜKLÜ ŞEHİT AYTAÇUSTA İLK/ ORTAOKULU",
+        "sandik_no": 1058,
+        "mahalle_id": "isparta-yalvac-huyuklu-yanarik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 67,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-yalvac/1xxx/1058/isparta-yalvac-1058-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "729148",
+            "oyveotesi_sync_timestamp": 1684344344
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-yalvac/1xxx/1058/isparta-yalvac-1058-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "729148",
+            "oyveotesi_sync_timestamp": 1684344344
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

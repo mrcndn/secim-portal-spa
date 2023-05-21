@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-tonya",
+        "mahalle": "KARASU MAH.",
+        "ilce_adi": "TONYA",
+        "okul_adi": "KARASU MAHALLESİ ALİ OSMAN ARSLAN ÇAY OCAĞI",
+        "sandik_no": 1023,
+        "mahalle_id": "trabzon-tonya-karasu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 149,
+            "sayim_sonuc": {
+                "TOPLAM": 149,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-tonya/1xxx/1023/trabzon-tonya-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "794205",
+            "oyveotesi_sync_timestamp": 1684366130
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-tonya/1xxx/1023/trabzon-tonya-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "794205",
+            "oyveotesi_sync_timestamp": 1684366130
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-merkez",
+        "mahalle": "ÇAKILDAK KÖYÜ",
+        "ilce_adi": "SİNOP MERKEZ",
+        "okul_adi": "ÇAKILDAK KÖY KONAĞI",
+        "sandik_no": 1124,
+        "mahalle_id": "sinop-merkez-cakildak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "İYİ PARTİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1124/sinop-merkez-1124-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "826536",
+            "oyveotesi_sync_timestamp": 1684354297
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-merkez/1xxx/1124/sinop-merkez-1124-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "826536",
+            "oyveotesi_sync_timestamp": 1684354297
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-senirkent",
+        "mahalle": "16 HAZİRAN MAH.",
+        "ilce_adi": "SENİRKENT",
+        "okul_adi": "ÇOK PROĞRAMLI LİSE",
+        "sandik_no": 1001,
+        "mahalle_id": "isparta-senirkent-16-haziran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344234
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 167,
+                "RECEP TAYYİP ERDOĞAN": 125
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-senirkent/1xxx/1001/isparta-senirkent-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344234
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

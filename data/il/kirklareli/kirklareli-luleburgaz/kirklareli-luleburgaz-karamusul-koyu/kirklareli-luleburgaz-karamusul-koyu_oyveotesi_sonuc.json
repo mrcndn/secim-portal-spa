@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-luleburgaz",
+        "mahalle": "KARAMUSUL KÖYÜ",
+        "ilce_adi": "LÜLEBURGAZ",
+        "okul_adi": "KARAMUSUL İLKOKULU",
+        "sandik_no": 1333,
+        "mahalle_id": "kirklareli-luleburgaz-karamusul-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 185,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1333/kirklareli-luleburgaz-1333-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "195122",
+            "oyveotesi_sync_timestamp": 1684348740
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 356,
+            "sayim_sonuc": {
+                "TOPLAM": 356,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 231,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1333/kirklareli-luleburgaz-1333-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "195122",
+            "oyveotesi_sync_timestamp": 1684348740
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

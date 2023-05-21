@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-karamanli",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "KARAMANLI",
+        "okul_adi": "KARAMANLI İMAM HATİP ORTAOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "burdur-karamanli-camlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 137,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-karamanli/1xxx/1005/burdur-karamanli-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "367291",
+            "oyveotesi_sync_timestamp": 1684334532
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 178,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-karamanli/1xxx/1005/burdur-karamanli-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "367291",
+            "oyveotesi_sync_timestamp": 1684334532
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "YENİPEÇENEK MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "YENİPEÇENEK İLKOKULU",
+        "sandik_no": 2483,
+        "mahalle_id": "ankara-sincan-yenipecenek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 8,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 27,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "520135",
+            "oyveotesi_sync_timestamp": 1684393287
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "520135",
+            "oyveotesi_sync_timestamp": 1684393287
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

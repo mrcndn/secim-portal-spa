@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-altintas",
+        "mahalle": "ÇAKIRSAZ KÖYÜ",
+        "ilce_adi": "ALTINTAŞ",
+        "okul_adi": "ÇAKIRSAZ HAN",
+        "sandik_no": 1022,
+        "mahalle_id": "kutahya-altintas-cakirsaz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "İYİ PARTİ": 20,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-altintas/1xxx/1022/kutahya-altintas-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "791238",
+            "oyveotesi_sync_timestamp": 1684347505
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 97
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-altintas/1xxx/1022/kutahya-altintas-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "791238",
+            "oyveotesi_sync_timestamp": 1684347505
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

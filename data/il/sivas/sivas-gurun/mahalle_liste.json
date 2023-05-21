@@ -1,0 +1,792 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "AKDERE KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-akdere-koyu",
+        "oyveotesi_neighborhood_id": 17620
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "AKPINAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-akpinar-koyu",
+        "oyveotesi_neighborhood_id": 17599
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "AKSU MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-aksu-mah",
+        "oyveotesi_neighborhood_id": 17568
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "AYVALI KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-ayvali-koyu",
+        "oyveotesi_neighborhood_id": 17600
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BAĞLIÇAY KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-baglicay-koyu",
+        "oyveotesi_neighborhood_id": 17572
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BAHÇEİÇİ KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-bahceici-koyu",
+        "oyveotesi_neighborhood_id": 17587
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BAŞÖREN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-basoren-koyu",
+        "oyveotesi_neighborhood_id": 17569
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BEYPINAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-beypinar-koyu",
+        "oyveotesi_neighborhood_id": 17581
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BOĞAZİÇİ MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-bogazici-mah",
+        "oyveotesi_neighborhood_id": 17595
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BÖĞRÜDELİK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-bogrudelik-koyu",
+        "oyveotesi_neighborhood_id": 17611
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BOZHÜYÜK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-bozhuyuk-koyu",
+        "oyveotesi_neighborhood_id": 17601
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "BURÇEVİ MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-burcevi-mah",
+        "oyveotesi_neighborhood_id": 17621
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "CAMİLİYURT KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-camiliyurt-koyu",
+        "oyveotesi_neighborhood_id": 17628
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ÇAMLICA KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-camlica-koyu",
+        "oyveotesi_neighborhood_id": 17575
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ÇAYBOYU MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-cayboyu-mah",
+        "oyveotesi_neighborhood_id": 17614
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ÇİÇEKYURT KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-cicekyurt-koyu",
+        "oyveotesi_neighborhood_id": 17591
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ÇÖRTEN MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-corten-mah",
+        "oyveotesi_neighborhood_id": 17619
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "DAVULHÜYÜK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-davulhuyuk-koyu",
+        "oyveotesi_neighborhood_id": 17612
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "DAYAKPINAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-dayakpinar-koyu",
+        "oyveotesi_neighborhood_id": 17629
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "DEVEÇAYIRI KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-devecayiri-koyu",
+        "oyveotesi_neighborhood_id": 17584
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "DÜRMEPINAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-durmepinar-koyu",
+        "oyveotesi_neighborhood_id": 17576
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ERDOĞAN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-erdogan-koyu",
+        "oyveotesi_neighborhood_id": 17582
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ESKİBEKTAŞLI KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-eskibektasli-koyu",
+        "oyveotesi_neighborhood_id": 17592
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ESKİHAMAL KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-eskihamal-koyu",
+        "oyveotesi_neighborhood_id": 17630
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "GÖBEKÖREN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-gobekoren-koyu",
+        "oyveotesi_neighborhood_id": 17613
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "GÖKÇEYAZI KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-gokceyazi-koyu",
+        "oyveotesi_neighborhood_id": 17638
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "GÖKPINAR MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-gokpinar-mah",
+        "oyveotesi_neighborhood_id": 17570
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "GÜLDEDE KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-guldede-koyu",
+        "oyveotesi_neighborhood_id": 17639
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "GÜLLÜBUCAK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-gullubucak-koyu",
+        "oyveotesi_neighborhood_id": 17625
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "GÜNEŞ KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-gunes-koyu",
+        "oyveotesi_neighborhood_id": 17606
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "HACILAR MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-hacilar-mah",
+        "oyveotesi_neighborhood_id": 17593
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "HÜYÜKLÜYURT KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-huyukluyurt-koyu",
+        "oyveotesi_neighborhood_id": 17583
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "İNCESU KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-incesu-koyu",
+        "oyveotesi_neighborhood_id": 17586
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "IŞITAN MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-isitan-mah",
+        "oyveotesi_neighborhood_id": 17643
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KALEDERE KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kaledere-koyu",
+        "oyveotesi_neighborhood_id": 17596
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARADORUK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karadoruk-koyu",
+        "oyveotesi_neighborhood_id": 17579
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARAHİSAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karahisar-koyu",
+        "oyveotesi_neighborhood_id": 17573
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARAKUYU KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karakuyu-koyu",
+        "oyveotesi_neighborhood_id": 17603
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARAÖREN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karaoren-koyu",
+        "oyveotesi_neighborhood_id": 17588
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARAPINAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karapinar-koyu",
+        "oyveotesi_neighborhood_id": 17622
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARATEPE MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karatepe-mah",
+        "oyveotesi_neighborhood_id": 17607
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARAYAR MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karayar-mah",
+        "oyveotesi_neighborhood_id": 17580
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 17615
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KAŞKÖY",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kaskoy",
+        "oyveotesi_neighborhood_id": 17574
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KAVAKKÖY",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kavakkoy",
+        "oyveotesi_neighborhood_id": 17594
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KAYALAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kayalar-koyu",
+        "oyveotesi_neighborhood_id": 17626
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KAYNARCA KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kaynarca-koyu",
+        "oyveotesi_neighborhood_id": 17640
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KETENÇAYIR MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-ketencayir-mah",
+        "oyveotesi_neighborhood_id": 17634
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KILIÇDOĞAN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kilicdogan-koyu",
+        "oyveotesi_neighborhood_id": 17597
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KINDIRALIK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kindiralik-koyu",
+        "oyveotesi_neighborhood_id": 17608
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KİRAZLIK MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kirazlik-mah",
+        "oyveotesi_neighborhood_id": 17604
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KIZILBURUN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kizilburun-koyu",
+        "oyveotesi_neighborhood_id": 17609
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KIZILÖREN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kiziloren-koyu",
+        "oyveotesi_neighborhood_id": 17623
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KIZILPINAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kizilpinar-koyu",
+        "oyveotesi_neighborhood_id": 17616
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KONAKPINAR KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-konakpinar-koyu",
+        "oyveotesi_neighborhood_id": 17598
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KOYUNLU KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-koyunlu-koyu",
+        "oyveotesi_neighborhood_id": 17635
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KÜLAHLI KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kulahli-koyu",
+        "oyveotesi_neighborhood_id": 17644
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KÜRKCÜ KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kurkcu-koyu",
+        "oyveotesi_neighborhood_id": 17589
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "KURULTAY MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-kurultay-mah",
+        "oyveotesi_neighborhood_id": 17617
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "MAĞARA KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-magara-koyu",
+        "oyveotesi_neighborhood_id": 17641
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "MAHKENLİ KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-mahkenli-koyu",
+        "oyveotesi_neighborhood_id": 17645
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "OSMANDEDE KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-osmandede-koyu",
+        "oyveotesi_neighborhood_id": 17567
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "PINARÖNÜ MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-pinaronu-mah",
+        "oyveotesi_neighborhood_id": 17610
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "REŞADİYE KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-resadiye-koyu",
+        "oyveotesi_neighborhood_id": 17631
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "SARICA KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-sarica-koyu",
+        "oyveotesi_neighborhood_id": 17624
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "ŞUĞUL MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-sugul-mah",
+        "oyveotesi_neighborhood_id": 17571
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "SULARBAŞI KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-sularbasi-koyu",
+        "oyveotesi_neighborhood_id": 17605
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "TEPECİK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-tepecik-koyu",
+        "oyveotesi_neighborhood_id": 17632
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YASSICATEPE MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yassicatepe-mah",
+        "oyveotesi_neighborhood_id": 17618
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YAYLACIK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yaylacik-koyu",
+        "oyveotesi_neighborhood_id": 17633
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YAZYURDU KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yazyurdu-koyu",
+        "oyveotesi_neighborhood_id": 17636
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YELKEN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yelken-koyu",
+        "oyveotesi_neighborhood_id": 17637
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YENİBEKTAŞLI KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yenibektasli-koyu",
+        "oyveotesi_neighborhood_id": 17590
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yeni-mah",
+        "oyveotesi_neighborhood_id": 17602
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YEŞİLDERE KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yesildere-koyu",
+        "oyveotesi_neighborhood_id": 17585
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yesilyurt-mah",
+        "oyveotesi_neighborhood_id": 17627
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YILANHÜYÜK KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yilanhuyuk-koyu",
+        "oyveotesi_neighborhood_id": 17577
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YOLGEÇEN KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yolgecen-koyu",
+        "oyveotesi_neighborhood_id": 17578
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-gurun",
+        "mahalle": "YUVA KÖYÜ",
+        "ilce_adi": "GÜRÜN",
+        "mahalle_id": "sivas-gurun-yuva-koyu",
+        "oyveotesi_neighborhood_id": 17642
+    }
+]

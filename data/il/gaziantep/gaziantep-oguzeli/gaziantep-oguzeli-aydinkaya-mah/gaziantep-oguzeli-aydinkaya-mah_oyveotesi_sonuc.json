@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "AYDINKAYA MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "okul_adi": "AYDINKAYA (KÖY) İLKÖĞRETİM OKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "gaziantep-oguzeli-aydinkaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-oguzeli/1xxx/1010/gaziantep-oguzeli-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "303882",
+            "oyveotesi_sync_timestamp": 1684342311
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 56,
+            "sayim_sonuc": {
+                "TOPLAM": 56,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-oguzeli/1xxx/1010/gaziantep-oguzeli-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "303882",
+            "oyveotesi_sync_timestamp": 1684342311
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

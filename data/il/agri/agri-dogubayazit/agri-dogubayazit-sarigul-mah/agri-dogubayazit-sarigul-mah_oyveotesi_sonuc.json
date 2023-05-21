@@ -1,0 +1,99 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-dogubayazit",
+        "mahalle": "SARIGÜL MAH.",
+        "ilce_adi": "DOĞUBAYAZIT",
+        "okul_adi": "SARIGÜL İLKOKULU",
+        "sandik_no": 1107,
+        "mahalle_id": "agri-dogubayazit-sarigul-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 10,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-dogubayazit/1xxx/1107/agri-dogubayazit-1107-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224848",
+            "oyveotesi_sync_timestamp": 1684326878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-dogubayazit/1xxx/1107/agri-dogubayazit-1107-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224848",
+            "oyveotesi_sync_timestamp": 1684326878
+        },
+        "secim_bolge_id": "agri"
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-dogubayazit",
+        "mahalle": "SARIGÜL MAH.",
+        "ilce_adi": "DOĞUBAYAZIT",
+        "okul_adi": "SARIGÜL İLKOKULU",
+        "sandik_no": 1109,
+        "mahalle_id": "agri-dogubayazit-sarigul-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326878
+        },
+        "secim_bolge_id": "agri"
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-dogubayazit",
+        "mahalle": "SARIGÜL MAH.",
+        "ilce_adi": "DOĞUBAYAZIT",
+        "okul_adi": "SARIGÜL İLKOKULU",
+        "sandik_no": 1108,
+        "mahalle_id": "agri-dogubayazit-sarigul-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326878
+        },
+        "secim_bolge_id": "agri"
+    }
+]

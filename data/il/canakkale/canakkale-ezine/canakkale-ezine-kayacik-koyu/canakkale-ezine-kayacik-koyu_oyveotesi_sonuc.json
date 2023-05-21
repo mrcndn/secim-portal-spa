@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ezine",
+        "mahalle": "KAYACIK KÖYÜ",
+        "ilce_adi": "EZİNE",
+        "okul_adi": "KAYACIK KÖYÜ DOKTOR ODASI",
+        "sandik_no": 1070,
+        "mahalle_id": "canakkale-ezine-kayacik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 143,
+            "sayim_sonuc": {
+                "TOPLAM": 143,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 2,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1070/canakkale-ezine-1070-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718586",
+            "oyveotesi_sync_timestamp": 1684336091
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 105
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1070/canakkale-ezine-1070-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718586",
+            "oyveotesi_sync_timestamp": 1684336091
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

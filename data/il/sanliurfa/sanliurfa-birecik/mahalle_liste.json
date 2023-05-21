@@ -1,0 +1,832 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ABDALLI MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-abdalli-mah",
+        "oyveotesi_neighborhood_id": 38962
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AKARÇAY MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-akarcay-mah",
+        "oyveotesi_neighborhood_id": 38937
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-akpinar-mah",
+        "oyveotesi_neighborhood_id": 38907
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ALMAŞAR MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-almasar-mah",
+        "oyveotesi_neighborhood_id": 38938
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ALTINOVA MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-altinova-mah",
+        "oyveotesi_neighborhood_id": 38916
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ARSLANLI MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-arslanli-mah",
+        "oyveotesi_neighborhood_id": 38931
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AŞAĞIALMAŞAR MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-asagialmasar-mah",
+        "oyveotesi_neighborhood_id": 38973
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AŞAĞIEŞME MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-asagiesme-mah",
+        "oyveotesi_neighborhood_id": 38942
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AŞAĞI FATMACIK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-asagi-fatmacik-mah",
+        "oyveotesi_neighborhood_id": 38963
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AŞAĞI HABİP MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-asagi-habip-mah",
+        "oyveotesi_neighborhood_id": 38908
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AŞAĞI KARKUTLU MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-asagi-karkutlu-mah",
+        "oyveotesi_neighborhood_id": 38924
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AŞAĞI KUYUCAK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-asagi-kuyucak-mah",
+        "oyveotesi_neighborhood_id": 38939
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "AYRAN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-ayran-mah",
+        "oyveotesi_neighborhood_id": 38917
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "BAĞLARBAŞI MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-baglarbasi-mah",
+        "oyveotesi_neighborhood_id": 38909
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "BAHÇEÖNÜ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-bahceonu-mah",
+        "oyveotesi_neighborhood_id": 38911
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "BENTBAHÇESİ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-bentbahcesi-mah",
+        "oyveotesi_neighborhood_id": 38964
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "BÖĞÜRTLEN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-bogurtlen-mah",
+        "oyveotesi_neighborhood_id": 38969
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "BOZDERE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-bozdere-mah",
+        "oyveotesi_neighborhood_id": 38900
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "BOZTEPE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-boztepe-mah",
+        "oyveotesi_neighborhood_id": 38940
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "CİBİNÖREN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-cibinoren-mah",
+        "oyveotesi_neighborhood_id": 38932
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ÇİÇEKALAN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-cicekalan-mah",
+        "oyveotesi_neighborhood_id": 38914
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ÇİFTLİK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-ciftlik-mah",
+        "oyveotesi_neighborhood_id": 38906
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ÇOĞAN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-cogan-mah",
+        "oyveotesi_neighborhood_id": 38947
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 38951
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DAĞÖREN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-dagoren-mah",
+        "oyveotesi_neighborhood_id": 38933
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DALOCAK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-dalocak-mah",
+        "oyveotesi_neighborhood_id": 38894
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DAMLICA MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-damlica-mah",
+        "oyveotesi_neighborhood_id": 38918
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DİKTEPE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-diktepe-mah",
+        "oyveotesi_neighborhood_id": 38970
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DIŞLIK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-dislik-mah",
+        "oyveotesi_neighborhood_id": 38901
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DİVRİĞİ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-divrigi-mah",
+        "oyveotesi_neighborhood_id": 38954
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DORUCAK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-dorucak-mah",
+        "oyveotesi_neighborhood_id": 38925
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DUYDUK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-duyduk-mah",
+        "oyveotesi_neighborhood_id": 38902
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "DÜZLÜCE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-duzluce-mah",
+        "oyveotesi_neighborhood_id": 38952
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "EKENEK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-ekenek-mah",
+        "oyveotesi_neighborhood_id": 38971
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "GEÇİTTEPE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-gecittepe-mah",
+        "oyveotesi_neighborhood_id": 38903
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "GÖKTEPE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-goktepe-mah",
+        "oyveotesi_neighborhood_id": 38965
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "GÜNIŞIĞI MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-gunisigi-mah",
+        "oyveotesi_neighborhood_id": 38943
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "GÜVENİR MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-guvenir-mah",
+        "oyveotesi_neighborhood_id": 38926
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "GÜZELYURT MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-guzelyurt-mah",
+        "oyveotesi_neighborhood_id": 38912
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "HAN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-han-mah",
+        "oyveotesi_neighborhood_id": 50745
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "HAYDARAHMET MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-haydarahmet-mah",
+        "oyveotesi_neighborhood_id": 38927
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "HOCA ŞERİF MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-hoca-serif-mah",
+        "oyveotesi_neighborhood_id": 38958
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ILGAR MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-ilgar-mah",
+        "oyveotesi_neighborhood_id": 38972
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "İNCELER MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-inceler-mah",
+        "oyveotesi_neighborhood_id": 38945
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "İNCİRLİDERE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-incirlidere-mah",
+        "oyveotesi_neighborhood_id": 38928
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "İNCİRLİ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-incirli-mah",
+        "oyveotesi_neighborhood_id": 38904
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "İNNAPLI MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-innapli-mah",
+        "oyveotesi_neighborhood_id": 38915
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KARABABA MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-karababa-mah",
+        "oyveotesi_neighborhood_id": 38959
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 38920
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KESKİNCE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-keskince-mah",
+        "oyveotesi_neighborhood_id": 38946
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KOCAALİ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-kocaali-mah",
+        "oyveotesi_neighborhood_id": 38935
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KÖMAĞIL MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-komagil-mah",
+        "oyveotesi_neighborhood_id": 38961
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KONAK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-konak-mah",
+        "oyveotesi_neighborhood_id": 38960
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KURAL MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-kural-mah",
+        "oyveotesi_neighborhood_id": 38921
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-kurtulus-mah",
+        "oyveotesi_neighborhood_id": 38934
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KURUCAHÖYÜK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-kurucahoyuk-mah",
+        "oyveotesi_neighborhood_id": 38896
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "MENGELLİ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-mengelli-mah",
+        "oyveotesi_neighborhood_id": 38895
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-merkez-mah",
+        "oyveotesi_neighborhood_id": 38936
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "METELER MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-meteler-mah",
+        "oyveotesi_neighborhood_id": 38955
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "MEYANCA MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-meyanca-mah",
+        "oyveotesi_neighborhood_id": 38974
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "MEYDAN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-meydan-mah",
+        "oyveotesi_neighborhood_id": 38948
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "MEZRA MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-mezra-mah",
+        "oyveotesi_neighborhood_id": 38975
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ORTA FATMACIK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-orta-fatmacik-mah",
+        "oyveotesi_neighborhood_id": 38919
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ÖZVEREN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-ozveren-mah",
+        "oyveotesi_neighborhood_id": 38957
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "SAHA MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-saha-mah",
+        "oyveotesi_neighborhood_id": 38944
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "SANCAK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-sancak-mah",
+        "oyveotesi_neighborhood_id": 38929
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ŞEKERKÖY MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-sekerkoy-mah",
+        "oyveotesi_neighborhood_id": 38941
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "SEKİLİ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-sekili-mah",
+        "oyveotesi_neighborhood_id": 38910
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "SÖĞÜRTLEN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-sogurtlen-mah",
+        "oyveotesi_neighborhood_id": 38898
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "SUMAKLI MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-sumakli-mah",
+        "oyveotesi_neighborhood_id": 38956
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "SURTEPE MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-surtepe-mah",
+        "oyveotesi_neighborhood_id": 38897
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "TÜTEN MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-tuten-mah",
+        "oyveotesi_neighborhood_id": 38949
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "UĞURCUK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-ugurcuk-mah",
+        "oyveotesi_neighborhood_id": 38913
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ÜNSAL MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-unsal-mah",
+        "oyveotesi_neighborhood_id": 38968
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YAYLACIK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yaylacik-mah",
+        "oyveotesi_neighborhood_id": 38922
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YENİAKPINAR MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yeniakpinar-mah",
+        "oyveotesi_neighborhood_id": 38905
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YILMAZ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yilmaz-mah",
+        "oyveotesi_neighborhood_id": 38899
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YUKARIHABİB MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yukarihabib-mah",
+        "oyveotesi_neighborhood_id": 38930
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YUKARIİNCİRLİ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yukariincirli-mah",
+        "oyveotesi_neighborhood_id": 38953
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YUKARI KARABAŞ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yukari-karabas-mah",
+        "oyveotesi_neighborhood_id": 38966
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YUKARIYENİÇAĞ MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yukariyenicag-mah",
+        "oyveotesi_neighborhood_id": 38923
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "YUVACIK MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-yuvacik-mah",
+        "oyveotesi_neighborhood_id": 38967
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "ZİYARET MAH.",
+        "ilce_adi": "BİRECİK",
+        "mahalle_id": "sanliurfa-birecik-ziyaret-mah",
+        "oyveotesi_neighborhood_id": 38950
+    }
+]

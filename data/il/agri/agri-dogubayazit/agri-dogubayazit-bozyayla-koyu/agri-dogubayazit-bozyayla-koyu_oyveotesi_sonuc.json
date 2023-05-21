@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-dogubayazit",
+        "mahalle": "BOZYAYLA KÖYÜ",
+        "ilce_adi": "DOĞUBAYAZIT",
+        "okul_adi": "BOZYAYLA KÖYÜ İLKOKULU",
+        "sandik_no": 1156,
+        "mahalle_id": "agri-dogubayazit-bozyayla-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-dogubayazit/1xxx/1156/agri-dogubayazit-1156-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "405891",
+            "oyveotesi_sync_timestamp": 1684326802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 29,
+            "sayim_sonuc": {
+                "TOPLAM": 29,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-dogubayazit/1xxx/1156/agri-dogubayazit-1156-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "405891",
+            "oyveotesi_sync_timestamp": 1684326802
+        },
+        "secim_bolge_id": "agri"
+    }
+]

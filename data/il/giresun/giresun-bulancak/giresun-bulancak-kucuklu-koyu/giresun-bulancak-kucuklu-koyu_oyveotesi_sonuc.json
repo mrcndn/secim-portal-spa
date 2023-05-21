@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-bulancak",
+        "mahalle": "KÜÇÜKLÜ KÖYÜ",
+        "ilce_adi": "BULANCAK",
+        "okul_adi": "YALIKÖY İLKOKULU (KÜÇÜKLÜ KÖYÜ)",
+        "sandik_no": 1163,
+        "mahalle_id": "giresun-bulancak-kucuklu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 83,
+                "ADALET VE KALKINMA PARTİSİ": 79,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1163/giresun-bulancak-1163-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "365170",
+            "oyveotesi_sync_timestamp": 1684342843
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1163/giresun-bulancak-1163-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "365170",
+            "oyveotesi_sync_timestamp": 1684342843
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-bulancak",
+        "mahalle": "KÜÇÜKLÜ KÖYÜ",
+        "ilce_adi": "BULANCAK",
+        "okul_adi": "YALIKÖY İLKOKULU (KÜÇÜKLÜ KÖYÜ)",
+        "sandik_no": 1164,
+        "mahalle_id": "giresun-bulancak-kucuklu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "İYİ PARTİ": 43,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1164/giresun-bulancak-1164-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "365172",
+            "oyveotesi_sync_timestamp": 1684342843
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 156,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1164/giresun-bulancak-1164-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "365172",
+            "oyveotesi_sync_timestamp": 1684342843
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

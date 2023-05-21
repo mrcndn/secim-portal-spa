@@ -1,0 +1,998 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1154,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1154/kocaeli-gebze-1154-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1168,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 10,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 155,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 87,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1168/kocaeli-gebze-1168-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500905",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 198,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1168/kocaeli-gebze-1168-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500905",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1167,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 116,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 37,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1167/kocaeli-gebze-1167-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "513743",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 132
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1167/kocaeli-gebze-1167-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "513743",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1148,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 140,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1148/kocaeli-gebze-1148-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "318480",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 158,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1148/kocaeli-gebze-1148-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "318480",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1149,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 133,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1149/kocaeli-gebze-1149-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "472004",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 167,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1149/kocaeli-gebze-1149-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "472004",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1150,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 125,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 95,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1150/kocaeli-gebze-1150-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "686775",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "SİNAN OĞAN": 31,
+                "KEMAL KILIÇDAROĞLU": 170,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1150/kocaeli-gebze-1150-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "686775",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1151,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 27,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 10,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 117,
+                "ADALET VE KALKINMA PARTİSİ": 103,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1151/kocaeli-gebze-1151-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "470716",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 31,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1151/kocaeli-gebze-1151-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "470716",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1152,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 17,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 104,
+                "ADALET VE KALKINMA PARTİSİ": 123,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1152/kocaeli-gebze-1152-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "679368",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1152/kocaeli-gebze-1152-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "679368",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1153,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 23,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 103,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1153/kocaeli-gebze-1153-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "346188",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 152,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1153/kocaeli-gebze-1153-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "346188",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1155,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 18,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 116,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1155/kocaeli-gebze-1155-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762934",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 139,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1155/kocaeli-gebze-1155-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762934",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1156,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SOL PARTİ": 38,
+                "GENÇ PARTİ": 2,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 106,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 103,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1156/kocaeli-gebze-1156-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "697459",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 24,
+                "KEMAL KILIÇDAROĞLU": 165,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1156/kocaeli-gebze-1156-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "697459",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1157,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 339,
+            "sayim_sonuc": {
+                "TOPLAM": 339,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "CUMHURİYET HALK PARTİSİ": 116,
+                "ADALET VE KALKINMA PARTİSİ": 132,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1157/kocaeli-gebze-1157-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "446318",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 346,
+            "sayim_sonuc": {
+                "TOPLAM": 346,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 150,
+                "RECEP TAYYİP ERDOĞAN": 172
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1157/kocaeli-gebze-1157-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "446318",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1158,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "İYİ PARTİ": 36,
+                "ZAFER PARTİSİ": 14,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1158/kocaeli-gebze-1158-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711145",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 143,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1158/kocaeli-gebze-1158-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711145",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "GEBZE OSMANGAZİ ORTAOKULU",
+        "sandik_no": 1159,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 21,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 114,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1159/kocaeli-gebze-1159-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "324300",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 348,
+            "sayim_sonuc": {
+                "TOPLAM": 348,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 169,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1159/kocaeli-gebze-1159-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "324300",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1160,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "İYİ PARTİ": 35,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 110,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1160/kocaeli-gebze-1160-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510489",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 158,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1160/kocaeli-gebze-1160-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510489",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1161,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 4,
+                "MİLLİ YOL PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 130,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1161/kocaeli-gebze-1161-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "270852",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 182,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1161/kocaeli-gebze-1161-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "270852",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1162,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 154,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1162/kocaeli-gebze-1162-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1163,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 308,
+            "sayim_sonuc": {
+                "TOPLAM": 308,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 37,
+                "ZAFER PARTİSİ": 11,
+                "MİLLET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 143,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1163/kocaeli-gebze-1163-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "465146",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 183,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1163/kocaeli-gebze-1163-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "465146",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1164,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "İYİ PARTİ": 41,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 127,
+                "ADALET VE KALKINMA PARTİSİ": 79,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1164/kocaeli-gebze-1164-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741975",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 171,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1164/kocaeli-gebze-1164-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741975",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1165,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 140,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1165/kocaeli-gebze-1165-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232710",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SİNAN OĞAN": 20,
+                "KEMAL KILIÇDAROĞLU": 172,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1165/kocaeli-gebze-1165-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232710",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HACIHALİL MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "ÇOLAKOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1166,
+        "mahalle_id": "kocaeli-gebze-hacihalil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 126,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 79,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1166/kocaeli-gebze-1166-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "340173",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 182,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/1xxx/1166/kocaeli-gebze-1166-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "340173",
+            "oyveotesi_sync_timestamp": 1684349730
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

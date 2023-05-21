@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "DERİNCE MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "DERİNCE İLKOKULU-ORTAOKULU",
+        "sandik_no": 1142,
+        "mahalle_id": "mugla-milas-derince-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "MİLLİ YOL PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 78,
+                "HALKIN KURTULUŞ PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1142/mugla-milas-1142-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819526",
+            "oyveotesi_sync_timestamp": 1684374497
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1142/mugla-milas-1142-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819526",
+            "oyveotesi_sync_timestamp": 1684374497
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "DERİNCE MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "DERİNCE İLKOKULU-ORTAOKULU",
+        "sandik_no": 1143,
+        "mahalle_id": "mugla-milas-derince-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374497
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1143/mugla-milas-1143-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374497
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "KARAKOCA MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "KARAKOCA MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1123,
+        "mahalle_id": "bursa-karacabey-karakoca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 42,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 173,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "734697",
+            "oyveotesi_sync_timestamp": 1684334838
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 194
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "734697",
+            "oyveotesi_sync_timestamp": 1684334838
+        },
+        "secim_bolge_id": "bursa1"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "KARAKOCA MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "KARAKOCA MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1122,
+        "mahalle_id": "bursa-karacabey-karakoca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "İYİ PARTİ": 42,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 73,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 135,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "761610",
+            "oyveotesi_sync_timestamp": 1684334838
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "761610",
+            "oyveotesi_sync_timestamp": 1684334838
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

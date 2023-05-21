@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-akyazi",
+        "mahalle": "BEDİLKADIRBEY MAH.",
+        "ilce_adi": "AKYAZI",
+        "okul_adi": "BEDİLKADİRBEY KÖY YAŞAM MERKEZİ",
+        "sandik_no": 1019,
+        "mahalle_id": "sakarya-akyazi-bedilkadirbey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 81,
+                "ADALET VE KALKINMA PARTİSİ": 76,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-akyazi/1xxx/1019/sakarya-akyazi-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824373",
+            "oyveotesi_sync_timestamp": 1684357387
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 113,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-akyazi/1xxx/1019/sakarya-akyazi-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824373",
+            "oyveotesi_sync_timestamp": 1684357387
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

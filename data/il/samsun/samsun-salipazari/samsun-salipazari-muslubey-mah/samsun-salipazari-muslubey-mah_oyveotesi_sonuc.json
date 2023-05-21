@@ -1,0 +1,67 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-salipazari",
+        "mahalle": "MUSLUBEY MAH.",
+        "ilce_adi": "SALIPAZARI",
+        "okul_adi": "MUSLUBEY İLKÖĞRETİM OKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "samsun-salipazari-muslubey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 13,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-salipazari/1xxx/1041/samsun-salipazari-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831713",
+            "oyveotesi_sync_timestamp": 1684367773
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "831713",
+            "oyveotesi_sync_timestamp": 1684367773
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-salipazari",
+        "mahalle": "MUSLUBEY MAH.",
+        "ilce_adi": "SALIPAZARI",
+        "okul_adi": "MUSLUBEY İLKÖĞRETİM OKULU",
+        "sandik_no": 1042,
+        "mahalle_id": "samsun-salipazari-muslubey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367773
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367773
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

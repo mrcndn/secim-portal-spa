@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "KIZILDERE MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "KIZILDERE-İLKOKULU",
+        "sandik_no": 1197,
+        "mahalle_id": "adana-ceyhan-kizildere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371474
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371474
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "KIZILDERE MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "KIZILDERE-İLKOKULU",
+        "sandik_no": 1198,
+        "mahalle_id": "adana-ceyhan-kizildere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371474
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 233,
+            "sayim_sonuc": {
+                "TOPLAM": 233,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 221,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-ceyhan/1xxx/1198/adana-ceyhan-1198-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371474
+        },
+        "secim_bolge_id": "adana"
+    }
+]

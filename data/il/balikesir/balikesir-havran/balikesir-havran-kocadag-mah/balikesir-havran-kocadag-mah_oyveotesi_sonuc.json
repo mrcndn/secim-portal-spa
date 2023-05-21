@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-havran",
+        "mahalle": "KOCADAĞ MAH.",
+        "ilce_adi": "HAVRAN",
+        "okul_adi": "KOCADAĞ - İLKOKULU",
+        "sandik_no": 1046,
+        "mahalle_id": "balikesir-havran-kocadag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 132,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-havran/1xxx/1046/balikesir-havran-1046-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1033659",
+            "oyveotesi_sync_timestamp": 1684331925
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 172
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-havran/1xxx/1046/balikesir-havran-1046-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1033659",
+            "oyveotesi_sync_timestamp": 1684331925
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

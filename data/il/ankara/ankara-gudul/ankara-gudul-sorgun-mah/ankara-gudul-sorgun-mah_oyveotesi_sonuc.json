@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-gudul",
+        "mahalle": "SORGUN MAH.",
+        "ilce_adi": "GÜDÜL",
+        "okul_adi": "SORGUN BELEDİYE YEMEKHANESİ",
+        "sandik_no": 1028,
+        "mahalle_id": "ankara-gudul-sorgun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "İYİ PARTİ": 47,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 189,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "516341",
+            "oyveotesi_sync_timestamp": 1684395289
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 241
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "516341",
+            "oyveotesi_sync_timestamp": 1684395289
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

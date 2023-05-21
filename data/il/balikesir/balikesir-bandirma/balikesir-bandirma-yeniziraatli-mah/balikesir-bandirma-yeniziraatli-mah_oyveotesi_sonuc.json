@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bandirma",
+        "mahalle": "YENİZİRAATLİ MAH.",
+        "ilce_adi": "BANDIRMA",
+        "okul_adi": "YENİ ZİRAATLI KÖY KONAĞI",
+        "sandik_no": 1356,
+        "mahalle_id": "balikesir-bandirma-yeniziraatli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bandirma/1xxx/1356/balikesir-bandirma-1356-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822631",
+            "oyveotesi_sync_timestamp": 1684331505
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 121,
+            "sayim_sonuc": {
+                "TOPLAM": 121,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bandirma/1xxx/1356/balikesir-bandirma-1356-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822631",
+            "oyveotesi_sync_timestamp": 1684331505
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

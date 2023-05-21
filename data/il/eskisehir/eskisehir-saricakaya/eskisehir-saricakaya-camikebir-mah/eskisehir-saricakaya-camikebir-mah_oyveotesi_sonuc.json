@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-saricakaya",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "SARICAKAYA",
+        "okul_adi": "SARICAKAYA LİSESİ",
+        "sandik_no": 1004,
+        "mahalle_id": "eskisehir-saricakaya-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341711
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-saricakaya/1xxx/1004/eskisehir-saricakaya-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341711
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

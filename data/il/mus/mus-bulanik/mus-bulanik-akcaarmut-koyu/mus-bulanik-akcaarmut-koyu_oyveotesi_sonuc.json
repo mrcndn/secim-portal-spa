@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-bulanik",
+        "mahalle": "AKÇAARMUT KÖYÜ",
+        "ilce_adi": "BULANIK",
+        "okul_adi": "AKÇAARMUT İLKOKULU",
+        "sandik_no": 1085,
+        "mahalle_id": "mus-bulanik-akcaarmut-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 150,
+            "sayim_sonuc": {
+                "TOPLAM": 150,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 133
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-bulanik/1xxx/1085/mus-bulanik-1085-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184585",
+            "oyveotesi_sync_timestamp": 1684393753
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-bulanik/1xxx/1085/mus-bulanik-1085-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184585",
+            "oyveotesi_sync_timestamp": 1684393753
+        },
+        "secim_bolge_id": "mus"
+    }
+]

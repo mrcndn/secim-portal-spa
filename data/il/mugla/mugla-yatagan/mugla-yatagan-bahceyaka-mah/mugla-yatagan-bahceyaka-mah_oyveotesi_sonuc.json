@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-yatagan",
+        "mahalle": "BAHÇEYAKA MAH.",
+        "ilce_adi": "YATAĞAN",
+        "okul_adi": "BAHÇEYAKA KÖYÜ İLK ÖĞRETİM OKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "mugla-yatagan-bahceyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374808
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-yatagan/1xxx/1019/mugla-yatagan-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374808
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-yatagan",
+        "mahalle": "BAHÇEYAKA MAH.",
+        "ilce_adi": "YATAĞAN",
+        "okul_adi": "BAHÇEYAKA KÖYÜ İLK ÖĞRETİM OKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "mugla-yatagan-bahceyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 46,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-yatagan/1xxx/1020/mugla-yatagan-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "575107",
+            "oyveotesi_sync_timestamp": 1684374808
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-yatagan/1xxx/1020/mugla-yatagan-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "575107",
+            "oyveotesi_sync_timestamp": 1684374808
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

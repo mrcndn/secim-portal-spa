@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-merkez",
+        "mahalle": "ŞEHİTLİK KÖYÜ",
+        "ilce_adi": "ARTVİN MERKEZ",
+        "okul_adi": "ARTVİN ÇEVRE VE ŞEHİRCİLİK MÜDÜRLÜĞÜ (BAYINDIRLIK VE İSKAN MÜD.)",
+        "sandik_no": 1095,
+        "mahalle_id": "artvin-merkez-sehitlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-merkez/1xxx/1095/artvin-merkez-1095-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "560921",
+            "oyveotesi_sync_timestamp": 1684361517
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 116,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-merkez/1xxx/1095/artvin-merkez-1095-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "560921",
+            "oyveotesi_sync_timestamp": 1684361517
+        },
+        "secim_bolge_id": "artvin"
+    },
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-merkez",
+        "mahalle": "ŞEHİTLİK KÖYÜ",
+        "ilce_adi": "ARTVİN MERKEZ",
+        "okul_adi": "YUKARI MAH.(AHMET SEZGİNİN EVİ)",
+        "sandik_no": 1096,
+        "mahalle_id": "artvin-merkez-sehitlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361517
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-merkez/1xxx/1096/artvin-merkez-1096-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361517
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

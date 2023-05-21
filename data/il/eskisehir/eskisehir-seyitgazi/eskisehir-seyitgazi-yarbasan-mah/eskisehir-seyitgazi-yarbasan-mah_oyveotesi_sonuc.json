@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-seyitgazi",
+        "mahalle": "YARBASAN MAH.",
+        "ilce_adi": "SEYİTGAZİ",
+        "okul_adi": "YARBASAN İ.Ö.O.",
+        "sandik_no": 1059,
+        "mahalle_id": "eskisehir-seyitgazi-yarbasan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1059/eskisehir-seyitgazi-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565320",
+            "oyveotesi_sync_timestamp": 1684341770
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-seyitgazi/1xxx/1059/eskisehir-seyitgazi-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565320",
+            "oyveotesi_sync_timestamp": 1684341770
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

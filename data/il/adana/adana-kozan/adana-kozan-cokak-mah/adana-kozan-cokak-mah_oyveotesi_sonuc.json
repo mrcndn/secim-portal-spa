@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-kozan",
+        "mahalle": "ÇOKAK MAH.",
+        "ilce_adi": "KOZAN",
+        "okul_adi": "ÇOKAK KÖY KONAĞI",
+        "sandik_no": 1086,
+        "mahalle_id": "adana-kozan-cokak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371336
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-kozan/1xxx/1086/adana-kozan-1086-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371336
+        },
+        "secim_bolge_id": "adana"
+    }
+]

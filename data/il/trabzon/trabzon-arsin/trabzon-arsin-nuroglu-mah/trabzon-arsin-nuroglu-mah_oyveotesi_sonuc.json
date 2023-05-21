@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-arsin",
+        "mahalle": "NUROĞLU MAH.",
+        "ilce_adi": "ARSİN",
+        "okul_adi": "NUROĞLU CAMİİ ALTI MAHALLE ODASI",
+        "sandik_no": 1050,
+        "mahalle_id": "trabzon-arsin-nuroglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "İYİ PARTİ": 9,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 110,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-arsin/1xxx/1050/trabzon-arsin-1050-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601622",
+            "oyveotesi_sync_timestamp": 1684366618
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 179
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-arsin/1xxx/1050/trabzon-arsin-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601622",
+            "oyveotesi_sync_timestamp": 1684366618
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

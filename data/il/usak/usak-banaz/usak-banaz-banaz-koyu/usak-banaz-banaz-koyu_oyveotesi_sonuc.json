@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "BANAZ KÖYÜ",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "BANAZ KÖYÜ OKUL BİNASI",
+        "sandik_no": 1056,
+        "mahalle_id": "usak-banaz-banaz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369748
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 120,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1056/usak-banaz-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369748
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "BANAZ KÖYÜ",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "BANAZ KÖYÜ OKUL BİNASI",
+        "sandik_no": 1055,
+        "mahalle_id": "usak-banaz-banaz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369748
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1055/usak-banaz-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369748
+        },
+        "secim_bolge_id": "usak"
+    }
+]

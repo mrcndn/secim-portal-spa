@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "YUVALI KÖYÜ",
+        "ilce_adi": "GERZE",
+        "okul_adi": "YUVALI KÖYÜ MERKEZ KÖY KONAĞI (BOŞ BİNA)",
+        "sandik_no": 1090,
+        "mahalle_id": "sinop-gerze-yuvali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 42,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1090/sinop-gerze-1090-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "441147",
+            "oyveotesi_sync_timestamp": 1684353914
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1090/sinop-gerze-1090-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "441147",
+            "oyveotesi_sync_timestamp": 1684353914
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

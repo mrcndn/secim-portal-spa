@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-samandag",
+        "mahalle": "ERİKLİKUYU MAH.",
+        "ilce_adi": "SAMANDAĞ",
+        "okul_adi": "ERİKLİKUYU İLKOKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "hatay-samandag-eriklikuyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375713
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375713
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-samandag",
+        "mahalle": "ERİKLİKUYU MAH.",
+        "ilce_adi": "SAMANDAĞ",
+        "okul_adi": "ERİKLİKUYU İLKOKULU",
+        "sandik_no": 1093,
+        "mahalle_id": "hatay-samandag-eriklikuyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 127,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-samandag/1xxx/1093/hatay-samandag-1093-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "802174",
+            "oyveotesi_sync_timestamp": 1684375713
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-samandag/1xxx/1093/hatay-samandag-1093-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "802174",
+            "oyveotesi_sync_timestamp": 1684375713
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

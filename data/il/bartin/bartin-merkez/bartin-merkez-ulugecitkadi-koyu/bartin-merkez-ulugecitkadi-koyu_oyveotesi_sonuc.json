@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ULUGEÇİTKADI KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ULUGEÇİTKADI KÖYÜ ORTAOKULU",
+        "sandik_no": 1377,
+        "mahalle_id": "bartin-merkez-ulugecitkadi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328036
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328036
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ULUGEÇİTKADI KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ULUGEÇİTKADI KÖYÜ ORTAOKULU",
+        "sandik_no": 1378,
+        "mahalle_id": "bartin-merkez-ulugecitkadi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328036
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1378/bartin-merkez-1378-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328036
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

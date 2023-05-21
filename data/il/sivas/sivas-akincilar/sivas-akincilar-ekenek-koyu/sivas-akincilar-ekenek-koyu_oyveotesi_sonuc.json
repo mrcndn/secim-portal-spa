@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-akincilar",
+        "mahalle": "EKENEK KÖYÜ",
+        "ilce_adi": "AKINCILAR",
+        "okul_adi": "EKENEK KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1020,
+        "mahalle_id": "sivas-akincilar-ekenek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684358466
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 43,
+            "sayim_sonuc": {
+                "TOPLAM": 43,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-akincilar/1xxx/1020/sivas-akincilar-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684358466
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

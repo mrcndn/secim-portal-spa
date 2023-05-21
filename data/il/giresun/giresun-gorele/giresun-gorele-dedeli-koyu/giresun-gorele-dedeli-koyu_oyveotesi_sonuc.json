@@ -1,0 +1,53 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "DEDELİ KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "okul_adi": "DEDELİ İLKOKULU",
+        "sandik_no": 1070,
+        "mahalle_id": "giresun-gorele-dedeli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 43,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1070/giresun-gorele-1070-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224412",
+            "oyveotesi_sync_timestamp": 1684343187
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1070/giresun-gorele-1070-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224412",
+            "oyveotesi_sync_timestamp": 1684343187
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

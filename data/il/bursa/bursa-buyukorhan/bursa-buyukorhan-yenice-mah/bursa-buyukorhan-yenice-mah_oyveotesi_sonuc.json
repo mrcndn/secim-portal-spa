@@ -1,0 +1,71 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-buyukorhan",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "BÜYÜKORHAN",
+        "okul_adi": "ŞEHİT RAMAZAN AKTAY İLKOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "bursa-buyukorhan-yenice-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 63,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 126,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "522345",
+            "oyveotesi_sync_timestamp": 1684328547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 203
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "522345",
+            "oyveotesi_sync_timestamp": 1684328547
+        },
+        "secim_bolge_id": "bursa1"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-buyukorhan",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "BÜYÜKORHAN",
+        "okul_adi": "ŞEHİT RAMAZAN AKTAY İLKOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "bursa-buyukorhan-yenice-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328547
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

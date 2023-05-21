@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-simav",
+        "mahalle": "SÖĞÜT KÖYÜ",
+        "ilce_adi": "SİMAV",
+        "okul_adi": "SÖGÜT KÖY İLKOKULU",
+        "sandik_no": 1178,
+        "mahalle_id": "kutahya-simav-sogut-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 110,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1178/kutahya-simav-1178-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "537753",
+            "oyveotesi_sync_timestamp": 1684350658
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1178/kutahya-simav-1178-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "537753",
+            "oyveotesi_sync_timestamp": 1684350658
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-simav",
+        "mahalle": "SÖĞÜT KÖYÜ",
+        "ilce_adi": "SİMAV",
+        "okul_adi": "SÖGÜT KÖY İLKOKULU",
+        "sandik_no": 1177,
+        "mahalle_id": "kutahya-simav-sogut-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350658
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350658
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

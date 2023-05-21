@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-kemaliye",
+        "mahalle": "DİLLİ KÖYÜ",
+        "ilce_adi": "KEMALİYE",
+        "okul_adi": "DİLLİ KÖY ODASI",
+        "sandik_no": 1034,
+        "mahalle_id": "erzincan-kemaliye-dilli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-kemaliye/1xxx/1034/erzincan-kemaliye-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "812427",
+            "oyveotesi_sync_timestamp": 1684339775
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-kemaliye/1xxx/1034/erzincan-kemaliye-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "812427",
+            "oyveotesi_sync_timestamp": 1684339775
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

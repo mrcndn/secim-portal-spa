@@ -1,0 +1,892 @@
+[
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "NURS KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-nurs-koyu",
+        "oyveotesi_neighborhood_id": 11876
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "NUH KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-nuh-koyu",
+        "oyveotesi_neighborhood_id": 50312
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "MEYDAN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-meydan-koyu",
+        "oyveotesi_neighborhood_id": 50253
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "SAĞINLI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-saginli-koyu",
+        "oyveotesi_neighborhood_id": 11885
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KÜLTÜR MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kultur-mah",
+        "oyveotesi_neighborhood_id": 11862
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YOLBİLEN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yolbilen-koyu",
+        "oyveotesi_neighborhood_id": 50315
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YUKARIAYVACIK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yukariayvacik-koyu",
+        "oyveotesi_neighborhood_id": 11841
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YUKARIÇALI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yukaricali-koyu",
+        "oyveotesi_neighborhood_id": 11882
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "DAYILAR KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-dayilar-koyu",
+        "oyveotesi_neighborhood_id": 11858
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "DERİNCE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-derince-koyu",
+        "oyveotesi_neighborhood_id": 11861
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "DİBEKLİ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-dibekli-koyu",
+        "oyveotesi_neighborhood_id": 50296
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "DOĞANCI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-doganci-koyu",
+        "oyveotesi_neighborhood_id": 11899
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "DÖKÜKTAŞ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-dokuktas-koyu",
+        "oyveotesi_neighborhood_id": 11864
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "EKİNLİ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-ekinli-koyu",
+        "oyveotesi_neighborhood_id": 50280
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "EKİNTEPE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-ekintepe-koyu",
+        "oyveotesi_neighborhood_id": 11886
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ELMACIK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-elmacik-koyu",
+        "oyveotesi_neighborhood_id": 11893
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YAYLACIK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yaylacik-koyu",
+        "oyveotesi_neighborhood_id": 50290
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ERENCİK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-erencik-koyu",
+        "oyveotesi_neighborhood_id": 11859
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ESENLER KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-esenler-koyu",
+        "oyveotesi_neighborhood_id": 11894
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-esentepe-mah",
+        "oyveotesi_neighborhood_id": 11900
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "GAYDA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-gayda-koyu",
+        "oyveotesi_neighborhood_id": 11889
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "GÖKAY KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-gokay-koyu",
+        "oyveotesi_neighborhood_id": 11887
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "GÖKÇİMEN MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-gokcimen-mah",
+        "oyveotesi_neighborhood_id": 11895
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "GÖKTEPE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-goktepe-koyu",
+        "oyveotesi_neighborhood_id": 11846
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "GÖNÜLLÜ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-gonullu-koyu",
+        "oyveotesi_neighborhood_id": 11854
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "GÜNGÖREN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-gungoren-koyu",
+        "oyveotesi_neighborhood_id": 50262
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KOYUNLU KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-koyunlu-koyu",
+        "oyveotesi_neighborhood_id": 50300
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "GÜRECE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-gurece-koyu",
+        "oyveotesi_neighborhood_id": 50073
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "HACIMEHMET KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-hacimehmet-koyu",
+        "oyveotesi_neighborhood_id": 11838
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "HARMANDÖVEN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-harmandoven-koyu",
+        "oyveotesi_neighborhood_id": 11850
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "HOROZDERE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-horozdere-koyu",
+        "oyveotesi_neighborhood_id": 11888
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "İÇLİKAVAL KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-iclikaval-koyu",
+        "oyveotesi_neighborhood_id": 11880
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "İNCİRLİ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-incirli-koyu",
+        "oyveotesi_neighborhood_id": 50276
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KALKANLI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kalkanli-koyu",
+        "oyveotesi_neighborhood_id": 11873
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KARAAĞAÇ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-karaagac-koyu",
+        "oyveotesi_neighborhood_id": 11847
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KAPISUYU KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kapisuyu-koyu",
+        "oyveotesi_neighborhood_id": 11860
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KARBASTI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-karbasti-koyu",
+        "oyveotesi_neighborhood_id": 11840
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KARLITEPE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-karlitepe-koyu",
+        "oyveotesi_neighborhood_id": 50067
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KAYADELER KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kayadeler-koyu",
+        "oyveotesi_neighborhood_id": 49466
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KAYALI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kayali-koyu",
+        "oyveotesi_neighborhood_id": 11848
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KAYMAKLI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kaymakli-koyu",
+        "oyveotesi_neighborhood_id": 50302
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KEÇELİ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-keceli-koyu",
+        "oyveotesi_neighborhood_id": 11875
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KEKLİK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-keklik-koyu",
+        "oyveotesi_neighborhood_id": 11874
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KOÇLU KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-koclu-koyu",
+        "oyveotesi_neighborhood_id": 11833
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KOÇYİĞİT KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kocyigit-koyu",
+        "oyveotesi_neighborhood_id": 11867
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "KOLLUDERE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-kolludere-koyu",
+        "oyveotesi_neighborhood_id": 11855
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "UZUNTAŞ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-uzuntas-koyu",
+        "oyveotesi_neighborhood_id": 11868
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ÜRÜNVEREN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-urunveren-koyu",
+        "oyveotesi_neighborhood_id": 11857
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "TUTUMLU KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-tutumlu-koyu",
+        "oyveotesi_neighborhood_id": 50321
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "TAŞLI PINAR MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-tasli-pinar-mah",
+        "oyveotesi_neighborhood_id": 11849
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "SÜTTAŞI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-suttasi-koyu",
+        "oyveotesi_neighborhood_id": 11843
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "SÜRÜCÜLER KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-suruculer-koyu",
+        "oyveotesi_neighborhood_id": 11842
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "SOĞUKSU KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-soguksu-koyu",
+        "oyveotesi_neighborhood_id": 11851
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "SARPKAYA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-sarpkaya-koyu",
+        "oyveotesi_neighborhood_id": 11884
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "SARITAŞ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-saritas-koyu",
+        "oyveotesi_neighborhood_id": 11839
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "SAĞIRKAYA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-sagirkaya-koyu",
+        "oyveotesi_neighborhood_id": 11890
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "AĞILÖZÜ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-agilozu-koyu",
+        "oyveotesi_neighborhood_id": 11837
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "AKBIYIK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-akbiyik-koyu",
+        "oyveotesi_neighborhood_id": 11870
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "AKÇA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-akca-koyu",
+        "oyveotesi_neighborhood_id": 11878
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "AKÇEVRE KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-akcevre-koyu",
+        "oyveotesi_neighborhood_id": 11835
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "AKDİK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-akdik-koyu",
+        "oyveotesi_neighborhood_id": 11877
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "AKŞAR KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-aksar-koyu",
+        "oyveotesi_neighborhood_id": 11836
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ALADANA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-aladana-koyu",
+        "oyveotesi_neighborhood_id": 11879
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ALTINOLUK MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-altinoluk-mah",
+        "oyveotesi_neighborhood_id": 11844
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "AŞAĞIKARASU MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-asagikarasu-mah",
+        "oyveotesi_neighborhood_id": 11871
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 11853
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "BALLICA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-ballica-koyu",
+        "oyveotesi_neighborhood_id": 11892
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "BALLI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-balli-koyu",
+        "oyveotesi_neighborhood_id": 11872
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "BÖLÜKLÜ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-boluklu-koyu",
+        "oyveotesi_neighborhood_id": 11845
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "BOZPINAR KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-bozpinar-koyu",
+        "oyveotesi_neighborhood_id": 11898
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "BUDAKLI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-budakli-koyu",
+        "oyveotesi_neighborhood_id": 50251
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ÇALIŞKANLAR KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-caliskanlar-koyu",
+        "oyveotesi_neighborhood_id": 50432
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ÇATAKDEĞİRMEN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-catakdegirmen-koyu",
+        "oyveotesi_neighborhood_id": 11852
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ÇAVUŞLAR KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-cavuslar-koyu",
+        "oyveotesi_neighborhood_id": 50294
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ÇAYIR KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-cayir-koyu",
+        "oyveotesi_neighborhood_id": 11863
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ÇÖKEKYAZI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-cokekyazi-koyu",
+        "oyveotesi_neighborhood_id": 11883
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "DAĞÖREN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-dagoren-koyu",
+        "oyveotesi_neighborhood_id": 50261
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YELKIRAN KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yelkiran-koyu",
+        "oyveotesi_neighborhood_id": 49737
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YEMİŞLİ MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yemisli-mah",
+        "oyveotesi_neighborhood_id": 11869
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YENİCİK KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yenicik-koyu",
+        "oyveotesi_neighborhood_id": 11856
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YENİ KENT MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yeni-kent-mah",
+        "oyveotesi_neighborhood_id": 11896
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YEŞİL OVA MAH.",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yesil-ova-mah",
+        "oyveotesi_neighborhood_id": 11897
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YIĞINKAYA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yiginkaya-koyu",
+        "oyveotesi_neighborhood_id": 11891
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "YOĞURTLU KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-yogurtlu-koyu",
+        "oyveotesi_neighborhood_id": 11866
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "OYMAPINAR KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-oymapinar-koyu",
+        "oyveotesi_neighborhood_id": 11881
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ORTACA KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-ortaca-koyu",
+        "oyveotesi_neighborhood_id": 11834
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "ÖRGÜLÜ KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-orgulu-koyu",
+        "oyveotesi_neighborhood_id": 50287
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "OLTU KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-oltu-koyu",
+        "oyveotesi_neighborhood_id": 49817
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-hizan",
+        "mahalle": "OĞLAKLI KÖYÜ",
+        "ilce_adi": "HİZAN",
+        "mahalle_id": "bitlis-hizan-oglakli-koyu",
+        "oyveotesi_neighborhood_id": 11865
+    }
+]

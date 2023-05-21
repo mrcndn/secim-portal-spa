@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "ilce_id": "kilis-merkez",
+        "mahalle": "ŞIHLAR MAH.",
+        "ilce_adi": "KİLİS MERKEZ",
+        "okul_adi": "KARTALBEY İLK OKULU",
+        "sandik_no": 1201,
+        "mahalle_id": "kilis-merkez-sihlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1201/kilis-merkez-1201-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "272891",
+            "oyveotesi_sync_timestamp": 1684348594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1201/kilis-merkez-1201-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "272891",
+            "oyveotesi_sync_timestamp": 1684348594
+        },
+        "secim_bolge_id": "kilis"
+    }
+]

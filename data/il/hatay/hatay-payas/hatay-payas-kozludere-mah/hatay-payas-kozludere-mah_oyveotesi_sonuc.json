@@ -1,0 +1,103 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-payas",
+        "mahalle": "KOZLUDERE MAH.",
+        "ilce_adi": "PAYAS",
+        "okul_adi": "PAYAS KOZLUDERE MUHTARLIK SOSYAL TESİSİ",
+        "sandik_no": 1058,
+        "mahalle_id": "hatay-payas-kozludere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375757
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375757
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-payas",
+        "mahalle": "KOZLUDERE MAH.",
+        "ilce_adi": "PAYAS",
+        "okul_adi": "PAYAS KOZLUDERE MUHTARLIK SOSYAL TESİSİ",
+        "sandik_no": 1059,
+        "mahalle_id": "hatay-payas-kozludere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 171,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-payas/1xxx/1059/hatay-payas-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "644778",
+            "oyveotesi_sync_timestamp": 1684375757
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 208
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-payas/1xxx/1059/hatay-payas-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "644778",
+            "oyveotesi_sync_timestamp": 1684375757
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-payas",
+        "mahalle": "KOZLUDERE MAH.",
+        "ilce_adi": "PAYAS",
+        "okul_adi": "PAYAS KOZLUDERE MUHTARLIK SOSYAL TESİSİ",
+        "sandik_no": 1060,
+        "mahalle_id": "hatay-payas-kozludere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375757
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 217
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-payas/1xxx/1060/hatay-payas-1060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375757
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

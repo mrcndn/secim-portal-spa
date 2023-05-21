@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "hakkari",
+        "il_adi": "HAKKARİ",
+        "il_kodu": 30,
+        "ilce_id": "hakkari-yuksekova",
+        "mahalle": "ORTAÇ KÖYÜ",
+        "ilce_adi": "YÜKSEKOVA",
+        "okul_adi": "ORTAÇ KÖYÜ ORTAOKULU",
+        "sandik_no": 1232,
+        "mahalle_id": "hakkari-yuksekova-ortac-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SOL PARTİ": 4,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1232/hakkari-yuksekova-1232-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601487",
+            "oyveotesi_sync_timestamp": 1684343709
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 81
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1232/hakkari-yuksekova-1232-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601487",
+            "oyveotesi_sync_timestamp": 1684343709
+        },
+        "secim_bolge_id": "hakkari"
+    },
+    {
+        "il_id": "hakkari",
+        "il_adi": "HAKKARİ",
+        "il_kodu": 30,
+        "ilce_id": "hakkari-yuksekova",
+        "mahalle": "ORTAÇ KÖYÜ",
+        "ilce_adi": "YÜKSEKOVA",
+        "okul_adi": "ORTAÇ KÖYÜ ORTAOKULU",
+        "sandik_no": 1231,
+        "mahalle_id": "hakkari-yuksekova-ortac-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343709
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 130,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1231/hakkari-yuksekova-1231-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343709
+        },
+        "secim_bolge_id": "hakkari"
+    }
+]

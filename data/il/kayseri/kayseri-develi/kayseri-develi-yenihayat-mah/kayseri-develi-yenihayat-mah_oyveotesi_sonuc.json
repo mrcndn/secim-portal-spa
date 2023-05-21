@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-develi",
+        "mahalle": "YENİHAYAT MAH.",
+        "ilce_adi": "DEVELİ",
+        "okul_adi": "YENİHAYAT İLKOKULU",
+        "sandik_no": 1160,
+        "mahalle_id": "kayseri-develi-yenihayat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 77,
+            "sayim_sonuc": {
+                "TOPLAM": 77,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-develi/1xxx/1160/kayseri-develi-1160-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "479918",
+            "oyveotesi_sync_timestamp": 1684359796
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-develi/1xxx/1160/kayseri-develi-1160-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "479918",
+            "oyveotesi_sync_timestamp": 1684359796
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

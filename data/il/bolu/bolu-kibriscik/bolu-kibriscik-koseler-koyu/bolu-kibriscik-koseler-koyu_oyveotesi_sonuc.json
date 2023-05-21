@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-kibriscik",
+        "mahalle": "KÖSELER KÖYÜ",
+        "ilce_adi": "KIBRISCIK",
+        "okul_adi": "KÖSELER KÖYÜ İLKOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "bolu-kibriscik-koseler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "İYİ PARTİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-kibriscik/1xxx/1020/bolu-kibriscik-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "423169",
+            "oyveotesi_sync_timestamp": 1684334088
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 75,
+            "sayim_sonuc": {
+                "TOPLAM": 75,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-kibriscik/1xxx/1020/bolu-kibriscik-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "423169",
+            "oyveotesi_sync_timestamp": 1684334088
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

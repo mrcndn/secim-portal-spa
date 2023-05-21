@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "KIRIT MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "KIRIT MAH. OKUL BİNASI",
+        "sandik_no": 2122,
+        "mahalle_id": "mersin-tarsus-kirit-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 77,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2122/mersin-tarsus-2122-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805082",
+            "oyveotesi_sync_timestamp": 1684363587
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2122/mersin-tarsus-2122-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805082",
+            "oyveotesi_sync_timestamp": 1684363587
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

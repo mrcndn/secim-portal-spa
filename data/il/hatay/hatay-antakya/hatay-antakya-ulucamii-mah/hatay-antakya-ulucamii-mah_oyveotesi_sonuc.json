@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-antakya",
+        "mahalle": "ULUCAMİİ MAH.",
+        "ilce_adi": "ANTAKYA",
+        "okul_adi": "ÖZEL HATAY DOĞUŞ OKULLARI (ULU CAMİİ MAH)",
+        "sandik_no": 1250,
+        "mahalle_id": "hatay-antakya-ulucamii-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375461
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 148,
+            "sayim_sonuc": {
+                "TOPLAM": 148,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-antakya/1xxx/1250/hatay-antakya-1250-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375461
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

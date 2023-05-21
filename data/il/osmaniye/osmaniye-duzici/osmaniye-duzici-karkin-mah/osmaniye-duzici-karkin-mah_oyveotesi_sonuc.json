@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-duzici",
+        "mahalle": "KARKIN MAH.",
+        "ilce_adi": "DÜZİÇİ",
+        "okul_adi": "YEŞİLBAYIR İLKOKULU",
+        "sandik_no": 1053,
+        "mahalle_id": "osmaniye-duzici-karkin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-duzici/1xxx/1053/osmaniye-duzici-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573924",
+            "oyveotesi_sync_timestamp": 1684374957
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 162
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-duzici/1xxx/1053/osmaniye-duzici-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573924",
+            "oyveotesi_sync_timestamp": 1684374957
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-duzici",
+        "mahalle": "KARKIN MAH.",
+        "ilce_adi": "DÜZİÇİ",
+        "okul_adi": "YEŞİLBAYIR İLKOKULU",
+        "sandik_no": 1052,
+        "mahalle_id": "osmaniye-duzici-karkin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374957
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374957
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-saruhanli",
+        "mahalle": "BEDELLER MAH.",
+        "ilce_adi": "SARUHANLI",
+        "okul_adi": "BEDELLER İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "manisa-saruhanli-bedeller-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396989
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-saruhanli/1xxx/1016/manisa-saruhanli-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396989
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

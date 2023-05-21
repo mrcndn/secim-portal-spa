@@ -1,0 +1,936 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1418,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 47,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 156,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1418/usak-merkez-1418-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "714468",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 99,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1418/usak-merkez-1418-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "714468",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1405,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1405/usak-merkez-1405-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "535076",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 100,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1405/usak-merkez-1405-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "535076",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1406,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1406/usak-merkez-1406-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572455",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 202
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1406/usak-merkez-1406-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572455",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1407,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 174
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1407/usak-merkez-1407-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1408,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "ADALET VE KALKINMA PARTİSİ": 124,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 48,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1408/usak-merkez-1408-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577875",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 99,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1408/usak-merkez-1408-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577875",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1409,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 68,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1409/usak-merkez-1409-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574545",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 182
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1409/usak-merkez-1409-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574545",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1410,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SİNAN OĞAN": 35,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 102,
+                "RECEP TAYYİP ERDOĞAN": 178
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1410/usak-merkez-1410-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1411,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 157,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 51,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1411/usak-merkez-1411-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "278267",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 203
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1411/usak-merkez-1411-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "278267",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1412,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 97,
+                "RECEP TAYYİP ERDOĞAN": 204
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1412/usak-merkez-1412-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. HASAN ZEKİ BOZ ANADOLU LİSESİ",
+        "sandik_no": 1413,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 99,
+                "RECEP TAYYİP ERDOĞAN": 198
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1413/usak-merkez-1413-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1414,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1414/usak-merkez-1414-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "708869",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1414/usak-merkez-1414-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "708869",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1415,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1415/usak-merkez-1415-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1416,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1416/usak-merkez-1416-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1417,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 42,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "ADALET VE KALKINMA PARTİSİ": 142,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1417/usak-merkez-1417-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "683046",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 25,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 196
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1417/usak-merkez-1417-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "683046",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1419,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 199
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1419/usak-merkez-1419-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1420,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 56,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 127,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1420/usak-merkez-1420-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "641055",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1420/usak-merkez-1420-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "641055",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1421,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 209
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1421/usak-merkez-1421-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1422,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 61,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 116,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1422/usak-merkez-1422-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "535906",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 175
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1422/usak-merkez-1422-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "535906",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1423,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 152,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1423/usak-merkez-1423-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "794678",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1423/usak-merkez-1423-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "794678",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1424,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1424/usak-merkez-1424-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY MAH. MALKOÇOĞLU İLKOKULU",
+        "sandik_no": 1425,
+        "mahalle_id": "usak-merkez-mehmet-akif-ersoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 52,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 14,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1425/usak-merkez-1425-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "651000",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1425/usak-merkez-1425-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "651000",
+            "oyveotesi_sync_timestamp": 1684369723
+        },
+        "secim_bolge_id": "usak"
+    }
+]

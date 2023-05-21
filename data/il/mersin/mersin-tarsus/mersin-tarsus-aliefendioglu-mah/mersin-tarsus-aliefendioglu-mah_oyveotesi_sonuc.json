@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "ALİEFENDİOĞLU MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "ALİEFENDİOĞLU-KÖY HİZMET BİNASI",
+        "sandik_no": 2010,
+        "mahalle_id": "mersin-tarsus-aliefendioglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 252,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "TÜRKİYE İŞÇİ PARTİSİ": 18,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2010/mersin-tarsus-2010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "512921",
+            "oyveotesi_sync_timestamp": 1684363677
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 302,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2010/mersin-tarsus-2010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "512921",
+            "oyveotesi_sync_timestamp": 1684363677
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "ALİEFENDİOĞLU MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "ALİEFENDİOĞLU-KÖY HİZMET BİNASI",
+        "sandik_no": 2011,
+        "mahalle_id": "mersin-tarsus-aliefendioglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 233,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "TÜRKİYE İŞÇİ PARTİSİ": 22,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2011/mersin-tarsus-2011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "497285",
+            "oyveotesi_sync_timestamp": 1684363677
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 280,
+                "RECEP TAYYİP ERDOĞAN": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2011/mersin-tarsus-2011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "497285",
+            "oyveotesi_sync_timestamp": 1684363677
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

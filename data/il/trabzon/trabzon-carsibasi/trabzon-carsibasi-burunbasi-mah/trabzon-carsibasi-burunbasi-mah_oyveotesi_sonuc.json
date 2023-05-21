@@ -1,0 +1,97 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-carsibasi",
+        "mahalle": "BURUNBAŞI MAH.",
+        "ilce_adi": "ÇARŞIBAŞI",
+        "okul_adi": "ÇARŞIBAŞI ORTA OKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "trabzon-carsibasi-burunbasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 45,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-carsibasi/1xxx/1001/trabzon-carsibasi-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232012",
+            "oyveotesi_sync_timestamp": 1684366585
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 103,
+                "RECEP TAYYİP ERDOĞAN": 102
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-carsibasi/1xxx/1001/trabzon-carsibasi-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "232012",
+            "oyveotesi_sync_timestamp": 1684366585
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-carsibasi",
+        "mahalle": "BURUNBAŞI MAH.",
+        "ilce_adi": "ÇARŞIBAŞI",
+        "okul_adi": "ÇARŞIBAŞI ORTA OKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "trabzon-carsibasi-burunbasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "İYİ PARTİ": 65,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 65,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-carsibasi/1xxx/1002/trabzon-carsibasi-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "248264",
+            "oyveotesi_sync_timestamp": 1684366585
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 97
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-carsibasi/1xxx/1002/trabzon-carsibasi-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "248264",
+            "oyveotesi_sync_timestamp": 1684366585
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

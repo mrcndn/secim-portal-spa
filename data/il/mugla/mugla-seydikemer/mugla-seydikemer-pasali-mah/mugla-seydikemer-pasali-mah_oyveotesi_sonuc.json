@@ -1,0 +1,84 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "PAŞALI MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "PAŞALI İLKOKULU",
+        "sandik_no": 1134,
+        "mahalle_id": "mugla-seydikemer-pasali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 43,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1134/mugla-seydikemer-1134-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "669274",
+            "oyveotesi_sync_timestamp": 1684374539
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "669274",
+            "oyveotesi_sync_timestamp": 1684374539
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "PAŞALI MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "PAŞALI İLKOKULU",
+        "sandik_no": 1133,
+        "mahalle_id": "mugla-seydikemer-pasali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374539
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1133/mugla-seydikemer-1133-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374539
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "SATMAZLI MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "SATMAZLI KÖYÜ MUHTARLIĞI KÖY OTURMA ODASI",
+        "sandik_no": 1107,
+        "mahalle_id": "istanbul-sile-satmazli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 180,
+            "sayim_sonuc": {
+                "TOPLAM": 180,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "227269",
+            "oyveotesi_sync_timestamp": 1684345136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "227269",
+            "oyveotesi_sync_timestamp": 1684345136
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "SATMAZLI MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "SATMAZLI KÖYÜ MUHTARLIĞI KÖY OTURMA ODASI",
+        "sandik_no": 1108,
+        "mahalle_id": "istanbul-sile-satmazli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "İYİ PARTİ": 27,
+                "ZAFER PARTİSİ": 10,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 76,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "282454",
+            "oyveotesi_sync_timestamp": 1684345136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "282454",
+            "oyveotesi_sync_timestamp": 1684345136
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

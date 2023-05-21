@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-edremit",
+        "mahalle": "TURHANBEY MAH.",
+        "ilce_adi": "EDREMİT",
+        "okul_adi": "ŞEHİT HAMDİBEY İLKOKULU",
+        "sandik_no": 1347,
+        "mahalle_id": "balikesir-edremit-turhanbey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330020
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 37,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-edremit/1xxx/1347/balikesir-edremit-1347-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330020
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-edremit",
+        "mahalle": "TURHANBEY MAH.",
+        "ilce_adi": "EDREMİT",
+        "okul_adi": "ŞEHİT HAMDİBEY İLKOKULU",
+        "sandik_no": 1348,
+        "mahalle_id": "balikesir-edremit-turhanbey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 53,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 133,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-edremit/1xxx/1348/balikesir-edremit-1348-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "698336",
+            "oyveotesi_sync_timestamp": 1684330020
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-edremit/1xxx/1348/balikesir-edremit-1348-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "698336",
+            "oyveotesi_sync_timestamp": 1684330020
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-edremit",
+        "mahalle": "DOYRAN MAH.",
+        "ilce_adi": "EDREMİT",
+        "okul_adi": "DOYRAN MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1154,
+        "mahalle_id": "balikesir-edremit-doyran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 207,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 27,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-edremit/1xxx/1154/balikesir-edremit-1154-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "353795",
+            "oyveotesi_sync_timestamp": 1684329994
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 262,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-edremit/1xxx/1154/balikesir-edremit-1154-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "353795",
+            "oyveotesi_sync_timestamp": 1684329994
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

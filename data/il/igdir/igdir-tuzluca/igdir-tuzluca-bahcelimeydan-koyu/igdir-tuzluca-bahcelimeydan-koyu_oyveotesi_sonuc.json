@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "igdir",
+        "il_adi": "IĞDIR",
+        "il_kodu": 76,
+        "ilce_id": "igdir-tuzluca",
+        "mahalle": "BAHÇELİMEYDAN KÖYÜ",
+        "ilce_adi": "TUZLUCA",
+        "okul_adi": "BAHÇELİ MEYDAN KÖYÜ İLKOKULU",
+        "sandik_no": 1038,
+        "mahalle_id": "igdir-tuzluca-bahcelimeydan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-igdir-tutanaklari/blob/main/tutanak/igdir/igdir-tuzluca/1xxx/1038/igdir-tuzluca-1038-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172953",
+            "oyveotesi_sync_timestamp": 1684343859
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-igdir-tutanaklari/blob/main/tutanak/igdir/igdir-tuzluca/1xxx/1038/igdir-tuzluca-1038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172953",
+            "oyveotesi_sync_timestamp": 1684343859
+        },
+        "secim_bolge_id": "igdir"
+    }
+]

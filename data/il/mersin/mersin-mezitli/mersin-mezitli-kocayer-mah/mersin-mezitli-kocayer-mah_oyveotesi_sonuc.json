@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-mezitli",
+        "mahalle": "KOCAYER MAH.",
+        "ilce_adi": "MEZİTLİ",
+        "okul_adi": "KOCAYER İLKOKULU",
+        "sandik_no": 1216,
+        "mahalle_id": "mersin-mezitli-kocayer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "ADALET PARTİSİ": 47,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1216/mersin-mezitli-1216-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "241406",
+            "oyveotesi_sync_timestamp": 1684327326
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1216/mersin-mezitli-1216-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "241406",
+            "oyveotesi_sync_timestamp": 1684327326
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-mezitli",
+        "mahalle": "KOCAYER MAH.",
+        "ilce_adi": "MEZİTLİ",
+        "okul_adi": "KOCAYER İLKOKULU",
+        "sandik_no": 1217,
+        "mahalle_id": "mersin-mezitli-kocayer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "İYİ PARTİ": 48,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1217/mersin-mezitli-1217-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "247928",
+            "oyveotesi_sync_timestamp": 1684327326
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 90
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1217/mersin-mezitli-1217-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "247928",
+            "oyveotesi_sync_timestamp": 1684327326
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

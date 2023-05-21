@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-camlidere",
+        "mahalle": "PELİTÇİK MAH.",
+        "ilce_adi": "ÇAMLIDERE",
+        "okul_adi": "PELİTCİK MAHALLE ODASI",
+        "sandik_no": 1043,
+        "mahalle_id": "ankara-camlidere-pelitcik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "540717",
+            "oyveotesi_sync_timestamp": 1684393336
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "540717",
+            "oyveotesi_sync_timestamp": 1684393336
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

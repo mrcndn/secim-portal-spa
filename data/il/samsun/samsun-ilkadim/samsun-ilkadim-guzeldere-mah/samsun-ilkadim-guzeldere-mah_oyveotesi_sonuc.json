@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ilkadim",
+        "mahalle": "GÜZELDERE MAH.",
+        "ilce_adi": "İLKADIM",
+        "okul_adi": "GÜZELDERE MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 2174,
+        "mahalle_id": "samsun-ilkadim-guzeldere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 10,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 133,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ilkadim/2xxx/2174/samsun-ilkadim-2174-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "675290",
+            "oyveotesi_sync_timestamp": 1684368243
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 183
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ilkadim/2xxx/2174/samsun-ilkadim-2174-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "675290",
+            "oyveotesi_sync_timestamp": 1684368243
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

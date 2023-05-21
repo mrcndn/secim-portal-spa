@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-guney",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "GÜNEY",
+        "okul_adi": "FEVZİ TOKAT ORTAOKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "denizli-guney-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 107,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-guney/1xxx/1034/denizli-guney-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "611136",
+            "oyveotesi_sync_timestamp": 1684365778
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 137,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-guney/1xxx/1034/denizli-guney-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "611136",
+            "oyveotesi_sync_timestamp": 1684365778
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-guney",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "GÜNEY",
+        "okul_adi": "FEVZİ TOKAT ORTAOKULU",
+        "sandik_no": 1035,
+        "mahalle_id": "denizli-guney-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365778
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 162,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-guney/1xxx/1035/denizli-guney-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365778
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

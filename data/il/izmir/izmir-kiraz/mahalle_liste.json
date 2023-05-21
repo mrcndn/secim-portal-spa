@@ -1,0 +1,562 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "CERİTLER MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-ceritler-mah",
+        "oyveotesi_neighborhood_id": 20067
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "CEVİZLİ MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-cevizli-mah",
+        "oyveotesi_neighborhood_id": 20065
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ÇÖMLEKÇİ MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-comlekci-mah",
+        "oyveotesi_neighborhood_id": 20086
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 20114
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "DOĞANCILAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-dogancilar-mah",
+        "oyveotesi_neighborhood_id": 20060
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "DOKUZLAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-dokuzlar-mah",
+        "oyveotesi_neighborhood_id": 20088
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "EMENLER MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-emenler-mah",
+        "oyveotesi_neighborhood_id": 20061
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "GEDİK MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-gedik-mah",
+        "oyveotesi_neighborhood_id": 20096
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "MAVİDERE MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-mavidere-mah",
+        "oyveotesi_neighborhood_id": 20097
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "HİSAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-hisar-mah",
+        "oyveotesi_neighborhood_id": 20081
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "İĞDELİ MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-igdeli-mah",
+        "oyveotesi_neighborhood_id": 20074
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-istiklal-mah",
+        "oyveotesi_neighborhood_id": 20069
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "KALEKÖY MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-kalekoy-mah",
+        "oyveotesi_neighborhood_id": 20082
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "KARABAĞ MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-karabag-mah",
+        "oyveotesi_neighborhood_id": 20109
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "KARABULU MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-karabulu-mah",
+        "oyveotesi_neighborhood_id": 20115
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "KARABURÇ MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-karaburc-mah",
+        "oyveotesi_neighborhood_id": 20092
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "KARAMAN MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-karaman-mah",
+        "oyveotesi_neighborhood_id": 20110
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "KİBAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-kibar-mah",
+        "oyveotesi_neighborhood_id": 20093
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "KIRKÖY MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-kirkoy-mah",
+        "oyveotesi_neighborhood_id": 20089
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "HALİLLER MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-haliller-mah",
+        "oyveotesi_neighborhood_id": 20103
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "MERSİNLİDERE MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-mersinlidere-mah",
+        "oyveotesi_neighborhood_id": 20063
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "OLGUNLAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-olgunlar-mah",
+        "oyveotesi_neighborhood_id": 20104
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ÖRENCİK MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-orencik-mah",
+        "oyveotesi_neighborhood_id": 20087
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "AHMETLER MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-ahmetler-mah",
+        "oyveotesi_neighborhood_id": 20101
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-akpinar-mah",
+        "oyveotesi_neighborhood_id": 20102
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ALTINOLUK MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-altinoluk-mah",
+        "oyveotesi_neighborhood_id": 20106
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ARKACILAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-arkacilar-mah",
+        "oyveotesi_neighborhood_id": 20078
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "AVUNDURUK MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-avunduruk-mah",
+        "oyveotesi_neighborhood_id": 20079
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "AYDOĞDU MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-aydogdu-mah",
+        "oyveotesi_neighborhood_id": 20080
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "BAHÇEARASI MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-bahcearasi-mah",
+        "oyveotesi_neighborhood_id": 20095
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "BAŞARAN MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-basaran-mah",
+        "oyveotesi_neighborhood_id": 20098
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ÇANAKÇI MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-canakci-mah",
+        "oyveotesi_neighborhood_id": 20085
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ÇATAK MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-catak-mah",
+        "oyveotesi_neighborhood_id": 20062
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "YEŞİLDERE MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-yesildere-mah",
+        "oyveotesi_neighborhood_id": 20084
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "YENİŞEHİR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-yenisehir-mah",
+        "oyveotesi_neighborhood_id": 20083
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-yeni-mah",
+        "oyveotesi_neighborhood_id": 20077
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 20108
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "YAĞLAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-yaglar-mah",
+        "oyveotesi_neighborhood_id": 20073
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "VELİLER MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-veliler-mah",
+        "oyveotesi_neighborhood_id": 20100
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "UZUNKÖY MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-uzunkoy-mah",
+        "oyveotesi_neighborhood_id": 20099
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "UMURLU MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-umurlu-mah",
+        "oyveotesi_neighborhood_id": 20076
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "UMURCALI MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-umurcali-mah",
+        "oyveotesi_neighborhood_id": 20072
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "TUMBULLAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-tumbullar-mah",
+        "oyveotesi_neighborhood_id": 20066
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "TEKBIÇAKLAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-tekbicaklar-mah",
+        "oyveotesi_neighborhood_id": 20105
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "TAŞLIYATAK MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-tasliyatak-mah",
+        "oyveotesi_neighborhood_id": 20090
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "SULUDERE MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-suludere-mah",
+        "oyveotesi_neighborhood_id": 20112
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "SOLAKLAR MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-solaklar-mah",
+        "oyveotesi_neighborhood_id": 20071
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "SIRIMLI MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-sirimli-mah",
+        "oyveotesi_neighborhood_id": 20094
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ŞEMSİLER MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-semsiler-mah",
+        "oyveotesi_neighborhood_id": 20070
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ÖREN MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-oren-mah",
+        "oyveotesi_neighborhood_id": 20113
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "SARISU MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-sarisu-mah",
+        "oyveotesi_neighborhood_id": 20064
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "SARIKAYA MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-sarikaya-mah",
+        "oyveotesi_neighborhood_id": 20111
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "SAÇLI MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-sacli-mah",
+        "oyveotesi_neighborhood_id": 20068
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "PINARBAŞI MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-pinarbasi-mah",
+        "oyveotesi_neighborhood_id": 20075
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "OVACIK MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-ovacik-mah",
+        "oyveotesi_neighborhood_id": 20107
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kiraz",
+        "mahalle": "ÇAYAĞZI MAH.",
+        "ilce_adi": "KİRAZ",
+        "mahalle_id": "izmir-kiraz-cayagzi-mah",
+        "oyveotesi_neighborhood_id": 20091
+    }
+]

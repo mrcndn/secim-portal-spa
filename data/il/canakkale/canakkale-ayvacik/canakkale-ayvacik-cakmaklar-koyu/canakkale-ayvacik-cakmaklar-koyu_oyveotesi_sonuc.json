@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ayvacik",
+        "mahalle": "ÇAKMAKLAR KÖYÜ",
+        "ilce_adi": "AYVACIK",
+        "okul_adi": "ÇAKMAKLAR KÖYÜ KÖY KAHVEHANESİ",
+        "sandik_no": 1073,
+        "mahalle_id": "canakkale-ayvacik-cakmaklar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 25,
+            "sayim_sonuc": {
+                "TOPLAM": 25,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ayvacik/1xxx/1073/canakkale-ayvacik-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335639
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

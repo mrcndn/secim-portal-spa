@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "KARAPINAR KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "KARAKÖY İMAM HATİP ORTA OKULU",
+        "sandik_no": 1059,
+        "mahalle_id": "mus-varto-karapinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 1,
+                "ADALET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1059/mus-varto-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "187289",
+            "oyveotesi_sync_timestamp": 1684393664
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 122,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1059/mus-varto-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "187289",
+            "oyveotesi_sync_timestamp": 1684393664
+        },
+        "secim_bolge_id": "mus"
+    }
+]

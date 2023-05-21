@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "nevsehir",
+        "il_adi": "NEVŞEHİR",
+        "il_kodu": 50,
+        "ilce_id": "nevsehir-merkez",
+        "mahalle": "KARASOKU MAH.",
+        "ilce_adi": "NEVŞEHİR MERKEZ",
+        "okul_adi": "NEVŞEHİR CUMHURİYET İLKOKULU",
+        "sandik_no": 1197,
+        "mahalle_id": "nevsehir-merkez-karasoku-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 42,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 56,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nevsehir-tutanaklari/blob/main/tutanak/nevsehir/nevsehir-merkez/1xxx/1197/nevsehir-merkez-1197-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "193356",
+            "oyveotesi_sync_timestamp": 1684353965
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 266,
+            "sayim_sonuc": {
+                "TOPLAM": 266,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nevsehir-tutanaklari/blob/main/tutanak/nevsehir/nevsehir-merkez/1xxx/1197/nevsehir-merkez-1197-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "193356",
+            "oyveotesi_sync_timestamp": 1684353965
+        },
+        "secim_bolge_id": "nevsehir"
+    }
+]

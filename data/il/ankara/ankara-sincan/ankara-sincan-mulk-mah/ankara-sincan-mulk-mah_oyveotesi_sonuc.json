@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "MÜLK MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "MÜLK KÖY ODASI",
+        "sandik_no": 1433,
+        "mahalle_id": "ankara-sincan-mulk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393268
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 132
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393268
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

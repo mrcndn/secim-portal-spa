@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "YEŞİLKÖY",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "YEŞİLKÖY KÖYÜ KÖY CAMİSİ",
+        "sandik_no": 1105,
+        "mahalle_id": "rize-pazar-yesilkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1105/rize-pazar-1105-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "511482",
+            "oyveotesi_sync_timestamp": 1684355875
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "511482",
+            "oyveotesi_sync_timestamp": 1684355875
+        },
+        "secim_bolge_id": "rize"
+    }
+]

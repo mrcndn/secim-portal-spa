@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "ÇALDAĞ MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "HAYMANA 12 EYLÜL İLKOKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "ankara-haymana-caldag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393509
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 102,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393509
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "ÇALDAĞ MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "HAYMANA 12 EYLÜL İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "ankara-haymana-caldag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 27,
+                "ZAFER PARTİSİ": 9,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "658496",
+            "oyveotesi_sync_timestamp": 1684393509
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 135
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "658496",
+            "oyveotesi_sync_timestamp": 1684393509
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

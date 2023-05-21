@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-kiziltepe",
+        "mahalle": "YOLALDI MAH.",
+        "ilce_adi": "KIZILTEPE",
+        "okul_adi": "YOLALDI İLKOKULU-ORTAOKULU",
+        "sandik_no": 1516,
+        "mahalle_id": "mardin-kiziltepe-yolaldi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-kiziltepe/1xxx/1516/mardin-kiziltepe-1516-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831331",
+            "oyveotesi_sync_timestamp": 1684353199
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 136,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-kiziltepe/1xxx/1516/mardin-kiziltepe-1516-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831331",
+            "oyveotesi_sync_timestamp": 1684353199
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

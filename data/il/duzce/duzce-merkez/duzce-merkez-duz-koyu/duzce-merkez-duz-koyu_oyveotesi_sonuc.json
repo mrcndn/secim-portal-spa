@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "DÜZ KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "DÜZKÖY KÖYÜ İLKOKULU",
+        "sandik_no": 1445,
+        "mahalle_id": "duzce-merkez-duz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338057
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1445/duzce-merkez-1445-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338057
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "DÜZ KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "DÜZKÖY KÖYÜ İLKOKULU",
+        "sandik_no": 1444,
+        "mahalle_id": "duzce-merkez-duz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "ZAFER PARTİSİ": 7,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 132,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 76
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1444/duzce-merkez-1444-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "404408",
+            "oyveotesi_sync_timestamp": 1684338057
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "404408",
+            "oyveotesi_sync_timestamp": 1684338057
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

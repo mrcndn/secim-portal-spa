@@ -1,0 +1,115 @@
+[
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-karliova",
+        "mahalle": "KANIREŞ MAH.",
+        "ilce_adi": "KARLIOVA",
+        "okul_adi": "KARLIOVA KIZ İMAM HATİP LİSESİ",
+        "sandik_no": 1005,
+        "mahalle_id": "bingol-karliova-kanires-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333126
+        },
+        "secim_bolge_id": "bingol"
+    },
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-karliova",
+        "mahalle": "KANIREŞ MAH.",
+        "ilce_adi": "KARLIOVA",
+        "okul_adi": "KARLIOVA KIZ İMAM HATİP LİSESİ",
+        "sandik_no": 1004,
+        "mahalle_id": "bingol-karliova-kanires-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SOL PARTİ": 3,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 42,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 96
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-karliova/1xxx/1004/bingol-karliova-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828911",
+            "oyveotesi_sync_timestamp": 1684333126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 121,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-karliova/1xxx/1004/bingol-karliova-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828911",
+            "oyveotesi_sync_timestamp": 1684333126
+        },
+        "secim_bolge_id": "bingol"
+    },
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-karliova",
+        "mahalle": "KANIREŞ MAH.",
+        "ilce_adi": "KARLIOVA",
+        "okul_adi": "KARLIOVA KIZ İMAM HATİP LİSESİ",
+        "sandik_no": 1003,
+        "mahalle_id": "bingol-karliova-kanires-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 131,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-karliova/1xxx/1003/bingol-karliova-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333126
+        },
+        "secim_bolge_id": "bingol"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "KARATAŞ KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "KARATAŞ KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1063,
+        "mahalle_id": "sivas-imranli-karatas-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "İYİ PARTİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1063/sivas-imranli-1063-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "392253",
+            "oyveotesi_sync_timestamp": 1684359085
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1063/sivas-imranli-1063-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "392253",
+            "oyveotesi_sync_timestamp": 1684359085
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

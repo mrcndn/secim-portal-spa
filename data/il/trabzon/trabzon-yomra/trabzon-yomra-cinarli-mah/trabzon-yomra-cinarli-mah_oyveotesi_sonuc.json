@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-yomra",
+        "mahalle": "ÇINARLI MAH.",
+        "ilce_adi": "YOMRA",
+        "okul_adi": "ÇINARLI MİSAFİRHANE SALONU",
+        "sandik_no": 1004,
+        "mahalle_id": "trabzon-yomra-cinarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 111,
+            "sayim_sonuc": {
+                "TOPLAM": 111,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-yomra/1xxx/1004/trabzon-yomra-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835632",
+            "oyveotesi_sync_timestamp": 1684366203
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 65
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-yomra/1xxx/1004/trabzon-yomra-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835632",
+            "oyveotesi_sync_timestamp": 1684366203
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-yomra",
+        "mahalle": "ÇINARLI MAH.",
+        "ilce_adi": "YOMRA",
+        "okul_adi": "ÇINARLI VİLAYETLER HİZMET BİRLİĞİ ÖZEL EĞT. OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "trabzon-yomra-cinarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366203
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366203
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

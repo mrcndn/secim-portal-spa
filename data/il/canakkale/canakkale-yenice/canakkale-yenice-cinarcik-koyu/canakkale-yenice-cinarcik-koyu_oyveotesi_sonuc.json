@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-yenice",
+        "mahalle": "ÇINARCIK KÖYÜ",
+        "ilce_adi": "YENİCE",
+        "okul_adi": "ÇINARCIK KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1050,
+        "mahalle_id": "canakkale-yenice-cinarcik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336140
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1050/canakkale-yenice-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336140
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

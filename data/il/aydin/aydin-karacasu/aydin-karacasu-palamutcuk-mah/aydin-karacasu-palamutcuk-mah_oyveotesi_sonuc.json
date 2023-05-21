@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-karacasu",
+        "mahalle": "PALAMUTÇUK MAH.",
+        "ilce_adi": "KARACASU",
+        "okul_adi": "PALAMUTÇUK İLKOKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "aydin-karacasu-palamutcuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 7,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 11,
+                "YENİLİK PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 77,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1040/aydin-karacasu-1040-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "613351",
+            "oyveotesi_sync_timestamp": 1684394678
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 12,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1040/aydin-karacasu-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "613351",
+            "oyveotesi_sync_timestamp": 1684394678
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

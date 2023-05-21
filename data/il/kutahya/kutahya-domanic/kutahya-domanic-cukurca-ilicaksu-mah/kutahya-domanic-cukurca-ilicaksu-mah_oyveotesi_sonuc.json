@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "ÇUKURCA-ILICAKSU MAH.",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "ÇUKURCA ILICAKSU İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "kutahya-domanic-cukurca-ilicaksu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 103,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1016/kutahya-domanic-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350126
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "ÇUKURCA-ILICAKSU MAH.",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "ÇUKURCA ILICAKSU İLKOKULU",
+        "sandik_no": 1015,
+        "mahalle_id": "kutahya-domanic-cukurca-ilicaksu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 130
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1015/kutahya-domanic-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350126
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "hakkari",
+        "il_adi": "HAKKARİ",
+        "il_kodu": 30,
+        "ilce_id": "hakkari-yuksekova",
+        "mahalle": "SÜREKLİ KÖYÜ",
+        "ilce_adi": "YÜKSEKOVA",
+        "okul_adi": "VEZİRLİ KÖYÜ ORTAOKULU",
+        "sandik_no": 1241,
+        "mahalle_id": "hakkari-yuksekova-surekli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1241/hakkari-yuksekova-1241-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179433",
+            "oyveotesi_sync_timestamp": 1684343714
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 86,
+            "sayim_sonuc": {
+                "TOPLAM": 86,
+                "KEMAL KILIÇDAROĞLU": 79,
+                "RECEP TAYYİP ERDOĞAN": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1241/hakkari-yuksekova-1241-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179433",
+            "oyveotesi_sync_timestamp": 1684343714
+        },
+        "secim_bolge_id": "hakkari"
+    }
+]

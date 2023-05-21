@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-antakya",
+        "mahalle": "UZUNALİÇ MAH.",
+        "ilce_adi": "ANTAKYA",
+        "okul_adi": "UZUNALIÇ İLK/ORTA OKULU",
+        "sandik_no": 2332,
+        "mahalle_id": "hatay-antakya-uzunalic-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375464
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 203,
+            "sayim_sonuc": {
+                "TOPLAM": 203,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 176
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-antakya/2xxx/2332/hatay-antakya-2332-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375464
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-antakya",
+        "mahalle": "UZUNALİÇ MAH.",
+        "ilce_adi": "ANTAKYA",
+        "okul_adi": "UZUNALIÇ İLK/ORTA OKULU",
+        "sandik_no": 2331,
+        "mahalle_id": "hatay-antakya-uzunalic-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375464
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375464
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

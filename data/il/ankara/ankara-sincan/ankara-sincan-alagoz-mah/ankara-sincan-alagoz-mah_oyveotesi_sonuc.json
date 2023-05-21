@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "ALAGÖZ MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "ALAGÖZ KÜLTÜREVİ",
+        "sandik_no": 1117,
+        "mahalle_id": "ankara-sincan-alagoz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "827674",
+            "oyveotesi_sync_timestamp": 1684393231
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "827674",
+            "oyveotesi_sync_timestamp": 1684393231
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-nilufer",
+        "mahalle": "KURUÇEŞME MAH.",
+        "ilce_adi": "NİLÜFER",
+        "okul_adi": "KURUÇEŞME ESKİ İLKOKULU",
+        "sandik_no": 2385,
+        "mahalle_id": "bursa-nilufer-kurucesme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "799067",
+            "oyveotesi_sync_timestamp": 1684335159
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "799067",
+            "oyveotesi_sync_timestamp": 1684335159
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

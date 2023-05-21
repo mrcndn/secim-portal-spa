@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-pamukkale",
+        "mahalle": "GONCALI MAH.",
+        "ilce_adi": "PAMUKKALE",
+        "okul_adi": "GONCALI SEREN BAYRAKTAR İLKOKULU",
+        "sandik_no": 2162,
+        "mahalle_id": "denizli-pamukkale-goncali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365408
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365408
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-pamukkale",
+        "mahalle": "GONCALI MAH.",
+        "ilce_adi": "PAMUKKALE",
+        "okul_adi": "GONCALI SEREN BAYRAKTAR İLKOKULU",
+        "sandik_no": 2161,
+        "mahalle_id": "denizli-pamukkale-goncali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365408
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-pamukkale/2xxx/2161/denizli-pamukkale-2161-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365408
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

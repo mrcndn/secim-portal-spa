@@ -1,0 +1,70 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "SÖKMEN MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "SÖKMEN OKULU",
+        "sandik_no": 1141,
+        "mahalle_id": "denizli-civril-sokmen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 60,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1141/denizli-civril-1141-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834536",
+            "oyveotesi_sync_timestamp": 1684365733
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 130,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1141/denizli-civril-1141-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834536",
+            "oyveotesi_sync_timestamp": 1684365733
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "SÖKMEN MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "SÖKMEN OKULU",
+        "sandik_no": 1140,
+        "mahalle_id": "denizli-civril-sokmen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365733
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365733
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "İNCİRLİK MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "İNCİRLİK KÖYÜ GÜZELLEŞTİRME,YAŞATMA VE KALKINDIRMA DERNEĞİ",
+        "sandik_no": 1277,
+        "mahalle_id": "ankara-sincan-incirlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "İYİ PARTİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "172985",
+            "oyveotesi_sync_timestamp": 1684393256
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 52,
+            "sayim_sonuc": {
+                "TOPLAM": 52,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "172985",
+            "oyveotesi_sync_timestamp": 1684393256
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

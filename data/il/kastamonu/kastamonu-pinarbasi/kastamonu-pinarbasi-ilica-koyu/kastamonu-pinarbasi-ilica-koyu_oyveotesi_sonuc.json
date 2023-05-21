@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-pinarbasi",
+        "mahalle": "ILICA KÖYÜ",
+        "ilce_adi": "PINARBAŞI",
+        "okul_adi": "ILICA KÖYÜ MERKEZ MAH. KÖY MİSAFİRHANESİ",
+        "sandik_no": 1020,
+        "mahalle_id": "kastamonu-pinarbasi-ilica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 75,
+            "sayim_sonuc": {
+                "TOPLAM": 75,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-pinarbasi/1xxx/1020/kastamonu-pinarbasi-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831517",
+            "oyveotesi_sync_timestamp": 1684348149
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-pinarbasi/1xxx/1020/kastamonu-pinarbasi-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831517",
+            "oyveotesi_sync_timestamp": 1684348149
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

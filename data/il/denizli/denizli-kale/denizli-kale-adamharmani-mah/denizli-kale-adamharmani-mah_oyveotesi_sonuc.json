@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-kale",
+        "mahalle": "ADAMHARMANI MAH.",
+        "ilce_adi": "KALE",
+        "okul_adi": "ADAMHARMANI İLKOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "denizli-kale-adamharmani-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365346
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-kale/1xxx/1001/denizli-kale-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365346
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "YAĞLIPINAR MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "YAĞLIPINAR KÜLTÜR MERKEZİ",
+        "sandik_no": 1303,
+        "mahalle_id": "ankara-golbasi-yaglipinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 80,
+                "ADALET VE KALKINMA PARTİSİ": 103,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1024095",
+            "oyveotesi_sync_timestamp": 1684375964
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 137
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1024095",
+            "oyveotesi_sync_timestamp": 1684375964
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

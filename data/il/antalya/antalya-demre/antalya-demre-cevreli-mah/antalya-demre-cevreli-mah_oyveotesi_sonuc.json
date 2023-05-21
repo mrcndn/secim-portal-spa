@@ -1,0 +1,94 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-demre",
+        "mahalle": "ÇEVRELİ MAH.",
+        "ilce_adi": "DEMRE",
+        "okul_adi": "ÇEVRELİ BOZOĞLU TARKUN İLKÖĞRETİM KURUMU",
+        "sandik_no": 1021,
+        "mahalle_id": "antalya-demre-cevreli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "İYİ PARTİ": 34,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 71,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-demre/1xxx/1021/antalya-demre-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "335236",
+            "oyveotesi_sync_timestamp": 1684325526
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-demre/1xxx/1021/antalya-demre-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "335236",
+            "oyveotesi_sync_timestamp": 1684325526
+        },
+        "secim_bolge_id": "antalya"
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-demre",
+        "mahalle": "ÇEVRELİ MAH.",
+        "ilce_adi": "DEMRE",
+        "okul_adi": "ÇEVRELİ BOZOĞLU TARKUN İLKÖĞRETİM KURUMU",
+        "sandik_no": 1022,
+        "mahalle_id": "antalya-demre-cevreli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 73,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 73,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-demre/1xxx/1022/antalya-demre-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "302770",
+            "oyveotesi_sync_timestamp": 1684325526
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 154
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-demre/1xxx/1022/antalya-demre-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "302770",
+            "oyveotesi_sync_timestamp": 1684325526
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-oguzlar",
+        "mahalle": "ÇEŞME MAH.",
+        "ilce_adi": "OĞUZLAR",
+        "okul_adi": "OĞUZLAR İLKOKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "corum-oguzlar-cesme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369609
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 185,
+            "sayim_sonuc": {
+                "TOPLAM": 185,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-oguzlar/1xxx/1004/corum-oguzlar-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369609
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-oguzlar",
+        "mahalle": "ÇEŞME MAH.",
+        "ilce_adi": "OĞUZLAR",
+        "okul_adi": "OĞUZLAR İLKOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "corum-oguzlar-cesme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369609
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-oguzlar/1xxx/1005/corum-oguzlar-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369609
+        },
+        "secim_bolge_id": "corum"
+    }
+]

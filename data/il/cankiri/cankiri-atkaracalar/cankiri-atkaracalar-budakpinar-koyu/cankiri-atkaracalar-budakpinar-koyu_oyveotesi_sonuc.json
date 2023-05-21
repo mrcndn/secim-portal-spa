@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-atkaracalar",
+        "mahalle": "BUDAKPINAR KÖYÜ",
+        "ilce_adi": "ATKARACALAR",
+        "okul_adi": "BUDAKPINAR KÖYÜ KÖY ODASI",
+        "sandik_no": 1013,
+        "mahalle_id": "cankiri-atkaracalar-budakpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-atkaracalar/1xxx/1013/cankiri-atkaracalar-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1025114",
+            "oyveotesi_sync_timestamp": 1684336202
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1025114",
+            "oyveotesi_sync_timestamp": 1684336202
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

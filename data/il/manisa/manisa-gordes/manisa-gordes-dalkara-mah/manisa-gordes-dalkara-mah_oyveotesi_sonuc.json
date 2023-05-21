@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "DALKARA MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "DALKARA MAH. İLKOKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "manisa-gordes-dalkara-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 41,
+            "sayim_sonuc": {
+                "TOPLAM": 41,
+                "İYİ PARTİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1029/manisa-gordes-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "571507",
+            "oyveotesi_sync_timestamp": 1684396664
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 42,
+            "sayim_sonuc": {
+                "TOPLAM": 42,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1029/manisa-gordes-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "571507",
+            "oyveotesi_sync_timestamp": 1684396664
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

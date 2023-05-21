@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merzifon",
+        "mahalle": "TAVŞAN MAH.",
+        "ilce_adi": "MERZİFON",
+        "okul_adi": "ATATÜRK İLKOKULU ( TAVŞAN MAH. )",
+        "sandik_no": 1116,
+        "mahalle_id": "amasya-merzifon-tavsan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "ADALET VE KALKINMA PARTİSİ": 79,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merzifon/1xxx/1116/amasya-merzifon-1116-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "761274",
+            "oyveotesi_sync_timestamp": 1684329402
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merzifon/1xxx/1116/amasya-merzifon-1116-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "761274",
+            "oyveotesi_sync_timestamp": 1684329402
+        },
+        "secim_bolge_id": "amasya"
+    },
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merzifon",
+        "mahalle": "TAVŞAN MAH.",
+        "ilce_adi": "MERZİFON",
+        "okul_adi": "ATATÜRK İLKOKULU ( TAVŞAN MAH. )",
+        "sandik_no": 1117,
+        "mahalle_id": "amasya-merzifon-tavsan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329402
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 137
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merzifon/1xxx/1117/amasya-merzifon-1117-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329402
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

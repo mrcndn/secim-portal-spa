@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "SUBAŞI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "SUBAŞI KÜLTÜR MERKEZİ",
+        "sandik_no": 1264,
+        "mahalle_id": "ankara-golbasi-subasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "828819",
+            "oyveotesi_sync_timestamp": 1684375971
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "828819",
+            "oyveotesi_sync_timestamp": 1684375971
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

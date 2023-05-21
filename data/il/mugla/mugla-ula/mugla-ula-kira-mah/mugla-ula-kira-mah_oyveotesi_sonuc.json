@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-ula",
+        "mahalle": "KIRA MAH.",
+        "ilce_adi": "ULA",
+        "okul_adi": "KIRA KAHVEHANESİ",
+        "sandik_no": 1051,
+        "mahalle_id": "mugla-ula-kira-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "ADALET VE KALKINMA PARTİSİ": 222,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-ula/1xxx/1051/mugla-ula-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "606847",
+            "oyveotesi_sync_timestamp": 1684374615
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 346,
+            "sayim_sonuc": {
+                "TOPLAM": 346,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 84,
+                "RECEP TAYYİP ERDOĞAN": 257
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-ula/1xxx/1051/mugla-ula-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "606847",
+            "oyveotesi_sync_timestamp": 1684374615
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

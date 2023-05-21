@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "MAHMATLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "MAHMATLI İLK OKULU",
+        "sandik_no": 1209,
+        "mahalle_id": "ankara-golbasi-mahmatli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "ADALET VE KALKINMA PARTİSİ": 101,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 71
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "810510",
+            "oyveotesi_sync_timestamp": 1684375921
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "810510",
+            "oyveotesi_sync_timestamp": 1684375921
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

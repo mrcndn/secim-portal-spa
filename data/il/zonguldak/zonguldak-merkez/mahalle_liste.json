@@ -1,0 +1,612 @@
+[
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAMAN-MERKEZ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karaman-merkez-mah",
+        "oyveotesi_neighborhood_id": 35136
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAMAN-KARAMANLAR MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karaman-karamanlar-mah",
+        "oyveotesi_neighborhood_id": 35150
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ALANCIK KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-alancik-koyu",
+        "oyveotesi_neighborhood_id": 35179
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ASMA MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-asma-mah",
+        "oyveotesi_neighborhood_id": 35163
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "AYVATLAR KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-ayvatlar-koyu",
+        "oyveotesi_neighborhood_id": 35133
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BAĞLIK MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-baglik-mah",
+        "oyveotesi_neighborhood_id": 35168
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 35122
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BAŞTARLA MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-bastarla-mah",
+        "oyveotesi_neighborhood_id": 35148
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BEYCUMA-BEYTEPE MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-beycuma-beytepe-mah",
+        "oyveotesi_neighborhood_id": 35137
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BEYCUMA-BİRLİK MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-beycuma-birlik-mah",
+        "oyveotesi_neighborhood_id": 35164
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BEYCUMA-ÇAMLIK MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-beycuma-camlik-mah",
+        "oyveotesi_neighborhood_id": 35138
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BEYCUMA-KASIMLAR MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-beycuma-kasimlar-mah",
+        "oyveotesi_neighborhood_id": 35125
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BEYCUMA-MERKEZ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-beycuma-merkez-mah",
+        "oyveotesi_neighborhood_id": 35130
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BEYCUMA-MURATLI MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-beycuma-muratli-mah",
+        "oyveotesi_neighborhood_id": 35153
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BEYCUMA-YENİ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-beycuma-yeni-mah",
+        "oyveotesi_neighborhood_id": 35131
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "BİRLİK MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-birlik-mah",
+        "oyveotesi_neighborhood_id": 35169
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ÇAĞLI KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-cagli-koyu",
+        "oyveotesi_neighborhood_id": 35147
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ÇAYDAMAR MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-caydamar-mah",
+        "oyveotesi_neighborhood_id": 35157
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ÇINARTEPE MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-cinartepe-mah",
+        "oyveotesi_neighborhood_id": 35178
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ÇUKURÖREN KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-cukuroren-koyu",
+        "oyveotesi_neighborhood_id": 35162
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "DİLAVER MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-dilaver-mah",
+        "oyveotesi_neighborhood_id": 35142
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ECELER KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-eceler-koyu",
+        "oyveotesi_neighborhood_id": 35123
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-ÇALCA MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-calca-mah",
+        "oyveotesi_neighborhood_id": 35174
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-CELEPÇİOĞLU MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-celepcioglu-mah",
+        "oyveotesi_neighborhood_id": 35126
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-CUMHURİYET MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 35139
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "YEŞİL MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-yesil-mah",
+        "oyveotesi_neighborhood_id": 35177
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-ELVAN MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-elvan-mah",
+        "oyveotesi_neighborhood_id": 35156
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-HAYAT MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-hayat-mah",
+        "oyveotesi_neighborhood_id": 35140
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-MERKEZ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-merkez-mah",
+        "oyveotesi_neighborhood_id": 35134
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-TASMACI MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-tasmaci-mah",
+        "oyveotesi_neighborhood_id": 35149
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-yeni-mah",
+        "oyveotesi_neighborhood_id": 35144
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAMAN-KADI MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karaman-kadi-mah",
+        "oyveotesi_neighborhood_id": 35127
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "HACIALİ KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-haciali-koyu",
+        "oyveotesi_neighborhood_id": 35121
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "HİMMETOĞLU KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-himmetoglu-koyu",
+        "oyveotesi_neighborhood_id": 35154
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "İNAĞZI MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-inagzi-mah",
+        "oyveotesi_neighborhood_id": 35173
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "İNCİVEZ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-incivez-mah",
+        "oyveotesi_neighborhood_id": 35158
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KABALAKLI KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-kabalakli-koyu",
+        "oyveotesi_neighborhood_id": 35132
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KALEOĞLU KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-kaleoglu-koyu",
+        "oyveotesi_neighborhood_id": 35180
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARADERE KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karadere-koyu",
+        "oyveotesi_neighborhood_id": 35135
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "YAYLA MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-yayla-mah",
+        "oyveotesi_neighborhood_id": 35161
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAELMAS MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karaelmas-mah",
+        "oyveotesi_neighborhood_id": 35170
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "TERAKKİ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-terakki-mah",
+        "oyveotesi_neighborhood_id": 35172
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "TEPEBAŞI MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-tepebasi-mah",
+        "oyveotesi_neighborhood_id": 35167
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "TAŞÇILAR KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-tascilar-koyu",
+        "oyveotesi_neighborhood_id": 35160
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "SOFULAR KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-sofular-koyu",
+        "oyveotesi_neighborhood_id": 35159
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "SARIMSAK KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-sarimsak-koyu",
+        "oyveotesi_neighborhood_id": 35166
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "SARAYCIK KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-saraycik-koyu",
+        "oyveotesi_neighborhood_id": 35171
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "SAPÇA KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-sapca-koyu",
+        "oyveotesi_neighborhood_id": 35129
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "OSMANLI KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-osmanli-koyu",
+        "oyveotesi_neighborhood_id": 35152
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ON TEMMUZ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-on-temmuz-mah",
+        "oyveotesi_neighborhood_id": 35124
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "OLUKYANI KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-olukyani-koyu",
+        "oyveotesi_neighborhood_id": 35176
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "MİTHATPAŞA MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-mithatpasa-mah",
+        "oyveotesi_neighborhood_id": 35175
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "MEŞRUTİYET MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-mesrutiyet-mah",
+        "oyveotesi_neighborhood_id": 35165
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KUMTARLA KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-kumtarla-koyu",
+        "oyveotesi_neighborhood_id": 35151
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KORUCAK KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-korucak-koyu",
+        "oyveotesi_neighborhood_id": 35128
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KÖROĞLU KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-koroglu-koyu",
+        "oyveotesi_neighborhood_id": 35141
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KELLER KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-keller-koyu",
+        "oyveotesi_neighborhood_id": 35155
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARDEŞLER KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-kardesler-koyu",
+        "oyveotesi_neighborhood_id": 35146
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAPINAR KÖYÜ",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karapinar-koyu",
+        "oyveotesi_neighborhood_id": 35143
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAMAN-YENİ MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karaman-yeni-mah",
+        "oyveotesi_neighborhood_id": 35181
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAMAN-SATIKLI MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "mahalle_id": "zonguldak-merkez-karaman-satikli-mah",
+        "oyveotesi_neighborhood_id": 35145
+    }
+]

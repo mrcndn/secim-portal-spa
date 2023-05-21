@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-golbasi",
+        "mahalle": "BALKAR-CUMHURİYET MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "BALKAR CUMHURİYET MAH. ORTAOKULU",
+        "sandik_no": 1068,
+        "mahalle_id": "adiyaman-golbasi-balkar-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326358
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326358
+        },
+        "secim_bolge_id": "adiyaman"
+    },
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-golbasi",
+        "mahalle": "BALKAR-CUMHURİYET MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "BALKAR CUMHURİYET MAH. ORTAOKULU",
+        "sandik_no": 1069,
+        "mahalle_id": "adiyaman-golbasi-balkar-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326358
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-golbasi/1xxx/1069/adiyaman-golbasi-1069-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326358
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-tasova",
+        "mahalle": "TEKKE KÖYÜ",
+        "ilce_adi": "TAŞOVA",
+        "okul_adi": "TEKKE KÖYÜ OKULU",
+        "sandik_no": 1091,
+        "mahalle_id": "amasya-tasova-tekke-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325443
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-tasova/1xxx/1091/amasya-tasova-1091-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325443
+        },
+        "secim_bolge_id": "amasya"
+    },
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-tasova",
+        "mahalle": "TEKKE KÖYÜ",
+        "ilce_adi": "TAŞOVA",
+        "okul_adi": "TEKKE KÖYÜ OKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "amasya-tasova-tekke-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325443
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325443
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-develi",
+        "mahalle": "ÇADIRYERİ MAH.",
+        "ilce_adi": "DEVELİ",
+        "okul_adi": "ÇADIRYERİ İLKOKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "kayseri-develi-cadiryeri-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "İYİ PARTİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-develi/1xxx/1041/kayseri-develi-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "195319",
+            "oyveotesi_sync_timestamp": 1684359782
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-develi/1xxx/1041/kayseri-develi-1041-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "195319",
+            "oyveotesi_sync_timestamp": 1684359782
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

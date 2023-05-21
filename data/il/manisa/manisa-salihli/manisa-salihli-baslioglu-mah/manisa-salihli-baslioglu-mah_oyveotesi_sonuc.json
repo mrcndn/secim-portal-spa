@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "BAŞLIOĞLU MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "BAŞLIOĞLU MH.KESKİNLER İLKOKULU",
+        "sandik_no": 1036,
+        "mahalle_id": "manisa-salihli-baslioglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 160,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1036/manisa-salihli-1036-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "378496",
+            "oyveotesi_sync_timestamp": 1684397246
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "378496",
+            "oyveotesi_sync_timestamp": 1684397246
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

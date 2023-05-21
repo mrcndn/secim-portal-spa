@@ -1,0 +1,100 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-alacam",
+        "mahalle": "GÖKÇEBOĞAZ MAH.",
+        "ilce_adi": "ALAÇAM",
+        "okul_adi": "GÖKÇEBOĞAZ İLKÖĞRETİM OKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "samsun-alacam-gokcebogaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367082
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367082
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-alacam",
+        "mahalle": "GÖKÇEBOĞAZ MAH.",
+        "ilce_adi": "ALAÇAM",
+        "okul_adi": "GÖKÇEBOĞAZ İLKÖĞRETİM OKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "samsun-alacam-gokcebogaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367082
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367082
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-alacam",
+        "mahalle": "GÖKÇEBOĞAZ MAH.",
+        "ilce_adi": "ALAÇAM",
+        "okul_adi": "GÖKÇEBOĞAZ KARGALI İLKÖĞRETİM OKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "samsun-alacam-gokcebogaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 64,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-alacam/1xxx/1032/samsun-alacam-1032-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "288680",
+            "oyveotesi_sync_timestamp": 1684367082
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-alacam/1xxx/1032/samsun-alacam-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "288680",
+            "oyveotesi_sync_timestamp": 1684367082
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-pamukova",
+        "mahalle": "AĞAÇÇILAR MAH.",
+        "ilce_adi": "PAMUKOVA",
+        "okul_adi": "AĞAÇÇILAR MAHALLESİ KAHVEHANESİ",
+        "sandik_no": 1001,
+        "mahalle_id": "sakarya-pamukova-agaccilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 44,
+            "sayim_sonuc": {
+                "TOPLAM": 44,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 8,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1001/sakarya-pamukova-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "582793",
+            "oyveotesi_sync_timestamp": 1684357294
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 47,
+            "sayim_sonuc": {
+                "TOPLAM": 47,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1001/sakarya-pamukova-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "582793",
+            "oyveotesi_sync_timestamp": 1684357294
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

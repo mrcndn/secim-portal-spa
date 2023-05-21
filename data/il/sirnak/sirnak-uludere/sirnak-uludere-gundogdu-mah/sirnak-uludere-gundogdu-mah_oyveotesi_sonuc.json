@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-uludere",
+        "mahalle": "GÜNDOĞDU MAH.",
+        "ilce_adi": "ULUDERE",
+        "okul_adi": "ATATÜRK İLKOKULU&ORTAOKUL",
+        "sandik_no": 1004,
+        "mahalle_id": "sirnak-uludere-gundogdu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370777
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 180,
+                "RECEP TAYYİP ERDOĞAN": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-uludere/1xxx/1004/sirnak-uludere-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370777
+        },
+        "secim_bolge_id": "sirnak"
+    },
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-uludere",
+        "mahalle": "GÜNDOĞDU MAH.",
+        "ilce_adi": "ULUDERE",
+        "okul_adi": "ATATÜRK İLKOKULU&ORTAOKUL",
+        "sandik_no": 1005,
+        "mahalle_id": "sirnak-uludere-gundogdu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-uludere/1xxx/1005/sirnak-uludere-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814321",
+            "oyveotesi_sync_timestamp": 1684370777
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 195,
+                "RECEP TAYYİP ERDOĞAN": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-uludere/1xxx/1005/sirnak-uludere-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814321",
+            "oyveotesi_sync_timestamp": 1684370777
+        },
+        "secim_bolge_id": "sirnak"
+    }
+]

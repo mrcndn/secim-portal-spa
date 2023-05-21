@@ -1,0 +1,52 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-dursunbey",
+        "mahalle": "KAZİMİYE MAH.",
+        "ilce_adi": "DURSUNBEY",
+        "okul_adi": "KAZİMİYE KÖY KONAĞI",
+        "sandik_no": 1095,
+        "mahalle_id": "balikesir-dursunbey-kazimiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 38,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1095/balikesir-dursunbey-1095-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "211795",
+            "oyveotesi_sync_timestamp": 1684331709
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1095/balikesir-dursunbey-1095-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "211795",
+            "oyveotesi_sync_timestamp": 1684331709
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

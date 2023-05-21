@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "BAĞİÇİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "BAĞİÇİ KÜLTÜR MERKEZİ",
+        "sandik_no": 1004,
+        "mahalle_id": "ankara-golbasi-bagici-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 21,
+                "MİLLET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 64,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "241326",
+            "oyveotesi_sync_timestamp": 1684375957
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 224
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "241326",
+            "oyveotesi_sync_timestamp": 1684375957
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

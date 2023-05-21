@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-taskopru",
+        "mahalle": "KARASAİT MAH.",
+        "ilce_adi": "TAŞKÖPRÜ",
+        "okul_adi": "MUZAFFERETTİNGAZİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "kastamonu-taskopru-karasait-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348309
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-taskopru/1xxx/1022/kastamonu-taskopru-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348309
+        },
+        "secim_bolge_id": "kastamonu"
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-taskopru",
+        "mahalle": "KARASAİT MAH.",
+        "ilce_adi": "TAŞKÖPRÜ",
+        "okul_adi": "MUZAFFERETTİNGAZİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "kastamonu-taskopru-karasait-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348309
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-taskopru/1xxx/1023/kastamonu-taskopru-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348309
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

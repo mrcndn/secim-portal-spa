@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "KOZKÖY",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "KOZKÖY KÖY KAHVESİ",
+        "sandik_no": 1185,
+        "mahalle_id": "edirne-kesan-kozkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 117,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1185/edirne-kesan-1185-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566600",
+            "oyveotesi_sync_timestamp": 1684338491
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1185/edirne-kesan-1185-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566600",
+            "oyveotesi_sync_timestamp": 1684338491
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

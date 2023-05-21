@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-pamukova",
+        "mahalle": "BAKACAK MAH.",
+        "ilce_adi": "PAMUKOVA",
+        "okul_adi": "BAKACAK MAH. KÖY KONAĞI",
+        "sandik_no": 1006,
+        "mahalle_id": "sakarya-pamukova-bakacak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "ADALET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1006/sakarya-pamukova-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "575183",
+            "oyveotesi_sync_timestamp": 1684357290
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "575183",
+            "oyveotesi_sync_timestamp": 1684357290
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-selim",
+        "mahalle": "BÜYÜK OLUKLU KÖYÜ",
+        "ilce_adi": "SELİM",
+        "okul_adi": "BÜYÜK OLUKLU KÖYÜ İLK VE ORTA OKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "kars-selim-buyuk-oluklu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-selim/1xxx/1030/kars-selim-1030-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "193810",
+            "oyveotesi_sync_timestamp": 1684347009
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 152,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-selim/1xxx/1030/kars-selim-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "193810",
+            "oyveotesi_sync_timestamp": 1684347009
+        },
+        "secim_bolge_id": "kars"
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-selim",
+        "mahalle": "BÜYÜK OLUKLU KÖYÜ",
+        "ilce_adi": "SELİM",
+        "okul_adi": "BÜYÜK OLUKLU KÖYÜ İLK VE ORTA OKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "kars-selim-buyuk-oluklu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347009
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347009
+        },
+        "secim_bolge_id": "kars"
+    }
+]

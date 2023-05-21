@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "ÇATALÖREN KÖYÜ",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "ÇATALÖREN İLKOKULU",
+        "sandik_no": 1339,
+        "mahalle_id": "erzincan-merkez-cataloren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 239,
+            "sayim_sonuc": {
+                "TOPLAM": 239,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 181,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1339/erzincan-merkez-1339-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "183053",
+            "oyveotesi_sync_timestamp": 1684339491
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 188,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1339/erzincan-merkez-1339-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "183053",
+            "oyveotesi_sync_timestamp": 1684339491
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

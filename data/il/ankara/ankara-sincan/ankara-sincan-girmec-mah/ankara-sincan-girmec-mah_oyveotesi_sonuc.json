@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "GİRMEÇ MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "GİRMEÇ KÖY KONAĞI",
+        "sandik_no": 1239,
+        "mahalle_id": "ankara-sincan-girmec-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 45,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "833126",
+            "oyveotesi_sync_timestamp": 1684393251
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "833126",
+            "oyveotesi_sync_timestamp": 1684393251
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

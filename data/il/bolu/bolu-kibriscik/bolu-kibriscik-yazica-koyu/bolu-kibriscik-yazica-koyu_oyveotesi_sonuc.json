@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-kibriscik",
+        "mahalle": "YAZICA KÖYÜ",
+        "ilce_adi": "KIBRISCIK",
+        "okul_adi": "YAZICA KÖYÜ İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "bolu-kibriscik-yazica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 70,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-kibriscik/1xxx/1025/bolu-kibriscik-1025-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "426813",
+            "oyveotesi_sync_timestamp": 1684334093
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 77,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-kibriscik/1xxx/1025/bolu-kibriscik-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "426813",
+            "oyveotesi_sync_timestamp": 1684334093
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "ÇAVUŞ MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "ÇAVUŞ MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1025,
+        "mahalle_id": "bursa-karacabey-cavus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 116,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "220652",
+            "oyveotesi_sync_timestamp": 1684334807
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 71,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "220652",
+            "oyveotesi_sync_timestamp": 1684334807
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

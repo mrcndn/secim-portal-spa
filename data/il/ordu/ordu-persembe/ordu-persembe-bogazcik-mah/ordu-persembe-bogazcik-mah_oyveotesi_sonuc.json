@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "BOĞAZCIK MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "BOĞAZCIK MAHALLESİ BAHÇE CAMİ YANI BOŞ BİNA",
+        "sandik_no": 1009,
+        "mahalle_id": "ordu-persembe-bogazcik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 133,
+            "sayim_sonuc": {
+                "TOPLAM": 133,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1009/ordu-persembe-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "307910",
+            "oyveotesi_sync_timestamp": 1684360626
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1009/ordu-persembe-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "307910",
+            "oyveotesi_sync_timestamp": 1684360626
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "BOĞAZCIK MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "BOĞAZCIK MAHALLESİ BECE CAMİ YANI BOŞ BİNA",
+        "sandik_no": 1010,
+        "mahalle_id": "ordu-persembe-bogazcik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360626
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1010/ordu-persembe-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360626
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "AKTAŞ MAH.",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ÇAY BORSA İSTANBUL ANADOLU LİSESİ",
+        "sandik_no": 1001,
+        "mahalle_id": "afyonkarahisar-cay-aktas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324779
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 98
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1001/afyonkarahisar-cay-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324779
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "AKTAŞ MAH.",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ÇAY BORSA İSTANBUL ANADOLU LİSESİ",
+        "sandik_no": 1002,
+        "mahalle_id": "afyonkarahisar-cay-aktas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324779
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 172,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1002/afyonkarahisar-cay-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324779
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

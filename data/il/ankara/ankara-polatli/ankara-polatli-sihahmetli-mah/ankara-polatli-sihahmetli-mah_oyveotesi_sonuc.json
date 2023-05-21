@@ -1,0 +1,71 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "ŞIHAHMETLİ MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "ŞIHAHMETLİ MAHALLE KONAĞI",
+        "sandik_no": 1262,
+        "mahalle_id": "ankara-polatli-sihahmetli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395563
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395563
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "ŞIHAHMETLİ MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "TARIM İŞLETMESİ İLKOKULU",
+        "sandik_no": 1261,
+        "mahalle_id": "ankara-polatli-sihahmetli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "377566",
+            "oyveotesi_sync_timestamp": 1684395563
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 58
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "377566",
+            "oyveotesi_sync_timestamp": 1684395563
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

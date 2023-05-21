@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-bunyan",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "BÜNYAN",
+        "okul_adi": "KÖPRÜBAŞI YAKUP ATİLA İLKOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "kayseri-bunyan-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359589
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-bunyan/1xxx/1051/kayseri-bunyan-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359589
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-bunyan",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "BÜNYAN",
+        "okul_adi": "KÖPRÜBAŞI YAKUP ATİLA İLKOKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "kayseri-bunyan-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359589
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359589
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

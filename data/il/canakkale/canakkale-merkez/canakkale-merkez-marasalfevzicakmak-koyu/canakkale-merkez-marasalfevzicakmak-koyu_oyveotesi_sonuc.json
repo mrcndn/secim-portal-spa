@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-merkez",
+        "mahalle": "MARAŞALFEVZİÇAKMAK KÖYÜ",
+        "ilce_adi": "ÇANAKKALE MERKEZ",
+        "okul_adi": "KÖY KAHVEHANESİ - M.FEVZİÇAKMAK KÖYÜ",
+        "sandik_no": 1420,
+        "mahalle_id": "canakkale-merkez-marasalfevzicakmak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 131,
+                "ADALET VE KALKINMA PARTİSİ": 12,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1420/canakkale-merkez-1420-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821278",
+            "oyveotesi_sync_timestamp": 1684336027
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1420/canakkale-merkez-1420-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821278",
+            "oyveotesi_sync_timestamp": 1684336027
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "BEYKÖYÜ MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "BEYKÖY İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "hatay-arsuz-beykoyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375297
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 215,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1025/hatay-arsuz-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375297
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "BEYKÖYÜ MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "BEYKÖY İLKOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "hatay-arsuz-beykoyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375297
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 214,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1026/hatay-arsuz-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375297
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

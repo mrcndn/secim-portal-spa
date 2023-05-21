@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KAYABAŞI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "okul_adi": "KAYABAŞI KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1076,
+        "mahalle_id": "bartin-ulus-kayabasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328237
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1076/bartin-ulus-1076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328237
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

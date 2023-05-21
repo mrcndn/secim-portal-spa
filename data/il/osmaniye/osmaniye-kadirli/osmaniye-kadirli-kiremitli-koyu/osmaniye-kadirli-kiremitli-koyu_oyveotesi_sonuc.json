@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-kadirli",
+        "mahalle": "KİREMİTLİ KÖYÜ",
+        "ilce_adi": "KADİRLİ",
+        "okul_adi": "KİREMİTLİ KÖYÜ DERVİŞLİ CAMİİ LOJMANI",
+        "sandik_no": 1253,
+        "mahalle_id": "osmaniye-kadirli-kiremitli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375056
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-kadirli/1xxx/1253/osmaniye-kadirli-1253-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375056
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

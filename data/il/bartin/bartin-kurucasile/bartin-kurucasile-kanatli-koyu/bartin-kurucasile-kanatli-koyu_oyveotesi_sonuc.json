@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-kurucasile",
+        "mahalle": "KANATLI KÖYÜ",
+        "ilce_adi": "KURUCAŞİLE",
+        "okul_adi": "KANATLI KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1020,
+        "mahalle_id": "bartin-kurucasile-kanatli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1020/bartin-kurucasile-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "462486",
+            "oyveotesi_sync_timestamp": 1684331166
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1020/bartin-kurucasile-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "462486",
+            "oyveotesi_sync_timestamp": 1684331166
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

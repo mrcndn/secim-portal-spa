@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-dosemealti",
+        "mahalle": "ÇIĞLIK MAH.",
+        "ilce_adi": "DÖŞEMEALTI",
+        "okul_adi": "HİLMİ CANER SARACOĞLU İLKOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "antalya-dosemealti-ciglik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 132,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1048/antalya-dosemealti-1048-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224003",
+            "oyveotesi_sync_timestamp": 1684325672
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1048/antalya-dosemealti-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224003",
+            "oyveotesi_sync_timestamp": 1684325672
+        },
+        "secim_bolge_id": "antalya"
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-dosemealti",
+        "mahalle": "ÇIĞLIK MAH.",
+        "ilce_adi": "DÖŞEMEALTI",
+        "okul_adi": "HİLMİ CANER SARACOĞLU İLKOKULU",
+        "sandik_no": 1049,
+        "mahalle_id": "antalya-dosemealti-ciglik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325672
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 98,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1049/antalya-dosemealti-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325672
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

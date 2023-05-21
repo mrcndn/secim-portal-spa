@@ -1,0 +1,52 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-ardanuc",
+        "mahalle": "TOSUNLU KÖYÜ",
+        "ilce_adi": "ARDANUÇ",
+        "okul_adi": "TOSUNLU İLKÖĞRETİM OKULU",
+        "sandik_no": 1059,
+        "mahalle_id": "artvin-ardanuc-tosunlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1059/artvin-ardanuc-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818642",
+            "oyveotesi_sync_timestamp": 1684361641
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "818642",
+            "oyveotesi_sync_timestamp": 1684361641
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

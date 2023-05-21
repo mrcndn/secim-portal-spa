@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-merkez",
+        "mahalle": "YENİKADIN KÖYÜ",
+        "ilce_adi": "EDİRNE MERKEZ",
+        "okul_adi": "YENİKADIN KÖYÜ OKULU",
+        "sandik_no": 1394,
+        "mahalle_id": "edirne-merkez-yenikadin-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SOL PARTİ": 2,
+                "VATAN PARTİSİ": 190,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-merkez/1xxx/1394/edirne-merkez-1394-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776638",
+            "oyveotesi_sync_timestamp": 1684338360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 347,
+            "sayim_sonuc": {
+                "TOPLAM": 347,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 279,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-merkez/1xxx/1394/edirne-merkez-1394-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776638",
+            "oyveotesi_sync_timestamp": 1684338360
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

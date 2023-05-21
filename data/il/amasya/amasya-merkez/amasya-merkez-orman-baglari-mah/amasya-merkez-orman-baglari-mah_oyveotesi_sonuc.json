@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merkez",
+        "mahalle": "ORMAN BAĞLARI MAH.",
+        "ilce_adi": "AMASYA MERKEZ",
+        "okul_adi": "ORMANBAĞLARI MAH. FEN EDEBİYAT FAKÜLTESİ",
+        "sandik_no": 1162,
+        "mahalle_id": "amasya-merkez-orman-baglari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 111,
+            "sayim_sonuc": {
+                "TOPLAM": 111,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1162/amasya-merkez-1162-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172847",
+            "oyveotesi_sync_timestamp": 1684325118
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1162/amasya-merkez-1162-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172847",
+            "oyveotesi_sync_timestamp": 1684325118
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

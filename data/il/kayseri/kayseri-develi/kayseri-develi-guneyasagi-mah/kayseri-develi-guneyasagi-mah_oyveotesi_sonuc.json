@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-develi",
+        "mahalle": "GÜNEYAŞAĞI MAH.",
+        "ilce_adi": "DEVELİ",
+        "okul_adi": "GÜNEYAŞAĞI - İMKB YİBO",
+        "sandik_no": 1072,
+        "mahalle_id": "kayseri-develi-guneyasagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 114,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 65,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-develi/1xxx/1072/kayseri-develi-1072-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762537",
+            "oyveotesi_sync_timestamp": 1684359761
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "762537",
+            "oyveotesi_sync_timestamp": 1684359761
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-develi",
+        "mahalle": "GÜNEYAŞAĞI MAH.",
+        "ilce_adi": "DEVELİ",
+        "okul_adi": "GÜNEYAŞAĞI - İMKB YİBO",
+        "sandik_no": 1073,
+        "mahalle_id": "kayseri-develi-guneyasagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359761
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SİNAN OĞAN": 37,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 187
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-develi/1xxx/1073/kayseri-develi-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359761
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

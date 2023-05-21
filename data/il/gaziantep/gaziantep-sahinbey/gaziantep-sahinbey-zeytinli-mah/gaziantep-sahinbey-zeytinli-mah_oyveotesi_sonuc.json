@@ -1,0 +1,74 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-sahinbey",
+        "mahalle": "ZEYTİNLİ MAH.",
+        "ilce_adi": "ŞAHİNBEY",
+        "okul_adi": "ZEYTİNLİ (K) İLKOKULU",
+        "sandik_no": 3408,
+        "mahalle_id": "gaziantep-sahinbey-zeytinli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342586
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-sahinbey/3xxx/3408/gaziantep-sahinbey-3408-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342586
+        },
+        "secim_bolge_id": "gaziantep"
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-sahinbey",
+        "mahalle": "ZEYTİNLİ MAH.",
+        "ilce_adi": "ŞAHİNBEY",
+        "okul_adi": "ZEYTİNLİ (K) İLKOKULU",
+        "sandik_no": 3407,
+        "mahalle_id": "gaziantep-sahinbey-zeytinli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "İYİ PARTİ": 8,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-sahinbey/3xxx/3407/gaziantep-sahinbey-3407-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "537544",
+            "oyveotesi_sync_timestamp": 1684342586
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "537544",
+            "oyveotesi_sync_timestamp": 1684342586
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

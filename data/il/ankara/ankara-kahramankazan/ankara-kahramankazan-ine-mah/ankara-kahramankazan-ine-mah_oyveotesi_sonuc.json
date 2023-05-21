@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kahramankazan",
+        "mahalle": "İNE MAH.",
+        "ilce_adi": "KAHRAMANKAZAN",
+        "okul_adi": "İNE MAHALLE KONAĞI",
+        "sandik_no": 1097,
+        "mahalle_id": "ankara-kahramankazan-ine-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "İYİ PARTİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "809816",
+            "oyveotesi_sync_timestamp": 1684393174
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "809816",
+            "oyveotesi_sync_timestamp": 1684393174
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

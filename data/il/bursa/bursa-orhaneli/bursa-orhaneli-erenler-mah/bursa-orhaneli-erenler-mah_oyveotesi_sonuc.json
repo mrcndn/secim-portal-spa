@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhaneli",
+        "mahalle": "ERENLER MAH.",
+        "ilce_adi": "ORHANELİ",
+        "okul_adi": "ERENLER MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "bursa-orhaneli-erenler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 174,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "682202",
+            "oyveotesi_sync_timestamp": 1684335194
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 233
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "682202",
+            "oyveotesi_sync_timestamp": 1684335194
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

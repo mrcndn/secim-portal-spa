@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-belen",
+        "mahalle": "MUHLİSALİ MAH.",
+        "ilce_adi": "BELEN",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "hatay-belen-muhlisali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375323
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-belen/1xxx/1047/hatay-belen-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375323
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-belen",
+        "mahalle": "MUHLİSALİ MAH.",
+        "ilce_adi": "BELEN",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "hatay-belen-muhlisali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 34,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-belen/1xxx/1048/hatay-belen-1048-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500538",
+            "oyveotesi_sync_timestamp": 1684375323
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 183
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-belen/1xxx/1048/hatay-belen-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500538",
+            "oyveotesi_sync_timestamp": 1684375323
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-pursaklar",
+        "mahalle": "SİRKELİ YEŞİLOVA MAH.",
+        "ilce_adi": "PURSAKLAR",
+        "okul_adi": "SİRKELİ İKOKULU/ORTAOKULU",
+        "sandik_no": 1263,
+        "mahalle_id": "ankara-pursaklar-sirkeli-yesilova-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 174,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "711244",
+            "oyveotesi_sync_timestamp": 1684393607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 238
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "711244",
+            "oyveotesi_sync_timestamp": 1684393607
+        },
+        "secim_bolge_id": "ankara2"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-pursaklar",
+        "mahalle": "SİRKELİ YEŞİLOVA MAH.",
+        "ilce_adi": "PURSAKLAR",
+        "okul_adi": "SİRKELİ İKOKULU/ORTAOKULU",
+        "sandik_no": 1264,
+        "mahalle_id": "ankara-pursaklar-sirkeli-yesilova-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 263
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393607
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

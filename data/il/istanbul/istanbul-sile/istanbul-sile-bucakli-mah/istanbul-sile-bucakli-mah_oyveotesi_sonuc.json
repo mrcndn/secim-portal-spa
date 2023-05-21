@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "BUCAKLI MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "BÜYÜKBUCAKLI KÖY KAHVESİ",
+        "sandik_no": 1028,
+        "mahalle_id": "istanbul-sile-bucakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 9,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "303590",
+            "oyveotesi_sync_timestamp": 1684345094
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 8,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "303590",
+            "oyveotesi_sync_timestamp": 1684345094
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

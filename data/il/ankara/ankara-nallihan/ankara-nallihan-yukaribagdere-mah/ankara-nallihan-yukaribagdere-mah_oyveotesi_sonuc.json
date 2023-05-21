@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "YUKARIBAĞDERE MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "YUKARIBAĞDERE MAHALLESİ KONAĞI",
+        "sandik_no": 1118,
+        "mahalle_id": "ankara-nallihan-yukaribagdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 15,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "571204",
+            "oyveotesi_sync_timestamp": 1684376105
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 30
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "571204",
+            "oyveotesi_sync_timestamp": 1684376105
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

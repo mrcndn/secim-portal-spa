@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "aksaray",
+        "il_adi": "AKSARAY",
+        "il_kodu": 68,
+        "ilce_id": "aksaray-merkez",
+        "mahalle": "HAMİDİYE MAH.",
+        "ilce_adi": "AKSARAY MERKEZ",
+        "okul_adi": "AKSARAY MERKEZ ANADOLU LİSESİ",
+        "sandik_no": 1153,
+        "mahalle_id": "aksaray-merkez-hamidiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 86,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 54,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aksaray-tutanaklari/blob/main/tutanak/aksaray/aksaray-merkez/1xxx/1153/aksaray-merkez-1153-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "628722",
+            "oyveotesi_sync_timestamp": 1684327473
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aksaray-tutanaklari/blob/main/tutanak/aksaray/aksaray-merkez/1xxx/1153/aksaray-merkez-1153-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "628722",
+            "oyveotesi_sync_timestamp": 1684327473
+        },
+        "secim_bolge_id": "aksaray"
+    },
+    {
+        "il_id": "aksaray",
+        "il_adi": "AKSARAY",
+        "il_kodu": 68,
+        "ilce_id": "aksaray-merkez",
+        "mahalle": "HAMİDİYE MAH.",
+        "ilce_adi": "AKSARAY MERKEZ",
+        "okul_adi": "AKSARAY MERKEZ ANADOLU LİSESİ",
+        "sandik_no": 1154,
+        "mahalle_id": "aksaray-merkez-hamidiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327473
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 208
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aksaray-tutanaklari/blob/main/tutanak/aksaray/aksaray-merkez/1xxx/1154/aksaray-merkez-1154-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327473
+        },
+        "secim_bolge_id": "aksaray"
+    }
+]

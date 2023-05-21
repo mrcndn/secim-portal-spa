@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-eregli",
+        "mahalle": "TOPALLI KÖYÜ",
+        "ilce_adi": "EREĞLİ",
+        "okul_adi": "TOPALLI KÖYÜ KÖY OKULU",
+        "sandik_no": 1407,
+        "mahalle_id": "zonguldak-eregli-topalli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-eregli/1xxx/1407/zonguldak-eregli-1407-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "208167",
+            "oyveotesi_sync_timestamp": 1684370020
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-eregli/1xxx/1407/zonguldak-eregli-1407-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "208167",
+            "oyveotesi_sync_timestamp": 1684370020
+        },
+        "secim_bolge_id": "zonguldak"
+    }
+]

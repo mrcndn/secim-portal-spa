@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-akhisar",
+        "mahalle": "EROĞLU MAH.",
+        "ilce_adi": "AKHİSAR",
+        "okul_adi": "EROĞLU KÖY İLKOKULU",
+        "sandik_no": 1133,
+        "mahalle_id": "manisa-akhisar-eroglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 160,
+            "sayim_sonuc": {
+                "TOPLAM": 160,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 65,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1133/manisa-akhisar-1133-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827313",
+            "oyveotesi_sync_timestamp": 1684351627
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1133/manisa-akhisar-1133-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827313",
+            "oyveotesi_sync_timestamp": 1684351627
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

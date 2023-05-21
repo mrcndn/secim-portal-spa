@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-vakfikebir",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "VAKFIKEBİR",
+        "okul_adi": "CUMHURİYET İLK VE ORTAOKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "trabzon-vakfikebir-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 43,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-vakfikebir/1xxx/1040/trabzon-vakfikebir-1040-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "774416",
+            "oyveotesi_sync_timestamp": 1684366462
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-vakfikebir/1xxx/1040/trabzon-vakfikebir-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "774416",
+            "oyveotesi_sync_timestamp": 1684366462
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-vakfikebir",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "VAKFIKEBİR",
+        "okul_adi": "CUMHURİYET İLK VE ORTAOKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "trabzon-vakfikebir-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "İYİ PARTİ": 58,
+                "ZAFER PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-vakfikebir/1xxx/1041/trabzon-vakfikebir-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "807870",
+            "oyveotesi_sync_timestamp": 1684366462
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "807870",
+            "oyveotesi_sync_timestamp": 1684366462
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

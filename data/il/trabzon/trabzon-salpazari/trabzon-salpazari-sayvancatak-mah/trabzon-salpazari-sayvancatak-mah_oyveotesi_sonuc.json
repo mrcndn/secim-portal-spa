@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-salpazari",
+        "mahalle": "SAYVANÇATAK MAH.",
+        "ilce_adi": "ŞALPAZARI",
+        "okul_adi": "SAYVANÇATAK MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "trabzon-salpazari-sayvancatak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "İYİ PARTİ": 52,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-salpazari/1xxx/1030/trabzon-salpazari-1030-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "469282",
+            "oyveotesi_sync_timestamp": 1684366012
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-salpazari/1xxx/1030/trabzon-salpazari-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "469282",
+            "oyveotesi_sync_timestamp": 1684366012
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

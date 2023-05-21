@@ -1,0 +1,102 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-bahce",
+        "mahalle": "KIZLAÇ KÖYÜ",
+        "ilce_adi": "BAHÇE",
+        "okul_adi": "KIZLAÇ KÖY İLKOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "osmaniye-bahce-kizlac-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 45,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1051/osmaniye-bahce-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739510",
+            "oyveotesi_sync_timestamp": 1684374906
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1051/osmaniye-bahce-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739510",
+            "oyveotesi_sync_timestamp": 1684374906
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-bahce",
+        "mahalle": "KIZLAÇ KÖYÜ",
+        "ilce_adi": "BAHÇE",
+        "okul_adi": "KIZLAÇ KÖY İLKOKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "osmaniye-bahce-kizlac-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 74,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1050/osmaniye-bahce-1050-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "648952",
+            "oyveotesi_sync_timestamp": 1684374906
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 174
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1050/osmaniye-bahce-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "648952",
+            "oyveotesi_sync_timestamp": 1684374906
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

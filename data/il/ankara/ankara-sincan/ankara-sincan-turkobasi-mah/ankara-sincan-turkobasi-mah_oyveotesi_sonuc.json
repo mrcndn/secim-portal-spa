@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "TÜRKOBASI MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "TÜRKOBASI KÖY İLKOKULU",
+        "sandik_no": 1581,
+        "mahalle_id": "ankara-sincan-turkobasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 16,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 83,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "679100",
+            "oyveotesi_sync_timestamp": 1684393280
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "679100",
+            "oyveotesi_sync_timestamp": 1684393280
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "TÜRKOBASI MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "TÜRKOBASI KÖY İLKOKULU",
+        "sandik_no": 1582,
+        "mahalle_id": "ankara-sincan-turkobasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 22,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 69,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "795843",
+            "oyveotesi_sync_timestamp": 1684393280
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "795843",
+            "oyveotesi_sync_timestamp": 1684393280
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

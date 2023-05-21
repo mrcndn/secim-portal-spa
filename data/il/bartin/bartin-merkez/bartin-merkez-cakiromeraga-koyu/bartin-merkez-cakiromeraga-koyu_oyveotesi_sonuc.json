@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ÇAKIRÖMERAĞA KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ÇAKIRÖMERAĞA KÖY KONAĞI",
+        "sandik_no": 1239,
+        "mahalle_id": "bartin-merkez-cakiromeraga-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 99,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1239/bartin-merkez-1239-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "765794",
+            "oyveotesi_sync_timestamp": 1684327839
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 184,
+            "sayim_sonuc": {
+                "TOPLAM": 184,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1239/bartin-merkez-1239-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "765794",
+            "oyveotesi_sync_timestamp": 1684327839
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

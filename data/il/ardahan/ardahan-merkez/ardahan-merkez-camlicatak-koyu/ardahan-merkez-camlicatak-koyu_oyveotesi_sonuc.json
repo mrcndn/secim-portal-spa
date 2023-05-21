@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇAMLIÇATAK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "okul_adi": "ÇAMLIÇATAK KÖYÜ ŞEHİR ER GÖKHAN ÖZDEMİR ORTAOKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "ardahan-merkez-camlicatak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326159
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-merkez/1xxx/1065/ardahan-merkez-1065-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326159
+        },
+        "secim_bolge_id": "ardahan"
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇAMLIÇATAK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "okul_adi": "ÇAMLIÇATAK KÖYÜ ŞEHİR ER GÖKHAN ÖZDEMİR ORTAOKULU",
+        "sandik_no": 1066,
+        "mahalle_id": "ardahan-merkez-camlicatak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 251,
+            "sayim_sonuc": {
+                "TOPLAM": 251,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 75,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-merkez/1xxx/1066/ardahan-merkez-1066-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1016676",
+            "oyveotesi_sync_timestamp": 1684326159
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-merkez/1xxx/1066/ardahan-merkez-1066-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1016676",
+            "oyveotesi_sync_timestamp": 1684326159
+        },
+        "secim_bolge_id": "ardahan"
+    }
+]

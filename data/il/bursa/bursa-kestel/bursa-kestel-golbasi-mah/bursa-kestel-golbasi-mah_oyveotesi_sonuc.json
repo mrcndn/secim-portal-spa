@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-kestel",
+        "mahalle": "GÖLBAŞI MAH.",
+        "ilce_adi": "KESTEL",
+        "okul_adi": "GÖLBAŞI KÖY KAHVESİ",
+        "sandik_no": 1054,
+        "mahalle_id": "bursa-kestel-golbasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 43,
+            "sayim_sonuc": {
+                "TOPLAM": 43,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1021947",
+            "oyveotesi_sync_timestamp": 1684334936
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 43,
+            "sayim_sonuc": {
+                "TOPLAM": 43,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 19
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1021947",
+            "oyveotesi_sync_timestamp": 1684334936
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

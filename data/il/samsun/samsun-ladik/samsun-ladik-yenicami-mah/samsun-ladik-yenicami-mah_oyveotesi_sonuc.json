@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "YENİCAMİ MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "100.YIL ORTAOKULU",
+        "sandik_no": 1077,
+        "mahalle_id": "samsun-ladik-yenicami-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 57
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1077/samsun-ladik-1077-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809098",
+            "oyveotesi_sync_timestamp": 1684367385
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 134
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1077/samsun-ladik-1077-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809098",
+            "oyveotesi_sync_timestamp": 1684367385
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "YENİCAMİ MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "100.YIL ORTAOKULU",
+        "sandik_no": 1078,
+        "mahalle_id": "samsun-ladik-yenicami-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367385
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1078/samsun-ladik-1078-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367385
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

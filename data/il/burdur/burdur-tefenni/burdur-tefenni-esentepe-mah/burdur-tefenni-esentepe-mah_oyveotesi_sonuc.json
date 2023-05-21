@@ -1,0 +1,83 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "MESLEKİ TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1002,
+        "mahalle_id": "burdur-tefenni-esentepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 57,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1002/burdur-tefenni-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579317",
+            "oyveotesi_sync_timestamp": 1684334577
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1002/burdur-tefenni-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579317",
+            "oyveotesi_sync_timestamp": 1684334577
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "MESLEKİ TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1001,
+        "mahalle_id": "burdur-tefenni-esentepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334577
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1001/burdur-tefenni-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334577
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

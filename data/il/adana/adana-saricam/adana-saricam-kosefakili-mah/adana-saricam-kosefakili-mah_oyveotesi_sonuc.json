@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KÖSEFAKILI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "okul_adi": "KÖSEFAKILI MAH. KÖY KONAĞI",
+        "sandik_no": 1200,
+        "mahalle_id": "adana-saricam-kosefakili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371097
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 46,
+            "sayim_sonuc": {
+                "TOPLAM": 46,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-saricam/1xxx/1200/adana-saricam-1200-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371097
+        },
+        "secim_bolge_id": "adana"
+    }
+]

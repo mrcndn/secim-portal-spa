@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "ORHANİYE KÖYÜ",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ORHANİYE KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1077,
+        "mahalle_id": "afyonkarahisar-cay-orhaniye-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 85,
+            "sayim_sonuc": {
+                "TOPLAM": 85,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1077/afyonkarahisar-cay-1077-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "606627",
+            "oyveotesi_sync_timestamp": 1684324822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1077/afyonkarahisar-cay-1077-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "606627",
+            "oyveotesi_sync_timestamp": 1684324822
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "GAZİ MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "GEÇİT MUNZUR ORTAOKULU",
+        "sandik_no": 1123,
+        "mahalle_id": "erzincan-merkez-gazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 186,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1123/erzincan-merkez-1123-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "241975",
+            "oyveotesi_sync_timestamp": 1684339513
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 186,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1123/erzincan-merkez-1123-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "241975",
+            "oyveotesi_sync_timestamp": 1684339513
+        },
+        "secim_bolge_id": "erzincan"
+    },
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "GAZİ MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "GEÇİT MUNZUR ORTAOKULU",
+        "sandik_no": 1124,
+        "mahalle_id": "erzincan-merkez-gazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339513
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339513
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

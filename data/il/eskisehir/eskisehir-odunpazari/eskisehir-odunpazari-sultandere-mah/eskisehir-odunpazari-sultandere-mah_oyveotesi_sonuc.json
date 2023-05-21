@@ -1,0 +1,85 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "SULTANDERE MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "SULTANDERE İLKOKULU",
+        "sandik_no": 2427,
+        "mahalle_id": "eskisehir-odunpazari-sultandere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 49,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 112,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2427/eskisehir-odunpazari-2427-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "215331",
+            "oyveotesi_sync_timestamp": 1684341689
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 79,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2427/eskisehir-odunpazari-2427-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "215331",
+            "oyveotesi_sync_timestamp": 1684341689
+        },
+        "secim_bolge_id": "eskisehir"
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "SULTANDERE MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "SULTANDERE İLKOKULU",
+        "sandik_no": 2426,
+        "mahalle_id": "eskisehir-odunpazari-sultandere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341689
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2426/eskisehir-odunpazari-2426-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341689
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

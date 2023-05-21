@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-altintas",
+        "mahalle": "BEŞKARIŞ KÖYÜ",
+        "ilce_adi": "ALTINTAŞ",
+        "okul_adi": "BEŞKARIŞ KÖY İ.Ö.O",
+        "sandik_no": 1021,
+        "mahalle_id": "kutahya-altintas-beskaris-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347503
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-altintas/1xxx/1021/kutahya-altintas-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347503
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-altintas",
+        "mahalle": "BEŞKARIŞ KÖYÜ",
+        "ilce_adi": "ALTINTAŞ",
+        "okul_adi": "BEŞKARIŞ KÖY İ.Ö.O",
+        "sandik_no": 1020,
+        "mahalle_id": "kutahya-altintas-beskaris-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347503
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-altintas/1xxx/1020/kutahya-altintas-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347503
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

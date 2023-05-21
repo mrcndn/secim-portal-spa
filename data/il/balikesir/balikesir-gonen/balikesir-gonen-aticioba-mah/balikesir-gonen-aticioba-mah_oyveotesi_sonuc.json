@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-gonen",
+        "mahalle": "ATICIOBA MAH.",
+        "ilce_adi": "GÖNEN",
+        "okul_adi": "ATICIOBA MAH KÖY KAHVEHANESİ",
+        "sandik_no": 1024,
+        "mahalle_id": "balikesir-gonen-aticioba-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331808
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1024/balikesir-gonen-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331808
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

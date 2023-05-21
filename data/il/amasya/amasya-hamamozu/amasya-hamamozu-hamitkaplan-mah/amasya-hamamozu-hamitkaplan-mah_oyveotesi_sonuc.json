@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-hamamozu",
+        "mahalle": "HAMİTKAPLAN MAH.",
+        "ilce_adi": "HAMAMÖZÜ",
+        "okul_adi": "HAMİTKAPLAN ADİL CANDEMİR ÇOK PROGRAMLİ LİSESİ",
+        "sandik_no": 1003,
+        "mahalle_id": "amasya-hamamozu-hamitkaplan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 87,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 65
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-hamamozu/1xxx/1003/amasya-hamamozu-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "222339",
+            "oyveotesi_sync_timestamp": 1684325547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-hamamozu/1xxx/1003/amasya-hamamozu-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "222339",
+            "oyveotesi_sync_timestamp": 1684325547
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

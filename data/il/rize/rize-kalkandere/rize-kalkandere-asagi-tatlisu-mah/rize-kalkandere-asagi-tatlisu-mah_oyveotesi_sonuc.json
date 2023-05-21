@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-kalkandere",
+        "mahalle": "AŞAĞI TATLISU MAH.",
+        "ilce_adi": "KALKANDERE",
+        "okul_adi": "ZİHNİDERİN İLKÖĞRETİM OKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "rize-kalkandere-asagi-tatlisu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355988
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355988
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-kalkandere",
+        "mahalle": "AŞAĞI TATLISU MAH.",
+        "ilce_adi": "KALKANDERE",
+        "okul_adi": "ZİHNİDERİN İLKÖĞRETİM OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "rize-kalkandere-asagi-tatlisu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355988
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-kalkandere/1xxx/1005/rize-kalkandere-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355988
+        },
+        "secim_bolge_id": "rize"
+    }
+]

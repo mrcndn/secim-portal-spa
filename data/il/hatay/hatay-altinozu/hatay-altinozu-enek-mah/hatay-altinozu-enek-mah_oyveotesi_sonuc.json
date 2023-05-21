@@ -1,0 +1,93 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-altinozu",
+        "mahalle": "ENEK MAH.",
+        "ilce_adi": "ALTINÖZÜ",
+        "okul_adi": "ENEK GÜLDANE ATAÇ İLKOKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "hatay-altinozu-enek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375251
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375251
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-altinozu",
+        "mahalle": "ENEK MAH.",
+        "ilce_adi": "ALTINÖZÜ",
+        "okul_adi": "ENEK GÜLDANE ATAÇ İLKOKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "hatay-altinozu-enek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375251
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375251
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-altinozu",
+        "mahalle": "ENEK MAH.",
+        "ilce_adi": "ALTINÖZÜ",
+        "okul_adi": "ENEK GÜLDANE ATAÇ İLKOKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "hatay-altinozu-enek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 36,
+                "BÜYÜK BİRLİK PARTİSİ": 179,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "GÜÇ BİRLİĞİ PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-altinozu/1xxx/1031/hatay-altinozu-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "379792",
+            "oyveotesi_sync_timestamp": 1684375251
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 224
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-altinozu/1xxx/1031/hatay-altinozu-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "379792",
+            "oyveotesi_sync_timestamp": 1684375251
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

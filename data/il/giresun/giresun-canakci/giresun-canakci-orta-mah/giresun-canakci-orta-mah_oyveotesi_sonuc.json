@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-canakci",
+        "mahalle": "ORTA MAH.",
+        "ilce_adi": "ÇANAKÇI",
+        "okul_adi": "KOCALI İLK OKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "giresun-canakci-orta-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342927
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-canakci/1xxx/1006/giresun-canakci-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342927
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-canakci",
+        "mahalle": "ORTA MAH.",
+        "ilce_adi": "ÇANAKÇI",
+        "okul_adi": "KOCALI İLK OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "giresun-canakci-orta-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342927
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-canakci/1xxx/1005/giresun-canakci-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342927
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-camlidere",
+        "mahalle": "BEŞBEYLER MAH.",
+        "ilce_adi": "ÇAMLIDERE",
+        "okul_adi": "BEŞBEYLER MAHALLESİ OKUL BİNASI",
+        "sandik_no": 1009,
+        "mahalle_id": "ankara-camlidere-besbeyler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393331
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393331
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

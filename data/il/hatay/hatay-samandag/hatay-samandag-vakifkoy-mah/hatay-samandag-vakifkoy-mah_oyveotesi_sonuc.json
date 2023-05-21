@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-samandag",
+        "mahalle": "VAKIFKÖY MAH.",
+        "ilce_adi": "SAMANDAĞ",
+        "okul_adi": "VAKIFLI İLKÖĞRETİM OKULU",
+        "sandik_no": 1220,
+        "mahalle_id": "hatay-samandag-vakifkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-samandag/1xxx/1220/hatay-samandag-1220-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510928",
+            "oyveotesi_sync_timestamp": 1684375739
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-samandag/1xxx/1220/hatay-samandag-1220-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510928",
+            "oyveotesi_sync_timestamp": 1684375739
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

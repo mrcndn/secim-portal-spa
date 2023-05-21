@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "BİLEK KÖYÜ",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "BİLEK KÖYÜ İLKOKULU",
+        "sandik_no": 1284,
+        "mahalle_id": "mus-merkez-bilek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1284/mus-merkez-1284-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394099
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "BİLEK KÖYÜ",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "BİLEK KÖYÜ İLKOKULU",
+        "sandik_no": 1285,
+        "mahalle_id": "mus-merkez-bilek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 56
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1285/mus-merkez-1285-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "737017",
+            "oyveotesi_sync_timestamp": 1684394099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1285/mus-merkez-1285-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "737017",
+            "oyveotesi_sync_timestamp": 1684394099
+        },
+        "secim_bolge_id": "mus"
+    }
+]

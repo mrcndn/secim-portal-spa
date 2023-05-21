@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "AHİBOZ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "AHİBOZ İLKOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "ankara-golbasi-ahiboz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "346627",
+            "oyveotesi_sync_timestamp": 1684375960
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "346627",
+            "oyveotesi_sync_timestamp": 1684375960
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

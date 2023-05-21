@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "MERCAN KÖYÜ",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "MERCAN İLKÖĞRETİM OKULU",
+        "sandik_no": 1192,
+        "mahalle_id": "edirne-kesan-mercan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1192/edirne-kesan-1192-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "567513",
+            "oyveotesi_sync_timestamp": 1684338497
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1192/edirne-kesan-1192-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "567513",
+            "oyveotesi_sync_timestamp": 1684338497
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

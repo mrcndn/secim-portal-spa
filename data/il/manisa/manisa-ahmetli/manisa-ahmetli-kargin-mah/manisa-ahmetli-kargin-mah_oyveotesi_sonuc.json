@@ -1,0 +1,63 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-ahmetli",
+        "mahalle": "KARGIN MAH.",
+        "ilce_adi": "AHMETLİ",
+        "okul_adi": "KARGIN İLKOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "manisa-ahmetli-kargin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351586
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "KEMAL KILIÇDAROĞLU": 133,
+                "RECEP TAYYİP ERDOĞAN": 110
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-ahmetli/1xxx/1026/manisa-ahmetli-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351586
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-ahmetli",
+        "mahalle": "KARGIN MAH.",
+        "ilce_adi": "AHMETLİ",
+        "okul_adi": "KARGIN İLKOKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "manisa-ahmetli-kargin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351586
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-ahmetli/1xxx/1027/manisa-ahmetli-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351586
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

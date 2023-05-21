@@ -1,0 +1,105 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "KARPUZLU MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "KARPUZLU MAHALLESİ MERKEZ KÖY ODASI",
+        "sandik_no": 1243,
+        "mahalle_id": "samsun-bafra-karpuzlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 46,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1243/samsun-bafra-1243-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741860",
+            "oyveotesi_sync_timestamp": 1684367602
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1243/samsun-bafra-1243-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741860",
+            "oyveotesi_sync_timestamp": 1684367602
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "KARPUZLU MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "KARPUZLU MAHALLESİ MERKEZ KÖY ODASI",
+        "sandik_no": 1244,
+        "mahalle_id": "samsun-bafra-karpuzlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 48,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1244/samsun-bafra-1244-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "741362",
+            "oyveotesi_sync_timestamp": 1684367602
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "741362",
+            "oyveotesi_sync_timestamp": 1684367602
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "BÜĞET KÖYÜ",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "BÜĞET KÖY İLKOKULU",
+        "sandik_no": 2038,
+        "mahalle_id": "corum-merkez-buget-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 302,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2038/corum-merkez-2038-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "326210",
+            "oyveotesi_sync_timestamp": 1684369255
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 314,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2038/corum-merkez-2038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "326210",
+            "oyveotesi_sync_timestamp": 1684369255
+        },
+        "secim_bolge_id": "corum"
+    }
+]

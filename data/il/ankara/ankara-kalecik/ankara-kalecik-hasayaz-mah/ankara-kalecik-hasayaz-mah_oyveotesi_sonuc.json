@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kalecik",
+        "mahalle": "HASAYAZ MAH.",
+        "ilce_adi": "KALECİK",
+        "okul_adi": "HASAYAZ MAHALLESİ KONAĞI",
+        "sandik_no": 1041,
+        "mahalle_id": "ankara-kalecik-hasayaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "826486",
+            "oyveotesi_sync_timestamp": 1684393569
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "826486",
+            "oyveotesi_sync_timestamp": 1684393569
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

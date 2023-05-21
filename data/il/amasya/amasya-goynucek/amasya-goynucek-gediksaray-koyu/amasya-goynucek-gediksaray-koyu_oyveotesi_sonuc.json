@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "GEDİKSARAY KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "GEDİKSARAY KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "amasya-goynucek-gediksaray-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 21,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1023/amasya-goynucek-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026860",
+            "oyveotesi_sync_timestamp": 1684325182
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1023/amasya-goynucek-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026860",
+            "oyveotesi_sync_timestamp": 1684325182
+        },
+        "secim_bolge_id": "amasya"
+    },
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "GEDİKSARAY KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "GEDİKSARAY KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1024,
+        "mahalle_id": "amasya-goynucek-gediksaray-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325182
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 166
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1024/amasya-goynucek-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325182
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ulubey",
+        "mahalle": "KALICAK MAH.",
+        "ilce_adi": "ULUBEY",
+        "okul_adi": "KALİCAK İLK ÖĞRETİM OKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "ordu-ulubey-kalicak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 134,
+            "sayim_sonuc": {
+                "TOPLAM": 134,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ulubey/1xxx/1034/ordu-ulubey-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "582170",
+            "oyveotesi_sync_timestamp": 1684360734
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "582170",
+            "oyveotesi_sync_timestamp": 1684360734
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

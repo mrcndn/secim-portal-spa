@@ -1,0 +1,70 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "ÖRENCİK MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "ÖRENCİK ORTAOKULU",
+        "sandik_no": 1321,
+        "mahalle_id": "samsun-bafra-orencik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367533
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 184,
+            "sayim_sonuc": {
+                "TOPLAM": 184,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1321/samsun-bafra-1321-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367533
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "ÖRENCİK MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "ÖRENCİK ORTAOKULU",
+        "sandik_no": 1322,
+        "mahalle_id": "samsun-bafra-orencik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1322/samsun-bafra-1322-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "597715",
+            "oyveotesi_sync_timestamp": 1684367533
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "597715",
+            "oyveotesi_sync_timestamp": 1684367533
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

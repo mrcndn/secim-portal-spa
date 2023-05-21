@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "NERGİZ MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "NERGİZ İLKOKULU (KAPATILAN)",
+        "sandik_no": 1332,
+        "mahalle_id": "balikesir-altieylul-nergiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 8,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 24,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 223,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1332/balikesir-altieylul-1332-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809425",
+            "oyveotesi_sync_timestamp": 1684328652
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 16,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 281
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1332/balikesir-altieylul-1332-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809425",
+            "oyveotesi_sync_timestamp": 1684328652
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "NERGİZ MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "NERGİZ İLKOKULU (KAPATILAN)",
+        "sandik_no": 1333,
+        "mahalle_id": "balikesir-altieylul-nergiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328652
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 294
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1333/balikesir-altieylul-1333-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328652
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

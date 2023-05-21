@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-osmaneli",
+        "mahalle": "MEDETLİ KÖYÜ",
+        "ilce_adi": "OSMANELİ",
+        "okul_adi": "MEDETLİ KÖYÜ KÖY KAHVESİ",
+        "sandik_no": 1057,
+        "mahalle_id": "bilecik-osmaneli-medetli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331367
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 239,
+            "sayim_sonuc": {
+                "TOPLAM": 239,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 105
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-osmaneli/1xxx/1057/bilecik-osmaneli-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331367
+        },
+        "secim_bolge_id": "bilecik"
+    }
+]

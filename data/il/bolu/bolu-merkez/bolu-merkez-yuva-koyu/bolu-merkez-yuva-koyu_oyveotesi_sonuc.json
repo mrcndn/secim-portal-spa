@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "YUVA KÖYÜ",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "YUVA KÖYÜ OKULU",
+        "sandik_no": 1495,
+        "mahalle_id": "bolu-merkez-yuva-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333814
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333814
+        },
+        "secim_bolge_id": "bolu"
+    },
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "YUVA KÖYÜ",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "YUVA KÖYÜ ÇAYDURT MAH. KÖY KONAĞI",
+        "sandik_no": 1496,
+        "mahalle_id": "bolu-merkez-yuva-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "GÜÇ BİRLİĞİ PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 69,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1496/bolu-merkez-1496-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "492477",
+            "oyveotesi_sync_timestamp": 1684333814
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "492477",
+            "oyveotesi_sync_timestamp": 1684333814
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

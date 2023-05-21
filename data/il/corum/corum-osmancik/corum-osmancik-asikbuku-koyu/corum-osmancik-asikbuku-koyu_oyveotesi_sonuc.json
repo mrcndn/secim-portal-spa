@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "AŞIKBÜKÜ KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "AŞIKBÜKÜ ESENLİ KÖY KONAĞI",
+        "sandik_no": 1077,
+        "mahalle_id": "corum-osmancik-asikbuku-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1077/corum-osmancik-1077-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601404",
+            "oyveotesi_sync_timestamp": 1684368959
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 3,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1077/corum-osmancik-1077-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601404",
+            "oyveotesi_sync_timestamp": 1684368959
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "AŞIKBÜKÜ KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "AŞIKBÜKÜ KONAK",
+        "sandik_no": 1078,
+        "mahalle_id": "corum-osmancik-asikbuku-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368959
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368959
+        },
+        "secim_bolge_id": "corum"
+    }
+]

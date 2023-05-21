@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-uzunkopru",
+        "mahalle": "SİPAHİ KÖYÜ",
+        "ilce_adi": "UZUNKÖPRÜ",
+        "okul_adi": "SİPAHİ KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1157,
+        "mahalle_id": "edirne-uzunkopru-sipahi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338660
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-uzunkopru/1xxx/1157/edirne-uzunkopru-1157-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338660
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

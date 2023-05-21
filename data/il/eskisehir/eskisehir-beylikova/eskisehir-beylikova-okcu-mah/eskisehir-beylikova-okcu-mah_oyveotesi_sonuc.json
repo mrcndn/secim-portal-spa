@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-beylikova",
+        "mahalle": "OKÇU MAH.",
+        "ilce_adi": "BEYLİKOVA",
+        "okul_adi": "OKÇU MAHALLE İLKOKULU",
+        "sandik_no": 1015,
+        "mahalle_id": "eskisehir-beylikova-okcu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1015/eskisehir-beylikova-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "581362",
+            "oyveotesi_sync_timestamp": 1684341437
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-beylikova/1xxx/1015/eskisehir-beylikova-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "581362",
+            "oyveotesi_sync_timestamp": 1684341437
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

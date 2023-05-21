@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-ulas",
+        "mahalle": "ÇEVİRME KÖYÜ",
+        "ilce_adi": "ULAŞ",
+        "okul_adi": "ÇEVİRME KÖYÜ İLKOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "sivas-ulas-cevirme-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359026
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 20,
+            "sayim_sonuc": {
+                "TOPLAM": 20,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-ulas/1xxx/1018/sivas-ulas-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359026
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

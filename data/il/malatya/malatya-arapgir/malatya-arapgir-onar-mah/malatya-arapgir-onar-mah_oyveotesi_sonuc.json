@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-arapgir",
+        "mahalle": "ONAR MAH.",
+        "ilce_adi": "ARAPGİR",
+        "okul_adi": "ONAR MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "malatya-arapgir-onar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 133,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-arapgir/1xxx/1041/malatya-arapgir-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174805",
+            "oyveotesi_sync_timestamp": 1684350930
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "174805",
+            "oyveotesi_sync_timestamp": 1684350930
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

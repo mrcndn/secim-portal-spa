@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "DUMLUYAZI KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "okul_adi": "DUMLUYAZI KÖYÜ ALABAL DEĞİRMENDERE KÖY EVİ",
+        "sandik_no": 1074,
+        "mahalle_id": "elazig-karakocan-dumluyazi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339039
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 18,
+            "sayim_sonuc": {
+                "TOPLAM": 18,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-karakocan/1xxx/1074/elazig-karakocan-1074-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684339039
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

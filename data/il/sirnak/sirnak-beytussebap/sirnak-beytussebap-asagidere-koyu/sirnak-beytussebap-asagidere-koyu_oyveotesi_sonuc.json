@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-beytussebap",
+        "mahalle": "AŞAĞIDERE KÖYÜ",
+        "ilce_adi": "BEYTÜŞŞEBAP",
+        "okul_adi": "AŞAĞIDERE İSMAİL DERELİ ORTAOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "sirnak-beytussebap-asagidere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370656
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-beytussebap/1xxx/1020/sirnak-beytussebap-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370656
+        },
+        "secim_bolge_id": "sirnak"
+    },
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-beytussebap",
+        "mahalle": "AŞAĞIDERE KÖYÜ",
+        "ilce_adi": "BEYTÜŞŞEBAP",
+        "okul_adi": "AŞAĞIDERE İSMAİL DERELİ ORTAOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "sirnak-beytussebap-asagidere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370656
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370656
+        },
+        "secim_bolge_id": "sirnak"
+    }
+]

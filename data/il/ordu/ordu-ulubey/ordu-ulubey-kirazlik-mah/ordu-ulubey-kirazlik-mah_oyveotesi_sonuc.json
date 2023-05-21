@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ulubey",
+        "mahalle": "KİRAZLIK MAH.",
+        "ilce_adi": "ULUBEY",
+        "okul_adi": "KİRAZLIK İLK ÖĞRETİM OKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "ordu-ulubey-kirazlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ulubey/1xxx/1040/ordu-ulubey-1040-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827817",
+            "oyveotesi_sync_timestamp": 1684360730
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ulubey/1xxx/1040/ordu-ulubey-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827817",
+            "oyveotesi_sync_timestamp": 1684360730
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

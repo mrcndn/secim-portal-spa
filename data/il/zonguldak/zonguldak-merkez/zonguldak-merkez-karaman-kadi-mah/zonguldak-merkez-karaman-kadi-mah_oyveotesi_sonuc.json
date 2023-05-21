@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "KARAMAN-KADI MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "okul_adi": "KARAMAN KADI İLKOKULU",
+        "sandik_no": 1244,
+        "mahalle_id": "zonguldak-merkez-karaman-kadi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 182,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-merkez/1xxx/1244/zonguldak-merkez-1244-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "664697",
+            "oyveotesi_sync_timestamp": 1684370198
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-merkez/1xxx/1244/zonguldak-merkez-1244-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "664697",
+            "oyveotesi_sync_timestamp": 1684370198
+        },
+        "secim_bolge_id": "zonguldak"
+    }
+]

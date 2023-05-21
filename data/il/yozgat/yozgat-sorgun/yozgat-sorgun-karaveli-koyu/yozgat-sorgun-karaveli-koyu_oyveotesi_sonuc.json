@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-sorgun",
+        "mahalle": "KARAVELİ KÖYÜ",
+        "ilce_adi": "SORGUN",
+        "okul_adi": "KARAVELİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1203,
+        "mahalle_id": "yozgat-sorgun-karaveli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396022
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 144,
+            "sayim_sonuc": {
+                "TOPLAM": 144,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-sorgun/1xxx/1203/yozgat-sorgun-1203-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396022
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

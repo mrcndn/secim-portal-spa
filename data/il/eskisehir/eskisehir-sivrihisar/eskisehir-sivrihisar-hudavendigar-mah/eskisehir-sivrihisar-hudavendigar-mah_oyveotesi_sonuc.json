@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "HÜDAVENDİGAR MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "HÜDAVENDİGAR MAHALLE KONAĞI",
+        "sandik_no": 1044,
+        "mahalle_id": "eskisehir-sivrihisar-hudavendigar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1044/eskisehir-sivrihisar-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "343103",
+            "oyveotesi_sync_timestamp": 1684341810
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 48,
+            "sayim_sonuc": {
+                "TOPLAM": 48,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1044/eskisehir-sivrihisar-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "343103",
+            "oyveotesi_sync_timestamp": 1684341810
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-lapseki",
+        "mahalle": "KIRCALAR KÖYÜ",
+        "ilce_adi": "LAPSEKİ",
+        "okul_adi": "KIRCALAR MUHTARLIK ODASI",
+        "sandik_no": 1078,
+        "mahalle_id": "canakkale-lapseki-kircalar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "İYİ PARTİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1078/canakkale-lapseki-1078-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "639127",
+            "oyveotesi_sync_timestamp": 1684335606
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1078/canakkale-lapseki-1078-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "639127",
+            "oyveotesi_sync_timestamp": 1684335606
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

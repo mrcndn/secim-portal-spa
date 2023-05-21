@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-ferizli",
+        "mahalle": "AKÇUKUR MAH.",
+        "ilce_adi": "FERİZLİ",
+        "okul_adi": "AKÇUKUR KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "sakarya-ferizli-akcukur-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357712
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-ferizli/1xxx/1005/sakarya-ferizli-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357712
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

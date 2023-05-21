@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-merkez",
+        "mahalle": "BEYPINAR KÖYÜ",
+        "ilce_adi": "KIRKLARELİ MERKEZ",
+        "okul_adi": "BEYPINAR KÖYÜ SAĞLIK EVİ",
+        "sandik_no": 1203,
+        "mahalle_id": "kirklareli-merkez-beypinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1203/kirklareli-merkez-1203-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "586575",
+            "oyveotesi_sync_timestamp": 1684349141
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1203/kirklareli-merkez-1203-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "586575",
+            "oyveotesi_sync_timestamp": 1684349141
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

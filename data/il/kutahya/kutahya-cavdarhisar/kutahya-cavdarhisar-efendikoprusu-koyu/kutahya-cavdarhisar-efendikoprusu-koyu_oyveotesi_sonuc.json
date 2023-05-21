@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-cavdarhisar",
+        "mahalle": "EFENDİKÖPRÜSÜ KÖYÜ",
+        "ilce_adi": "ÇAVDARHİSAR",
+        "okul_adi": "EFENDİKÖPRÜSÜ KÖYÜ İÖO",
+        "sandik_no": 1017,
+        "mahalle_id": "kutahya-cavdarhisar-efendikoprusu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 39,
+            "sayim_sonuc": {
+                "TOPLAM": 39,
+                "İYİ PARTİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-cavdarhisar/1xxx/1017/kutahya-cavdarhisar-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "526857",
+            "oyveotesi_sync_timestamp": 1684350099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-cavdarhisar/1xxx/1017/kutahya-cavdarhisar-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "526857",
+            "oyveotesi_sync_timestamp": 1684350099
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

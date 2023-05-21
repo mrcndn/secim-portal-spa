@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-yenifakili",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "YENİFAKILI",
+        "okul_adi": "ŞEHİT CUMA KARADAVUT İMAM HATİP ORTAOKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "yozgat-yenifakili-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396059
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yenifakili/1xxx/1010/yozgat-yenifakili-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396059
+        },
+        "secim_bolge_id": "yozgat"
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-yenifakili",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "YENİFAKILI",
+        "okul_adi": "YENİFAKILI KIZ TEKNİK MESLEK LİSESİ (ÇOK PROĞRAMLI LİSE)",
+        "sandik_no": 1009,
+        "mahalle_id": "yozgat-yenifakili-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "İYİ PARTİ": 63,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yenifakili/1xxx/1009/yozgat-yenifakili-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "657883",
+            "oyveotesi_sync_timestamp": 1684396059
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yenifakili/1xxx/1009/yozgat-yenifakili-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "657883",
+            "oyveotesi_sync_timestamp": 1684396059
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

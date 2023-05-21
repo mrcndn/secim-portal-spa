@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-cardak",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "ÇARDAK",
+        "okul_adi": "HÜRRİYET MAHALLESİ (ÇARDAK ORTA OKULU)",
+        "sandik_no": 1018,
+        "mahalle_id": "denizli-cardak-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365651
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1018/denizli-cardak-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365651
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-cardak",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "ÇARDAK",
+        "okul_adi": "HÜRRİYET MAHALLESİ (ÇARDAK ORTA OKULU)",
+        "sandik_no": 1019,
+        "mahalle_id": "denizli-cardak-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 51,
+                "ZAFER PARTİSİ": 13,
+                "MİLLET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 78,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1019/denizli-cardak-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "457359",
+            "oyveotesi_sync_timestamp": 1684365651
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 100
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1019/denizli-cardak-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "457359",
+            "oyveotesi_sync_timestamp": 1684365651
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

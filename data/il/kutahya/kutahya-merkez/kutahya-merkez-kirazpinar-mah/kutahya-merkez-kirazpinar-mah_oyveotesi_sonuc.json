@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-merkez",
+        "mahalle": "KİRAZPINAR MAH.",
+        "ilce_adi": "KÜTAHYA MERKEZ",
+        "okul_adi": "KİRAZPINAR MAHALLE İLKOKULU",
+        "sandik_no": 1288,
+        "mahalle_id": "kutahya-merkez-kirazpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "İYİ PARTİ": 36,
+                "ZAFER PARTİSİ": 13,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 28,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-merkez/1xxx/1288/kutahya-merkez-1288-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "438454",
+            "oyveotesi_sync_timestamp": 1684350436
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-merkez/1xxx/1288/kutahya-merkez-1288-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "438454",
+            "oyveotesi_sync_timestamp": 1684350436
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-merkez",
+        "mahalle": "KİRAZPINAR MAH.",
+        "ilce_adi": "KÜTAHYA MERKEZ",
+        "okul_adi": "KİRAZPINAR MAHALLE İLKOKULU",
+        "sandik_no": 1287,
+        "mahalle_id": "kutahya-merkez-kirazpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 266,
+            "sayim_sonuc": {
+                "TOPLAM": 266,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 22,
+                "BÜYÜK BİRLİK PARTİSİ": 19,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 123,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-merkez/1xxx/1287/kutahya-merkez-1287-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "438460",
+            "oyveotesi_sync_timestamp": 1684350436
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 71,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-merkez/1xxx/1287/kutahya-merkez-1287-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "438460",
+            "oyveotesi_sync_timestamp": 1684350436
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

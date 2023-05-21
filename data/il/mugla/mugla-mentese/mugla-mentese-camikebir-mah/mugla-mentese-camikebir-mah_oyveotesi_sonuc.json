@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "ATATÜRK MESLEKİ VE TEKNİK ANADOLU LİSESİ,",
+        "sandik_no": 1026,
+        "mahalle_id": "mugla-mentese-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "GENÇ PARTİ": 7,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1026/mugla-mentese-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "267037",
+            "oyveotesi_sync_timestamp": 1684374326
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1026/mugla-mentese-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "267037",
+            "oyveotesi_sync_timestamp": 1684374326
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "ATATÜRK MESLEKİ VE TEKNİK ANADOLU LİSESİ,",
+        "sandik_no": 1025,
+        "mahalle_id": "mugla-mentese-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374326
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1025/mugla-mentese-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374326
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

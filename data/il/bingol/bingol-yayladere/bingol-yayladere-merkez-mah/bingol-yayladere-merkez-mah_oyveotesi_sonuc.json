@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-yayladere",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "YAYLADERE",
+        "okul_adi": "MERKEZ MAHALLESİ YAYLADERE İLKOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "bingol-yayladere-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 98,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-yayladere/1xxx/1005/bingol-yayladere-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333232
+        },
+        "secim_bolge_id": "bingol"
+    },
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-yayladere",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "YAYLADERE",
+        "okul_adi": "MERKEZ MAHALLESİ YAYLADERE İLKOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "bingol-yayladere-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-yayladere/1xxx/1006/bingol-yayladere-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333232
+        },
+        "secim_bolge_id": "bingol"
+    }
+]

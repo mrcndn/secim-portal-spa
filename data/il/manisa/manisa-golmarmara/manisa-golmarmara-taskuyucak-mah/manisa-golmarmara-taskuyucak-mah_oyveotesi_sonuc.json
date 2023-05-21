@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "TAŞKUYUCAK MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "TAŞKUYUCAK MAHALLESİ KÖY ODASI",
+        "sandik_no": 1037,
+        "mahalle_id": "manisa-golmarmara-taskuyucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 110,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1037/manisa-golmarmara-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "602610",
+            "oyveotesi_sync_timestamp": 1684397033
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "602610",
+            "oyveotesi_sync_timestamp": 1684397033
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "ÇAMALAN MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "ÇAMALAN MAHALLESİ KONAĞI",
+        "sandik_no": 1031,
+        "mahalle_id": "ankara-nallihan-camalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 33,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 163,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 30
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "597184",
+            "oyveotesi_sync_timestamp": 1684376060
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 219
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "597184",
+            "oyveotesi_sync_timestamp": 1684376060
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

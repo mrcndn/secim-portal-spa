@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-ulubey",
+        "mahalle": "DİLAVER MAH.",
+        "ilce_adi": "ULUBEY",
+        "okul_adi": "ULUBEY İMAM HATİP ORTA OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "usak-ulubey-dilaver-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 56,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 13,
+                "CUMHURİYET HALK PARTİSİ": 87,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 115,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-ulubey/1xxx/1013/usak-ulubey-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "313495",
+            "oyveotesi_sync_timestamp": 1684369929
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 139,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-ulubey/1xxx/1013/usak-ulubey-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "313495",
+            "oyveotesi_sync_timestamp": 1684369929
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-ulubey",
+        "mahalle": "DİLAVER MAH.",
+        "ilce_adi": "ULUBEY",
+        "okul_adi": "ULUBEY İMAM HATİP ORTA OKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "usak-ulubey-dilaver-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369929
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 126,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-ulubey/1xxx/1012/usak-ulubey-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369929
+        },
+        "secim_bolge_id": "usak"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-elmadag",
+        "mahalle": "İSTASYON MAH.",
+        "ilce_adi": "ELMADAĞ",
+        "okul_adi": "HASANOĞLAN ORTAOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "ankara-elmadag-istasyon-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393111
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393111
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-elmadag",
+        "mahalle": "İSTASYON MAH.",
+        "ilce_adi": "ELMADAĞ",
+        "okul_adi": "HASANOĞLAN ORTAOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "ankara-elmadag-istasyon-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393111
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 65
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393111
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

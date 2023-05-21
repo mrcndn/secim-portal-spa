@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "ERDEK KÖYÜ",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "ERDEK KÖY İLK",
+        "sandik_no": 2072,
+        "mahalle_id": "corum-merkez-erdek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 82,
+            "sayim_sonuc": {
+                "TOPLAM": 82,
+                "CUMHURİYET HALK PARTİSİ": 81,
+                "ADALET VE KALKINMA PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2072/corum-merkez-2072-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "440199",
+            "oyveotesi_sync_timestamp": 1684369170
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 82,
+            "sayim_sonuc": {
+                "TOPLAM": 82,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2072/corum-merkez-2072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "440199",
+            "oyveotesi_sync_timestamp": 1684369170
+        },
+        "secim_bolge_id": "corum"
+    }
+]

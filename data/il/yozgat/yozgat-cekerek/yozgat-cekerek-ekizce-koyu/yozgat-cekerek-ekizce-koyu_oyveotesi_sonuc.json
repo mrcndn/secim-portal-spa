@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-cekerek",
+        "mahalle": "EKİZCE KÖYÜ",
+        "ilce_adi": "ÇEKEREK",
+        "okul_adi": "EKİZCE KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "yozgat-cekerek-ekizce-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1044/yozgat-cekerek-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "624688",
+            "oyveotesi_sync_timestamp": 1684396638
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "624688",
+            "oyveotesi_sync_timestamp": 1684396638
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

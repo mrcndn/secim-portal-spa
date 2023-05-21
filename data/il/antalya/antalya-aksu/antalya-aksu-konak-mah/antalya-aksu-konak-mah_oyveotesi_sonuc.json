@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-aksu",
+        "mahalle": "KONAK MAH.",
+        "ilce_adi": "AKSU",
+        "okul_adi": "AKSU FEN LİSESİ",
+        "sandik_no": 1105,
+        "mahalle_id": "antalya-aksu-konak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 50,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİLİK PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-aksu/1xxx/1105/antalya-aksu-1105-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "238134",
+            "oyveotesi_sync_timestamp": 1684325646
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 137,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-aksu/1xxx/1105/antalya-aksu-1105-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "238134",
+            "oyveotesi_sync_timestamp": 1684325646
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

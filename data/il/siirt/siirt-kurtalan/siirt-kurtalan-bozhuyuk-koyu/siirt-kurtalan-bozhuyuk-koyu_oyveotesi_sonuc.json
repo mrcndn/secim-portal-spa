@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-kurtalan",
+        "mahalle": "BOZHÜYÜK KÖYÜ",
+        "ilce_adi": "KURTALAN",
+        "okul_adi": "GÖZPINAR İLK OKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "siirt-kurtalan-bozhuyuk-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 272
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-kurtalan/1xxx/1092/siirt-kurtalan-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "301106",
+            "oyveotesi_sync_timestamp": 1684364327
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 274,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-kurtalan/1xxx/1092/siirt-kurtalan-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "301106",
+            "oyveotesi_sync_timestamp": 1684364327
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

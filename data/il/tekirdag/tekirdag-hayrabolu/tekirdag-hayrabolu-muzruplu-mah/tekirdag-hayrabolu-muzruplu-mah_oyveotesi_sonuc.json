@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-hayrabolu",
+        "mahalle": "MUZRUPLU MAH.",
+        "ilce_adi": "HAYRABOLU",
+        "okul_adi": "MUZRUPLU MAH. DÜĞÜN SALONU",
+        "sandik_no": 1081,
+        "mahalle_id": "tekirdag-hayrabolu-muzruplu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "İYİ PARTİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1081/tekirdag-hayrabolu-1081-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831629",
+            "oyveotesi_sync_timestamp": 1684368586
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 86,
+            "sayim_sonuc": {
+                "TOPLAM": 86,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 2,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1081/tekirdag-hayrabolu-1081-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831629",
+            "oyveotesi_sync_timestamp": 1684368586
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

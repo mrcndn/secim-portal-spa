@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-pertek",
+        "mahalle": "ELMAKAŞI KÖYÜ",
+        "ilce_adi": "PERTEK",
+        "okul_adi": "ELMAKAŞI İLKOKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "tunceli-pertek-elmakasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361476
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "KEMAL KILIÇDAROĞLU": 160,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-pertek/1xxx/1030/tunceli-pertek-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361476
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

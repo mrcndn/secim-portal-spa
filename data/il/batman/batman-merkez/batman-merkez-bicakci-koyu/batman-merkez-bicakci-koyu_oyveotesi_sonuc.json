@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-merkez",
+        "mahalle": "BIÇAKÇI KÖYÜ",
+        "ilce_adi": "BATMAN MERKEZ",
+        "okul_adi": "BIÇAKÇI İLKOKULU",
+        "sandik_no": 1476,
+        "mahalle_id": "batman-merkez-bicakci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332431
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "KEMAL KILIÇDAROĞLU": 186,
+                "RECEP TAYYİP ERDOĞAN": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/1xxx/1476/batman-merkez-1476-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332431
+        },
+        "secim_bolge_id": "batman"
+    },
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-merkez",
+        "mahalle": "BIÇAKÇI KÖYÜ",
+        "ilce_adi": "BATMAN MERKEZ",
+        "okul_adi": "BIÇAKÇI İLKOKULU",
+        "sandik_no": 1477,
+        "mahalle_id": "batman-merkez-bicakci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SOL PARTİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 162
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/1xxx/1477/batman-merkez-1477-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "192617",
+            "oyveotesi_sync_timestamp": 1684332431
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "192617",
+            "oyveotesi_sync_timestamp": 1684332431
+        },
+        "secim_bolge_id": "batman"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-bafra",
+        "mahalle": "SARIÇEVRE MAH.",
+        "ilce_adi": "BAFRA",
+        "okul_adi": "SARIÇEVRE İLKOKULU",
+        "sandik_no": 1325,
+        "mahalle_id": "samsun-bafra-saricevre-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "İYİ PARTİ": 50,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1325/samsun-bafra-1325-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "398765",
+            "oyveotesi_sync_timestamp": 1684367525
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-bafra/1xxx/1325/samsun-bafra-1325-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "398765",
+            "oyveotesi_sync_timestamp": 1684367525
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

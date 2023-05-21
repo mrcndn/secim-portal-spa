@@ -1,0 +1,105 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "YENİMAHALLE MAH.",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "YENİMAHALLE OKULU",
+        "sandik_no": 1360,
+        "mahalle_id": "bolu-merkez-yenimahalle-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 75,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1360/bolu-merkez-1360-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "499566",
+            "oyveotesi_sync_timestamp": 1684333805
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1360/bolu-merkez-1360-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "499566",
+            "oyveotesi_sync_timestamp": 1684333805
+        },
+        "secim_bolge_id": "bolu"
+    },
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "YENİMAHALLE MAH.",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "YENİMAHALLE OKULU",
+        "sandik_no": 1359,
+        "mahalle_id": "bolu-merkez-yenimahalle-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1359/bolu-merkez-1359-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "499560",
+            "oyveotesi_sync_timestamp": 1684333805
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1359/bolu-merkez-1359-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "499560",
+            "oyveotesi_sync_timestamp": 1684333805
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bayrakli",
+        "mahalle": "TURAN MAH.",
+        "ilce_adi": "BAYRAKLI",
+        "okul_adi": "TURAN MAHALLESİ SANDIK ALANI",
+        "sandik_no": 2293,
+        "mahalle_id": "izmir-bayrakli-turan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 11,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "213380",
+            "oyveotesi_sync_timestamp": 1684361948
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "213380",
+            "oyveotesi_sync_timestamp": 1684361948
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

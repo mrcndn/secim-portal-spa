@@ -1,0 +1,105 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-datca",
+        "mahalle": "MESUDİYE MAH.",
+        "ilce_adi": "DATÇA",
+        "okul_adi": "AVLANA SAĞLIK EVİ",
+        "sandik_no": 1052,
+        "mahalle_id": "mugla-datca-mesudiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 154,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 29,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-datca/1xxx/1052/mugla-datca-1052-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "321736",
+            "oyveotesi_sync_timestamp": 1684374679
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 242,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-datca/1xxx/1052/mugla-datca-1052-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "321736",
+            "oyveotesi_sync_timestamp": 1684374679
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-datca",
+        "mahalle": "MESUDİYE MAH.",
+        "ilce_adi": "DATÇA",
+        "okul_adi": "MEZGİT ESKİ İLKOKUL",
+        "sandik_no": 1053,
+        "mahalle_id": "mugla-datca-mesudiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 48,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 170,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "TÜRKİYE İŞÇİ PARTİSİ": 22,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-datca/1xxx/1053/mugla-datca-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "261382",
+            "oyveotesi_sync_timestamp": 1684374679
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 255,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-datca/1xxx/1053/mugla-datca-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "261382",
+            "oyveotesi_sync_timestamp": 1684374679
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

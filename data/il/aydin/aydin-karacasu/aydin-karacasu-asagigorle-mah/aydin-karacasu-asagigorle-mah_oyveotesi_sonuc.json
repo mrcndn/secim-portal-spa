@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-karacasu",
+        "mahalle": "AŞAĞIGÖRLE MAH.",
+        "ilce_adi": "KARACASU",
+        "okul_adi": "AŞAĞI GÖRLE İLKOKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "aydin-karacasu-asagigorle-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 51,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1003/aydin-karacasu-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "653602",
+            "oyveotesi_sync_timestamp": 1684394688
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 117,
+            "sayim_sonuc": {
+                "TOPLAM": 117,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1003/aydin-karacasu-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "653602",
+            "oyveotesi_sync_timestamp": 1684394688
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

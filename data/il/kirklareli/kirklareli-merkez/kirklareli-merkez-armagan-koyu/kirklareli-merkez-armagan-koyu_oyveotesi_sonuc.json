@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-merkez",
+        "mahalle": "ARMAĞAN KÖYÜ",
+        "ilce_adi": "KIRKLARELİ MERKEZ",
+        "okul_adi": "ARMAĞAN KÖYÜ KÖY KÜTÜPHANESİ",
+        "sandik_no": 1200,
+        "mahalle_id": "kirklareli-merkez-armagan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349135
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 84,
+                "RECEP TAYYİP ERDOĞAN": 210
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1200/kirklareli-merkez-1200-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349135
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

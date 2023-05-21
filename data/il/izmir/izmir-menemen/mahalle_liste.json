@@ -1,0 +1,652 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 19586
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "29 EKİM MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-29-ekim-mah",
+        "oyveotesi_neighborhood_id": 19638
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "30 AĞUSTOS MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-30-agustos-mah",
+        "oyveotesi_neighborhood_id": 19590
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "75.YIL CUMHURİYET MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-75-yil-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 19634
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "85.YIL CUMHURİYET MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-85-yil-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 19591
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "9 EYLÜL MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-9-eylul-mah",
+        "oyveotesi_neighborhood_id": 19618
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "AHIHIDIR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-ahihidir-mah",
+        "oyveotesi_neighborhood_id": 19648
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ALANİÇİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-alanici-mah",
+        "oyveotesi_neighborhood_id": 19607
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ATATÜRK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-ataturk-mah",
+        "oyveotesi_neighborhood_id": 19613
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "AYVACIK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-ayvacik-mah",
+        "oyveotesi_neighborhood_id": 19644
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "BAĞCILAR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-bagcilar-mah",
+        "oyveotesi_neighborhood_id": 19639
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "BELEN MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-belen-mah",
+        "oyveotesi_neighborhood_id": 19592
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "BOZALAN MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-bozalan-mah",
+        "oyveotesi_neighborhood_id": 19629
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "BURUNCUK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-buruncuk-mah",
+        "oyveotesi_neighborhood_id": 19623
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ÇALTI MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-calti-mah",
+        "oyveotesi_neighborhood_id": 19594
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "CAMİİKEBİR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-camiikebir-mah",
+        "oyveotesi_neighborhood_id": 19596
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ÇAVUŞ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-cavus-mah",
+        "oyveotesi_neighborhood_id": 19632
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ÇUKURKÖY MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-cukurkoy-mah",
+        "oyveotesi_neighborhood_id": 19633
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "TUZÇULLU MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-tuzcullu-mah",
+        "oyveotesi_neighborhood_id": 19641
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "UĞUR MUMCU MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-ugur-mumcu-mah",
+        "oyveotesi_neighborhood_id": 19602
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ULUS MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-ulus-mah",
+        "oyveotesi_neighborhood_id": 19650
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "VİLLAKENT MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-villakent-mah",
+        "oyveotesi_neighborhood_id": 19621
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "YAHŞELLİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-yahselli-mah",
+        "oyveotesi_neighborhood_id": 19606
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "YANIKKÖY MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-yanikkoy-mah",
+        "oyveotesi_neighborhood_id": 19643
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "YAYLA MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-yayla-mah",
+        "oyveotesi_neighborhood_id": 19622
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "YEŞİL PINAR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-yesil-pinar-mah",
+        "oyveotesi_neighborhood_id": 19593
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "YILDIRIM MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-yildirim-mah",
+        "oyveotesi_neighborhood_id": 19631
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ZAFER MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-zafer-mah",
+        "oyveotesi_neighborhood_id": 19627
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ZEYTİNLİK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-zeytinlik-mah",
+        "oyveotesi_neighborhood_id": 19604
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "DEĞİRMENDERE MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-degirmendere-mah",
+        "oyveotesi_neighborhood_id": 19649
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "DOĞA MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-doga-mah",
+        "oyveotesi_neighborhood_id": 19597
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "EMİRALEM MERKEZ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-emiralem-merkez-mah",
+        "oyveotesi_neighborhood_id": 19614
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "ESATPAŞA MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-esatpasa-mah",
+        "oyveotesi_neighborhood_id": 19615
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-fatih-mah",
+        "oyveotesi_neighborhood_id": 19608
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "GAYBİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-gaybi-mah",
+        "oyveotesi_neighborhood_id": 19619
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "GAZİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-gazi-mah",
+        "oyveotesi_neighborhood_id": 19635
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "GAZİ MUSTAFA KEMAL MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-gazi-mustafa-kemal-mah",
+        "oyveotesi_neighborhood_id": 19636
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "GÖKTEPE MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-goktepe-mah",
+        "oyveotesi_neighborhood_id": 19624
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "GÖLCÜK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-golcuk-mah",
+        "oyveotesi_neighborhood_id": 19625
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "GÖRECE MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-gorece-mah",
+        "oyveotesi_neighborhood_id": 19587
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "GÜNERLİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-gunerli-mah",
+        "oyveotesi_neighborhood_id": 19609
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "HASANLAR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-hasanlar-mah",
+        "oyveotesi_neighborhood_id": 19610
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "HATUNDERE MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-hatundere-mah",
+        "oyveotesi_neighborhood_id": 19603
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "HAYKIRAN MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-haykiran-mah",
+        "oyveotesi_neighborhood_id": 19588
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "İĞNEDERE MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-ignedere-mah",
+        "oyveotesi_neighborhood_id": 19595
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "İNCİRLİ PINAR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-incirli-pinar-mah",
+        "oyveotesi_neighborhood_id": 19617
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "İNÖNÜ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-inonu-mah",
+        "oyveotesi_neighborhood_id": 19647
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "IRMAK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-irmak-mah",
+        "oyveotesi_neighborhood_id": 19611
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "İSMET İNÖNÜ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-ismet-inonu-mah",
+        "oyveotesi_neighborhood_id": 19628
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-istiklal-mah",
+        "oyveotesi_neighborhood_id": 19637
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "KARAORMAN MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-karaorman-mah",
+        "oyveotesi_neighborhood_id": 19640
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "KASIMPAŞA MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-kasimpasa-mah",
+        "oyveotesi_neighborhood_id": 19626
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "KAZIMPAŞA MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-kazimpasa-mah",
+        "oyveotesi_neighborhood_id": 19645
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "KEMAL ATATÜRK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-kemal-ataturk-mah",
+        "oyveotesi_neighborhood_id": 19612
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "KESİK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-kesik-mah",
+        "oyveotesi_neighborhood_id": 19599
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "KIR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-kir-mah",
+        "oyveotesi_neighborhood_id": 19646
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "MERMERLİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-mermerli-mah",
+        "oyveotesi_neighborhood_id": 19616
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "MUSABEY MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-musabey-mah",
+        "oyveotesi_neighborhood_id": 19600
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "MUSTAFA KEMAL ATATÜRK MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-mustafa-kemal-ataturk-mah",
+        "oyveotesi_neighborhood_id": 19589
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "SEYDİNNASRULLAH MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-seydinnasrullah-mah",
+        "oyveotesi_neighborhood_id": 19620
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "SÜLEYMANLI MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-suleymanli-mah",
+        "oyveotesi_neighborhood_id": 19630
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "SÜZBEYLİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-suzbeyli-mah",
+        "oyveotesi_neighborhood_id": 19605
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "TELEKLER MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-telekler-mah",
+        "oyveotesi_neighborhood_id": 19598
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "TÜLBENTLİ MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-tulbentli-mah",
+        "oyveotesi_neighborhood_id": 19642
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menemen",
+        "mahalle": "TURGUTLAR MAH.",
+        "ilce_adi": "MENEMEN",
+        "mahalle_id": "izmir-menemen-turgutlar-mah",
+        "oyveotesi_neighborhood_id": 19601
+    }
+]

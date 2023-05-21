@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-dikmen",
+        "mahalle": "ÇANAKÇI KÖYÜ",
+        "ilce_adi": "DİKMEN",
+        "okul_adi": "ÇANAKÇI KÖYÜ İLKOKULU ESKİ",
+        "sandik_no": 1010,
+        "mahalle_id": "sinop-dikmen-canakci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1010/sinop-dikmen-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "191659",
+            "oyveotesi_sync_timestamp": 1684354178
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 71,
+            "sayim_sonuc": {
+                "TOPLAM": 71,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1010/sinop-dikmen-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "191659",
+            "oyveotesi_sync_timestamp": 1684354178
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

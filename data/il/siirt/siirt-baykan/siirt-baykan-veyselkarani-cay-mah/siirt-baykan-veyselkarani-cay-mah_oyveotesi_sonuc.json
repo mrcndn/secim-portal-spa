@@ -1,0 +1,104 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-baykan",
+        "mahalle": "VEYSELKARANİ-ÇAY MAH.",
+        "ilce_adi": "BAYKAN",
+        "okul_adi": "ARINÇ ORTA OKULU",
+        "sandik_no": 1024,
+        "mahalle_id": "siirt-baykan-veyselkarani-cay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364168
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 166,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-baykan/1xxx/1024/siirt-baykan-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364168
+        },
+        "secim_bolge_id": "siirt"
+    },
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-baykan",
+        "mahalle": "VEYSELKARANİ-ÇAY MAH.",
+        "ilce_adi": "BAYKAN",
+        "okul_adi": "ARINÇ ORTA OKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "siirt-baykan-veyselkarani-cay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SOL PARTİ": 1,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-baykan/1xxx/1026/siirt-baykan-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "545443",
+            "oyveotesi_sync_timestamp": 1684364168
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 177,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-baykan/1xxx/1026/siirt-baykan-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "545443",
+            "oyveotesi_sync_timestamp": 1684364168
+        },
+        "secim_bolge_id": "siirt"
+    },
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-baykan",
+        "mahalle": "VEYSELKARANİ-ÇAY MAH.",
+        "ilce_adi": "BAYKAN",
+        "okul_adi": "ARINÇ ORTA OKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "siirt-baykan-veyselkarani-cay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364168
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364168
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

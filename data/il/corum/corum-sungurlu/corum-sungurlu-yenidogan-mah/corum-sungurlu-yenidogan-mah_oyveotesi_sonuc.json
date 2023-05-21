@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-sungurlu",
+        "mahalle": "YENİDOĞAN MAH.",
+        "ilce_adi": "SUNGURLU",
+        "okul_adi": "MEHMETÇİK İLKOKULU",
+        "sandik_no": 1064,
+        "mahalle_id": "corum-sungurlu-yenidogan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-sungurlu/1xxx/1064/corum-sungurlu-1064-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "523151",
+            "oyveotesi_sync_timestamp": 1684369009
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-sungurlu/1xxx/1064/corum-sungurlu-1064-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "523151",
+            "oyveotesi_sync_timestamp": 1684369009
+        },
+        "secim_bolge_id": "corum"
+    }
+]

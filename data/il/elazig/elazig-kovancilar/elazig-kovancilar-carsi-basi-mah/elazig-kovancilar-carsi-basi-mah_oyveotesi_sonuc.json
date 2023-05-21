@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇARŞI BAŞI MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "okul_adi": "KOVANCILAR İLKOKULU",
+        "sandik_no": 1015,
+        "mahalle_id": "elazig-kovancilar-carsi-basi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "İYİ PARTİ": 7,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 81,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1015/elazig-kovancilar-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832034",
+            "oyveotesi_sync_timestamp": 1684339151
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1015/elazig-kovancilar-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832034",
+            "oyveotesi_sync_timestamp": 1684339151
+        },
+        "secim_bolge_id": "elazig"
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇARŞI BAŞI MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "okul_adi": "KOVANCILAR İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "elazig-kovancilar-carsi-basi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1016/elazig-kovancilar-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821270",
+            "oyveotesi_sync_timestamp": 1684339151
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-kovancilar/1xxx/1016/elazig-kovancilar-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821270",
+            "oyveotesi_sync_timestamp": 1684339151
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

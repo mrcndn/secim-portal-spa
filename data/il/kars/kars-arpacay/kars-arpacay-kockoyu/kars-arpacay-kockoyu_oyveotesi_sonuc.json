@@ -1,0 +1,100 @@
+[
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-arpacay",
+        "mahalle": "KOÇKÖYÜ",
+        "ilce_adi": "ARPAÇAY",
+        "okul_adi": "GAZİ AHMET İLKÖĞRETİM OKULU",
+        "sandik_no": 1037,
+        "mahalle_id": "kars-arpacay-kockoyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 61,
+                "VATAN PARTİSİ": 4,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 68,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-arpacay/1xxx/1037/kars-arpacay-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569830",
+            "oyveotesi_sync_timestamp": 1684346360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-arpacay/1xxx/1037/kars-arpacay-1037-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569830",
+            "oyveotesi_sync_timestamp": 1684346360
+        },
+        "secim_bolge_id": "kars"
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-arpacay",
+        "mahalle": "KOÇKÖYÜ",
+        "ilce_adi": "ARPAÇAY",
+        "okul_adi": "GAZİ AHMET İLKÖĞRETİM OKULU",
+        "sandik_no": 1036,
+        "mahalle_id": "kars-arpacay-kockoyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 54,
+                "VATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 68,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-arpacay/1xxx/1036/kars-arpacay-1036-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569431",
+            "oyveotesi_sync_timestamp": 1684346360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-arpacay/1xxx/1036/kars-arpacay-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569431",
+            "oyveotesi_sync_timestamp": 1684346360
+        },
+        "secim_bolge_id": "kars"
+    }
+]

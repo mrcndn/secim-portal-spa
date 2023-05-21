@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "YENİPAZAR MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "YENİPAZAR MH. İLKOKULU",
+        "sandik_no": 1341,
+        "mahalle_id": "manisa-salihli-yenipazar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 58,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "ADALET VE KALKINMA PARTİSİ": 101,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1341/manisa-salihli-1341-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "728608",
+            "oyveotesi_sync_timestamp": 1684397157
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 345,
+            "sayim_sonuc": {
+                "TOPLAM": 345,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1341/manisa-salihli-1341-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "728608",
+            "oyveotesi_sync_timestamp": 1684397157
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

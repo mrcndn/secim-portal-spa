@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-kestel",
+        "mahalle": "GÖLCÜK MAH.",
+        "ilce_adi": "KESTEL",
+        "okul_adi": "GÖLCÜK İLKOKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "bursa-kestel-golcuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334937
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 7,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334937
+        },
+        "secim_bolge_id": "bursa2"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-kestel",
+        "mahalle": "GÖLCÜK MAH.",
+        "ilce_adi": "KESTEL",
+        "okul_adi": "GÖLCÜK İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "bursa-kestel-golcuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334937
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334937
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

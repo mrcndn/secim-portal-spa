@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-aziziye",
+        "mahalle": "KAHRAMANLAR MAH.",
+        "ilce_adi": "AZİZİYE",
+        "okul_adi": "KAHRAMANLAR İLKOKULU",
+        "sandik_no": 1057,
+        "mahalle_id": "erzurum-aziziye-kahramanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 48,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-aziziye/1xxx/1057/erzurum-aziziye-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833058",
+            "oyveotesi_sync_timestamp": 1684340279
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-aziziye/1xxx/1057/erzurum-aziziye-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833058",
+            "oyveotesi_sync_timestamp": 1684340279
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

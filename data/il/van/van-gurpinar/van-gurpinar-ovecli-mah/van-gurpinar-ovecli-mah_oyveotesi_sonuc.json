@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-gurpinar",
+        "mahalle": "ÖVEÇLİ MAH.",
+        "ilce_adi": "GÜRPINAR",
+        "okul_adi": "YELEKLİ İLKOKULU",
+        "sandik_no": 1064,
+        "mahalle_id": "van-gurpinar-ovecli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-gurpinar/1xxx/1064/van-gurpinar-1064-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "675734",
+            "oyveotesi_sync_timestamp": 1684356710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 40,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-gurpinar/1xxx/1064/van-gurpinar-1064-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "675734",
+            "oyveotesi_sync_timestamp": 1684356710
+        },
+        "secim_bolge_id": "van"
+    },
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-gurpinar",
+        "mahalle": "ÖVEÇLİ MAH.",
+        "ilce_adi": "GÜRPINAR",
+        "okul_adi": "ÖVEÇLİ MAHALLESİ İLKOKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "van-gurpinar-ovecli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356710
+        },
+        "secim_bolge_id": "van"
+    }
+]

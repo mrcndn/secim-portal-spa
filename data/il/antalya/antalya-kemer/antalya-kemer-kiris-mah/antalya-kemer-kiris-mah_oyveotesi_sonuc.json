@@ -1,0 +1,103 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-kemer",
+        "mahalle": "KİRİŞ MAH.",
+        "ilce_adi": "KEMER",
+        "okul_adi": "ŞEKER İLKOKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "antalya-kemer-kiris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 52,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 108,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE İŞÇİ PARTİSİ": 16,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-kemer/1xxx/1055/antalya-kemer-1055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "551948",
+            "oyveotesi_sync_timestamp": 1684329666
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 191,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-kemer/1xxx/1055/antalya-kemer-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "551948",
+            "oyveotesi_sync_timestamp": 1684329666
+        },
+        "secim_bolge_id": "antalya"
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-kemer",
+        "mahalle": "KİRİŞ MAH.",
+        "ilce_adi": "KEMER",
+        "okul_adi": "ŞEKER İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "antalya-kemer-kiris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 91,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-kemer/1xxx/1056/antalya-kemer-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "403934",
+            "oyveotesi_sync_timestamp": 1684329666
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-kemer/1xxx/1056/antalya-kemer-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "403934",
+            "oyveotesi_sync_timestamp": 1684329666
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

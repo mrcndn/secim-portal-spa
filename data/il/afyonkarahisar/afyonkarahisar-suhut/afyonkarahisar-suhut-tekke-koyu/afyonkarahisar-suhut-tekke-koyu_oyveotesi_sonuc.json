@@ -1,0 +1,35 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-suhut",
+        "mahalle": "TEKKE KÖYÜ",
+        "ilce_adi": "ŞUHUT",
+        "okul_adi": "TEKKE İLKOKULU",
+        "sandik_no": 1093,
+        "mahalle_id": "afyonkarahisar-suhut-tekke-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "İYİ PARTİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 91,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-suhut/1xxx/1093/afyonkarahisar-suhut-1093-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836726",
+            "oyveotesi_sync_timestamp": 1684328980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "836726",
+            "oyveotesi_sync_timestamp": 1684328980
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

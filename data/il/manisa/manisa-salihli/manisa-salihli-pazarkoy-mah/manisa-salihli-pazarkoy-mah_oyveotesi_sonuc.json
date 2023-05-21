@@ -1,0 +1,52 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "PAZARKÖY MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "PAZARKÖY MH. GENÇLİK SPOR KULÜBÜ SOSYAL TESİSİ",
+        "sandik_no": 1268,
+        "mahalle_id": "manisa-salihli-pazarkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 50,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1268/manisa-salihli-1268-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178495",
+            "oyveotesi_sync_timestamp": 1684397176
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1268/manisa-salihli-1268-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178495",
+            "oyveotesi_sync_timestamp": 1684397176
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

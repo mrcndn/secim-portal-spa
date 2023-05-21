@@ -1,0 +1,952 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3349,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 100,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3349/adana-seyhan-3349-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530369",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 166,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3349/adana-seyhan-3349-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530369",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3347,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 104,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "TÜRKİYE İŞÇİ PARTİSİ": 16,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3347/adana-seyhan-3347-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "335624",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 190,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3347/adana-seyhan-3347-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "335624",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3346,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3346/adana-seyhan-3346-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "214601",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 173,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3346/adana-seyhan-3346-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "214601",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3345,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 264,
+            "sayim_sonuc": {
+                "TOPLAM": 264,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 97,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 87,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3345/adana-seyhan-3345-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "260169",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3345/adana-seyhan-3345-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "260169",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3344,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 89,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3344/adana-seyhan-3344-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "228273",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SİNAN OĞAN": 12,
+                "KEMAL KILIÇDAROĞLU": 176,
+                "RECEP TAYYİP ERDOĞAN": 101
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3344/adana-seyhan-3344-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "228273",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3343,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 13,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 76,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "TÜRKİYE İŞÇİ PARTİSİ": 15,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3343/adana-seyhan-3343-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "284847",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 154,
+                "RECEP TAYYİP ERDOĞAN": 110
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3343/adana-seyhan-3343-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "284847",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3342,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 90,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3342/adana-seyhan-3342-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "194805",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 306,
+            "sayim_sonuc": {
+                "TOPLAM": 306,
+                "SİNAN OĞAN": 20,
+                "KEMAL KILIÇDAROĞLU": 197,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3342/adana-seyhan-3342-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "194805",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3341,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 113
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3341/adana-seyhan-3341-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3340,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 90,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 43,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3340/adana-seyhan-3340-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "265698",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3340/adana-seyhan-3340-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "265698",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3352,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 136
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3352/adana-seyhan-3352-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3353,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 82,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 95,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3353/adana-seyhan-3353-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "743223",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 172,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3353/adana-seyhan-3353-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "743223",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3354,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 306,
+            "sayim_sonuc": {
+                "TOPLAM": 306,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 189,
+                "RECEP TAYYİP ERDOĞAN": 98
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3354/adana-seyhan-3354-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3355,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "SİNAN OĞAN": 22,
+                "KEMAL KILIÇDAROĞLU": 157,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3355/adana-seyhan-3355-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3356,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 100,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3356/adana-seyhan-3356-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "733309",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 183,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3356/adana-seyhan-3356-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "733309",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3357,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 303,
+            "sayim_sonuc": {
+                "TOPLAM": 303,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3357/adana-seyhan-3357-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "508953",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 139,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3357/adana-seyhan-3357-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "508953",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3358,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "SOL PARTİ": 9,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 34,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 9,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3358/adana-seyhan-3358-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776104",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 154,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3358/adana-seyhan-3358-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776104",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3359,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 130
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3359/adana-seyhan-3359-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3351,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 135,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3351/adana-seyhan-3351-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "767510",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 181,
+                "RECEP TAYYİP ERDOĞAN": 102
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3351/adana-seyhan-3351-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "767510",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT MEHMET VOLKAN İLKOKULU",
+        "sandik_no": 3350,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 35,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3350/adana-seyhan-3350-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "802660",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 143,
+                "RECEP TAYYİP ERDOĞAN": 135
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3350/adana-seyhan-3350-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "802660",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "NARLICA MAH-19 MAYIS ANADOLU LİSESİ",
+        "sandik_no": 3348,
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 94,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 57
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3348/adana-seyhan-3348-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "273525",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 173,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3348/adana-seyhan-3348-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "273525",
+            "oyveotesi_sync_timestamp": 1684370878
+        },
+        "secim_bolge_id": "adana"
+    }
+]

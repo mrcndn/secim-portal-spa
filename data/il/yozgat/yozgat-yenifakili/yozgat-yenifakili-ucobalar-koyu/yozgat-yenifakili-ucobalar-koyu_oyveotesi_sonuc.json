@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-yenifakili",
+        "mahalle": "ÜÇOBALAR KÖYÜ",
+        "ilce_adi": "YENİFAKILI",
+        "okul_adi": "ÜÇOBALAR SAĞLIK EVİ LOJMANI",
+        "sandik_no": 1019,
+        "mahalle_id": "yozgat-yenifakili-ucobalar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "İYİ PARTİ": 87,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 16,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yenifakili/1xxx/1019/yozgat-yenifakili-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "602353",
+            "oyveotesi_sync_timestamp": 1684396061
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 120,
+            "sayim_sonuc": {
+                "TOPLAM": 120,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yenifakili/1xxx/1019/yozgat-yenifakili-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "602353",
+            "oyveotesi_sync_timestamp": 1684396061
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

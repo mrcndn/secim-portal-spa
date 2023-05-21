@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "KIZILTEPE KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "KIZILTEPE KÖYÜ İLKOKULU",
+        "sandik_no": 1115,
+        "mahalle_id": "corum-osmancik-kiziltepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1115/corum-osmancik-1115-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236231",
+            "oyveotesi_sync_timestamp": 1684368932
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1115/corum-osmancik-1115-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236231",
+            "oyveotesi_sync_timestamp": 1684368932
+        },
+        "secim_bolge_id": "corum"
+    }
+]

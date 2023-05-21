@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "BEŞPARMAK KÖYÜ",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "BEŞPARMAK KÖYÜ İLKOKULU",
+        "sandik_no": 1283,
+        "mahalle_id": "mus-merkez-besparmak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394100
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 133,
+            "sayim_sonuc": {
+                "TOPLAM": 133,
+                "KEMAL KILIÇDAROĞLU": 99,
+                "RECEP TAYYİP ERDOĞAN": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1283/mus-merkez-1283-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394100
+        },
+        "secim_bolge_id": "mus"
+    }
+]

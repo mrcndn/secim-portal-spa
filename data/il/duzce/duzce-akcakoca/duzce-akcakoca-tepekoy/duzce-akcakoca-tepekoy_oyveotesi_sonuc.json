@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-akcakoca",
+        "mahalle": "TEPEKÖY",
+        "ilce_adi": "AKÇAKOCA",
+        "okul_adi": "TEPEKÖY İLKOKULU",
+        "sandik_no": 1109,
+        "mahalle_id": "duzce-akcakoca-tepekoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337889
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 251,
+            "sayim_sonuc": {
+                "TOPLAM": 251,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 195
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-akcakoca/1xxx/1109/duzce-akcakoca-1109-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337889
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-akcakoca",
+        "mahalle": "TEPEKÖY",
+        "ilce_adi": "AKÇAKOCA",
+        "okul_adi": "TEPEKÖY İLKOKULU",
+        "sandik_no": 1108,
+        "mahalle_id": "duzce-akcakoca-tepekoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-akcakoca/1xxx/1108/duzce-akcakoca-1108-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "497577",
+            "oyveotesi_sync_timestamp": 1684337889
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 205
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-akcakoca/1xxx/1108/duzce-akcakoca-1108-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "497577",
+            "oyveotesi_sync_timestamp": 1684337889
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "AKKÖY",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "AKKÖY KÖYÜ-ULUPELİT CAMİİ DERNEK BİNASI",
+        "sandik_no": 1267,
+        "mahalle_id": "giresun-merkez-akkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343064
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343064
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "AKKÖY",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "AKKÖY KÖYÜ-İLKOKULU",
+        "sandik_no": 1266,
+        "mahalle_id": "giresun-merkez-akkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343064
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1266/giresun-merkez-1266-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343064
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

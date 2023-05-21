@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "AĞIROĞLAN KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "AĞIROĞLAN KÖY KONAĞI",
+        "sandik_no": 1071,
+        "mahalle_id": "corum-osmancik-agiroglan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 29,
+            "sayim_sonuc": {
+                "TOPLAM": 29,
+                "GENÇ PARTİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1071/corum-osmancik-1071-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184333",
+            "oyveotesi_sync_timestamp": 1684368963
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 29,
+            "sayim_sonuc": {
+                "TOPLAM": 29,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1071/corum-osmancik-1071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184333",
+            "oyveotesi_sync_timestamp": 1684368963
+        },
+        "secim_bolge_id": "corum"
+    }
+]

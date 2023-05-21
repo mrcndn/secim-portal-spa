@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "HACIHASANLAR MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "HACIHASANLAR MAHALLESİ KONAĞI",
+        "sandik_no": 1073,
+        "mahalle_id": "ankara-nallihan-hacihasanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376084
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 18,
+            "sayim_sonuc": {
+                "TOPLAM": 18,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376084
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

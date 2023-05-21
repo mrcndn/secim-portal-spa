@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-ayvalik",
+        "mahalle": "HACIVELİLER MAH.",
+        "ilce_adi": "AYVALIK",
+        "okul_adi": "HACIVELİLER AİLE HEKİMLİĞİ ODASI",
+        "sandik_no": 1099,
+        "mahalle_id": "balikesir-ayvalik-haciveliler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 4,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-ayvalik/1xxx/1099/balikesir-ayvalik-1099-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "231640",
+            "oyveotesi_sync_timestamp": 1684328744
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-ayvalik/1xxx/1099/balikesir-ayvalik-1099-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "231640",
+            "oyveotesi_sync_timestamp": 1684328744
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

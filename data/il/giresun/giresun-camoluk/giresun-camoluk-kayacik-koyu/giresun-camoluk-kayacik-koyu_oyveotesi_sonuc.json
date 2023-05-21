@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-camoluk",
+        "mahalle": "KAYACIK KÖYÜ",
+        "ilce_adi": "ÇAMOLUK",
+        "okul_adi": "KAYACIK KÖYÜ İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "giresun-camoluk-kayacik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 16,
+            "sayim_sonuc": {
+                "TOPLAM": 16,
+                "İYİ PARTİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-camoluk/1xxx/1022/giresun-camoluk-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577801",
+            "oyveotesi_sync_timestamp": 1684342890
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "577801",
+            "oyveotesi_sync_timestamp": 1684342890
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

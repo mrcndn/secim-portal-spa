@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merkez",
+        "mahalle": "DEMET EVLER MAH.",
+        "ilce_adi": "AMASYA MERKEZ",
+        "okul_adi": "DEMETEVLER MAH.FEN EDEBİYAT FAKÜLTESİ",
+        "sandik_no": 1050,
+        "mahalle_id": "amasya-merkez-demet-evler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 159,
+            "sayim_sonuc": {
+                "TOPLAM": 159,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1050/amasya-merkez-1050-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "820748",
+            "oyveotesi_sync_timestamp": 1684324959
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 96
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1050/amasya-merkez-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "820748",
+            "oyveotesi_sync_timestamp": 1684324959
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

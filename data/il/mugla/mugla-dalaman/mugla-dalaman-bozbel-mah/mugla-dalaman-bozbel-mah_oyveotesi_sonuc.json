@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-dalaman",
+        "mahalle": "BOZBEL MAH.",
+        "ilce_adi": "DALAMAN",
+        "okul_adi": "BOZBEL MAHALLESİ İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "mugla-dalaman-bozbel-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374275
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 172,
+            "sayim_sonuc": {
+                "TOPLAM": 172,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 102
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-dalaman/1xxx/1016/mugla-dalaman-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374275
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

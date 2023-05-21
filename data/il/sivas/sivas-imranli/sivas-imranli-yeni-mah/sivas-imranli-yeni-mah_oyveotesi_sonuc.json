@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "DURCAN MAH.MUHTARLARI KÜLTÜR VE HİZMET BİNASI",
+        "sandik_no": 1011,
+        "mahalle_id": "sivas-imranli-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "İYİ PARTİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1011/sivas-imranli-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "405994",
+            "oyveotesi_sync_timestamp": 1684359039
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1011/sivas-imranli-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "405994",
+            "oyveotesi_sync_timestamp": 1684359039
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

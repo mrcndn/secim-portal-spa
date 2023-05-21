@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-imamoglu",
+        "mahalle": "MALIHIDIRLI MAH.",
+        "ilce_adi": "İMAMOĞLU",
+        "okul_adi": "MALIHIDIRLI MAH. İLKOKULU",
+        "sandik_no": 1046,
+        "mahalle_id": "adana-imamoglu-malihidirli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371444
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371444
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-imamoglu",
+        "mahalle": "MALIHIDIRLI MAH.",
+        "ilce_adi": "İMAMOĞLU",
+        "okul_adi": "MALIHIDIRLI MAH. İLKOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "adana-imamoglu-malihidirli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371444
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-imamoglu/1xxx/1047/adana-imamoglu-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371444
+        },
+        "secim_bolge_id": "adana"
+    }
+]

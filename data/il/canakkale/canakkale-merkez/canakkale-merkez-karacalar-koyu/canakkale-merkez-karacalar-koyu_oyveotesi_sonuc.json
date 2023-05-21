@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-merkez",
+        "mahalle": "KARACALAR KÖYÜ",
+        "ilce_adi": "ÇANAKKALE MERKEZ",
+        "okul_adi": "KÖY KAHVEHANESİ - KARACALAR KÖYÜ",
+        "sandik_no": 1404,
+        "mahalle_id": "canakkale-merkez-karacalar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 36,
+            "sayim_sonuc": {
+                "TOPLAM": 36,
+                "İYİ PARTİ": 9,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1404/canakkale-merkez-1404-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837805",
+            "oyveotesi_sync_timestamp": 1684336012
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1404/canakkale-merkez-1404-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837805",
+            "oyveotesi_sync_timestamp": 1684336012
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

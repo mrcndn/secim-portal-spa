@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-cekerek",
+        "mahalle": "KIRKDİLİM KÖYÜ",
+        "ilce_adi": "ÇEKEREK",
+        "okul_adi": "KIRKDİLİM KÖYÜ CEMEVİ TOPLANTI SALONU",
+        "sandik_no": 1057,
+        "mahalle_id": "yozgat-cekerek-kirkdilim-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 124,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1057/yozgat-cekerek-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "636491",
+            "oyveotesi_sync_timestamp": 1684396625
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 134,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1057/yozgat-cekerek-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "636491",
+            "oyveotesi_sync_timestamp": 1684396625
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

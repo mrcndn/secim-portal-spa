@@ -1,0 +1,84 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beykoz",
+        "mahalle": "POYRAZKÖY MAH.",
+        "ilce_adi": "BEYKOZ",
+        "okul_adi": "ORAMİRAL VURAL BEYAZIT İLKOKULU",
+        "sandik_no": 1382,
+        "mahalle_id": "istanbul-beykoz-poyrazkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344546
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 239
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344546
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beykoz",
+        "mahalle": "POYRAZKÖY MAH.",
+        "ilce_adi": "BEYKOZ",
+        "okul_adi": "ORAMİRAL VURAL BEYAZIT İLKOKULU",
+        "sandik_no": 1381,
+        "mahalle_id": "istanbul-beykoz-poyrazkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 163,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "304012",
+            "oyveotesi_sync_timestamp": 1684344546
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 220
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "304012",
+            "oyveotesi_sync_timestamp": 1684344546
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

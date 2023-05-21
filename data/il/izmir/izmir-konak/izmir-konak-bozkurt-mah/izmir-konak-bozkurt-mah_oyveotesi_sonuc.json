@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-konak",
+        "mahalle": "BOZKURT MAH.",
+        "ilce_adi": "KONAK",
+        "okul_adi": "KESTELLİ ŞERİFE ECZACIBAŞI ORTAOKULU",
+        "sandik_no": 1085,
+        "mahalle_id": "izmir-konak-bozkurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 98,
+            "sayim_sonuc": {
+                "TOPLAM": 98,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 26
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "220365",
+            "oyveotesi_sync_timestamp": 1684362488
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 107,
+            "sayim_sonuc": {
+                "TOPLAM": 107,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "220365",
+            "oyveotesi_sync_timestamp": 1684362488
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-ibradi",
+        "mahalle": "ÜZÜMDERE MAH.",
+        "ilce_adi": "İBRADI",
+        "okul_adi": "ÜZÜMDERE MAHALLE KAHVESİ",
+        "sandik_no": 1010,
+        "mahalle_id": "antalya-ibradi-uzumdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "İYİ PARTİ": 14,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-ibradi/1xxx/1010/antalya-ibradi-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536103",
+            "oyveotesi_sync_timestamp": 1684325787
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-ibradi/1xxx/1010/antalya-ibradi-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536103",
+            "oyveotesi_sync_timestamp": 1684325787
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

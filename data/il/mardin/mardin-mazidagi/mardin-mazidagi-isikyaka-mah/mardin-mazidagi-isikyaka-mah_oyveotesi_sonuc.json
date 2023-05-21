@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-mazidagi",
+        "mahalle": "IŞIKYAKA MAH.",
+        "ilce_adi": "MAZIDAĞI",
+        "okul_adi": "IŞIKYAKA MAHALLESİİ. Ö. OKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "mardin-mazidagi-isikyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-mazidagi/1xxx/1031/mardin-mazidagi-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176050",
+            "oyveotesi_sync_timestamp": 1684353825
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-mazidagi/1xxx/1031/mardin-mazidagi-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176050",
+            "oyveotesi_sync_timestamp": 1684353825
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

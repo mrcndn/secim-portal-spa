@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-marmara",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "MARMARA",
+        "okul_adi": "HALK EĞİTİM MERKEZİ MÜDÜRLÜĞÜ",
+        "sandik_no": 1017,
+        "mahalle_id": "balikesir-marmara-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332214
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332214
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-marmara",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "MARMARA",
+        "okul_adi": "HALK EĞİTİM MERKEZİ MÜDÜRLÜĞÜ",
+        "sandik_no": 1018,
+        "mahalle_id": "balikesir-marmara-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 54,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 27,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-marmara/1xxx/1018/balikesir-marmara-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "318417",
+            "oyveotesi_sync_timestamp": 1684332214
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "318417",
+            "oyveotesi_sync_timestamp": 1684332214
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

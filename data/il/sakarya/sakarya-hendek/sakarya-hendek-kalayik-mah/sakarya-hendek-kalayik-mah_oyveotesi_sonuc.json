@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KALAYIK MAH.",
+        "ilce_adi": "HENDEK",
+        "okul_adi": "KALAYIK KÖY KONAĞI",
+        "sandik_no": 1086,
+        "mahalle_id": "sakarya-hendek-kalayik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357644
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1086/sakarya-hendek-1086-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357644
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

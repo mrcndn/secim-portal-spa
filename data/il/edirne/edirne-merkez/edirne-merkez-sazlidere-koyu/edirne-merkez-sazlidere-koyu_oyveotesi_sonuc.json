@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-merkez",
+        "mahalle": "SAZLIDERE KÖYÜ",
+        "ilce_adi": "EDİRNE MERKEZ",
+        "okul_adi": "SAZLIDERE KÖYÜ OKULU",
+        "sandik_no": 1384,
+        "mahalle_id": "edirne-merkez-sazlidere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338349
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 126,
+                "RECEP TAYYİP ERDOĞAN": 65
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-merkez/1xxx/1384/edirne-merkez-1384-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338349
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-merkez",
+        "mahalle": "SAZLIDERE KÖYÜ",
+        "ilce_adi": "EDİRNE MERKEZ",
+        "okul_adi": "SAZLIDERE KÖYÜ OKULU",
+        "sandik_no": 1385,
+        "mahalle_id": "edirne-merkez-sazlidere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338349
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338349
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-gonen",
+        "mahalle": "KINALAR MAH.",
+        "ilce_adi": "GÖNEN",
+        "okul_adi": "KINALAR MAHALLESİ KÖY KAHVEHANESİ",
+        "sandik_no": 1106,
+        "mahalle_id": "balikesir-gonen-kinalar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 184,
+            "sayim_sonuc": {
+                "TOPLAM": 184,
+                "İYİ PARTİ": 39,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1106/balikesir-gonen-1106-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "406533",
+            "oyveotesi_sync_timestamp": 1684331865
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "406533",
+            "oyveotesi_sync_timestamp": 1684331865
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

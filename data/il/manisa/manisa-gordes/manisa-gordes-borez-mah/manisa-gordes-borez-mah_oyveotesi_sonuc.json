@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "BÖREZ MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "BÖREZ MAH. İLKOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "manisa-gordes-borez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1019/manisa-gordes-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573604",
+            "oyveotesi_sync_timestamp": 1684396657
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1019/manisa-gordes-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573604",
+            "oyveotesi_sync_timestamp": 1684396657
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

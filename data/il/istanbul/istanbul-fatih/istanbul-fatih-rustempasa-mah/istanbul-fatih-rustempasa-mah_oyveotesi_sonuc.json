@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-fatih",
+        "mahalle": "RÜSTEMPAŞA MAH.",
+        "ilce_adi": "FATİH",
+        "okul_adi": "BÜYÜK REŞİT PAŞA ORTA OKULU 1.KAT SOL TARAF",
+        "sandik_no": 2188,
+        "mahalle_id": "istanbul-fatih-rustempasa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 17,
+            "sayim_sonuc": {
+                "TOPLAM": 17,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "174694",
+            "oyveotesi_sync_timestamp": 1684344802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 19,
+            "sayim_sonuc": {
+                "TOPLAM": 19,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "174694",
+            "oyveotesi_sync_timestamp": 1684344802
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

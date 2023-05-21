@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-osmangazi",
+        "mahalle": "SANTRAL GARAJ MAH.",
+        "ilce_adi": "OSMANGAZİ",
+        "okul_adi": "ULUDAĞ İLKOKULU 1 KAT",
+        "sandik_no": 2504,
+        "mahalle_id": "bursa-osmangazi-santral-garaj-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 52,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 15,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 67,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "264743",
+            "oyveotesi_sync_timestamp": 1684335380
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "SİNAN OĞAN": 23,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "264743",
+            "oyveotesi_sync_timestamp": 1684335380
+        },
+        "secim_bolge_id": "bursa1"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-osmangazi",
+        "mahalle": "SANTRAL GARAJ MAH.",
+        "ilce_adi": "OSMANGAZİ",
+        "okul_adi": "ULUDAĞ İLKOKULU 1 KAT",
+        "sandik_no": 2505,
+        "mahalle_id": "bursa-osmangazi-santral-garaj-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335380
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335380
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-mezitli",
+        "mahalle": "PELİTKOYAĞI MAH.",
+        "ilce_adi": "MEZİTLİ",
+        "okul_adi": "PELİTKOYAĞI KÖY KAHVEHANESİ",
+        "sandik_no": 1332,
+        "mahalle_id": "mersin-mezitli-pelitkoyagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 107,
+            "sayim_sonuc": {
+                "TOPLAM": 107,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "ADALET VE KALKINMA PARTİSİ": 48,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1332/mersin-mezitli-1332-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177695",
+            "oyveotesi_sync_timestamp": 1684327335
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1332/mersin-mezitli-1332-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177695",
+            "oyveotesi_sync_timestamp": 1684327335
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "YAYLAKÖY",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "YAYLA SAĞLIK EVİ",
+        "sandik_no": 1204,
+        "mahalle_id": "edirne-kesan-yaylakoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338509
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338509
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "YAYLAKÖY",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "YAYLA SAĞLIK EVİ",
+        "sandik_no": 1205,
+        "mahalle_id": "edirne-kesan-yaylakoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338509
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 197,
+                "RECEP TAYYİP ERDOĞAN": 56
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1205/edirne-kesan-1205-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338509
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

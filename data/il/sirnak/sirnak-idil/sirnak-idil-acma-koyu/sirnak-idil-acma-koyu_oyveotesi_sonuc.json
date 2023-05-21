@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-idil",
+        "mahalle": "AÇMA KÖYÜ",
+        "ilce_adi": "İDİL",
+        "okul_adi": "AÇMA KÖYÜ İLKOKULU",
+        "sandik_no": 1064,
+        "mahalle_id": "sirnak-idil-acma-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 180,
+            "sayim_sonuc": {
+                "TOPLAM": 180,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-idil/1xxx/1064/sirnak-idil-1064-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173093",
+            "oyveotesi_sync_timestamp": 1684370514
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 170,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-idil/1xxx/1064/sirnak-idil-1064-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173093",
+            "oyveotesi_sync_timestamp": 1684370514
+        },
+        "secim_bolge_id": "sirnak"
+    }
+]

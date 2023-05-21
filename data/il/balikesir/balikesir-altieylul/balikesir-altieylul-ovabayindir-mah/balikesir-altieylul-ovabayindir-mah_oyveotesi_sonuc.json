@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "OVABAYINDIR MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "OVABAYINDIR İLKOKULU (KAPATILAN)",
+        "sandik_no": 1339,
+        "mahalle_id": "balikesir-altieylul-ovabayindir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328655
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 156
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1339/balikesir-altieylul-1339-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328655
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "OVABAYINDIR MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "OVABAYINDIR İLKOKULU (KAPATILAN)",
+        "sandik_no": 1338,
+        "mahalle_id": "balikesir-altieylul-ovabayindir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 122,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1338/balikesir-altieylul-1338-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "314749",
+            "oyveotesi_sync_timestamp": 1684328655
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1338/balikesir-altieylul-1338-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "314749",
+            "oyveotesi_sync_timestamp": 1684328655
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

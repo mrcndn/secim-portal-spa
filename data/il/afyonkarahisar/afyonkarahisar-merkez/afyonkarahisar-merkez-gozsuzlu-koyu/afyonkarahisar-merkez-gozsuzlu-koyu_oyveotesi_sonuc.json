@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-merkez",
+        "mahalle": "GÖZSÜZLÜ KÖYÜ",
+        "ilce_adi": "AFYONKARAHİSAR MERKEZ",
+        "okul_adi": "GÖZSÜZLÜ KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1338,
+        "mahalle_id": "afyonkarahisar-merkez-gozsuzlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/1xxx/1338/afyonkarahisar-merkez-1338-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "767606",
+            "oyveotesi_sync_timestamp": 1684324558
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 110,
+            "sayim_sonuc": {
+                "TOPLAM": 110,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/1xxx/1338/afyonkarahisar-merkez-1338-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "767606",
+            "oyveotesi_sync_timestamp": 1684324558
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

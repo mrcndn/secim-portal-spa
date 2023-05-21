@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-dortdivan",
+        "mahalle": "SEYİTALİLER KÖYÜ",
+        "ilce_adi": "DÖRTDİVAN",
+        "okul_adi": "SEYİTALİLER KÖY KONAĞI",
+        "sandik_no": 1027,
+        "mahalle_id": "bolu-dortdivan-seyitaliler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "İYİ PARTİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-dortdivan/1xxx/1027/bolu-dortdivan-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837264",
+            "oyveotesi_sync_timestamp": 1684333885
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "KEMAL KILIÇDAROĞLU": 2,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-dortdivan/1xxx/1027/bolu-dortdivan-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837264",
+            "oyveotesi_sync_timestamp": 1684333885
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

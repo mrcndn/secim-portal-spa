@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-seferihisar",
+        "mahalle": "KAVAKDERE MAH.",
+        "ilce_adi": "SEFERİHİSAR",
+        "okul_adi": "KAVAKDERE KÖYÜ -MAHMUT ÇOKER İLKOKULU",
+        "sandik_no": 1077,
+        "mahalle_id": "izmir-seferihisar-kavakdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 97,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "250381",
+            "oyveotesi_sync_timestamp": 1684361876
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "250381",
+            "oyveotesi_sync_timestamp": 1684361876
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "BEYCELİ MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "BEYCELİ MAH. GÜNEY MERİ MERKEZ CAMİ LOJMANI",
+        "sandik_no": 1029,
+        "mahalle_id": "ordu-fatsa-beyceli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360846
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360846
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "BEYCELİ MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "BEYCELİ MAH. KUZKÖY TOPLANTI VE DÜĞÜN SALONU (ESKİ İLKOKUL)",
+        "sandik_no": 1030,
+        "mahalle_id": "ordu-fatsa-beyceli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360846
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 194
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1030/ordu-fatsa-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360846
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

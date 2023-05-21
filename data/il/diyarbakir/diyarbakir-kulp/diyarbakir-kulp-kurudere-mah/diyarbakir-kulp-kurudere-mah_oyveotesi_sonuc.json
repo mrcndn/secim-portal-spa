@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-kulp",
+        "mahalle": "KURUDERE MAH.",
+        "ilce_adi": "KULP",
+        "okul_adi": "ZEYREK KÖYÜ İLK.ÖĞR.OK.",
+        "sandik_no": 1050,
+        "mahalle_id": "diyarbakir-kulp-kurudere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 102,
+            "sayim_sonuc": {
+                "TOPLAM": 102,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-kulp/1xxx/1050/diyarbakir-kulp-1050-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "313658",
+            "oyveotesi_sync_timestamp": 1684337580
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-kulp/1xxx/1050/diyarbakir-kulp-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "313658",
+            "oyveotesi_sync_timestamp": 1684337580
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

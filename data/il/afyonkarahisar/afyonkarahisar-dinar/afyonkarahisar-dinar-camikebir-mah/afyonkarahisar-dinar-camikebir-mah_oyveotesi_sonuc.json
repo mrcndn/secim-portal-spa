@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-dinar",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "DİNAR",
+        "okul_adi": "YENİYOL İLKOKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "afyonkarahisar-dinar-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1007/afyonkarahisar-dinar-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "676864",
+            "oyveotesi_sync_timestamp": 1684329547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 100
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1007/afyonkarahisar-dinar-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "676864",
+            "oyveotesi_sync_timestamp": 1684329547
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

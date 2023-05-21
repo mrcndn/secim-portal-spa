@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mustafakemalpasa",
+        "mahalle": "ŞEREFİYE MAH.",
+        "ilce_adi": "MUSTAFAKEMALPAŞA",
+        "okul_adi": "MEHMET AKİF ERSOY İLKÖĞRETİM OKULU",
+        "sandik_no": 1207,
+        "mahalle_id": "bursa-mustafakemalpasa-serefiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 6,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "225990",
+            "oyveotesi_sync_timestamp": 1684335073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "225990",
+            "oyveotesi_sync_timestamp": 1684335073
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

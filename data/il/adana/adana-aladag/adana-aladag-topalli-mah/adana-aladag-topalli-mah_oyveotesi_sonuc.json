@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-aladag",
+        "mahalle": "TOPALLI MAH.",
+        "ilce_adi": "ALADAĞ",
+        "okul_adi": "TOPALLI MAHALLESİ İLKOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "adana-aladag-topalli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371655
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1048/adana-aladag-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371655
+        },
+        "secim_bolge_id": "adana"
+    }
+]

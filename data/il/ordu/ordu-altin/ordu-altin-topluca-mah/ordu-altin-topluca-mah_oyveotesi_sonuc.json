@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-altin",
+        "mahalle": "TOPLUCA MAH.",
+        "ilce_adi": "ALTINORDU",
+        "okul_adi": "TOPLUCA İLK-ORTA OKULU",
+        "sandik_no": 1467,
+        "mahalle_id": "ordu-altin-topluca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 87,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1467/ordu-altin-1467-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "696515",
+            "oyveotesi_sync_timestamp": 1684360404
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 233,
+            "sayim_sonuc": {
+                "TOPLAM": 233,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1467/ordu-altin-1467-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "696515",
+            "oyveotesi_sync_timestamp": 1684360404
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

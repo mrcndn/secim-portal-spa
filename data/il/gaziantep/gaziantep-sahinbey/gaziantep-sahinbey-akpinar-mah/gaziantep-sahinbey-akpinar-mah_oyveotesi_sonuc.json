@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-sahinbey",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "ŞAHİNBEY",
+        "okul_adi": "AKPINAR (K) NAZLI ANNE İLKOKULU",
+        "sandik_no": 1073,
+        "mahalle_id": "gaziantep-sahinbey-akpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 23,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-sahinbey/1xxx/1073/gaziantep-sahinbey-1073-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833400",
+            "oyveotesi_sync_timestamp": 1684342406
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-sahinbey/1xxx/1073/gaziantep-sahinbey-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833400",
+            "oyveotesi_sync_timestamp": 1684342406
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

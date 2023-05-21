@@ -1,0 +1,702 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "AKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-akkent-mah",
+        "oyveotesi_neighborhood_id": 44705
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "ALİKÖY",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-alikoy",
+        "oyveotesi_neighborhood_id": 44684
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "ANADOLU MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-anadolu-mah",
+        "oyveotesi_neighborhood_id": 44658
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "AYAZMANA MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-ayazmana-mah",
+        "oyveotesi_neighborhood_id": 44673
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "BAĞLAR MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-baglar-mah",
+        "oyveotesi_neighborhood_id": 44666
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 44641
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "BATIKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-batikent-mah",
+        "oyveotesi_neighborhood_id": 44679
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "BİNBİREVLER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-binbirevler-mah",
+        "oyveotesi_neighborhood_id": 44707
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "BOZANÖNÜ KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-bozanonu-koyu",
+        "oyveotesi_neighborhood_id": 44697
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "BÜYÜKGÖKÇELİ KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-buyukgokceli-koyu",
+        "oyveotesi_neighborhood_id": 44662
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "BÜYÜKHACILAR KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-buyukhacilar-koyu",
+        "oyveotesi_neighborhood_id": 44706
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "ÇELEBİLER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-celebiler-mah",
+        "oyveotesi_neighborhood_id": 44710
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "ÇOBANİSA KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-cobanisa-koyu",
+        "oyveotesi_neighborhood_id": 44678
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "ÇUKURKÖY",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-cukurkoy",
+        "oyveotesi_neighborhood_id": 44657
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "ÇÜNÜR MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-cunur-mah",
+        "oyveotesi_neighborhood_id": 44665
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "DARIDERESİ KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-darideresi-koyu",
+        "oyveotesi_neighborhood_id": 44688
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "DARIÖREN KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-darioren-koyu",
+        "oyveotesi_neighborhood_id": 44659
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "DAVRAZ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-davraz-mah",
+        "oyveotesi_neighborhood_id": 44660
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "DEREGÜMÜ KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-deregumu-koyu",
+        "oyveotesi_neighborhood_id": 44668
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "DERE MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-dere-mah",
+        "oyveotesi_neighborhood_id": 44691
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "DİREKLİ KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-direkli-koyu",
+        "oyveotesi_neighborhood_id": 44676
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "DOĞANCI MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-doganci-mah",
+        "oyveotesi_neighborhood_id": 44698
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "EMRE MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-emre-mah",
+        "oyveotesi_neighborhood_id": 44692
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-fatih-mah",
+        "oyveotesi_neighborhood_id": 44699
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "GAZİ KEMAL MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-gazi-kemal-mah",
+        "oyveotesi_neighborhood_id": 44680
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "GELİNCİK KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-gelincik-koyu",
+        "oyveotesi_neighborhood_id": 44685
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "GÜLCÜ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-gulcu-mah",
+        "oyveotesi_neighborhood_id": 44661
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "GÜLEVLER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-gulevler-mah",
+        "oyveotesi_neighborhood_id": 44651
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "GÜLİSTAN MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-gulistan-mah",
+        "oyveotesi_neighborhood_id": 44708
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "GÜNEYCE KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-guneyce-koyu",
+        "oyveotesi_neighborhood_id": 44681
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "HALİFE SULTAN MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-halife-sultan-mah",
+        "oyveotesi_neighborhood_id": 44644
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "HALIKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-halikent-mah",
+        "oyveotesi_neighborhood_id": 44669
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "HİSAR MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-hisar-mah",
+        "oyveotesi_neighborhood_id": 44689
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "HIZIRBEY MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-hizirbey-mah",
+        "oyveotesi_neighborhood_id": 44670
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "IŞIKKENT MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-isikkent-mah",
+        "oyveotesi_neighborhood_id": 44700
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "İSKENDER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-iskender-mah",
+        "oyveotesi_neighborhood_id": 44653
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-istiklal-mah",
+        "oyveotesi_neighborhood_id": 44675
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KADILAR KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kadilar-koyu",
+        "oyveotesi_neighborhood_id": 44686
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KARAAĞAÇ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-karaagac-mah",
+        "oyveotesi_neighborhood_id": 44693
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KAYIKÖY",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kayikoy",
+        "oyveotesi_neighborhood_id": 44645
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KEÇECİ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kececi-mah",
+        "oyveotesi_neighborhood_id": 44654
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KEPECİ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kepeci-mah",
+        "oyveotesi_neighborhood_id": 44701
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KIŞLAKÖY",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kislakoy",
+        "oyveotesi_neighborhood_id": 44671
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KÜÇÜKGÖKÇELİ KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kucukgokceli-koyu",
+        "oyveotesi_neighborhood_id": 44696
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KÜÇÜKHACILAR KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kucukhacilar-koyu",
+        "oyveotesi_neighborhood_id": 44652
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KÜÇÜKKIŞLA KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kucukkisla-koyu",
+        "oyveotesi_neighborhood_id": 44667
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KULEÖNÜ-KEMAL MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kuleonu-kemal-mah",
+        "oyveotesi_neighborhood_id": 44674
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KULEÖNÜ-OKUL MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kuleonu-okul-mah",
+        "oyveotesi_neighborhood_id": 44663
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KULEÖNÜ-YENİCAMİ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kuleonu-yenicami-mah",
+        "oyveotesi_neighborhood_id": 44646
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kurtulus-mah",
+        "oyveotesi_neighborhood_id": 44694
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "KUTLUBEY MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-kutlubey-mah",
+        "oyveotesi_neighborhood_id": 44695
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "MEHMET TÖNGE MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-mehmet-tonge-mah",
+        "oyveotesi_neighborhood_id": 44709
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "MODERN EVLER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-modern-evler-mah",
+        "oyveotesi_neighborhood_id": 44647
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "MUZAFFER TÜRKEŞ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-muzaffer-turkes-mah",
+        "oyveotesi_neighborhood_id": 44702
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "PİRİMEHMET MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-pirimehmet-mah",
+        "oyveotesi_neighborhood_id": 44703
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "SANAYİ MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-sanayi-mah",
+        "oyveotesi_neighborhood_id": 44642
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "SAV-AŞAĞI MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-sav-asagi-mah",
+        "oyveotesi_neighborhood_id": 49565
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "SAV-FATİH MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-sav-fatih-mah",
+        "oyveotesi_neighborhood_id": 49610
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "SAV-YUKARI MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-sav-yukari-mah",
+        "oyveotesi_neighborhood_id": 49451
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "SERMET MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-sermet-mah",
+        "oyveotesi_neighborhood_id": 44649
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "SİDRE MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-sidre-mah",
+        "oyveotesi_neighborhood_id": 44690
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "SÜLÜBEY MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-sulubey-mah",
+        "oyveotesi_neighborhood_id": 44650
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "TURAN MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-turan-mah",
+        "oyveotesi_neighborhood_id": 44683
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "VATAN MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-vatan-mah",
+        "oyveotesi_neighborhood_id": 44655
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "YAKAÖREN KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-yakaoren-koyu",
+        "oyveotesi_neighborhood_id": 44664
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "YAYLA MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-yayla-mah",
+        "oyveotesi_neighborhood_id": 44677
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "YAZISÖĞÜT KÖYÜ",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-yazisogut-koyu",
+        "oyveotesi_neighborhood_id": 44656
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "YEDİŞEHİTLER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-yedisehitler-mah",
+        "oyveotesi_neighborhood_id": 44687
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-yenice-mah",
+        "oyveotesi_neighborhood_id": 44704
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-merkez",
+        "mahalle": "ZAFER MAH.",
+        "ilce_adi": "ISPARTA MERKEZ",
+        "mahalle_id": "isparta-merkez-zafer-mah",
+        "oyveotesi_neighborhood_id": 44672
+    }
+]

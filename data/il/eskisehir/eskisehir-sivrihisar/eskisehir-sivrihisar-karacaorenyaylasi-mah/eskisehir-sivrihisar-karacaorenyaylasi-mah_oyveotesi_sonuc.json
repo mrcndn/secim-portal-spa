@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "KARACAÖRENYAYLASI MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "KARACAÖREN YAYLASI MAHALLE ODASI",
+        "sandik_no": 1057,
+        "mahalle_id": "eskisehir-sivrihisar-karacaorenyaylasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 16,
+            "sayim_sonuc": {
+                "TOPLAM": 16,
+                "İYİ PARTİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1057/eskisehir-sivrihisar-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "435376",
+            "oyveotesi_sync_timestamp": 1684341823
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 16,
+            "sayim_sonuc": {
+                "TOPLAM": 16,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1057/eskisehir-sivrihisar-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "435376",
+            "oyveotesi_sync_timestamp": 1684341823
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

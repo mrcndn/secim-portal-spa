@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-aydincik",
+        "mahalle": "TEKNECİK MAH.",
+        "ilce_adi": "AYDINCIK",
+        "okul_adi": "TEKNECİK MAH. - KÖY ODASI",
+        "sandik_no": 1025,
+        "mahalle_id": "mersin-aydincik-teknecik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 38,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-aydincik/1xxx/1025/mersin-aydincik-1025-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815340",
+            "oyveotesi_sync_timestamp": 1684363329
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "815340",
+            "oyveotesi_sync_timestamp": 1684363329
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

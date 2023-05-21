@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhaneli",
+        "mahalle": "AKÇABÜK MAH.",
+        "ilce_adi": "ORHANELİ",
+        "okul_adi": "AKÇABÜK MAH. CAMİ ALTI",
+        "sandik_no": 1006,
+        "mahalle_id": "bursa-orhaneli-akcabuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "663955",
+            "oyveotesi_sync_timestamp": 1684335176
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 121,
+            "sayim_sonuc": {
+                "TOPLAM": 121,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "663955",
+            "oyveotesi_sync_timestamp": 1684335176
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

@@ -1,0 +1,928 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2106,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2088,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "581556",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "581556",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2089,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 6,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 159,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "355550",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "355550",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2090,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 180,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "388360",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 217
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "388360",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2091,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 7,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 150,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "371767",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 113,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "371767",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2092,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 20,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 9,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 23,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 170,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "583794",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 223
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "583794",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2093,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 159,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "504689",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 79,
+                "RECEP TAYYİP ERDOĞAN": 227
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "504689",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2094,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 126,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2095,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 163,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "380075",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 100,
+                "RECEP TAYYİP ERDOĞAN": 207
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "380075",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2096,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "299618",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "299618",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2097,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 30,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "307381",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "307381",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2098,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "İYİ PARTİ": 40,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 49,
+                "ADALET VE KALKINMA PARTİSİ": 160,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "432102",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 214
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "432102",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2099,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 30,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 172,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "489652",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 227
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "489652",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2100,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 177,
+                "TÜRKİYE İŞÇİ PARTİSİ": 9,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "341053",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 97,
+                "RECEP TAYYİP ERDOĞAN": 216
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "341053",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2101,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 9,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 57,
+                "ADALET VE KALKINMA PARTİSİ": 165,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 20
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "481301",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 113,
+                "RECEP TAYYİP ERDOĞAN": 212
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "481301",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2102,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 100,
+                "RECEP TAYYİP ERDOĞAN": 202
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2103,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 225
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2104,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 11,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 71,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 151,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "396237",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 120,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "396237",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KULAKSIZ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "PİYALEPAŞA İLKOKULU",
+        "sandik_no": 2105,
+        "mahalle_id": "istanbul-beyoglu-kulaksiz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 17,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 161,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 16
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "604052",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 35,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 200
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "604052",
+            "oyveotesi_sync_timestamp": 1684330099
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

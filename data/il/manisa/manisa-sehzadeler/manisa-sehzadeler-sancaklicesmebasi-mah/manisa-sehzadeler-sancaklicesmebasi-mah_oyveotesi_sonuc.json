@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-sehzadeler",
+        "mahalle": "SANCAKLIÇEŞMEBAŞI MAH.",
+        "ilce_adi": "ŞEHZADELER",
+        "okul_adi": "SANCAKLIÇEŞMEBAŞI OKUMA VE OTURMA SALONU",
+        "sandik_no": 1268,
+        "mahalle_id": "manisa-sehzadeler-sancaklicesmebasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-sehzadeler/1xxx/1268/manisa-sehzadeler-1268-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577696",
+            "oyveotesi_sync_timestamp": 1684396899
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 134
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-sehzadeler/1xxx/1268/manisa-sehzadeler-1268-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577696",
+            "oyveotesi_sync_timestamp": 1684396899
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

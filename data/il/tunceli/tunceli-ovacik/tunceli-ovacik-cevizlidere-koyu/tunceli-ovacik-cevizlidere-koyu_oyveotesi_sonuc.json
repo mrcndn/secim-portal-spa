@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-ovacik",
+        "mahalle": "CEVİZLİDERE KÖYÜ",
+        "ilce_adi": "OVACIK",
+        "okul_adi": "YEŞİLYAZI HOCA AHMET YESEVİ YATILI BÖLGE OKULU 1",
+        "sandik_no": 1018,
+        "mahalle_id": "tunceli-ovacik-cevizlidere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-ovacik/1xxx/1018/tunceli-ovacik-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833354",
+            "oyveotesi_sync_timestamp": 1684361424
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 37,
+            "sayim_sonuc": {
+                "TOPLAM": 37,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-ovacik/1xxx/1018/tunceli-ovacik-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833354",
+            "oyveotesi_sync_timestamp": 1684361424
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

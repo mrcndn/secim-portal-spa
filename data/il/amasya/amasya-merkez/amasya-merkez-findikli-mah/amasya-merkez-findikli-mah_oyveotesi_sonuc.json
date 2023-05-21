@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merkez",
+        "mahalle": "FINDIKLI MAH.",
+        "ilce_adi": "AMASYA MERKEZ",
+        "okul_adi": "FINDIKLI MAHALLESİ TOKİ SOSYAL TESİSLERİ",
+        "sandik_no": 1075,
+        "mahalle_id": "amasya-merkez-findikli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 137,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1075/amasya-merkez-1075-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739799",
+            "oyveotesi_sync_timestamp": 1684324971
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 8,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1075/amasya-merkez-1075-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "739799",
+            "oyveotesi_sync_timestamp": 1684324971
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

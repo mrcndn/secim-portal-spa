@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "SİNANLI MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "SİNANLI MAH. İLKOKULU",
+        "sandik_no": 1082,
+        "mahalle_id": "ankara-haymana-sinanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "İYİ PARTİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 25,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "442672",
+            "oyveotesi_sync_timestamp": 1684393500
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "442672",
+            "oyveotesi_sync_timestamp": 1684393500
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "SİNANLI MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "SİNANLI MAH. İLKOKULU",
+        "sandik_no": 1083,
+        "mahalle_id": "ankara-haymana-sinanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393500
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393500
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

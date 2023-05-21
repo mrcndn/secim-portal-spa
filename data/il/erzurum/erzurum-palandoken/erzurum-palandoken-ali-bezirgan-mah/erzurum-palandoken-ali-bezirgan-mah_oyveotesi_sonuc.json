@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-palandoken",
+        "mahalle": "ALİ BEZİRGAN MAH.",
+        "ilce_adi": "PALANDÖKEN",
+        "okul_adi": "ALİ BEZİRGAN İLKOKULU",
+        "sandik_no": 1104,
+        "mahalle_id": "erzurum-palandoken-ali-bezirgan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340976
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-palandoken/1xxx/1104/erzurum-palandoken-1104-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340976
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

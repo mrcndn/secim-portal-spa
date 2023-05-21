@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "HACIOSMANLAR MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "HACIOSMANLAR İLKOKULU",
+        "sandik_no": 1084,
+        "mahalle_id": "mugla-seydikemer-haciosmanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374557
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 266,
+            "sayim_sonuc": {
+                "TOPLAM": 266,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1084/mugla-seydikemer-1084-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374557
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

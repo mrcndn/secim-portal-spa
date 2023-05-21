@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-tufanbeyli",
+        "mahalle": "YEŞİLOVA MAH.",
+        "ilce_adi": "TUFANBEYLİ",
+        "okul_adi": "YEŞİLOVA KÖYÜ KÖY ODASI",
+        "sandik_no": 1059,
+        "mahalle_id": "adana-tufanbeyli-yesilova-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1059/adana-tufanbeyli-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "593204",
+            "oyveotesi_sync_timestamp": 1684371392
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1059/adana-tufanbeyli-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "593204",
+            "oyveotesi_sync_timestamp": 1684371392
+        },
+        "secim_bolge_id": "adana"
+    }
+]

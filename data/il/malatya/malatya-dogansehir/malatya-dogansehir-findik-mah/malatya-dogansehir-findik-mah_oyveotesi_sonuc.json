@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-dogansehir",
+        "mahalle": "FINDIK MAH.",
+        "ilce_adi": "DOĞANŞEHİR",
+        "okul_adi": "FINDIK MAHALLESİ İLKÖĞRT.OK.",
+        "sandik_no": 1032,
+        "mahalle_id": "malatya-dogansehir-findik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351204
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 229
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-dogansehir/1xxx/1032/malatya-dogansehir-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351204
+        },
+        "secim_bolge_id": "malatya"
+    },
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-dogansehir",
+        "mahalle": "FINDIK MAH.",
+        "ilce_adi": "DOĞANŞEHİR",
+        "okul_adi": "FINDIK MAHALLESİ İLKÖĞRT.OK.",
+        "sandik_no": 1033,
+        "mahalle_id": "malatya-dogansehir-findik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351204
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351204
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

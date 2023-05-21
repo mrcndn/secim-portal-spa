@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-borcka",
+        "mahalle": "GÜNEŞLİ KÖYÜ",
+        "ilce_adi": "BORÇKA",
+        "okul_adi": "GUNEŞLİ ILKOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "artvin-borcka-gunesli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "İYİ PARTİ": 5,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 101,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-borcka/1xxx/1047/artvin-borcka-1047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570142",
+            "oyveotesi_sync_timestamp": 1684361715
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "570142",
+            "oyveotesi_sync_timestamp": 1684361715
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

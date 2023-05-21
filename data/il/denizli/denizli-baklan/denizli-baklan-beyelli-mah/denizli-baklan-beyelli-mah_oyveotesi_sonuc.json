@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-baklan",
+        "mahalle": "BEYELLİ MAH.",
+        "ilce_adi": "BAKLAN",
+        "okul_adi": "BEYELLİ İLKOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "denizli-baklan-beyelli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 59,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 117,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1002/denizli-baklan-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585916",
+            "oyveotesi_sync_timestamp": 1684365745
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 185,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-baklan/1xxx/1002/denizli-baklan-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585916",
+            "oyveotesi_sync_timestamp": 1684365745
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-almus",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "ALMUS",
+        "okul_adi": "ALMUS ATATÜRK İLKÖĞRETİM OKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "tokat-almus-esentepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365300
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365300
+        },
+        "secim_bolge_id": "tokat"
+    },
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-almus",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "ALMUS",
+        "okul_adi": "ALMUS ATATÜRK İLKÖĞRETİM OKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "tokat-almus-esentepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 137,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 63,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-almus/1xxx/1003/tokat-almus-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "343597",
+            "oyveotesi_sync_timestamp": 1684365300
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 204
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-almus/1xxx/1003/tokat-almus-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "343597",
+            "oyveotesi_sync_timestamp": 1684365300
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

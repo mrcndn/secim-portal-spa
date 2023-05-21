@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-lapseki",
+        "mahalle": "ÇAMYURT KÖYÜ",
+        "ilce_adi": "LAPSEKİ",
+        "okul_adi": "ÇAMYURT KÖY KONAĞI",
+        "sandik_no": 1060,
+        "mahalle_id": "canakkale-lapseki-camyurt-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335582
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1060/canakkale-lapseki-1060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335582
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

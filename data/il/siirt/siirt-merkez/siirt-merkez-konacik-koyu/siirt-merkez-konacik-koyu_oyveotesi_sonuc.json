@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-merkez",
+        "mahalle": "KONACIK KÖYÜ",
+        "ilce_adi": "SİİRT MERKEZ",
+        "okul_adi": "BOSTANCIK KÖY MEYDANI",
+        "sandik_no": 1303,
+        "mahalle_id": "siirt-merkez-konacik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360936
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 41,
+            "sayim_sonuc": {
+                "TOPLAM": 41,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-merkez/1xxx/1303/siirt-merkez-1303-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360936
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-develi",
+        "mahalle": "ÇUKURYURT MAH.",
+        "ilce_adi": "DEVELİ",
+        "okul_adi": "ÇUKURYURT İÖO",
+        "sandik_no": 1051,
+        "mahalle_id": "kayseri-develi-cukuryurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-develi/1xxx/1051/kayseri-develi-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "479925",
+            "oyveotesi_sync_timestamp": 1684359775
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "479925",
+            "oyveotesi_sync_timestamp": 1684359775
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

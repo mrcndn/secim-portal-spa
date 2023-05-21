@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "GÜZELKÖY MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "GÜZELKÖY MUHTARLIK TOPLANTI SALONU",
+        "sandik_no": 3214,
+        "mahalle_id": "kayseri-melikgazi-guzelkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 5,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3214/kayseri-melikgazi-3214-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822547",
+            "oyveotesi_sync_timestamp": 1684359934
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3214/kayseri-melikgazi-3214-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822547",
+            "oyveotesi_sync_timestamp": 1684359934
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

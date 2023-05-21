@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-biga",
+        "mahalle": "YENİMAHALLE KÖYÜ",
+        "ilce_adi": "BİGA",
+        "okul_adi": "YENİMAHALLE KÖYÜ İLKOKULU",
+        "sandik_no": 1264,
+        "mahalle_id": "canakkale-biga-yenimahalle-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335899
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 110
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-biga/1xxx/1264/canakkale-biga-1264-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335899
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

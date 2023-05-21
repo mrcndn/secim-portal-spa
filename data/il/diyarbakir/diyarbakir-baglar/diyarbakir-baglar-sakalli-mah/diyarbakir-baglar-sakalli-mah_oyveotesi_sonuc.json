@@ -1,0 +1,84 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-baglar",
+        "mahalle": "SAKALLI MAH.",
+        "ilce_adi": "BAĞLAR",
+        "okul_adi": "BAĞLAR 1 SAKALLI İLKOKULU",
+        "sandik_no": 1335,
+        "mahalle_id": "diyarbakir-baglar-sakalli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "SOL PARTİ": 4,
+                "İYİ PARTİ": 1,
+                "VATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1335/diyarbakir-baglar-1335-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "219270",
+            "oyveotesi_sync_timestamp": 1684336807
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 147,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1335/diyarbakir-baglar-1335-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "219270",
+            "oyveotesi_sync_timestamp": 1684336807
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-baglar",
+        "mahalle": "SAKALLI MAH.",
+        "ilce_adi": "BAĞLAR",
+        "okul_adi": "BAĞLAR 1 SAKALLI İLKOKULU",
+        "sandik_no": 1336,
+        "mahalle_id": "diyarbakir-baglar-sakalli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "SOL PARTİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1336/diyarbakir-baglar-1336-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "220024",
+            "oyveotesi_sync_timestamp": 1684336807
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 137,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1336/diyarbakir-baglar-1336-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "220024",
+            "oyveotesi_sync_timestamp": 1684336807
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "GÜNGÖRMEZ KÖYÜ",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "GÜNGÖRMEZ KÖY İLKOKULU",
+        "sandik_no": 1038,
+        "mahalle_id": "corum-mecitozu-gungormez-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 86,
+            "sayim_sonuc": {
+                "TOPLAM": 86,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1038/corum-mecitozu-1038-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805343",
+            "oyveotesi_sync_timestamp": 1684368827
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 89,
+            "sayim_sonuc": {
+                "TOPLAM": 89,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 5,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1038/corum-mecitozu-1038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805343",
+            "oyveotesi_sync_timestamp": 1684368827
+        },
+        "secim_bolge_id": "corum"
+    }
+]

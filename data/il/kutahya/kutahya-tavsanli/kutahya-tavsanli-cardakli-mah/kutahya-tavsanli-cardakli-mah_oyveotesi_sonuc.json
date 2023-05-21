@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-tavsanli",
+        "mahalle": "ÇARDAKLI MAH.",
+        "ilce_adi": "TAVŞANLI",
+        "okul_adi": "ÇARDAKLI İLKOKULU-ÇARDAKLI ORTAOKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "kutahya-tavsanli-cardakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1011/kutahya-tavsanli-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793749",
+            "oyveotesi_sync_timestamp": 1684350709
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 174
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1011/kutahya-tavsanli-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793749",
+            "oyveotesi_sync_timestamp": 1684350709
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-tavsanli",
+        "mahalle": "ÇARDAKLI MAH.",
+        "ilce_adi": "TAVŞANLI",
+        "okul_adi": "ÇARDAKLI İLKOKULU-ÇARDAKLI ORTAOKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "kutahya-tavsanli-cardakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350709
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350709
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

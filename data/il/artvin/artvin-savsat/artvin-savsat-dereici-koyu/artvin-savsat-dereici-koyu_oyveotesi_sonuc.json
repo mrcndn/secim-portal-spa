@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-savsat",
+        "mahalle": "DEREİÇİ KÖYÜ",
+        "ilce_adi": "ŞAVŞAT",
+        "okul_adi": "DEREİÇİ KÖYÜ CAMİİ MÜŞTEMİLATI",
+        "sandik_no": 1040,
+        "mahalle_id": "artvin-savsat-dereici-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 117,
+            "sayim_sonuc": {
+                "TOPLAM": 117,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-savsat/1xxx/1040/artvin-savsat-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361578
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

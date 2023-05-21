@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-gurgentepe",
+        "mahalle": "ESKİKÖY MAH.",
+        "ilce_adi": "GÜRGENTEPE",
+        "okul_adi": "ESKİKÖY MAHALLESİ--ŞEHİT SEZGİN KARACA İLK OKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "ordu-gurgentepe-eskikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-gurgentepe/1xxx/1019/ordu-gurgentepe-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360126
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-gurgentepe",
+        "mahalle": "ESKİKÖY MAH.",
+        "ilce_adi": "GÜRGENTEPE",
+        "okul_adi": "ESKİKÖY MAHALLESİ--ŞEHİT SEZGİN KARACA İLK OKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "ordu-gurgentepe-eskikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 110
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-gurgentepe/1xxx/1020/ordu-gurgentepe-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360126
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

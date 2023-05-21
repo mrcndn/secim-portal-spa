@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "GÜNGÖREN MAH.",
+        "ilce_adi": "ANAMUR",
+        "okul_adi": "GÜNGÖREN İLKÖĞRETİM OKULU",
+        "sandik_no": 1075,
+        "mahalle_id": "mersin-anamur-gungoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "İYİ PARTİ": 33,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 76,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1075/mersin-anamur-1075-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572122",
+            "oyveotesi_sync_timestamp": 1684363898
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 231
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1075/mersin-anamur-1075-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572122",
+            "oyveotesi_sync_timestamp": 1684363898
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

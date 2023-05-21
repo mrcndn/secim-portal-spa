@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "SUBAŞI KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "SUBAŞI KÖYÜ HABERAL MEVKİİ ÇAYKUR ALIM YERİNDE",
+        "sandik_no": 1092,
+        "mahalle_id": "rize-pazar-subasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355899
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 128,
+                "RECEP TAYYİP ERDOĞAN": 67
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1092/rize-pazar-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355899
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "SUBAŞI KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "SUBAŞI KÖYÜ BİRBENLER MEVKİİ İLKOKULU",
+        "sandik_no": 1091,
+        "mahalle_id": "rize-pazar-subasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355899
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355899
+        },
+        "secim_bolge_id": "rize"
+    }
+]

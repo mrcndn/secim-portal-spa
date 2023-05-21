@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "YAYLABEYİ MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "YAYLABEYİ MAH. İLKOKULU",
+        "sandik_no": 1094,
+        "mahalle_id": "ankara-haymana-yaylabeyi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "İYİ PARTİ": 25,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "175733",
+            "oyveotesi_sync_timestamp": 1684393459
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "175733",
+            "oyveotesi_sync_timestamp": 1684393459
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

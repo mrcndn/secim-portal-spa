@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-merkez",
+        "mahalle": "DEMİRBİLEK KÖYÜ",
+        "ilce_adi": "BATMAN MERKEZ",
+        "okul_adi": "DEMİRBİLEK KÖYÜ İLKOKULU",
+        "sandik_no": 2343,
+        "mahalle_id": "batman-merkez-demirbilek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 48,
+            "sayim_sonuc": {
+                "TOPLAM": 48,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/2xxx/2343/batman-merkez-2343-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836841",
+            "oyveotesi_sync_timestamp": 1684332444
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 45,
+            "sayim_sonuc": {
+                "TOPLAM": 45,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/2xxx/2343/batman-merkez-2343-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836841",
+            "oyveotesi_sync_timestamp": 1684332444
+        },
+        "secim_bolge_id": "batman"
+    }
+]

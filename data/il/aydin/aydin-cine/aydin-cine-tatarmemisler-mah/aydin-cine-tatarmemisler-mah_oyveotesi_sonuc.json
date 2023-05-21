@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-cine",
+        "mahalle": "TATARMEMİŞLER MAH.",
+        "ilce_adi": "ÇİNE",
+        "okul_adi": "TATARMEMİŞLER ESKİ İLKOKULU",
+        "sandik_no": 1135,
+        "mahalle_id": "aydin-cine-tatarmemisler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394280
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 110
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-cine/1xxx/1135/aydin-cine-1135-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394280
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

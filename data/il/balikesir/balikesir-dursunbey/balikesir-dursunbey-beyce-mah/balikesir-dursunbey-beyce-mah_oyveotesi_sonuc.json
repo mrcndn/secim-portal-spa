@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-dursunbey",
+        "mahalle": "BEYCE MAH.",
+        "ilce_adi": "DURSUNBEY",
+        "okul_adi": "BEYCE KÖYÜ KONAĞI",
+        "sandik_no": 1015,
+        "mahalle_id": "balikesir-dursunbey-beyce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 73,
+            "sayim_sonuc": {
+                "TOPLAM": 73,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 43,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1015/balikesir-dursunbey-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823779",
+            "oyveotesi_sync_timestamp": 1684331643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1015/balikesir-dursunbey-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823779",
+            "oyveotesi_sync_timestamp": 1684331643
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

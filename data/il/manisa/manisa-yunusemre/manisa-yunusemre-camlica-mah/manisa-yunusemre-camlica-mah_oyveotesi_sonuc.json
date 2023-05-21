@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "ÇAMLICA MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "ÇAMLICA İLKOKULU",
+        "sandik_no": 1141,
+        "mahalle_id": "manisa-yunusemre-camlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397689
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 95
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1141/manisa-yunusemre-1141-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397689
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "ÇAMLICA MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "ÇAMLICA İLKOKULU",
+        "sandik_no": 1140,
+        "mahalle_id": "manisa-yunusemre-camlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1140/manisa-yunusemre-1140-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "720136",
+            "oyveotesi_sync_timestamp": 1684397689
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 12,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1140/manisa-yunusemre-1140-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "720136",
+            "oyveotesi_sync_timestamp": 1684397689
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

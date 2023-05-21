@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "DEMİRÖREN KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "DEMİRÖREN KÖY İLKOKULU",
+        "sandik_no": 1502,
+        "mahalle_id": "usak-merkez-demiroren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1502/usak-merkez-1502-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815460",
+            "oyveotesi_sync_timestamp": 1684369671
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1502/usak-merkez-1502-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815460",
+            "oyveotesi_sync_timestamp": 1684369671
+        },
+        "secim_bolge_id": "usak"
+    }
+]

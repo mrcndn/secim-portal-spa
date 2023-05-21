@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "GEDİKPINAR MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "GEDİKPINAR İLKOKULU",
+        "sandik_no": 2130,
+        "mahalle_id": "bursa-inegol-gedikpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334666
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 88,
+            "sayim_sonuc": {
+                "TOPLAM": 88,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334666
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

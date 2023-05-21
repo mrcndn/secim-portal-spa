@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-merkez",
+        "mahalle": "GÖLÖREN KÖYÜ",
+        "ilce_adi": "KARABÜK MERKEZ",
+        "okul_adi": "GÖLÖREN KÖYÜ KÖY ODASI",
+        "sandik_no": 1263,
+        "mahalle_id": "karabuk-merkez-goloren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "İYİ PARTİ": 8,
+                "YENİDEN REFAH PARTİSİ": 28,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-merkez/1xxx/1263/karabuk-merkez-1263-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "551638",
+            "oyveotesi_sync_timestamp": 1684346109
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "551638",
+            "oyveotesi_sync_timestamp": 1684346109
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

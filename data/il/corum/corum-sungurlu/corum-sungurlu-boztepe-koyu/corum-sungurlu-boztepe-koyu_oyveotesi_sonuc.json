@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-sungurlu",
+        "mahalle": "BOZTEPE KÖYÜ",
+        "ilce_adi": "SUNGURLU",
+        "okul_adi": "BOZTEPE KÖY YEMEKHANESİ",
+        "sandik_no": 1092,
+        "mahalle_id": "corum-sungurlu-boztepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "ZAFER PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-sungurlu/1xxx/1092/corum-sungurlu-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836654",
+            "oyveotesi_sync_timestamp": 1684369083
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 2,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-sungurlu/1xxx/1092/corum-sungurlu-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836654",
+            "oyveotesi_sync_timestamp": 1684369083
+        },
+        "secim_bolge_id": "corum"
+    }
+]

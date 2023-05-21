@@ -1,0 +1,104 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-yalvac",
+        "mahalle": "LEBLEBİCİLER MAH.",
+        "ilce_adi": "YALVAÇ",
+        "okul_adi": "GAZİPAŞA İLKOKULU",
+        "sandik_no": 1036,
+        "mahalle_id": "isparta-yalvac-leblebiciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344360
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-yalvac",
+        "mahalle": "LEBLEBİCİLER MAH.",
+        "ilce_adi": "YALVAÇ",
+        "okul_adi": "GAZİPAŞA İLKOKULU",
+        "sandik_no": 1035,
+        "mahalle_id": "isparta-yalvac-leblebiciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 28,
+                "KEMAL KILIÇDAROĞLU": 118,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-yalvac/1xxx/1035/isparta-yalvac-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344360
+        },
+        "secim_bolge_id": "isparta"
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-yalvac",
+        "mahalle": "LEBLEBİCİLER MAH.",
+        "ilce_adi": "YALVAÇ",
+        "okul_adi": "GAZİPAŞA İLKOKULU",
+        "sandik_no": 1037,
+        "mahalle_id": "isparta-yalvac-leblebiciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 34,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 57,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-yalvac/1xxx/1037/isparta-yalvac-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "235488",
+            "oyveotesi_sync_timestamp": 1684344360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-yalvac/1xxx/1037/isparta-yalvac-1037-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "235488",
+            "oyveotesi_sync_timestamp": 1684344360
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "AKÇAKOYUN MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "AKÇAKOYUN MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1004,
+        "mahalle_id": "bursa-karacabey-akcakoyun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 11,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "433112",
+            "oyveotesi_sync_timestamp": 1684334794
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 102
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "433112",
+            "oyveotesi_sync_timestamp": 1684334794
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

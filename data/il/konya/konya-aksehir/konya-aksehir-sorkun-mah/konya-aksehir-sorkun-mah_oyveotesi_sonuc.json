@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-aksehir",
+        "mahalle": "SORKUN MAH.",
+        "ilce_adi": "AKŞEHİR",
+        "okul_adi": "SORKUN ATATÜRK İLKOKULU",
+        "sandik_no": 1144,
+        "mahalle_id": "konya-aksehir-sorkun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "İYİ PARTİ": 53,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "ADALET VE KALKINMA PARTİSİ": 186,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-aksehir/1xxx/1144/konya-aksehir-1144-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "439809",
+            "oyveotesi_sync_timestamp": 1684355291
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 244
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-aksehir/1xxx/1144/konya-aksehir-1144-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "439809",
+            "oyveotesi_sync_timestamp": 1684355291
+        },
+        "secim_bolge_id": "konya"
+    }
+]

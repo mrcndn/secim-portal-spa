@@ -1,0 +1,53 @@
+[
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "SAKABAŞI MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "19 MAYIS İLKOKULU",
+        "sandik_no": 1249,
+        "mahalle_id": "karaman-merkez-sakabasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 48,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1249/karaman-merkez-1249-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1007488",
+            "oyveotesi_sync_timestamp": 1684346599
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1007488",
+            "oyveotesi_sync_timestamp": 1684346599
+        },
+        "secim_bolge_id": "karaman"
+    }
+]

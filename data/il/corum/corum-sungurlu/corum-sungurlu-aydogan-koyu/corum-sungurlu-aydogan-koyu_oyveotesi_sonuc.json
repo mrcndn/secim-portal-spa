@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-sungurlu",
+        "mahalle": "AYDOĞAN KÖYÜ",
+        "ilce_adi": "SUNGURLU",
+        "okul_adi": "AKPINAR KÖYÜ KONAĞI",
+        "sandik_no": 1083,
+        "mahalle_id": "corum-sungurlu-aydogan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368967
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-sungurlu/1xxx/1083/corum-sungurlu-1083-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368967
+        },
+        "secim_bolge_id": "corum"
+    }
+]

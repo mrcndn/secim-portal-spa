@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-turgutlu",
+        "mahalle": "DALBAHÇE MAH.",
+        "ilce_adi": "TURGUTLU",
+        "okul_adi": "DALBAHÇE İLKOKULU",
+        "sandik_no": 1108,
+        "mahalle_id": "manisa-turgutlu-dalbahce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397593
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 196
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-turgutlu/1xxx/1108/manisa-turgutlu-1108-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397593
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-turgutlu",
+        "mahalle": "DALBAHÇE MAH.",
+        "ilce_adi": "TURGUTLU",
+        "okul_adi": "DALBAHÇE İLKOKULU",
+        "sandik_no": 1109,
+        "mahalle_id": "manisa-turgutlu-dalbahce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397593
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 69,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-turgutlu/1xxx/1109/manisa-turgutlu-1109-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397593
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

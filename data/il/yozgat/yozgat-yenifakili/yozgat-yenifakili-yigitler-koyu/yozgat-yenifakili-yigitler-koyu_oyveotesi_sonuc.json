@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-yenifakili",
+        "mahalle": "YİĞİTLER KÖYÜ",
+        "ilce_adi": "YENİFAKILI",
+        "okul_adi": "KÖY İLKOKULU (YİĞİTLER)",
+        "sandik_no": 1020,
+        "mahalle_id": "yozgat-yenifakili-yigitler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 66,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yenifakili/1xxx/1020/yozgat-yenifakili-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601265",
+            "oyveotesi_sync_timestamp": 1684396058
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yenifakili/1xxx/1020/yozgat-yenifakili-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601265",
+            "oyveotesi_sync_timestamp": 1684396058
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

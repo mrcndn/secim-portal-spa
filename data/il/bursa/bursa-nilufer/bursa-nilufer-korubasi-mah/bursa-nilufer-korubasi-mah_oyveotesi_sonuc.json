@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-nilufer",
+        "mahalle": "KORUBAŞI MAH.",
+        "ilce_adi": "NİLÜFER",
+        "okul_adi": "KORUBAŞI ESKİ İLKOKULU",
+        "sandik_no": 2369,
+        "mahalle_id": "bursa-nilufer-korubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 132,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "834535",
+            "oyveotesi_sync_timestamp": 1684335156
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 162
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "834535",
+            "oyveotesi_sync_timestamp": 1684335156
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

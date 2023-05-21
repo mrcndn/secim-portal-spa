@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "KAVAKLIOLUK MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "KAVAKLIOLUK İLKOKULU",
+        "sandik_no": 2133,
+        "mahalle_id": "hatay-iskenderun-kavaklioluk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2133/hatay-iskenderun-2133-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "804513",
+            "oyveotesi_sync_timestamp": 1684375779
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2133/hatay-iskenderun-2133-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "804513",
+            "oyveotesi_sync_timestamp": 1684375779
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

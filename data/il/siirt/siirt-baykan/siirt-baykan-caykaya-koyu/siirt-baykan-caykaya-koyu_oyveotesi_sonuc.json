@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-baykan",
+        "mahalle": "ÇAYKAYA KÖYÜ",
+        "ilce_adi": "BAYKAN",
+        "okul_adi": "ÇAYKAYA İLKOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "siirt-baykan-caykaya-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364201
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-baykan/1xxx/1033/siirt-baykan-1033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364201
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

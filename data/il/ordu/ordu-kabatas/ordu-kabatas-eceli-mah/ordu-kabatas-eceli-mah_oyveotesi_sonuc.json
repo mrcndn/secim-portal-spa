@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "ECELİ MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "ECELİ İLKOKULU (ECELİ MAHALLESİ)",
+        "sandik_no": 1012,
+        "mahalle_id": "ordu-kabatas-eceli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 169,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 57,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1012/ordu-kabatas-1012-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "580287",
+            "oyveotesi_sync_timestamp": 1684360439
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 255
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1012/ordu-kabatas-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "580287",
+            "oyveotesi_sync_timestamp": 1684360439
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "ÇAL MAH.",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "ÇAL MAH.ŞEHİT MURAT USTAOĞLU ANADOLU LİSESİ",
+        "sandik_no": 1007,
+        "mahalle_id": "cankiri-kursunlu-cal-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 102,
+            "sayim_sonuc": {
+                "TOPLAM": 102,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 54,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1007/cankiri-kursunlu-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "712305",
+            "oyveotesi_sync_timestamp": 1684336598
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1007/cankiri-kursunlu-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "712305",
+            "oyveotesi_sync_timestamp": 1684336598
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

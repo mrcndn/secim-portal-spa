@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-arpacay",
+        "mahalle": "BACIOĞLU KÖYÜ",
+        "ilce_adi": "ARPAÇAY",
+        "okul_adi": "BACIOĞLU KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "kars-arpacay-bacioglu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "İYİ PARTİ": 18,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-arpacay/1xxx/1013/kars-arpacay-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572828",
+            "oyveotesi_sync_timestamp": 1684346336
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-arpacay/1xxx/1013/kars-arpacay-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572828",
+            "oyveotesi_sync_timestamp": 1684346336
+        },
+        "secim_bolge_id": "kars"
+    }
+]

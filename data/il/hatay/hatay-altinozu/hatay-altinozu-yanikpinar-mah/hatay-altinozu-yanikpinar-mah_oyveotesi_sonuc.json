@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-altinozu",
+        "mahalle": "YANIKPINAR MAH.",
+        "ilce_adi": "ALTINÖZÜ",
+        "okul_adi": "YANIKPINAR İLKOKULU",
+        "sandik_no": 1108,
+        "mahalle_id": "hatay-altinozu-yanikpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 104,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-altinozu/1xxx/1108/hatay-altinozu-1108-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "386332",
+            "oyveotesi_sync_timestamp": 1684375220
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "386332",
+            "oyveotesi_sync_timestamp": 1684375220
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

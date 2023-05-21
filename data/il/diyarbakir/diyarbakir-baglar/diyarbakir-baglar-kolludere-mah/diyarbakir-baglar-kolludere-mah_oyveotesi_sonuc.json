@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-baglar",
+        "mahalle": "KOLLUDERE MAH.",
+        "ilce_adi": "BAĞLAR",
+        "okul_adi": "BAĞLAR 1 TAŞDİREK İLKOKULU",
+        "sandik_no": 1304,
+        "mahalle_id": "diyarbakir-baglar-kolludere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 169
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1304/diyarbakir-baglar-1304-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819871",
+            "oyveotesi_sync_timestamp": 1684336797
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 176,
+                "RECEP TAYYİP ERDOĞAN": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1304/diyarbakir-baglar-1304-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819871",
+            "oyveotesi_sync_timestamp": 1684336797
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-baglar",
+        "mahalle": "KOLLUDERE MAH.",
+        "ilce_adi": "BAĞLAR",
+        "okul_adi": "BAĞLAR 1 TAŞDİREK İLKOKULU",
+        "sandik_no": 1305,
+        "mahalle_id": "diyarbakir-baglar-kolludere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "MEMLEKET PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1305/diyarbakir-baglar-1305-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "267466",
+            "oyveotesi_sync_timestamp": 1684336797
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 194,
+                "RECEP TAYYİP ERDOĞAN": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-baglar/1xxx/1305/diyarbakir-baglar-1305-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "267466",
+            "oyveotesi_sync_timestamp": 1684336797
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

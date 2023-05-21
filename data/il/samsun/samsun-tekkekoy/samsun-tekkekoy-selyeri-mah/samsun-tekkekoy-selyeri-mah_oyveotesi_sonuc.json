@@ -1,0 +1,95 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-tekkekoy",
+        "mahalle": "SELYERİ MAH.",
+        "ilce_adi": "TEKKEKÖY",
+        "okul_adi": "TURGUT TÜFENK İLKOKULU-ORTAOKULU",
+        "sandik_no": 1121,
+        "mahalle_id": "samsun-tekkekoy-selyeri-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 350,
+            "sayim_sonuc": {
+                "TOPLAM": 350,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 62,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 139,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-tekkekoy/1xxx/1121/samsun-tekkekoy-1121-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514742",
+            "oyveotesi_sync_timestamp": 1684367830
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 355,
+            "sayim_sonuc": {
+                "TOPLAM": 355,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 209
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-tekkekoy/1xxx/1121/samsun-tekkekoy-1121-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514742",
+            "oyveotesi_sync_timestamp": 1684367830
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-tekkekoy",
+        "mahalle": "SELYERİ MAH.",
+        "ilce_adi": "TEKKEKÖY",
+        "okul_adi": "TURGUT TÜFENK İLKOKULU-ORTAOKULU",
+        "sandik_no": 1120,
+        "mahalle_id": "samsun-tekkekoy-selyeri-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "İYİ PARTİ": 41,
+                "ZAFER PARTİSİ": 11,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 22,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "ADALET VE KALKINMA PARTİSİ": 163,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-tekkekoy/1xxx/1120/samsun-tekkekoy-1120-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514746",
+            "oyveotesi_sync_timestamp": 1684367830
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 223
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-tekkekoy/1xxx/1120/samsun-tekkekoy-1120-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514746",
+            "oyveotesi_sync_timestamp": 1684367830
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

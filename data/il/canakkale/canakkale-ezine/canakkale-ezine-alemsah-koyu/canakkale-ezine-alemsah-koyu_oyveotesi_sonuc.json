@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ezine",
+        "mahalle": "ALEMŞAH KÖYÜ",
+        "ilce_adi": "EZİNE",
+        "okul_adi": "ALEMŞAH KÖY KONAĞI",
+        "sandik_no": 1046,
+        "mahalle_id": "canakkale-ezine-alemsah-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1046/canakkale-ezine-1046-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821079",
+            "oyveotesi_sync_timestamp": 1684336063
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1046/canakkale-ezine-1046-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821079",
+            "oyveotesi_sync_timestamp": 1684336063
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

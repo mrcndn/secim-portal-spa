@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ayvacik",
+        "mahalle": "GÜLTEPE MAH.",
+        "ilce_adi": "AYVACIK",
+        "okul_adi": "GÜLTEPE CAMİ LOJMANI TOPLANTI SALONU",
+        "sandik_no": 1021,
+        "mahalle_id": "samsun-ayvacik-gultepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 13,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ayvacik/1xxx/1021/samsun-ayvacik-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536794",
+            "oyveotesi_sync_timestamp": 1684367453
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 185,
+            "sayim_sonuc": {
+                "TOPLAM": 185,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ayvacik/1xxx/1021/samsun-ayvacik-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536794",
+            "oyveotesi_sync_timestamp": 1684367453
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

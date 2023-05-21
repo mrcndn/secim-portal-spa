@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "MUDARLI MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "MUDARLI İLKOKULU",
+        "sandik_no": 2282,
+        "mahalle_id": "kocaeli-gebze-mudarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 353,
+            "sayim_sonuc": {
+                "TOPLAM": 353,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 47,
+                "ZAFER PARTİSİ": 16,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/2xxx/2282/kocaeli-gebze-2282-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "653660",
+            "oyveotesi_sync_timestamp": 1684349744
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 361,
+            "sayim_sonuc": {
+                "TOPLAM": 361,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 235
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/2xxx/2282/kocaeli-gebze-2282-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "653660",
+            "oyveotesi_sync_timestamp": 1684349744
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

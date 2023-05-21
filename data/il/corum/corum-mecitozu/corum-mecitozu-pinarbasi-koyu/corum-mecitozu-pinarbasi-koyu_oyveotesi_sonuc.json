@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "PINARBAŞI KÖYÜ",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "PINARBAŞI KÖY İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "corum-mecitozu-pinarbasi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1056/corum-mecitozu-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "806954",
+            "oyveotesi_sync_timestamp": 1684368843
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1056/corum-mecitozu-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "806954",
+            "oyveotesi_sync_timestamp": 1684368843
+        },
+        "secim_bolge_id": "corum"
+    }
+]

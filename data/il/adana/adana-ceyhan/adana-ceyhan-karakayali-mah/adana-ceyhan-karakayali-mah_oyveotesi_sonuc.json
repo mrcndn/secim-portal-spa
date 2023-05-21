@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "KARAKAYALI MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "KARAKAYALI-İLKOKULU",
+        "sandik_no": 1192,
+        "mahalle_id": "adana-ceyhan-karakayali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 36,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-ceyhan/1xxx/1192/adana-ceyhan-1192-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750707",
+            "oyveotesi_sync_timestamp": 1684371577
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "750707",
+            "oyveotesi_sync_timestamp": 1684371577
+        },
+        "secim_bolge_id": "adana"
+    }
+]

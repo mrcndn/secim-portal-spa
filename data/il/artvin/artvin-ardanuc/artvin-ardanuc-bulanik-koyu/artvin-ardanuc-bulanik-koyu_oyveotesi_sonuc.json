@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-ardanuc",
+        "mahalle": "BULANIK KÖYÜ",
+        "ilce_adi": "ARDANUÇ",
+        "okul_adi": "BULANIK İLKÖĞRETİM OKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "artvin-ardanuc-bulanik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 157,
+            "sayim_sonuc": {
+                "TOPLAM": 157,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 58,
+                "MEMLEKET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1026/artvin-ardanuc-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830418",
+            "oyveotesi_sync_timestamp": 1684361623
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1026/artvin-ardanuc-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830418",
+            "oyveotesi_sync_timestamp": 1684361623
+        },
+        "secim_bolge_id": "artvin"
+    },
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-ardanuc",
+        "mahalle": "BULANIK KÖYÜ",
+        "ilce_adi": "ARDANUÇ",
+        "okul_adi": "KİRAZLI İLKÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "artvin-ardanuc-bulanik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361623
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 88,
+            "sayim_sonuc": {
+                "TOPLAM": 88,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1027/artvin-ardanuc-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361623
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

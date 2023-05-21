@@ -1,0 +1,93 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "KÜÇÜKMEHMET KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "KÜÇÜKMEHMET KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1500,
+        "mahalle_id": "duzce-merkez-kucukmehmet-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 95,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1500/duzce-merkez-1500-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "548688",
+            "oyveotesi_sync_timestamp": 1684338104
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1500/duzce-merkez-1500-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "548688",
+            "oyveotesi_sync_timestamp": 1684338104
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "KÜÇÜKMEHMET KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "KÜÇÜKMEHMET KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1499,
+        "mahalle_id": "duzce-merkez-kucukmehmet-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "GENÇ PARTİ": 4,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 116,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1499/duzce-merkez-1499-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "817443",
+            "oyveotesi_sync_timestamp": 1684338104
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 185,
+            "sayim_sonuc": {
+                "TOPLAM": 185,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1499/duzce-merkez-1499-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "817443",
+            "oyveotesi_sync_timestamp": 1684338104
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-akincilar",
+        "mahalle": "ÇİÇEKLİ KÖYÜ",
+        "ilce_adi": "AKINCILAR",
+        "okul_adi": "ÇİÇEKLİ KÖYÜ CAMİ AVLUSU",
+        "sandik_no": 1016,
+        "mahalle_id": "sivas-akincilar-cicekli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684358471
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-akincilar/1xxx/1016/sivas-akincilar-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684358471
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "kirsehir",
+        "il_adi": "KIRŞEHİR",
+        "il_kodu": 40,
+        "ilce_id": "kirsehir-kaman",
+        "mahalle": "ESENTEPE KÖYÜ",
+        "ilce_adi": "KAMAN",
+        "okul_adi": "ESENTEPE KÖYÜ KÖY İLKOKULU",
+        "sandik_no": 1069,
+        "mahalle_id": "kirsehir-kaman-esentepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 56,
+            "sayim_sonuc": {
+                "TOPLAM": 56,
+                "İYİ PARTİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirsehir-tutanaklari/blob/main/tutanak/kirsehir/kirsehir-kaman/1xxx/1069/kirsehir-kaman-1069-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179263",
+            "oyveotesi_sync_timestamp": 1684349433
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirsehir-tutanaklari/blob/main/tutanak/kirsehir/kirsehir-kaman/1xxx/1069/kirsehir-kaman-1069-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179263",
+            "oyveotesi_sync_timestamp": 1684349433
+        },
+        "secim_bolge_id": "kirsehir"
+    }
+]

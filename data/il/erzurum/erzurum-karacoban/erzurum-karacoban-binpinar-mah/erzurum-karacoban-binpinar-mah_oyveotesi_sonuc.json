@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-karacoban",
+        "mahalle": "BİNPINAR MAH.",
+        "ilce_adi": "KARAÇOBAN",
+        "okul_adi": "BİNPINAR KÖŞK SK İLKÖĞRETİM OKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "erzurum-karacoban-binpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340658
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340658
+        },
+        "secim_bolge_id": "erzurum"
+    },
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-karacoban",
+        "mahalle": "BİNPINAR MAH.",
+        "ilce_adi": "KARAÇOBAN",
+        "okul_adi": "BİNPINAR MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "erzurum-karacoban-binpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340658
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340658
+        },
+        "secim_bolge_id": "erzurum"
+    },
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-karacoban",
+        "mahalle": "BİNPINAR MAH.",
+        "ilce_adi": "KARAÇOBAN",
+        "okul_adi": "BİNPINAR MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "erzurum-karacoban-binpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 213
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-karacoban/1xxx/1010/erzurum-karacoban-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "340177",
+            "oyveotesi_sync_timestamp": 1684340658
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "340177",
+            "oyveotesi_sync_timestamp": 1684340658
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

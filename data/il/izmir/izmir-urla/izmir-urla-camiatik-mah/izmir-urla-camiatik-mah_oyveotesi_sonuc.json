@@ -1,0 +1,106 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-urla",
+        "mahalle": "CAMİATİK MAH.",
+        "ilce_adi": "URLA",
+        "okul_adi": "URLA AYŞE HAFSA SULTAN ÖZEL EĞİTİM ANAOKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "izmir-urla-camiatik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 34,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 161,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "525968",
+            "oyveotesi_sync_timestamp": 1684362948
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 216,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "525968",
+            "oyveotesi_sync_timestamp": 1684362948
+        },
+        "secim_bolge_id": "izmir1"
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-urla",
+        "mahalle": "CAMİATİK MAH.",
+        "ilce_adi": "URLA",
+        "okul_adi": "URLA AYŞE HAFSA SULTAN ÖZEL EĞİTİM ANAOKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "izmir-urla-camiatik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 303,
+            "sayim_sonuc": {
+                "TOPLAM": 303,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 44,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 128,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 20
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "531132",
+            "oyveotesi_sync_timestamp": 1684362948
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 308,
+            "sayim_sonuc": {
+                "TOPLAM": 308,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 187,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "531132",
+            "oyveotesi_sync_timestamp": 1684362948
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

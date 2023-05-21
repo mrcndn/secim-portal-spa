@@ -1,0 +1,103 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-demirci",
+        "mahalle": "HACIHAMZA MAH.",
+        "ilce_adi": "DEMİRCİ",
+        "okul_adi": "İMAM HATİP ORTAOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "manisa-demirci-hacihamza-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 68,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-demirci/1xxx/1056/manisa-demirci-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815637",
+            "oyveotesi_sync_timestamp": 1684397552
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-demirci/1xxx/1056/manisa-demirci-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815637",
+            "oyveotesi_sync_timestamp": 1684397552
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-demirci",
+        "mahalle": "HACIHAMZA MAH.",
+        "ilce_adi": "DEMİRCİ",
+        "okul_adi": "İMAM HATİP ORTAOKULU",
+        "sandik_no": 1057,
+        "mahalle_id": "manisa-demirci-hacihamza-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397552
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-demirci/1xxx/1057/manisa-demirci-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397552
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-demirci",
+        "mahalle": "HACIHAMZA MAH.",
+        "ilce_adi": "DEMİRCİ",
+        "okul_adi": "İMAM HATİP ORTAOKULU",
+        "sandik_no": 1058,
+        "mahalle_id": "manisa-demirci-hacihamza-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397552
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397552
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

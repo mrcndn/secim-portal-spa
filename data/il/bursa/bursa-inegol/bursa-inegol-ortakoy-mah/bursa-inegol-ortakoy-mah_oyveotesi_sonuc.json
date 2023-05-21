@@ -1,0 +1,85 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "ORTAKÖY MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "ORTAKÖY SÜLEYMAN EZİM İLKOKULU VE ORTAOKULU",
+        "sandik_no": 1202,
+        "mahalle_id": "bursa-inegol-ortakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 22,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 22,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "ADALET VE KALKINMA PARTİSİ": 144,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "742008",
+            "oyveotesi_sync_timestamp": 1684334710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 69,
+                "RECEP TAYYİP ERDOĞAN": 181
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "742008",
+            "oyveotesi_sync_timestamp": 1684334710
+        },
+        "secim_bolge_id": "bursa2"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "ORTAKÖY MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "ORTAKÖY SÜLEYMAN EZİM İLKOKULU VE ORTAOKULU",
+        "sandik_no": 1203,
+        "mahalle_id": "bursa-inegol-ortakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "734409",
+            "oyveotesi_sync_timestamp": 1684334710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "734409",
+            "oyveotesi_sync_timestamp": 1684334710
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

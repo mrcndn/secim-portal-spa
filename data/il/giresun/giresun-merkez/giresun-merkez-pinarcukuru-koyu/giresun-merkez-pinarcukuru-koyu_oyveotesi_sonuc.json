@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "PINARÇUKURU KÖYÜ",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "PINARÇUKURU KÖYÜ-İLKOKULU",
+        "sandik_no": 1312,
+        "mahalle_id": "giresun-merkez-pinarcukuru-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343139
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1312/giresun-merkez-1312-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343139
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

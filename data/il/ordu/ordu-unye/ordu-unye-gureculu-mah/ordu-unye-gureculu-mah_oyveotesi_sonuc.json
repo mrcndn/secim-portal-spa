@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "GÜRECÜLÜ MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "GÜRECÜLÜ MAH. YAŞAR GAZİ İLKOKULU",
+        "sandik_no": 1176,
+        "mahalle_id": "ordu-unye-gureculu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360258
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 234
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-unye/1xxx/1176/ordu-unye-1176-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360258
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "GÜRECÜLÜ MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "GÜRECÜLÜ MAH. YAŞAR GAZİ İLKOKULU",
+        "sandik_no": 1177,
+        "mahalle_id": "ordu-unye-gureculu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "İYİ PARTİ": 30,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 180,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-unye/1xxx/1177/ordu-unye-1177-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "611971",
+            "oyveotesi_sync_timestamp": 1684360258
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 40,
+                "RECEP TAYYİP ERDOĞAN": 238
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-unye/1xxx/1177/ordu-unye-1177-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "611971",
+            "oyveotesi_sync_timestamp": 1684360258
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

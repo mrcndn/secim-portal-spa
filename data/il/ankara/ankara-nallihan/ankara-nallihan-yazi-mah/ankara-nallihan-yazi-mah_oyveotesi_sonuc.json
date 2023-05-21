@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "YAZI MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "SAKARYA ORTAOKULU (YAZI MAH.)",
+        "sandik_no": 1114,
+        "mahalle_id": "ankara-nallihan-yazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376126
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "YAZI MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "SAKARYA ORTAOKULU (YAZI MAH.)",
+        "sandik_no": 1115,
+        "mahalle_id": "ankara-nallihan-yazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 165
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376126
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

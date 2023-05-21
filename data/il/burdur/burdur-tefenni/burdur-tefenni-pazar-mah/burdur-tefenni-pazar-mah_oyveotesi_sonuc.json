@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "PAZAR MAH.",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "ANADOLU İMAM HATİP LİSESİ",
+        "sandik_no": 1010,
+        "mahalle_id": "burdur-tefenni-pazar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334583
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 23,
+                "KEMAL KILIÇDAROĞLU": 121,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1010/burdur-tefenni-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334583
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "PAZAR MAH.",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "ANADOLU İMAM HATİP LİSESİ",
+        "sandik_no": 1011,
+        "mahalle_id": "burdur-tefenni-pazar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334583
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1011/burdur-tefenni-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334583
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

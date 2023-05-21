@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-ibradi",
+        "mahalle": "AYDINYAYLA MAH.",
+        "ilce_adi": "İBRADI",
+        "okul_adi": "AYDINYAYLA MAH.İLKOKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "antalya-ibradi-aydinyayla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-ibradi/1xxx/1003/antalya-ibradi-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536108",
+            "oyveotesi_sync_timestamp": 1684325781
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-ibradi/1xxx/1003/antalya-ibradi-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536108",
+            "oyveotesi_sync_timestamp": 1684325781
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

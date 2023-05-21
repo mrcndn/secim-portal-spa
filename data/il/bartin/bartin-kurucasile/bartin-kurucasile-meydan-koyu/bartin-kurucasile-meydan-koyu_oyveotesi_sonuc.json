@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-kurucasile",
+        "mahalle": "MEYDAN KÖYÜ",
+        "ilce_adi": "KURUCAŞİLE",
+        "okul_adi": "MEYDAN KÖYÜ KÖY TOPLANTI SALONU",
+        "sandik_no": 1026,
+        "mahalle_id": "bartin-kurucasile-meydan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 126,
+            "sayim_sonuc": {
+                "TOPLAM": 126,
+                "SOL PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1026/bartin-kurucasile-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "462484",
+            "oyveotesi_sync_timestamp": 1684331175
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1026/bartin-kurucasile-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "462484",
+            "oyveotesi_sync_timestamp": 1684331175
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

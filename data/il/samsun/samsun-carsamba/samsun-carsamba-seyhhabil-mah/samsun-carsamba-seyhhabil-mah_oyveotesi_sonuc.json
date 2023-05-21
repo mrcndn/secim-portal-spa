@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-carsamba",
+        "mahalle": "ŞEYHHABİL MAH.",
+        "ilce_adi": "ÇARŞAMBA",
+        "okul_adi": "ŞEYHABİL İLKOKULU",
+        "sandik_no": 1304,
+        "mahalle_id": "samsun-carsamba-seyhhabil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 6,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-carsamba/1xxx/1304/samsun-carsamba-1304-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "222234",
+            "oyveotesi_sync_timestamp": 1684368173
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 187
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-carsamba/1xxx/1304/samsun-carsamba-1304-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "222234",
+            "oyveotesi_sync_timestamp": 1684368173
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-inegol",
+        "mahalle": "MURATBEY MAH.",
+        "ilce_adi": "İNEGÖL",
+        "okul_adi": "MURATBEY KÖY KONAĞI",
+        "sandik_no": 1182,
+        "mahalle_id": "bursa-inegol-muratbey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 120,
+            "sayim_sonuc": {
+                "TOPLAM": 120,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "793106",
+            "oyveotesi_sync_timestamp": 1684334707
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 121,
+            "sayim_sonuc": {
+                "TOPLAM": 121,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "793106",
+            "oyveotesi_sync_timestamp": 1684334707
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

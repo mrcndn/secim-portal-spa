@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "KIZILAY MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "İNÖNÜ İLKOKULU",
+        "sandik_no": 1187,
+        "mahalle_id": "erzincan-merkez-kizilay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 61,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 154,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 67,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1187/erzincan-merkez-1187-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "800698",
+            "oyveotesi_sync_timestamp": 1684339547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 228
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1187/erzincan-merkez-1187-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "800698",
+            "oyveotesi_sync_timestamp": 1684339547
+        },
+        "secim_bolge_id": "erzincan"
+    },
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "KIZILAY MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "İNÖNÜ İLKOKULU",
+        "sandik_no": 1186,
+        "mahalle_id": "erzincan-merkez-kizilay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "ADALET VE KALKINMA PARTİSİ": 157,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 65,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1186/erzincan-merkez-1186-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "770137",
+            "oyveotesi_sync_timestamp": 1684339547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 228
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1186/erzincan-merkez-1186-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "770137",
+            "oyveotesi_sync_timestamp": 1684339547
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

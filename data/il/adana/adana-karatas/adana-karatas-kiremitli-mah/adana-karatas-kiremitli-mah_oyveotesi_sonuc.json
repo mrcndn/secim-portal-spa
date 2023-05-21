@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-karatas",
+        "mahalle": "KİREMİTLİ MAH.",
+        "ilce_adi": "KARATAŞ",
+        "okul_adi": "KİREMİTLİ MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1043,
+        "mahalle_id": "adana-karatas-kiremitli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371176
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-karatas/1xxx/1043/adana-karatas-1043-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371176
+        },
+        "secim_bolge_id": "adana"
+    }
+]

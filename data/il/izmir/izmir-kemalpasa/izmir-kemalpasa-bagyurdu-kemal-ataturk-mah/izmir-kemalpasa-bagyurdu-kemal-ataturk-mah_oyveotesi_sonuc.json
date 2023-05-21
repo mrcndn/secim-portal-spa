@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-kemalpasa",
+        "mahalle": "BAĞYURDU KEMAL ATATÜRK MAH.",
+        "ilce_adi": "KEMALPAŞA",
+        "okul_adi": "ESKİ İZCİ OKULU",
+        "sandik_no": 1059,
+        "mahalle_id": "izmir-kemalpasa-bagyurdu-kemal-ataturk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 104,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "741907",
+            "oyveotesi_sync_timestamp": 1684362740
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "741907",
+            "oyveotesi_sync_timestamp": 1684362740
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

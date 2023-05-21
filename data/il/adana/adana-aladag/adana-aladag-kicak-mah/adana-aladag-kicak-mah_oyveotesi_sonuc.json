@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-aladag",
+        "mahalle": "KICAK MAH.",
+        "ilce_adi": "ALADAĞ",
+        "okul_adi": "KICAK ŞEHİT ARİF MAMIŞ İLKOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "adana-aladag-kicak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 42,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1028/adana-aladag-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577291",
+            "oyveotesi_sync_timestamp": 1684371635
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 156
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1028/adana-aladag-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577291",
+            "oyveotesi_sync_timestamp": 1684371635
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-aladag",
+        "mahalle": "KICAK MAH.",
+        "ilce_adi": "ALADAĞ",
+        "okul_adi": "KICAK ŞEHİT ARİF MAMIŞ İLKOKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "adana-aladag-kicak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1029/adana-aladag-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576985",
+            "oyveotesi_sync_timestamp": 1684371635
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 174
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1029/adana-aladag-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576985",
+            "oyveotesi_sync_timestamp": 1684371635
+        },
+        "secim_bolge_id": "adana"
+    }
+]

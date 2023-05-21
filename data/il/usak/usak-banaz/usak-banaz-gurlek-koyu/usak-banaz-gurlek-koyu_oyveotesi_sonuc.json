@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "GÜRLEK KÖYÜ",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "GÜRLEK KÖYÜ İLKOKULU/ORTAOKULU",
+        "sandik_no": 1074,
+        "mahalle_id": "usak-banaz-gurlek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1074/usak-banaz-1074-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "463663",
+            "oyveotesi_sync_timestamp": 1684369733
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "463663",
+            "oyveotesi_sync_timestamp": 1684369733
+        },
+        "secim_bolge_id": "usak"
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "GÜRLEK KÖYÜ",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "GÜRLEK KÖYÜ İLKOKULU/ORTAOKULU",
+        "sandik_no": 1073,
+        "mahalle_id": "usak-banaz-gurlek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369733
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1073/usak-banaz-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369733
+        },
+        "secim_bolge_id": "usak"
+    }
+]

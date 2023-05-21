@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-toroslar",
+        "mahalle": "KAVAKLIPINAR MAH.",
+        "ilce_adi": "TOROSLAR",
+        "okul_adi": "KAVAKLIPINAR MAHALLE ODASI",
+        "sandik_no": 1139,
+        "mahalle_id": "mersin-toroslar-kavaklipinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364085
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 98,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/1xxx/1139/mersin-toroslar-1139-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364085
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

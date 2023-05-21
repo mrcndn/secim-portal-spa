@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-of",
+        "mahalle": "ÇAMLITEPE MAH.",
+        "ilce_adi": "OF",
+        "okul_adi": "ÇAMLITEPE KÖY ODASI",
+        "sandik_no": 1029,
+        "mahalle_id": "trabzon-of-camlitepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366692
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1029/trabzon-of-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366692
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-of",
+        "mahalle": "ÇAMLITEPE MAH.",
+        "ilce_adi": "OF",
+        "okul_adi": "ÇAMLITEPE KÖY ODASI",
+        "sandik_no": 1030,
+        "mahalle_id": "trabzon-of-camlitepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366692
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1030/trabzon-of-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366692
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

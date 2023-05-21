@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ARICILAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "okul_adi": "ARICILAR KÖY ODASI",
+        "sandik_no": 1005,
+        "mahalle_id": "ordu-mesudiye-aricilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360520
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 43,
+            "sayim_sonuc": {
+                "TOPLAM": 43,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-mesudiye/1xxx/1005/ordu-mesudiye-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360520
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

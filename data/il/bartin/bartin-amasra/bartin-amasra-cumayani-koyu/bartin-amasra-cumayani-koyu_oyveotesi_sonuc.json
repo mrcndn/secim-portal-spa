@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "CUMAYANI KÖYÜ",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "CUMAYANI ESKİ İLKOKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "bartin-amasra-cumayani-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327752
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1021/bartin-amasra-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327752
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

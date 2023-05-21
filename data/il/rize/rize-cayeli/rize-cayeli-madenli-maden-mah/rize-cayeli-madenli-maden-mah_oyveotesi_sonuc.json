@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-cayeli",
+        "mahalle": "MADENLİ-MADEN MAH.",
+        "ilce_adi": "ÇAYELİ",
+        "okul_adi": "MADENLİ - MADEN - MUHTARLIK VE TOPLANTI ODASI",
+        "sandik_no": 1074,
+        "mahalle_id": "rize-cayeli-madenli-maden-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "ZAFER PARTİSİ": 8,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 142,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-cayeli/1xxx/1074/rize-cayeli-1074-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1021751",
+            "oyveotesi_sync_timestamp": 1684356210
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 178
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-cayeli/1xxx/1074/rize-cayeli-1074-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1021751",
+            "oyveotesi_sync_timestamp": 1684356210
+        },
+        "secim_bolge_id": "rize"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "ÇATAKBAĞYAKA MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "ÇATAKBAĞYAKA KÖY KONAĞI",
+        "sandik_no": 1029,
+        "mahalle_id": "mugla-mentese-catakbagyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1029/mugla-mentese-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "632443",
+            "oyveotesi_sync_timestamp": 1684374324
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1029/mugla-mentese-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "632443",
+            "oyveotesi_sync_timestamp": 1684374324
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

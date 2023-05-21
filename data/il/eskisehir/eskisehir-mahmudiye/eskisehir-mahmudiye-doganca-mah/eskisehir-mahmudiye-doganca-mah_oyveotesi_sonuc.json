@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-mahmudiye",
+        "mahalle": "DOĞANCA MAH.",
+        "ilce_adi": "MAHMUDİYE",
+        "okul_adi": "DOĞANCA KÖY KONAĞI",
+        "sandik_no": 1005,
+        "mahalle_id": "eskisehir-mahmudiye-doganca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-mahmudiye/1xxx/1005/eskisehir-mahmudiye-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015906",
+            "oyveotesi_sync_timestamp": 1684341539
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-mahmudiye/1xxx/1005/eskisehir-mahmudiye-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015906",
+            "oyveotesi_sync_timestamp": 1684341539
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

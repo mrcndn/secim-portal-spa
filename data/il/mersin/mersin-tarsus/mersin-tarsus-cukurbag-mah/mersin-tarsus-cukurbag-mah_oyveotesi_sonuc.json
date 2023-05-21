@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "ÇUKURBAĞ MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "ÇUKURBAĞ MAH. OKUL BİNASI",
+        "sandik_no": 2062,
+        "mahalle_id": "mersin-tarsus-cukurbag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363697
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 210
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2062/mersin-tarsus-2062-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363697
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-aladag",
+        "mahalle": "KÖKEZ MAH.",
+        "ilce_adi": "ALADAĞ",
+        "okul_adi": "KÖKEZ CUMHURİYET İLKOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "adana-aladag-kokez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371638
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371638
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-aladag",
+        "mahalle": "KÖKEZ MAH.",
+        "ilce_adi": "ALADAĞ",
+        "okul_adi": "KÖKEZ CUMHURİYET İLKOKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "adana-aladag-kokez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371638
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1034/adana-aladag-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371638
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-aladag",
+        "mahalle": "KÖKEZ MAH.",
+        "ilce_adi": "ALADAĞ",
+        "okul_adi": "KÖKEZ MAHALLESİ İLKOKULU",
+        "sandik_no": 1035,
+        "mahalle_id": "adana-aladag-kokez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 11,
+                "MİLLET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 101,
+                "ADALET VE KALKINMA PARTİSİ": 126,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1035/adana-aladag-1035-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572235",
+            "oyveotesi_sync_timestamp": 1684371638
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 133,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1035/adana-aladag-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572235",
+            "oyveotesi_sync_timestamp": 1684371638
+        },
+        "secim_bolge_id": "adana"
+    }
+]

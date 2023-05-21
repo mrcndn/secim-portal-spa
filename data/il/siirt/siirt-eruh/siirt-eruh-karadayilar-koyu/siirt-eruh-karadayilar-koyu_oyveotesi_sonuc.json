@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-eruh",
+        "mahalle": "KARADAYILAR KÖYÜ",
+        "ilce_adi": "ERUH",
+        "okul_adi": "BOZKUŞ KÖYÜ İLKOKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "siirt-eruh-karadayilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364246
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 36,
+            "sayim_sonuc": {
+                "TOPLAM": 36,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-eruh/1xxx/1050/siirt-eruh-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364246
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

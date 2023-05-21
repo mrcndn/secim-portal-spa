@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-alpu",
+        "mahalle": "IŞIKÖREN MAH.",
+        "ilce_adi": "ALPU",
+        "okul_adi": "IŞIKÖREN MAHALLESİ KONAĞI",
+        "sandik_no": 1026,
+        "mahalle_id": "eskisehir-alpu-isikoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 45,
+            "sayim_sonuc": {
+                "TOPLAM": 45,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1026/eskisehir-alpu-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "761134",
+            "oyveotesi_sync_timestamp": 1684341409
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 46,
+            "sayim_sonuc": {
+                "TOPLAM": 46,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1026/eskisehir-alpu-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "761134",
+            "oyveotesi_sync_timestamp": 1684341409
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

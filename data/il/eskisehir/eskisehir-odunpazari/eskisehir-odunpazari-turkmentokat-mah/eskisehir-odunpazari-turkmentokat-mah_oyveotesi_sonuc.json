@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "TÜRKMENTOKAT MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "TÜRKMENTOKAT İLKOKULU",
+        "sandik_no": 2428,
+        "mahalle_id": "eskisehir-odunpazari-turkmentokat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "İYİ PARTİ": 34,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2428/eskisehir-odunpazari-2428-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "796985",
+            "oyveotesi_sync_timestamp": 1684341692
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2428/eskisehir-odunpazari-2428-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "796985",
+            "oyveotesi_sync_timestamp": 1684341692
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

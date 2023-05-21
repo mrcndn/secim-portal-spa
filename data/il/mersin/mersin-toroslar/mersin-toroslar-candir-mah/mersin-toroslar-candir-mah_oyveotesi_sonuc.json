@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-toroslar",
+        "mahalle": "ÇANDIR MAH.",
+        "ilce_adi": "TOROSLAR",
+        "okul_adi": "ÇANDIR MAHALLE ODASI",
+        "sandik_no": 2061,
+        "mahalle_id": "mersin-toroslar-candir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 49,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 100,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2061/mersin-toroslar-2061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718765",
+            "oyveotesi_sync_timestamp": 1684364109
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 144,
+                "RECEP TAYYİP ERDOĞAN": 90
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2061/mersin-toroslar-2061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718765",
+            "oyveotesi_sync_timestamp": 1684364109
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

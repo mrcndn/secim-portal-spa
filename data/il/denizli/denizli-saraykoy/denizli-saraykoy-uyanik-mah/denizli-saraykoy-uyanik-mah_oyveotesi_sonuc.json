@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-saraykoy",
+        "mahalle": "UYANIK MAH.",
+        "ilce_adi": "SARAYKÖY",
+        "okul_adi": "UYANIK KÖY KONAĞI",
+        "sandik_no": 1078,
+        "mahalle_id": "denizli-saraykoy-uyanik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 118,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-saraykoy/1xxx/1078/denizli-saraykoy-1078-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "598985",
+            "oyveotesi_sync_timestamp": 1684365467
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 143,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-saraykoy/1xxx/1078/denizli-saraykoy-1078-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "598985",
+            "oyveotesi_sync_timestamp": 1684365467
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-saraykoy",
+        "mahalle": "UYANIK MAH.",
+        "ilce_adi": "SARAYKÖY",
+        "okul_adi": "UYANIK KÖY KONAĞI",
+        "sandik_no": 1079,
+        "mahalle_id": "denizli-saraykoy-uyanik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365467
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-saraykoy/1xxx/1079/denizli-saraykoy-1079-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365467
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

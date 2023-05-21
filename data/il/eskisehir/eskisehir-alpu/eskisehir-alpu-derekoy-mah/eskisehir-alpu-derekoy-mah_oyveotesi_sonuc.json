@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-alpu",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "ALPU",
+        "okul_adi": "DEREKÖY MAHALLESİ KONAĞI",
+        "sandik_no": 1015,
+        "mahalle_id": "eskisehir-alpu-derekoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "İYİ PARTİ": 8,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1015/eskisehir-alpu-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "702347",
+            "oyveotesi_sync_timestamp": 1684341401
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1015/eskisehir-alpu-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "702347",
+            "oyveotesi_sync_timestamp": 1684341401
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

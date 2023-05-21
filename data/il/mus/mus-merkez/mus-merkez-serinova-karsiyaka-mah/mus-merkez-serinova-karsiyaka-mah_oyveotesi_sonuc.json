@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "SERİNOVA-KARŞIYAKA MAH.",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "SERİNOVA BEL. KARŞIYAKA MAH.SERİNOVA YAT.BÖL.O.",
+        "sandik_no": 1236,
+        "mahalle_id": "mus-merkez-serinova-karsiyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "SOL PARTİ": 8,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 54,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1236/mus-merkez-1236-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "609974",
+            "oyveotesi_sync_timestamp": 1684394012
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 183,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1236/mus-merkez-1236-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "609974",
+            "oyveotesi_sync_timestamp": 1684394012
+        },
+        "secim_bolge_id": "mus"
+    }
+]

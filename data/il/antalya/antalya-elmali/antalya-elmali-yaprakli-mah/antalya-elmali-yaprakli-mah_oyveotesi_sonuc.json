@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-elmali",
+        "mahalle": "YAPRAKLI MAH.",
+        "ilce_adi": "ELMALI",
+        "okul_adi": "YAPRAKLI İLK OKULU",
+        "sandik_no": 1088,
+        "mahalle_id": "antalya-elmali-yaprakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329165
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-elmali/1xxx/1088/antalya-elmali-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329165
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

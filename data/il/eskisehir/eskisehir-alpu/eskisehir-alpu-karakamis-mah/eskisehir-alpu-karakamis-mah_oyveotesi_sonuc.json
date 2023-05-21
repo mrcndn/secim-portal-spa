@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-alpu",
+        "mahalle": "KARAKAMIŞ MAH.",
+        "ilce_adi": "ALPU",
+        "okul_adi": "KARAKAMIŞ MAHALLESİ İLKOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "eskisehir-alpu-karakamis-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 42,
+                "ZAFER PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1028/eskisehir-alpu-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "211906",
+            "oyveotesi_sync_timestamp": 1684341411
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1028/eskisehir-alpu-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "211906",
+            "oyveotesi_sync_timestamp": 1684341411
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "okul_adi": "YENİKÖY MAHALLE KONAĞI",
+        "sandik_no": 1172,
+        "mahalle_id": "sakarya-hendek-yenikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357560
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1172/sakarya-hendek-1172-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357560
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

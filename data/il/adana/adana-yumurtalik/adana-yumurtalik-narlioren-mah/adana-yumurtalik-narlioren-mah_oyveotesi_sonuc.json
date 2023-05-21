@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-yumurtalik",
+        "mahalle": "NARLIÖREN MAH.",
+        "ilce_adi": "YUMURTALIK",
+        "okul_adi": "NARLIÖREN KÖY HAHVEHANESİ",
+        "sandik_no": 1037,
+        "mahalle_id": "adana-yumurtalik-narlioren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 41,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1037/adana-yumurtalik-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "472970",
+            "oyveotesi_sync_timestamp": 1684371428
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 113,
+                "RECEP TAYYİP ERDOĞAN": 136
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1037/adana-yumurtalik-1037-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "472970",
+            "oyveotesi_sync_timestamp": 1684371428
+        },
+        "secim_bolge_id": "adana"
+    }
+]

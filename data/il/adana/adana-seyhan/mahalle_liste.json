@@ -1,0 +1,962 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "2000 EVLER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-2000-evler-mah",
+        "oyveotesi_neighborhood_id": 36012
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "AHMET REMZİ YÜREĞİR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-ahmet-remzi-yuregir-mah",
+        "oyveotesi_neighborhood_id": 35994
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "AKKAPI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-akkapi-mah",
+        "oyveotesi_neighborhood_id": 35980
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ALİDEDE MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-alidede-mah",
+        "oyveotesi_neighborhood_id": 36043
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "AYDINLAR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-aydinlar-mah",
+        "oyveotesi_neighborhood_id": 35957
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 35986
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BAHÇEŞEHİR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-bahcesehir-mah",
+        "oyveotesi_neighborhood_id": 35958
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-barbaros-mah",
+        "oyveotesi_neighborhood_id": 35995
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BARIŞ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-baris-mah",
+        "oyveotesi_neighborhood_id": 36028
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BEŞOCAK MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-besocak-mah",
+        "oyveotesi_neighborhood_id": 35963
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BEY MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-bey-mah",
+        "oyveotesi_neighborhood_id": 36038
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BÜYÜKÇILDIRIM MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-buyukcildirim-mah",
+        "oyveotesi_neighborhood_id": 35981
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "BÜYÜKDİKİLİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-buyukdikili-mah",
+        "oyveotesi_neighborhood_id": 36029
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "CAMUZCU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-camuzcu-mah",
+        "oyveotesi_neighborhood_id": 35987
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ÇAPUTÇU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-caputcu-mah",
+        "oyveotesi_neighborhood_id": 35956
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "CEMALPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-cemalpasa-mah",
+        "oyveotesi_neighborhood_id": 36015
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ÇINARLI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-cinarli-mah",
+        "oyveotesi_neighborhood_id": 35962
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "DAĞLIOĞLU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-daglioglu-mah",
+        "oyveotesi_neighborhood_id": 36020
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "DEMETEVLER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-demetevler-mah",
+        "oyveotesi_neighborhood_id": 36039
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "DENİZLİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-denizli-mah",
+        "oyveotesi_neighborhood_id": 35968
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "DERVİŞLER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-dervisler-mah",
+        "oyveotesi_neighborhood_id": 36044
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "DÖRTAĞAÇ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-dortagac-mah",
+        "oyveotesi_neighborhood_id": 36013
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "DÖŞEME MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-doseme-mah",
+        "oyveotesi_neighborhood_id": 35988
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "DUMLUPINAR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-dumlupinar-mah",
+        "oyveotesi_neighborhood_id": 35974
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "EMEK MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-emek-mah",
+        "oyveotesi_neighborhood_id": 35950
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-fatih-mah",
+        "oyveotesi_neighborhood_id": 35975
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "FEVZİPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-fevzipasa-mah",
+        "oyveotesi_neighborhood_id": 36021
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "GAZİPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-gazipasa-mah",
+        "oyveotesi_neighborhood_id": 36006
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "GÖKÇELER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-gokceler-mah",
+        "oyveotesi_neighborhood_id": 35964
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "GÖLBAŞI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-golbasi-mah",
+        "oyveotesi_neighborhood_id": 35952
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "GÜLBAHÇESİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-gulbahcesi-mah",
+        "oyveotesi_neighborhood_id": 36008
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "GÜLPINAR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-gulpinar-mah",
+        "oyveotesi_neighborhood_id": 36003
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "GÜRSELPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-gurselpasa-mah",
+        "oyveotesi_neighborhood_id": 35953
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "HADIRLI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-hadirli-mah",
+        "oyveotesi_neighborhood_id": 35989
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "HANEDAN MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-hanedan-mah",
+        "oyveotesi_neighborhood_id": 35990
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "HAVUZLUBAHÇE MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-havuzlubahce-mah",
+        "oyveotesi_neighborhood_id": 35969
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "HURMALI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-hurmali-mah",
+        "oyveotesi_neighborhood_id": 35991
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-hurriyet-mah",
+        "oyveotesi_neighborhood_id": 36040
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "İSMETPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-ismetpasa-mah",
+        "oyveotesi_neighborhood_id": 36002
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-istiklal-mah",
+        "oyveotesi_neighborhood_id": 35996
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KARAKUYU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-karakuyu-mah",
+        "oyveotesi_neighborhood_id": 35965
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KARASOKU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-karasoku-mah",
+        "oyveotesi_neighborhood_id": 36022
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KARAYUSUFLU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-karayusuflu-mah",
+        "oyveotesi_neighborhood_id": 36023
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KAVAKLI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kavakli-mah",
+        "oyveotesi_neighborhood_id": 36004
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KAYALIBAĞ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kayalibag-mah",
+        "oyveotesi_neighborhood_id": 35992
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KAYIŞLI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kayisli-mah",
+        "oyveotesi_neighborhood_id": 36007
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KOCAVEZİR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kocavezir-mah",
+        "oyveotesi_neighborhood_id": 35993
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KÖYLÜOĞLU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-koyluoglu-mah",
+        "oyveotesi_neighborhood_id": 36017
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KOYUNCU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-koyuncu-mah",
+        "oyveotesi_neighborhood_id": 36016
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KOZA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-koza-mah",
+        "oyveotesi_neighborhood_id": 35972
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KÜÇÜKÇILDIRIM MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kucukcildirim-mah",
+        "oyveotesi_neighborhood_id": 35976
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KÜÇÜKDİKİLİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kucukdikili-mah",
+        "oyveotesi_neighborhood_id": 35959
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kurtulus-mah",
+        "oyveotesi_neighborhood_id": 36032
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KURUKÖPRÜ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kurukopru-mah",
+        "oyveotesi_neighborhood_id": 36024
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KUYUMCULAR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-kuyumcular-mah",
+        "oyveotesi_neighborhood_id": 35954
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MEKAN MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-mekan-mah",
+        "oyveotesi_neighborhood_id": 35999
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MESTANZADE MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-mestanzade-mah",
+        "oyveotesi_neighborhood_id": 35960
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MEYDAN MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-meydan-mah",
+        "oyveotesi_neighborhood_id": 36018
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MIDIK MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-midik-mah",
+        "oyveotesi_neighborhood_id": 35983
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MİRZAÇELEBİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-mirzacelebi-mah",
+        "oyveotesi_neighborhood_id": 35977
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MİTHATPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-mithatpasa-mah",
+        "oyveotesi_neighborhood_id": 35951
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MÜRSELOĞLU MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-murseloglu-mah",
+        "oyveotesi_neighborhood_id": 36025
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NAMIK KEMAL MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-namik-kemal-mah",
+        "oyveotesi_neighborhood_id": 36026
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "NARLICA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-narlica-mah",
+        "oyveotesi_neighborhood_id": 36019
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ONUR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-onur-mah",
+        "oyveotesi_neighborhood_id": 35961
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "OVA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-ova-mah",
+        "oyveotesi_neighborhood_id": 36014
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "PINAR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-pinar-mah",
+        "oyveotesi_neighborhood_id": 35978
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "REŞATBEY MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-resatbey-mah",
+        "oyveotesi_neighborhood_id": 35966
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SAKARYA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sakarya-mah",
+        "oyveotesi_neighborhood_id": 36000
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ŞAKİRPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sakirpasa-mah",
+        "oyveotesi_neighborhood_id": 35967
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SALMANBEYLİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-salmanbeyli-mah",
+        "oyveotesi_neighborhood_id": 35984
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SARIHAMZALI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sarihamzali-mah",
+        "oyveotesi_neighborhood_id": 36033
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SARIHUĞLAR MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sarihuglar-mah",
+        "oyveotesi_neighborhood_id": 35997
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SARIYAKUP MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sariyakup-mah",
+        "oyveotesi_neighborhood_id": 36009
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ŞEHİTDURAN MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sehitduran-mah",
+        "oyveotesi_neighborhood_id": 36031
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SERİNEVLER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-serinevler-mah",
+        "oyveotesi_neighborhood_id": 36034
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SÖĞÜTLÜ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sogutlu-mah",
+        "oyveotesi_neighborhood_id": 36035
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SUCUZADE MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sucuzade-mah",
+        "oyveotesi_neighborhood_id": 35985
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "SÜMER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-sumer-mah",
+        "oyveotesi_neighborhood_id": 36027
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "TELLİDERE MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-tellidere-mah",
+        "oyveotesi_neighborhood_id": 36005
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "TEPEBAĞ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-tepebag-mah",
+        "oyveotesi_neighborhood_id": 35973
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "TÜRKOCAĞI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-turkocagi-mah",
+        "oyveotesi_neighborhood_id": 35970
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "UÇAK MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-ucak-mah",
+        "oyveotesi_neighborhood_id": 35979
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ULUCAMİİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-ulucamii-mah",
+        "oyveotesi_neighborhood_id": 36010
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YALMANLI MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yalmanli-mah",
+        "oyveotesi_neighborhood_id": 36041
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YENİBARAJ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yenibaraj-mah",
+        "oyveotesi_neighborhood_id": 35998
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YENİBEY MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yenibey-mah",
+        "oyveotesi_neighborhood_id": 35949
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YENİDAM MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yenidam-mah",
+        "oyveotesi_neighborhood_id": 36001
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yeni-mah",
+        "oyveotesi_neighborhood_id": 35982
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YEŞİLEVLER MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yesilevler-mah",
+        "oyveotesi_neighborhood_id": 35971
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YEŞİLOBA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yesiloba-mah",
+        "oyveotesi_neighborhood_id": 36011
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yesilyurt-mah",
+        "oyveotesi_neighborhood_id": 36030
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YEŞİLYUVA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yesilyuva-mah",
+        "oyveotesi_neighborhood_id": 36036
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "YOLGEÇEN MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-yolgecen-mah",
+        "oyveotesi_neighborhood_id": 36037
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ZEYTİNLİ MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-zeytinli-mah",
+        "oyveotesi_neighborhood_id": 35955
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "ZİYAPAŞA MAH.",
+        "ilce_adi": "SEYHAN",
+        "mahalle_id": "adana-seyhan-ziyapasa-mah",
+        "oyveotesi_neighborhood_id": 36042
+    }
+]

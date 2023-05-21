@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-atkaracalar",
+        "mahalle": "İLKER MAH.",
+        "ilce_adi": "ATKARACALAR",
+        "okul_adi": "İLKER MAH.CUMHURİYET İLKOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "cankiri-atkaracalar-ilker-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "İYİ PARTİ": 60,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 73,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-atkaracalar/1xxx/1005/cankiri-atkaracalar-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1025065",
+            "oyveotesi_sync_timestamp": 1684336215
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1025065",
+            "oyveotesi_sync_timestamp": 1684336215
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

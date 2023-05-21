@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KADIKÖY",
+        "ilce_adi": "ULUS",
+        "okul_adi": "KADI KÖYÜ CAMİ YANI BOŞ ODASI",
+        "sandik_no": 1072,
+        "mahalle_id": "bartin-ulus-kadikoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1072/bartin-ulus-1072-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "402803",
+            "oyveotesi_sync_timestamp": 1684328231
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 154,
+            "sayim_sonuc": {
+                "TOPLAM": 154,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1072/bartin-ulus-1072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "402803",
+            "oyveotesi_sync_timestamp": 1684328231
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

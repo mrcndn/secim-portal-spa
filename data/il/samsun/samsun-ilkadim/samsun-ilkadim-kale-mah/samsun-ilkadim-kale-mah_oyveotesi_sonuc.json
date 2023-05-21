@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ilkadim",
+        "mahalle": "KALE MAH.",
+        "ilce_adi": "İLKADIM",
+        "okul_adi": "KALE - 15 TEMMUZ ŞEHİTLER İMAM-HATİP ORTAOKULU",
+        "sandik_no": 1149,
+        "mahalle_id": "samsun-ilkadim-kale-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "İYİ PARTİ": 40,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 147,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ilkadim/1xxx/1149/samsun-ilkadim-1149-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "735983",
+            "oyveotesi_sync_timestamp": 1684368252
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 190,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ilkadim/1xxx/1149/samsun-ilkadim-1149-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "735983",
+            "oyveotesi_sync_timestamp": 1684368252
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "HACI BEKİR MAH.",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "REFİK SAYDAM İLKOKULU HACIBEKİR MAH.",
+        "sandik_no": 1010,
+        "mahalle_id": "cankiri-kursunlu-haci-bekir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1010/cankiri-kursunlu-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "763433",
+            "oyveotesi_sync_timestamp": 1684336612
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "763433",
+            "oyveotesi_sync_timestamp": 1684336612
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

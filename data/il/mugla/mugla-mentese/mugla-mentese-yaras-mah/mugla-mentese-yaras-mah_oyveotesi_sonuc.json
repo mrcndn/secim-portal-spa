@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "YARAŞ MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "YARAŞ ANAOKULU-İZCİ EVİ",
+        "sandik_no": 1239,
+        "mahalle_id": "mugla-mentese-yaras-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "İYİ PARTİ": 78,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1239/mugla-mentese-1239-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "801725",
+            "oyveotesi_sync_timestamp": 1684374346
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 149,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1239/mugla-mentese-1239-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "801725",
+            "oyveotesi_sync_timestamp": 1684374346
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-mentese",
+        "mahalle": "YARAŞ MAH.",
+        "ilce_adi": "MENTEŞE",
+        "okul_adi": "YARAŞ ANAOKULU-İZCİ EVİ",
+        "sandik_no": 1240,
+        "mahalle_id": "mugla-mentese-yaras-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374346
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 38,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 147,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-mentese/1xxx/1240/mugla-mentese-1240-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374346
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

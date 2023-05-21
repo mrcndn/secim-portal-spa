@@ -1,0 +1,100 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-kestel",
+        "mahalle": "ÜMİTALAN MAH.",
+        "ilce_adi": "KESTEL",
+        "okul_adi": "ÜMİTALAN İLK VE ORTAOKULU",
+        "sandik_no": 1098,
+        "mahalle_id": "bursa-kestel-umitalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 239,
+            "sayim_sonuc": {
+                "TOPLAM": 239,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "802113",
+            "oyveotesi_sync_timestamp": 1684334956
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "802113",
+            "oyveotesi_sync_timestamp": 1684334956
+        },
+        "secim_bolge_id": "bursa2"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-kestel",
+        "mahalle": "ÜMİTALAN MAH.",
+        "ilce_adi": "KESTEL",
+        "okul_adi": "ÜMİTALAN İLK VE ORTAOKULU",
+        "sandik_no": 1099,
+        "mahalle_id": "bursa-kestel-umitalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "İYİ PARTİ": 12,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 153,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1020851",
+            "oyveotesi_sync_timestamp": 1684334956
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 210
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1020851",
+            "oyveotesi_sync_timestamp": 1684334956
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

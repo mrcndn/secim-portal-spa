@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "YUNUSEMRE MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "YUNUS EMRE MAH.HASAN KARACALAR İ.Ö.O",
+        "sandik_no": 1092,
+        "mahalle_id": "eskisehir-sivrihisar-yunusemre-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341855
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1092/eskisehir-sivrihisar-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341855
+        },
+        "secim_bolge_id": "eskisehir"
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "YUNUSEMRE MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "YUNUS EMRE MAH.HASAN KARACALAR İ.Ö.O",
+        "sandik_no": 1093,
+        "mahalle_id": "eskisehir-sivrihisar-yunusemre-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 9,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 51,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1093/eskisehir-sivrihisar-1093-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "450442",
+            "oyveotesi_sync_timestamp": 1684341855
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 113,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1093/eskisehir-sivrihisar-1093-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "450442",
+            "oyveotesi_sync_timestamp": 1684341855
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-cine",
+        "mahalle": "YAĞCILAR MAH.",
+        "ilce_adi": "ÇİNE",
+        "okul_adi": "YAĞCILAR MAHALLESİ KÖY ODASI",
+        "sandik_no": 1142,
+        "mahalle_id": "aydin-cine-yagcilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-cine/1xxx/1142/aydin-cine-1142-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "811682",
+            "oyveotesi_sync_timestamp": 1684394287
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 103,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-cine/1xxx/1142/aydin-cine-1142-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "811682",
+            "oyveotesi_sync_timestamp": 1684394287
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

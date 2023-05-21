@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-demirkoy",
+        "mahalle": "BOZTAŞ KÖYÜ",
+        "ilce_adi": "DEMİRKÖY",
+        "okul_adi": "BOZTAŞ KÖYÜ İLKOKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "kirklareli-demirkoy-boztas-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-demirkoy/1xxx/1021/kirklareli-demirkoy-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "582508",
+            "oyveotesi_sync_timestamp": 1684349116
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-demirkoy/1xxx/1021/kirklareli-demirkoy-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "582508",
+            "oyveotesi_sync_timestamp": 1684349116
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

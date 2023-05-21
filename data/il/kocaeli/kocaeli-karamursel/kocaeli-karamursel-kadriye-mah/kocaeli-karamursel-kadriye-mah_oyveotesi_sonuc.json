@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-karamursel",
+        "mahalle": "KADRİYE MAH.",
+        "ilce_adi": "KARAMÜRSEL",
+        "okul_adi": "KADRİYE MAHALLESİ OKUL KÖY KAHVESİ",
+        "sandik_no": 1090,
+        "mahalle_id": "kocaeli-karamursel-kadriye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1090/kocaeli-karamursel-1090-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574664",
+            "oyveotesi_sync_timestamp": 1684350038
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1090/kocaeli-karamursel-1090-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574664",
+            "oyveotesi_sync_timestamp": 1684350038
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

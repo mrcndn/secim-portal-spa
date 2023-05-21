@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "TİYENLİ MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "TİYENLİ MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1038,
+        "mahalle_id": "manisa-golmarmara-tiyenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397034
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1038/manisa-golmarmara-1038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397034
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "TİYENLİ MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "TİYENLİ MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1039,
+        "mahalle_id": "manisa-golmarmara-tiyenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 46,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 49,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1039/manisa-golmarmara-1039-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "705227",
+            "oyveotesi_sync_timestamp": 1684397034
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 102,
+                "RECEP TAYYİP ERDOĞAN": 95
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1039/manisa-golmarmara-1039-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "705227",
+            "oyveotesi_sync_timestamp": 1684397034
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

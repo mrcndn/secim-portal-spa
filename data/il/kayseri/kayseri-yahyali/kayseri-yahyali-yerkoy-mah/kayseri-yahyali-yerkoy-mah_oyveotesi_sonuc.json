@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-yahyali",
+        "mahalle": "YERKÖY MAH.",
+        "ilce_adi": "YAHYALI",
+        "okul_adi": "YERKÖY İLKOKULU",
+        "sandik_no": 1093,
+        "mahalle_id": "kayseri-yahyali-yerkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360088
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-yahyali/1xxx/1093/kayseri-yahyali-1093-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360088
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-yahyali",
+        "mahalle": "YERKÖY MAH.",
+        "ilce_adi": "YAHYALI",
+        "okul_adi": "YERKÖY İLKOKULU",
+        "sandik_no": 1094,
+        "mahalle_id": "kayseri-yahyali-yerkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360088
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360088
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-yerkoy",
+        "mahalle": "KÖYCÜ KÖYÜ",
+        "ilce_adi": "YERKÖY",
+        "okul_adi": "KÖYCÜ KÖYÜ CAMİ LOJMANI",
+        "sandik_no": 1101,
+        "mahalle_id": "yozgat-yerkoy-koycu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yerkoy/1xxx/1101/yozgat-yerkoy-1101-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172992",
+            "oyveotesi_sync_timestamp": 1684396095
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-yerkoy/1xxx/1101/yozgat-yerkoy-1101-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172992",
+            "oyveotesi_sync_timestamp": 1684396095
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

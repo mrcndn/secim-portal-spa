@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "HELVACI KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "HELVACI KÖY KONAĞI",
+        "sandik_no": 1114,
+        "mahalle_id": "canakkale-can-helvaci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335942
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 143,
+            "sayim_sonuc": {
+                "TOPLAM": 143,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1114/canakkale-can-1114-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335942
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

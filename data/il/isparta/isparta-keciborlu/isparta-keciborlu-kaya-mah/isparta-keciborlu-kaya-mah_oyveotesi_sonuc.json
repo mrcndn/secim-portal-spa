@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-keciborlu",
+        "mahalle": "KAYA MAH.",
+        "ilce_adi": "KEÇİBORLU",
+        "okul_adi": "BORSA İSTANBUL ORTAOKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "isparta-keciborlu-kaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "İYİ PARTİ": 37,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-keciborlu/1xxx/1008/isparta-keciborlu-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818376",
+            "oyveotesi_sync_timestamp": 1684344171
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 92
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-keciborlu/1xxx/1008/isparta-keciborlu-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818376",
+            "oyveotesi_sync_timestamp": 1684344171
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

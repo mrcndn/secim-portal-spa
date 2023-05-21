@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-cardak",
+        "mahalle": "SARAY MAH.",
+        "ilce_adi": "ÇARDAK",
+        "okul_adi": "SARAY MAHALLESİ ( FATİH İLKOKULU (ESKİ OKUL )",
+        "sandik_no": 1021,
+        "mahalle_id": "denizli-cardak-saray-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 58,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 14,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 110,
+                "ADALET VE KALKINMA PARTİSİ": 95,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1021/denizli-cardak-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "456795",
+            "oyveotesi_sync_timestamp": 1684365649
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1021/denizli-cardak-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "456795",
+            "oyveotesi_sync_timestamp": 1684365649
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-cardak",
+        "mahalle": "SARAY MAH.",
+        "ilce_adi": "ÇARDAK",
+        "okul_adi": "SARAY MAHALLESİ ( FATİH İLKOKULU (ESKİ OKUL )",
+        "sandik_no": 1022,
+        "mahalle_id": "denizli-cardak-saray-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365649
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1022/denizli-cardak-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365649
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

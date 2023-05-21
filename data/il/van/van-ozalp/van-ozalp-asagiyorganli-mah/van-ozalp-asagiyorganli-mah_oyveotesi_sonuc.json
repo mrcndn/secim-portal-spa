@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-ozalp",
+        "mahalle": "AŞAĞIYORGANLI MAH.",
+        "ilce_adi": "ÖZALP",
+        "okul_adi": "MAHİR SADAK İLKOKULU - (AŞAĞIYORGANLI KÖYÜ)",
+        "sandik_no": 1017,
+        "mahalle_id": "van-ozalp-asagiyorganli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356651
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 255,
+                "RECEP TAYYİP ERDOĞAN": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ozalp/1xxx/1017/van-ozalp-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356651
+        },
+        "secim_bolge_id": "van"
+    }
+]

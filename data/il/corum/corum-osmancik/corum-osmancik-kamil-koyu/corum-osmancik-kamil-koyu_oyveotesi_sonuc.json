@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "KAMİL KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "KAMİL KÖYÜ İLK-ORTA OKULU",
+        "sandik_no": 1110,
+        "mahalle_id": "corum-osmancik-kamil-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 347,
+            "sayim_sonuc": {
+                "TOPLAM": 347,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 243,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1110/corum-osmancik-1110-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "603091",
+            "oyveotesi_sync_timestamp": 1684368939
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 351,
+            "sayim_sonuc": {
+                "TOPLAM": 351,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 305
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1110/corum-osmancik-1110-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "603091",
+            "oyveotesi_sync_timestamp": 1684368939
+        },
+        "secim_bolge_id": "corum"
+    }
+]

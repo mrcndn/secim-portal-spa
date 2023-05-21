@@ -1,0 +1,96 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ARSLANLAR MAH.",
+        "ilce_adi": "TORBALI",
+        "okul_adi": "ŞEHİT JANDARMA ER ATİLLA SUNAR İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "izmir-torbali-arslanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 50,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "445937",
+            "oyveotesi_sync_timestamp": 1684363073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "445937",
+            "oyveotesi_sync_timestamp": 1684363073
+        },
+        "secim_bolge_id": "izmir1"
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ARSLANLAR MAH.",
+        "ilce_adi": "TORBALI",
+        "okul_adi": "ŞEHİT JANDARMA ER ATİLLA SUNAR İLKOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "izmir-torbali-arslanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 45,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 101,
+                "ADALET VE KALKINMA PARTİSİ": 101,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "312758",
+            "oyveotesi_sync_timestamp": 1684363073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 166,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "312758",
+            "oyveotesi_sync_timestamp": 1684363073
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

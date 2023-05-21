@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "SÜTLÜCE KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "SÜTLÜCE KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1129,
+        "mahalle_id": "corum-osmancik-sutluce-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 44,
+            "sayim_sonuc": {
+                "TOPLAM": 44,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1129/corum-osmancik-1129-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184335",
+            "oyveotesi_sync_timestamp": 1684368917
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 43,
+            "sayim_sonuc": {
+                "TOPLAM": 43,
+                "KEMAL KILIÇDAROĞLU": 40,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1129/corum-osmancik-1129-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184335",
+            "oyveotesi_sync_timestamp": 1684368917
+        },
+        "secim_bolge_id": "corum"
+    }
+]

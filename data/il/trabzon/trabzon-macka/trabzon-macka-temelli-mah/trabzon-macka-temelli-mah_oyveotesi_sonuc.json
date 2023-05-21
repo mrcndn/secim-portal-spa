@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-macka",
+        "mahalle": "TEMELLİ MAH.",
+        "ilce_adi": "MAÇKA",
+        "okul_adi": "TEMELLİ MAHALLESİ MAHALLE MUHTARLIĞI KÖY ODASI",
+        "sandik_no": 1090,
+        "mahalle_id": "trabzon-macka-temelli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366063
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 205
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-macka/1xxx/1090/trabzon-macka-1090-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366063
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-pervari",
+        "mahalle": "KÖPRÜÇAY KÖYÜ",
+        "ilce_adi": "PERVARİ",
+        "okul_adi": "KÖPRÜÇAY KÖYÜ İLKOKULU MÜD.",
+        "sandik_no": 1051,
+        "mahalle_id": "siirt-pervari-koprucay-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 49,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-pervari/1xxx/1051/siirt-pervari-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "698094",
+            "oyveotesi_sync_timestamp": 1684364360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "698094",
+            "oyveotesi_sync_timestamp": 1684364360
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

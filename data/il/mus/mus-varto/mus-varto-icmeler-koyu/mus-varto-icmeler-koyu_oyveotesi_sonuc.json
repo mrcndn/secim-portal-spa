@@ -1,0 +1,70 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "İÇMELER KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "İÇMELER KÖYÜ İLKOKULU",
+        "sandik_no": 1053,
+        "mahalle_id": "mus-varto-icmeler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SOL PARTİ": 8,
+                "İYİ PARTİ": 6,
+                "ADALET PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1053/mus-varto-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "197804",
+            "oyveotesi_sync_timestamp": 1684393670
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "KEMAL KILIÇDAROĞLU": 208,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1053/mus-varto-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "197804",
+            "oyveotesi_sync_timestamp": 1684393670
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "İÇMELER KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "İÇMELER KÖYÜ İLKOKULU",
+        "sandik_no": 1052,
+        "mahalle_id": "mus-varto-icmeler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393670
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "KEMAL KILIÇDAROĞLU": 207,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1052/mus-varto-1052-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393670
+        },
+        "secim_bolge_id": "mus"
+    }
+]

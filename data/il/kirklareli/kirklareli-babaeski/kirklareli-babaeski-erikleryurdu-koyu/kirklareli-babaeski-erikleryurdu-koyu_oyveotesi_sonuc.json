@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-babaeski",
+        "mahalle": "ERİKLERYURDU KÖYÜ",
+        "ilce_adi": "BABAESKİ",
+        "okul_adi": "ERİKLERYURDU KÖYÜ (KÖY KAHVEHANESİ)",
+        "sandik_no": 1092,
+        "mahalle_id": "kirklareli-babaeski-erikleryurdu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 49,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 138,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1092/kirklareli-babaeski-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "571305",
+            "oyveotesi_sync_timestamp": 1684349072
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 233,
+            "sayim_sonuc": {
+                "TOPLAM": 233,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 200,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1092/kirklareli-babaeski-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "571305",
+            "oyveotesi_sync_timestamp": 1684349072
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

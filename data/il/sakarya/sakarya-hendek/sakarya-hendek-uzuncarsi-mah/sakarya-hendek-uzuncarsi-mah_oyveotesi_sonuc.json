@@ -1,0 +1,85 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "UZUNÇARŞI MAH.",
+        "ilce_adi": "HENDEK",
+        "okul_adi": "YEŞİLYURT İLKOKULU",
+        "sandik_no": 1166,
+        "mahalle_id": "sakarya-hendek-uzuncarsi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 130,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1166/sakarya-hendek-1166-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829828",
+            "oyveotesi_sync_timestamp": 1684357564
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1166/sakarya-hendek-1166-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829828",
+            "oyveotesi_sync_timestamp": 1684357564
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "UZUNÇARŞI MAH.",
+        "ilce_adi": "HENDEK",
+        "okul_adi": "YEŞİLYURT İLKOKULU",
+        "sandik_no": 1167,
+        "mahalle_id": "sakarya-hendek-uzuncarsi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1167/sakarya-hendek-1167-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829838",
+            "oyveotesi_sync_timestamp": 1684357564
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1167/sakarya-hendek-1167-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829838",
+            "oyveotesi_sync_timestamp": 1684357564
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

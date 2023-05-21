@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "ÇINARLI MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "ÇINARLI KAHVEHANESİ",
+        "sandik_no": 1131,
+        "mahalle_id": "mugla-milas-cinarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "İYİ PARTİ": 26,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1131/mugla-milas-1131-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833857",
+            "oyveotesi_sync_timestamp": 1684374506
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1131/mugla-milas-1131-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833857",
+            "oyveotesi_sync_timestamp": 1684374506
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "MOLLASÜLEYMANLI MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "MOLLASÜLEYMANLI CAMİ MÜŞTEMİLATI",
+        "sandik_no": 1345,
+        "mahalle_id": "manisa-yunusemre-mollasuleymanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 29,
+            "sayim_sonuc": {
+                "TOPLAM": 29,
+                "İYİ PARTİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1345/manisa-yunusemre-1345-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837171",
+            "oyveotesi_sync_timestamp": 1684397639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837171",
+            "oyveotesi_sync_timestamp": 1684397639
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

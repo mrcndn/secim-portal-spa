@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-bozkurt",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "BOZKURT",
+        "okul_adi": "BARBAROS MAHALLESİ (ATATÜRK İLKOKULU)",
+        "sandik_no": 1006,
+        "mahalle_id": "denizli-bozkurt-barbaros-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365928
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bozkurt/1xxx/1006/denizli-bozkurt-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365928
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-bozkurt",
+        "mahalle": "BARBAROS MAH.",
+        "ilce_adi": "BOZKURT",
+        "okul_adi": "BARBAROS MAHALLESİ (ATATÜRK İLKOKULU)",
+        "sandik_no": 1007,
+        "mahalle_id": "denizli-bozkurt-barbaros-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 118,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bozkurt/1xxx/1007/denizli-bozkurt-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "783730",
+            "oyveotesi_sync_timestamp": 1684365928
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bozkurt/1xxx/1007/denizli-bozkurt-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "783730",
+            "oyveotesi_sync_timestamp": 1684365928
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

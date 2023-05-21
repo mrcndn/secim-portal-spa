@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ilkadim",
+        "mahalle": "TOYBELEN MAH.",
+        "ilce_adi": "İLKADIM",
+        "okul_adi": "TOYBELEN MAH. TOYBELEN ORTAOKULU",
+        "sandik_no": 1271,
+        "mahalle_id": "samsun-ilkadim-toybelen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368273
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 247
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ilkadim/1xxx/1271/samsun-ilkadim-1271-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368273
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ilkadim",
+        "mahalle": "TOYBELEN MAH.",
+        "ilce_adi": "İLKADIM",
+        "okul_adi": "TOYBELEN MAH. TOYBELEN ORTAOKULU",
+        "sandik_no": 1270,
+        "mahalle_id": "samsun-ilkadim-toybelen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 168,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ilkadim/1xxx/1270/samsun-ilkadim-1270-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "312543",
+            "oyveotesi_sync_timestamp": 1684368273
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 263
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ilkadim/1xxx/1270/samsun-ilkadim-1270-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "312543",
+            "oyveotesi_sync_timestamp": 1684368273
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-camlidere",
+        "mahalle": "KAYABAŞI MAH.",
+        "ilce_adi": "ÇAMLIDERE",
+        "okul_adi": "ANADOLU İMAM HATİP LİSESİ",
+        "sandik_no": 1029,
+        "mahalle_id": "ankara-camlidere-kayabasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393298
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393298
+        },
+        "secim_bolge_id": "ankara2"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-camlidere",
+        "mahalle": "KAYABAŞI MAH.",
+        "ilce_adi": "ÇAMLIDERE",
+        "okul_adi": "ANADOLU İMAM HATİP LİSESİ",
+        "sandik_no": 1030,
+        "mahalle_id": "ankara-camlidere-kayabasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393298
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393298
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

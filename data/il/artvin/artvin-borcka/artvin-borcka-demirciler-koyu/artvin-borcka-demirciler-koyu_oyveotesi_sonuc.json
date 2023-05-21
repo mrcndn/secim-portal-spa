@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-borcka",
+        "mahalle": "DEMİRCİLER KÖYÜ",
+        "ilce_adi": "BORÇKA",
+        "okul_adi": "DEMIRCILER ILKOĞRETIM OKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "artvin-borcka-demirciler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361721
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-borcka/1xxx/1041/artvin-borcka-1041-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361721
+        },
+        "secim_bolge_id": "artvin"
+    },
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-borcka",
+        "mahalle": "DEMİRCİLER KÖYÜ",
+        "ilce_adi": "BORÇKA",
+        "okul_adi": "DEMIRCILER ILKOĞRETIM OKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "artvin-borcka-demirciler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 54,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-borcka/1xxx/1040/artvin-borcka-1040-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "608295",
+            "oyveotesi_sync_timestamp": 1684361721
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-borcka/1xxx/1040/artvin-borcka-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "608295",
+            "oyveotesi_sync_timestamp": 1684361721
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

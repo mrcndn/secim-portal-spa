@@ -1,0 +1,972 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KARADİKMEN KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-karadikmen-koyu",
+        "oyveotesi_neighborhood_id": 48594
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KARACAÖREN KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-karacaoren-koyu",
+        "oyveotesi_neighborhood_id": 48537
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KARAALİKAÇAĞI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-karaalikacagi-koyu",
+        "oyveotesi_neighborhood_id": 48574
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "İSTANBULLUOĞLU MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-istanbulluoglu-mah",
+        "oyveotesi_neighborhood_id": 48592
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "İBRAHİM AĞA MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-ibrahim-aga-mah",
+        "oyveotesi_neighborhood_id": 48598
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "İBRAHİMAĞAÇİFTLİĞİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-ibrahimagaciftligi-koyu",
+        "oyveotesi_neighborhood_id": 48599
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "HÜYÜKLÜALANI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-huyuklualani-koyu",
+        "oyveotesi_neighborhood_id": 48544
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "HAYRAN KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-hayran-koyu",
+        "oyveotesi_neighborhood_id": 48560
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "HALHACI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-halhaci-koyu",
+        "oyveotesi_neighborhood_id": 48607
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "HACIFAKILI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-hacifakili-koyu",
+        "oyveotesi_neighborhood_id": 48552
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "GÜNEYLİ MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-guneyli-mah",
+        "oyveotesi_neighborhood_id": 48593
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "GÜNDÜZLER KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-gunduzler-koyu",
+        "oyveotesi_neighborhood_id": 48534
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "GÜMÜŞDİBEK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-gumusdibek-koyu",
+        "oyveotesi_neighborhood_id": 48601
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "GÜLTEPE MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-gultepe-mah",
+        "oyveotesi_neighborhood_id": 48559
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "GÜLLÜK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-gulluk-koyu",
+        "oyveotesi_neighborhood_id": 48583
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "GÖKDERE KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-gokdere-koyu",
+        "oyveotesi_neighborhood_id": 48558
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "EYNELLİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-eynelli-koyu",
+        "oyveotesi_neighborhood_id": 48533
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "EVCİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-evci-koyu",
+        "oyveotesi_neighborhood_id": 48582
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "EMEK MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-emek-mah",
+        "oyveotesi_neighborhood_id": 48517
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "DOLAK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-dolak-koyu",
+        "oyveotesi_neighborhood_id": 48581
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "DOKUZ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-dokuz-koyu",
+        "oyveotesi_neighborhood_id": 48557
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "DEREYURT KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-dereyurt-koyu",
+        "oyveotesi_neighborhood_id": 48525
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "DAYILI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-dayili-koyu",
+        "oyveotesi_neighborhood_id": 48568
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "DAVUTLU KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-davutlu-koyu",
+        "oyveotesi_neighborhood_id": 48542
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ABDURRAHMANLI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-abdurrahmanli-koyu",
+        "oyveotesi_neighborhood_id": 48586
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "AĞAÇLI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-agacli-koyu",
+        "oyveotesi_neighborhood_id": 48606
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "AHİSHAVİ MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-ahishavi-mah",
+        "oyveotesi_neighborhood_id": 48531
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "AKBAŞ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-akbas-koyu",
+        "oyveotesi_neighborhood_id": 48536
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "AKÇAKIŞLA KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-akcakisla-koyu",
+        "oyveotesi_neighborhood_id": 48515
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "AKÇAKOYUNLU KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-akcakoyunlu-koyu",
+        "oyveotesi_neighborhood_id": 48573
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ALİCİK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-alicik-koyu",
+        "oyveotesi_neighborhood_id": 48600
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ALTILI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-altili-koyu",
+        "oyveotesi_neighborhood_id": 48532
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ARDIÇALANI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-ardicalani-koyu",
+        "oyveotesi_neighborhood_id": 48523
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ARPALIK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-arpalik-koyu",
+        "oyveotesi_neighborhood_id": 48587
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ARSLANLI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-arslanli-koyu",
+        "oyveotesi_neighborhood_id": 48524
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "AŞAĞIÇULHALI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-asagiculhali-koyu",
+        "oyveotesi_neighborhood_id": 48548
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "BAHÇECİK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-bahcecik-koyu",
+        "oyveotesi_neighborhood_id": 48541
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "BAŞÇATAK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-bascatak-koyu",
+        "oyveotesi_neighborhood_id": 48549
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "BELEKÇAHAN-MERKEZ MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-belekcahan-merkez-mah",
+        "oyveotesi_neighborhood_id": 48550
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "BOĞAZKÖY",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-bogazkoy",
+        "oyveotesi_neighborhood_id": 48579
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "BOYALIK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-boyalik-koyu",
+        "oyveotesi_neighborhood_id": 48578
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "BOZHÜYÜK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-bozhuyuk-koyu",
+        "oyveotesi_neighborhood_id": 48516
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "BULGURLU KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-bulgurlu-koyu",
+        "oyveotesi_neighborhood_id": 48580
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÇAĞLAYAN KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-caglayan-koyu",
+        "oyveotesi_neighborhood_id": 48584
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KAYABAŞI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kayabasi-koyu",
+        "oyveotesi_neighborhood_id": 48553
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÇAMPINAR KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-campinar-koyu",
+        "oyveotesi_neighborhood_id": 48556
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÇARDAK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-cardak-koyu",
+        "oyveotesi_neighborhood_id": 48545
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÇAYPINAR KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-caypinar-koyu",
+        "oyveotesi_neighborhood_id": 48529
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÇERÇİALANI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-cercialani-koyu",
+        "oyveotesi_neighborhood_id": 48566
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÇAMLIK MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-camlik-mah",
+        "oyveotesi_neighborhood_id": 48604
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "DAVULBAZ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-davulbaz-koyu",
+        "oyveotesi_neighborhood_id": 48551
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KARTAL KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kartal-koyu",
+        "oyveotesi_neighborhood_id": 48588
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KARAPİR KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-karapir-koyu",
+        "oyveotesi_neighborhood_id": 48576
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "TEKKEGÜNEYİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-tekkeguneyi-koyu",
+        "oyveotesi_neighborhood_id": 48540
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "TEMURŞEYH KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-temurseyh-koyu",
+        "oyveotesi_neighborhood_id": 48590
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÜÇKARAAĞAÇ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-uckaraagac-koyu",
+        "oyveotesi_neighborhood_id": 48605
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "UMUTLU-KALE MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-umutlu-kale-mah",
+        "oyveotesi_neighborhood_id": 48554
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "UMUTLU-KARAÇOKRAK MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-umutlu-karacokrak-mah",
+        "oyveotesi_neighborhood_id": 48591
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "UMUTLU-KARAHİSARTATLISI MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-umutlu-karahisartatlisi-mah",
+        "oyveotesi_neighborhood_id": 50153
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "UMUTLU-OLUCAK MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-umutlu-olucak-mah",
+        "oyveotesi_neighborhood_id": 48521
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "UMUTLU-UMUT MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-umutlu-umut-mah",
+        "oyveotesi_neighborhood_id": 48555
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "UZAKÇAY KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-uzakcay-koyu",
+        "oyveotesi_neighborhood_id": 48595
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "VEZİRALANI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-veziralani-koyu",
+        "oyveotesi_neighborhood_id": 48572
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YAZILITAŞ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yazilitas-koyu",
+        "oyveotesi_neighborhood_id": 48575
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YEDİŞEHRİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yedisehri-koyu",
+        "oyveotesi_neighborhood_id": 48596
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yeni-mah",
+        "oyveotesi_neighborhood_id": 48522
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YENİYAPAN KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yeniyapan-koyu",
+        "oyveotesi_neighborhood_id": 48597
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YEŞİLDERE MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yesildere-mah",
+        "oyveotesi_neighborhood_id": 48514
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YEŞİLTEPE MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yesiltepe-mah",
+        "oyveotesi_neighborhood_id": 48577
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YUKARIÇULHALI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yukariculhali-koyu",
+        "oyveotesi_neighborhood_id": 48562
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "YÜNALANI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-yunalani-koyu",
+        "oyveotesi_neighborhood_id": 48543
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "OKÇULU KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-okculu-koyu",
+        "oyveotesi_neighborhood_id": 48570
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "OLUKÖZÜ-KONACI MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-olukozu-konaci-mah",
+        "oyveotesi_neighborhood_id": 48603
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "OLUKÖZÜ-MERKEZ MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-olukozu-merkez-mah",
+        "oyveotesi_neighborhood_id": 48561
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÖRENKALE KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-orenkale-koyu",
+        "oyveotesi_neighborhood_id": 48585
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ORTAKÖY",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-ortakoy",
+        "oyveotesi_neighborhood_id": 48609
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ÖZER KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-ozer-koyu",
+        "oyveotesi_neighborhood_id": 48530
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "PAŞABEY KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-pasabey-koyu",
+        "oyveotesi_neighborhood_id": 48571
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "PAZARCIK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-pazarcik-koyu",
+        "oyveotesi_neighborhood_id": 48546
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "SAĞIROĞLU KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-sagiroglu-koyu",
+        "oyveotesi_neighborhood_id": 48519
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "ŞAHNADERESİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-sahnaderesi-koyu",
+        "oyveotesi_neighborhood_id": 48567
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "SARIGÜNEY KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-sariguney-koyu",
+        "oyveotesi_neighborhood_id": 48610
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "SAZLIDERE KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-sazlidere-koyu",
+        "oyveotesi_neighborhood_id": 48535
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "SEKİKAŞI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-sekikasi-koyu",
+        "oyveotesi_neighborhood_id": 48520
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "SEYRANTEPE MAH.",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-seyrantepe-mah",
+        "oyveotesi_neighborhood_id": 48547
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "TARHANA KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-tarhana-koyu",
+        "oyveotesi_neighborhood_id": 48539
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "TASPINAR KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-taspinar-koyu",
+        "oyveotesi_neighborhood_id": 48565
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "MUŞALİKALESİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-musalikalesi-koyu",
+        "oyveotesi_neighborhood_id": 48602
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "MELİKLİ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-melikli-koyu",
+        "oyveotesi_neighborhood_id": 48569
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KUŞLUKAÇAĞI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kuslukacagi-koyu",
+        "oyveotesi_neighborhood_id": 48564
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KÖRÜK KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-koruk-koyu",
+        "oyveotesi_neighborhood_id": 48589
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KIZILDAĞ KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kizildag-koyu",
+        "oyveotesi_neighborhood_id": 48538
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KIZILCAOVA KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kizilcaova-koyu",
+        "oyveotesi_neighborhood_id": 48518
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KİRSİNKAVAĞI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kirsinkavagi-koyu",
+        "oyveotesi_neighborhood_id": 48528
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KIRLAR KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kirlar-koyu",
+        "oyveotesi_neighborhood_id": 48608
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KILINÇLI KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kilincli-koyu",
+        "oyveotesi_neighborhood_id": 48527
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-akdagmadeni",
+        "mahalle": "KAYAKIŞLA KÖYÜ",
+        "ilce_adi": "AKDAĞMADENİ",
+        "mahalle_id": "yozgat-akdagmadeni-kayakisla-koyu",
+        "oyveotesi_neighborhood_id": 48526
+    }
+]

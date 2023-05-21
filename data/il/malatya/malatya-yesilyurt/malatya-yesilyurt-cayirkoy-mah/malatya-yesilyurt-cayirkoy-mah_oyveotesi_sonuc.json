@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-yesilyurt",
+        "mahalle": "ÇAYIRKÖY MAH.",
+        "ilce_adi": "YEŞİLYURT",
+        "okul_adi": "ÇAYIRKÖY İLKOKULU",
+        "sandik_no": 2101,
+        "mahalle_id": "malatya-yesilyurt-cayirkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 166,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 12,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-yesilyurt/2xxx/2101/malatya-yesilyurt-2101-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784666",
+            "oyveotesi_sync_timestamp": 1684351498
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 233,
+            "sayim_sonuc": {
+                "TOPLAM": 233,
+                "KEMAL KILIÇDAROĞLU": 216,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-yesilyurt/2xxx/2101/malatya-yesilyurt-2101-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784666",
+            "oyveotesi_sync_timestamp": 1684351498
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-merkez",
+        "mahalle": "CEVDETİYE-CUMHURİYET MAH.",
+        "ilce_adi": "OSMANİYE MERKEZ",
+        "okul_adi": "CEVDETİYE-CUMHURİYET İLKOKUL-ORTAOKUL",
+        "sandik_no": 1453,
+        "mahalle_id": "osmaniye-merkez-cevdetiye-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375127
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 110
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1453/osmaniye-merkez-1453-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375127
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-merkez",
+        "mahalle": "CEVDETİYE-CUMHURİYET MAH.",
+        "ilce_adi": "OSMANİYE MERKEZ",
+        "okul_adi": "CEVDETİYE-CUMHURİYET İLKOKUL-ORTAOKUL",
+        "sandik_no": 1454,
+        "mahalle_id": "osmaniye-merkez-cevdetiye-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 30,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 57,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 82,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1454/osmaniye-merkez-1454-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822736",
+            "oyveotesi_sync_timestamp": 1684375127
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 87,
+                "RECEP TAYYİP ERDOĞAN": 154
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1454/osmaniye-merkez-1454-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822736",
+            "oyveotesi_sync_timestamp": 1684375127
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

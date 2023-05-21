@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-vize",
+        "mahalle": "PAZARLI KÖYÜ",
+        "ilce_adi": "VİZE",
+        "okul_adi": "PAZARLI KÖYÜ KAHVEHANESİ",
+        "sandik_no": 1075,
+        "mahalle_id": "kirklareli-vize-pazarli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-vize/1xxx/1075/kirklareli-vize-1075-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831710",
+            "oyveotesi_sync_timestamp": 1684349275
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-vize/1xxx/1075/kirklareli-vize-1075-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831710",
+            "oyveotesi_sync_timestamp": 1684349275
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

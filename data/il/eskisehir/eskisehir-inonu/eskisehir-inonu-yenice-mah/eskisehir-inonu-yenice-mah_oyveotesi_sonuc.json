@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-inonu",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "İNÖNÜ",
+        "okul_adi": "HALK EĞİTİM MERKEZİ",
+        "sandik_no": 1019,
+        "mahalle_id": "eskisehir-inonu-yenice-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 72,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1019/eskisehir-inonu-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "207285",
+            "oyveotesi_sync_timestamp": 1684341533
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1019/eskisehir-inonu-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "207285",
+            "oyveotesi_sync_timestamp": 1684341533
+        },
+        "secim_bolge_id": "eskisehir"
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-inonu",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "İNÖNÜ",
+        "okul_adi": "HALK EĞİTİM MERKEZİ",
+        "sandik_no": 1020,
+        "mahalle_id": "eskisehir-inonu-yenice-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1020/eskisehir-inonu-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "210570",
+            "oyveotesi_sync_timestamp": 1684341533
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 135
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1020/eskisehir-inonu-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "210570",
+            "oyveotesi_sync_timestamp": 1684341533
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

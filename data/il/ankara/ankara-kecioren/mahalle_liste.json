@@ -1,0 +1,512 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ŞENLİK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-senlik-mah",
+        "oyveotesi_neighborhood_id": 3817
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KAVACIK SUBAYEVLERİ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kavacik-subayevleri-mah",
+        "oyveotesi_neighborhood_id": 3819
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 3810
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KARARGAHTEPE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-karargahtepe-mah",
+        "oyveotesi_neighborhood_id": 3837
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KÖŞK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kosk-mah",
+        "oyveotesi_neighborhood_id": 3829
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KARAKAYA MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-karakaya-mah",
+        "oyveotesi_neighborhood_id": 3802
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KANUNİ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kanuni-mah",
+        "oyveotesi_neighborhood_id": 3836
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KAMİL OCAK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kamil-ocak-mah",
+        "oyveotesi_neighborhood_id": 3809
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KALABA MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kalaba-mah",
+        "oyveotesi_neighborhood_id": 3821
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KAFKAS MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kafkas-mah",
+        "oyveotesi_neighborhood_id": 3828
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "İNCİRLİ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-incirli-mah",
+        "oyveotesi_neighborhood_id": 3841
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "BASINEVLERİ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-basinevleri-mah",
+        "oyveotesi_neighborhood_id": 3825
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ÇALDIRAN MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-caldiran-mah",
+        "oyveotesi_neighborhood_id": 3840
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ÇALSEKİ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-calseki-mah",
+        "oyveotesi_neighborhood_id": 3832
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ÇİÇEKLİ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-cicekli-mah",
+        "oyveotesi_neighborhood_id": 3835
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "EMRAH MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-emrah-mah",
+        "oyveotesi_neighborhood_id": 3808
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ESERTEPE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-esertepe-mah",
+        "oyveotesi_neighborhood_id": 3803
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ETLİK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-etlik-mah",
+        "oyveotesi_neighborhood_id": 3826
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "GÜÇLÜKAYA MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-guclukaya-mah",
+        "oyveotesi_neighborhood_id": 3804
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "GÜMÜŞDERE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-gumusdere-mah",
+        "oyveotesi_neighborhood_id": 3843
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "GÜZELYURT MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-guzelyurt-mah",
+        "oyveotesi_neighborhood_id": 3820
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "HASKÖY MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-haskoy-mah",
+        "oyveotesi_neighborhood_id": 3818
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "HİSAR MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-hisar-mah",
+        "oyveotesi_neighborhood_id": 3827
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "19 MAYIS MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-19-mayis-mah",
+        "oyveotesi_neighborhood_id": 3849
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ŞENYUVA MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-senyuva-mah",
+        "oyveotesi_neighborhood_id": 3824
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "TEPEBAŞI MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-tepebasi-mah",
+        "oyveotesi_neighborhood_id": 3838
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "UFUKTEPE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-ufuktepe-mah",
+        "oyveotesi_neighborhood_id": 3822
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "UYANIŞ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-uyanis-mah",
+        "oyveotesi_neighborhood_id": 3830
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "YAKACIK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-yakacik-mah",
+        "oyveotesi_neighborhood_id": 3805
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "YAYLA MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-yayla-mah",
+        "oyveotesi_neighborhood_id": 3848
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ŞEFKAT MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-sefkat-mah",
+        "oyveotesi_neighborhood_id": 3806
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "SARIBEYLER MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-saribeyler-mah",
+        "oyveotesi_neighborhood_id": 3816
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "SANCAKTEPE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-sancaktepe-mah",
+        "oyveotesi_neighborhood_id": 3812
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ŞEHİT KUBİLAY MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-sehit-kubilay-mah",
+        "oyveotesi_neighborhood_id": 3813
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "PINARBAŞI MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-pinarbasi-mah",
+        "oyveotesi_neighborhood_id": 3811
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "OVACIK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-ovacik-mah",
+        "oyveotesi_neighborhood_id": 3847
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "OSMANGAZİ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-osmangazi-mah",
+        "oyveotesi_neighborhood_id": 3800
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KUŞCAĞIZ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kuscagiz-mah",
+        "oyveotesi_neighborhood_id": 3845
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "KÖSRELİK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-kosrelik-mah",
+        "oyveotesi_neighborhood_id": 3846
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "YEŞİLÖZ MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-yesiloz-mah",
+        "oyveotesi_neighborhood_id": 3823
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "YEŞİLTEPE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-yesiltepe-mah",
+        "oyveotesi_neighborhood_id": 3839
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "YÜKSELTEPE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-yukseltepe-mah",
+        "oyveotesi_neighborhood_id": 3831
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "23 NİSAN MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-23-nisan-mah",
+        "oyveotesi_neighborhood_id": 3814
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ADNAN MENDERES MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-adnan-menderes-mah",
+        "oyveotesi_neighborhood_id": 3807
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "AKTEPE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-aktepe-mah",
+        "oyveotesi_neighborhood_id": 3801
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "AŞAĞI EĞLENCE MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-asagi-eglence-mah",
+        "oyveotesi_neighborhood_id": 3833
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "ATAPARK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-atapark-mah",
+        "oyveotesi_neighborhood_id": 3850
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "AYVALI MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-ayvali-mah",
+        "oyveotesi_neighborhood_id": 3842
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "BADEMLİK MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-bademlik-mah",
+        "oyveotesi_neighborhood_id": 3815
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "BAĞLARBAŞI MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-baglarbasi-mah",
+        "oyveotesi_neighborhood_id": 3834
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kecioren",
+        "mahalle": "BAĞLUM GÜZELYURT MAH.",
+        "ilce_adi": "KEÇİÖREN",
+        "mahalle_id": "ankara-kecioren-baglum-guzelyurt-mah",
+        "oyveotesi_neighborhood_id": 3844
+    }
+]

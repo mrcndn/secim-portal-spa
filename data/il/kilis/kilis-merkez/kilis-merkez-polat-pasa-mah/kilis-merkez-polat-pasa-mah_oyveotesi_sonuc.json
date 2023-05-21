@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "ilce_id": "kilis-merkez",
+        "mahalle": "POLAT PAŞA MAH.",
+        "ilce_adi": "KİLİS MERKEZ",
+        "okul_adi": "ASLANBEY İLKOKULU",
+        "sandik_no": 1190,
+        "mahalle_id": "kilis-merkez-polat-pasa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 4,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 89,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1190/kilis-merkez-1190-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "318679",
+            "oyveotesi_sync_timestamp": 1684348587
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 200
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1190/kilis-merkez-1190-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "318679",
+            "oyveotesi_sync_timestamp": 1684348587
+        },
+        "secim_bolge_id": "kilis"
+    },
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "ilce_id": "kilis-merkez",
+        "mahalle": "POLAT PAŞA MAH.",
+        "ilce_adi": "KİLİS MERKEZ",
+        "okul_adi": "ASLANBEY İLKOKULU",
+        "sandik_no": 1191,
+        "mahalle_id": "kilis-merkez-polat-pasa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348587
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 224
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1191/kilis-merkez-1191-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348587
+        },
+        "secim_bolge_id": "kilis"
+    }
+]

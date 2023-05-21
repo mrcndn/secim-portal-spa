@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-bozyazi",
+        "mahalle": "NARİNCE MAH.",
+        "ilce_adi": "BOZYAZI",
+        "okul_adi": "NARİNCE KÖYÜ DÜGÜN SALONU",
+        "sandik_no": 1050,
+        "mahalle_id": "mersin-bozyazi-narince-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 60,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 124,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-bozyazi/1xxx/1050/mersin-bozyazi-1050-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781216",
+            "oyveotesi_sync_timestamp": 1684363367
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 210
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-bozyazi/1xxx/1050/mersin-bozyazi-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781216",
+            "oyveotesi_sync_timestamp": 1684363367
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

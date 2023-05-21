@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-dosemealti",
+        "mahalle": "ILICAKÖY MAH.",
+        "ilce_adi": "DÖŞEMEALTI",
+        "okul_adi": "ILICAKÖY ORTAOKULU",
+        "sandik_no": 1075,
+        "mahalle_id": "antalya-dosemealti-ilicakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "İYİ PARTİ": 34,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 89,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1075/antalya-dosemealti-1075-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "250590",
+            "oyveotesi_sync_timestamp": 1684325678
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 127,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1075/antalya-dosemealti-1075-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "250590",
+            "oyveotesi_sync_timestamp": 1684325678
+        },
+        "secim_bolge_id": "antalya"
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-dosemealti",
+        "mahalle": "ILICAKÖY MAH.",
+        "ilce_adi": "DÖŞEMEALTI",
+        "okul_adi": "ILICAKÖY ORTAOKULU",
+        "sandik_no": 1076,
+        "mahalle_id": "antalya-dosemealti-ilicakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325678
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-dosemealti/1xxx/1076/antalya-dosemealti-1076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325678
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

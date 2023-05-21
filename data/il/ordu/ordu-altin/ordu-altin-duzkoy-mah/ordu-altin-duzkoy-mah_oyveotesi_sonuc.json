@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-altin",
+        "mahalle": "DÜZKÖY MAH.",
+        "ilce_adi": "ALTINORDU",
+        "okul_adi": "DÜZKÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1161,
+        "mahalle_id": "ordu-altin-duzkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360348
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1161/ordu-altin-1161-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360348
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

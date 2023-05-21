@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-of",
+        "mahalle": "ÇALTILI MAH.",
+        "ilce_adi": "OF",
+        "okul_adi": "ÇALTILI KABAN CAMİSİ ALTI",
+        "sandik_no": 1027,
+        "mahalle_id": "trabzon-of-caltili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366690
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1027/trabzon-of-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366690
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

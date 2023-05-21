@@ -1,0 +1,576 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ ATATÜRK ORTAOKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "ADALET VE KALKINMA PARTİSİ": 101,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1023/ordu-aybasti-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "702802",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "702802",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "AYBASTI İMAMHATİP ORTAOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1017/ordu-aybasti-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "812680",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 84,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1017/ordu-aybasti-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "812680",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "AYBASTI İMAMHATİP ORTAOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 127,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1018/ordu-aybasti-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "803997",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1018/ordu-aybasti-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "803997",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "AYBASTI İMAMHATİP ORTAOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 98,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1019/ordu-aybasti-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "AYBASTI İMAMHATİP ORTAOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1020/ordu-aybasti-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ ATATÜRK ORTAOKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ ATATÜRK ORTAOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1022/ordu-aybasti-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ ATATÜRK ORTAOKULU",
+        "sandik_no": 1024,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 96,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1024/ordu-aybasti-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825904",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1024/ordu-aybasti-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825904",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ BOĞMALIK İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ HAVLUİÇİ İLKOKULU ORTAOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 72,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1026/ordu-aybasti-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "759489",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1026/ordu-aybasti-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "759489",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ MESLEKİ VE TEKNİK ANADOLU LİSESİ (ESKİ ÇPL)",
+        "sandik_no": 1027,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 99,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1027/ordu-aybasti-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "688270",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "688270",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ MESLEKİ VE TEKNİK ANADOLU LİSESİ (ESKİ ÇPL)",
+        "sandik_no": 1028,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "ADALET VE KALKINMA PARTİSİ": 126,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1028/ordu-aybasti-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "686577",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "686577",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ MESLEKİ VE TEKNİK ANADOLU LİSESİ (ESKİ ÇPL)",
+        "sandik_no": 1029,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ MESLEKİ VE TEKNİK ANADOLU LİSESİ (ESKİ ÇPL)",
+        "sandik_no": 1030,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-aybasti",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "AYBASTI",
+        "okul_adi": "ESENLİ MURATYERİ İLKOKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "ordu-aybasti-esenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "İYİ PARTİ": 4,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-aybasti/1xxx/1031/ordu-aybasti-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "634364",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "634364",
+            "oyveotesi_sync_timestamp": 1684360492
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

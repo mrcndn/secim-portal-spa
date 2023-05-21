@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-yesilova",
+        "mahalle": "BAHCELİEVLER MAH.",
+        "ilce_adi": "YEŞİLOVA",
+        "okul_adi": "MERKEZ ORTA OKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "burdur-yesilova-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 95,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-yesilova/1xxx/1001/burdur-yesilova-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "435382",
+            "oyveotesi_sync_timestamp": 1684333819
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-yesilova/1xxx/1001/burdur-yesilova-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "435382",
+            "oyveotesi_sync_timestamp": 1684333819
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-yesilova",
+        "mahalle": "BAHCELİEVLER MAH.",
+        "ilce_adi": "YEŞİLOVA",
+        "okul_adi": "MERKEZ ORTA OKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "burdur-yesilova-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333819
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333819
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

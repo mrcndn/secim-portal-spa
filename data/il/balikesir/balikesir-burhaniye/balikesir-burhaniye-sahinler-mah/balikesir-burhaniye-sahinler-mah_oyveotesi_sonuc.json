@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-burhaniye",
+        "mahalle": "ŞAHİNLER MAH.",
+        "ilce_adi": "BURHANİYE",
+        "okul_adi": "ŞAHİNLER İLKOKULU",
+        "sandik_no": 1147,
+        "mahalle_id": "balikesir-burhaniye-sahinler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 53,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 73,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-burhaniye/1xxx/1147/balikesir-burhaniye-1147-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236566",
+            "oyveotesi_sync_timestamp": 1684331621
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 128,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-burhaniye/1xxx/1147/balikesir-burhaniye-1147-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236566",
+            "oyveotesi_sync_timestamp": 1684331621
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-lapseki",
+        "mahalle": "ÇATALTEPE KÖYÜ",
+        "ilce_adi": "LAPSEKİ",
+        "okul_adi": "ÇATALTEPE KAHVEHANE",
+        "sandik_no": 1061,
+        "mahalle_id": "canakkale-lapseki-cataltepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 98,
+            "sayim_sonuc": {
+                "TOPLAM": 98,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1061/canakkale-lapseki-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "581345",
+            "oyveotesi_sync_timestamp": 1684335585
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 98,
+            "sayim_sonuc": {
+                "TOPLAM": 98,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1061/canakkale-lapseki-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "581345",
+            "oyveotesi_sync_timestamp": 1684335585
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

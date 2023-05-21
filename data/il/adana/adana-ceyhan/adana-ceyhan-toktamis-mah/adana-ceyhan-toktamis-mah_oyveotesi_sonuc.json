@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "TOKTAMIŞ MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "TOKTAMIŞ-İLKOKULU",
+        "sandik_no": 1330,
+        "mahalle_id": "adana-ceyhan-toktamis-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-ceyhan/1xxx/1330/adana-ceyhan-1330-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "515397",
+            "oyveotesi_sync_timestamp": 1684371509
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "515397",
+            "oyveotesi_sync_timestamp": 1684371509
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "TOKTAMIŞ MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "TOKTAMIŞ-İLKOKULU",
+        "sandik_no": 1331,
+        "mahalle_id": "adana-ceyhan-toktamis-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371509
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371509
+        },
+        "secim_bolge_id": "adana"
+    }
+]

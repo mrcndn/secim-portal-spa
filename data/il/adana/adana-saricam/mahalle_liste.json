@@ -1,0 +1,682 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ACIDERE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-acidere-mah",
+        "oyveotesi_neighborhood_id": 36188
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "AFLAK MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-aflak-mah",
+        "oyveotesi_neighborhood_id": 36183
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "AKKUYU MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-akkuyu-mah",
+        "oyveotesi_neighborhood_id": 36178
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "AVCILAR MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-avcilar-mah",
+        "oyveotesi_neighborhood_id": 36171
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "AYDINYURDU MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-aydinyurdu-mah",
+        "oyveotesi_neighborhood_id": 36199
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "AYVALI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-ayvali-mah",
+        "oyveotesi_neighborhood_id": 36174
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "BALCALI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-balcali-mah",
+        "oyveotesi_neighborhood_id": 36189
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "BAYRAM HACILI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-bayram-hacili-mah",
+        "oyveotesi_neighborhood_id": 36203
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "BEYCELİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-beyceli-mah",
+        "oyveotesi_neighborhood_id": 36190
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "BOYNUYOĞUN MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-boynuyogun-mah",
+        "oyveotesi_neighborhood_id": 36179
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "BOZTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-boztepe-mah",
+        "oyveotesi_neighborhood_id": 36215
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "BURUK CUMHURİYET MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-buruk-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 36184
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "BÜYÜK BAKLALI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-buyuk-baklali-mah",
+        "oyveotesi_neighborhood_id": 36216
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ÇAMLICA MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-camlica-mah",
+        "oyveotesi_neighborhood_id": 36181
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ÇARKIPARE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-carkipare-mah",
+        "oyveotesi_neighborhood_id": 36182
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ÇAYLI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-cayli-mah",
+        "oyveotesi_neighborhood_id": 36170
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "CERENLİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-cerenli-mah",
+        "oyveotesi_neighborhood_id": 36162
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ÇİÇEKLİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-cicekli-mah",
+        "oyveotesi_neighborhood_id": 36191
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "CİHADİYE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-cihadiye-mah",
+        "oyveotesi_neighborhood_id": 36208
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ÇINARLI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-cinarli-mah",
+        "oyveotesi_neighborhood_id": 36175
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ÇİRİŞGEDİĞİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-cirisgedigi-mah",
+        "oyveotesi_neighborhood_id": 36161
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "DAĞCI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-dagci-mah",
+        "oyveotesi_neighborhood_id": 36151
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "DUTLUCA MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-dutluca-mah",
+        "oyveotesi_neighborhood_id": 36172
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "EĞECİUŞAĞI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-egeciusagi-mah",
+        "oyveotesi_neighborhood_id": 36204
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ERTUĞRULGAZİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-ertugrulgazi-mah",
+        "oyveotesi_neighborhood_id": 50167
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-esentepe-mah",
+        "oyveotesi_neighborhood_id": 36158
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "GÖKBUKET MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-gokbuket-mah",
+        "oyveotesi_neighborhood_id": 36217
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "GÖZTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-goztepe-mah",
+        "oyveotesi_neighborhood_id": 36163
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "GÜLTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-gultepe-mah",
+        "oyveotesi_neighborhood_id": 36180
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "HAKKIBEYLİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-hakkibeyli-mah",
+        "oyveotesi_neighborhood_id": 36200
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "HASANBEYLİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-hasanbeyli-mah",
+        "oyveotesi_neighborhood_id": 36173
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "HOCALLI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-hocalli-mah",
+        "oyveotesi_neighborhood_id": 36159
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-hurriyet-mah",
+        "oyveotesi_neighborhood_id": 36166
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-istiklal-mah",
+        "oyveotesi_neighborhood_id": 36165
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KARAÖMERLİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-karaomerli-mah",
+        "oyveotesi_neighborhood_id": 36193
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KARAYUSUFLU MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-karayusuflu-mah",
+        "oyveotesi_neighborhood_id": 36186
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KARGAKEKEÇ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kargakekec-mah",
+        "oyveotesi_neighborhood_id": 36194
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KARLIK MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-karlik-mah",
+        "oyveotesi_neighborhood_id": 36212
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KAŞOBASI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kasobasi-mah",
+        "oyveotesi_neighborhood_id": 36209
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KEMALPAŞA MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kemalpasa-mah",
+        "oyveotesi_neighborhood_id": 36152
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KEPEZTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kepeztepe-mah",
+        "oyveotesi_neighborhood_id": 36160
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KILBAŞ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kilbas-mah",
+        "oyveotesi_neighborhood_id": 36210
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KILIÇLI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kilicli-mah",
+        "oyveotesi_neighborhood_id": 36164
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KIZILKAŞ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kizilkas-mah",
+        "oyveotesi_neighborhood_id": 36187
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KÖSEFAKILI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kosefakili-mah",
+        "oyveotesi_neighborhood_id": 36177
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "KÜÇÜKBAKLALI MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-kucukbaklali-mah",
+        "oyveotesi_neighborhood_id": 36154
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "MALTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-maltepe-mah",
+        "oyveotesi_neighborhood_id": 36167
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "MEHMET AKİF ERSOY MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-mehmet-akif-ersoy-mah",
+        "oyveotesi_neighborhood_id": 36213
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "MENEKŞE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-menekse-mah",
+        "oyveotesi_neighborhood_id": 36153
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "MÜMİNLİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-muminli-mah",
+        "oyveotesi_neighborhood_id": 36155
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "MUSTAFALAR MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-mustafalar-mah",
+        "oyveotesi_neighborhood_id": 36202
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ORHANGAZİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-orhangazi-mah",
+        "oyveotesi_neighborhood_id": 36201
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "OSMANGAZİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-osmangazi-mah",
+        "oyveotesi_neighborhood_id": 36168
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "REMZİ OĞUZ ARIK MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-remzi-oguz-arik-mah",
+        "oyveotesi_neighborhood_id": 36195
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ŞAHİNTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-sahintepe-mah",
+        "oyveotesi_neighborhood_id": 36157
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "SARIÇAM MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-saricam-mah",
+        "oyveotesi_neighborhood_id": 36196
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "SOFUDEDE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-sofudede-mah",
+        "oyveotesi_neighborhood_id": 36197
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "SULUCA MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-suluca-mah",
+        "oyveotesi_neighborhood_id": 50158
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "TURUNÇLU MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-turunclu-mah",
+        "oyveotesi_neighborhood_id": 36169
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "ÜNLÜCE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-unluce-mah",
+        "oyveotesi_neighborhood_id": 36192
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YAĞIZLAR MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yagizlar-mah",
+        "oyveotesi_neighborhood_id": 36214
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YARIMCA MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yarimca-mah",
+        "oyveotesi_neighborhood_id": 36206
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YAVUZ SULTAN SELİM MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yavuz-sultan-selim-mah",
+        "oyveotesi_neighborhood_id": 36205
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yeni-mah",
+        "oyveotesi_neighborhood_id": 36211
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YENİYAYLA MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yeniyayla-mah",
+        "oyveotesi_neighborhood_id": 36198
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YEŞİLTEPE MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yesiltepe-mah",
+        "oyveotesi_neighborhood_id": 36185
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YILDIRIM BEYAZIT MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yildirim-beyazit-mah",
+        "oyveotesi_neighborhood_id": 36207
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "YÜREKLİ MAH.",
+        "ilce_adi": "SARIÇAM",
+        "mahalle_id": "adana-saricam-yurekli-mah",
+        "oyveotesi_neighborhood_id": 36156
+    }
+]

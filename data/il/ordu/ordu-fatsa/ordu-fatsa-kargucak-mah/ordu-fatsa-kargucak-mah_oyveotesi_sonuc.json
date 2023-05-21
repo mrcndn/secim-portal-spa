@@ -1,0 +1,70 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "KARGUCAK MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "KARGUCAK MAH. CAMİ LOJMANI",
+        "sandik_no": 1157,
+        "mahalle_id": "ordu-fatsa-kargucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360833
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360833
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "KARGUCAK MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "KARGUCAK MAH. CAMİ LOJMANI",
+        "sandik_no": 1156,
+        "mahalle_id": "ordu-fatsa-kargucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "İYİ PARTİ": 24,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1156/ordu-fatsa-1156-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822927",
+            "oyveotesi_sync_timestamp": 1684360833
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1156/ordu-fatsa-1156-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822927",
+            "oyveotesi_sync_timestamp": 1684360833
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

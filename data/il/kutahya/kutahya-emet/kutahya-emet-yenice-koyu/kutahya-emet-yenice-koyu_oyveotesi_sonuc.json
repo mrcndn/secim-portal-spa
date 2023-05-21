@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-emet",
+        "mahalle": "YENİCE KÖYÜ",
+        "ilce_adi": "EMET",
+        "okul_adi": "YENİCE KÖYÜ YEŞİLOVA KÜME EVLERİ MİSAFİR ODASI",
+        "sandik_no": 1068,
+        "mahalle_id": "kutahya-emet-yenice-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350214
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1068/kutahya-emet-1068-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350214
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-emet",
+        "mahalle": "YENİCE KÖYÜ",
+        "ilce_adi": "EMET",
+        "okul_adi": "YENİCE KÖYÜ İLKOKULU",
+        "sandik_no": 1067,
+        "mahalle_id": "kutahya-emet-yenice-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 177,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1067/kutahya-emet-1067-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1012997",
+            "oyveotesi_sync_timestamp": 1684350214
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 226
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1067/kutahya-emet-1067-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1012997",
+            "oyveotesi_sync_timestamp": 1684350214
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

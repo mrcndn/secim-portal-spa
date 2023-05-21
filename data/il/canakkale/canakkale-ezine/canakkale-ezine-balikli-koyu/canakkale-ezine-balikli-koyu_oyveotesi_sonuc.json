@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ezine",
+        "mahalle": "BALIKLI KÖYÜ",
+        "ilce_adi": "EZİNE",
+        "okul_adi": "BALIKLI KÖY KAHVEHANESİ",
+        "sandik_no": 1049,
+        "mahalle_id": "canakkale-ezine-balikli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1049/canakkale-ezine-1049-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572666",
+            "oyveotesi_sync_timestamp": 1684336066
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 117,
+            "sayim_sonuc": {
+                "TOPLAM": 117,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1049/canakkale-ezine-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572666",
+            "oyveotesi_sync_timestamp": 1684336066
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

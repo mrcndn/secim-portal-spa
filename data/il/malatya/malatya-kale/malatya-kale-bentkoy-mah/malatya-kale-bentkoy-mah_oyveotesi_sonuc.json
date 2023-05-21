@@ -1,0 +1,93 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-kale",
+        "mahalle": "BENTKÖY MAH.",
+        "ilce_adi": "KALE",
+        "okul_adi": "BENT İLKOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "malatya-kale-bentkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "İYİ PARTİ": 4,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 163,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-kale/1xxx/1005/malatya-kale-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "792342",
+            "oyveotesi_sync_timestamp": 1684351321
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 199
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-kale/1xxx/1005/malatya-kale-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "792342",
+            "oyveotesi_sync_timestamp": 1684351321
+        },
+        "secim_bolge_id": "malatya"
+    },
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-kale",
+        "mahalle": "BENTKÖY MAH.",
+        "ilce_adi": "KALE",
+        "okul_adi": "BENT İLKOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "malatya-kale-bentkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 24,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 142,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-kale/1xxx/1006/malatya-kale-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "791526",
+            "oyveotesi_sync_timestamp": 1684351321
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 196
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-kale/1xxx/1006/malatya-kale-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "791526",
+            "oyveotesi_sync_timestamp": 1684351321
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-dikmen",
+        "mahalle": "ÇEVİKLİ KÖYÜ",
+        "ilce_adi": "DİKMEN",
+        "okul_adi": "ÇEVİKLİ KÖYÜ BÜLENT VEZİROĞLU İLKOKULU ESKİ",
+        "sandik_no": 1011,
+        "mahalle_id": "sinop-dikmen-cevikli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "VATAN PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1011/sinop-dikmen-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "317137",
+            "oyveotesi_sync_timestamp": 1684354179
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1011/sinop-dikmen-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "317137",
+            "oyveotesi_sync_timestamp": 1684354179
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

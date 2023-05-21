@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "BEŞPINAR MAH.",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "KOOPERATİF BİNASI",
+        "sandik_no": 1001,
+        "mahalle_id": "cankiri-kursunlu-bespinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1001/cankiri-kursunlu-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "760130",
+            "oyveotesi_sync_timestamp": 1684336597
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1001/cankiri-kursunlu-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "760130",
+            "oyveotesi_sync_timestamp": 1684336597
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-yenipazar",
+        "mahalle": "KARAÇAKAL MAH.",
+        "ilce_adi": "YENİPAZAR",
+        "okul_adi": "KARAÇAKAL KÖYÜ MESTANLAR",
+        "sandik_no": 1034,
+        "mahalle_id": "aydin-yenipazar-karacakal-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "İYİ PARTİ": 18,
+                "ANAVATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-yenipazar/1xxx/1034/aydin-yenipazar-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "626431",
+            "oyveotesi_sync_timestamp": 1684394588
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "626431",
+            "oyveotesi_sync_timestamp": 1684394588
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-yenipazar",
+        "mahalle": "KARAÇAKAL MAH.",
+        "ilce_adi": "YENİPAZAR",
+        "okul_adi": "KARAÇAKAL KÖYÜ KÖY OKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "aydin-yenipazar-karacakal-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 45,
+            "sayim_sonuc": {
+                "TOPLAM": 45,
+                "İYİ PARTİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-yenipazar/1xxx/1033/aydin-yenipazar-1033-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "624693",
+            "oyveotesi_sync_timestamp": 1684394588
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-yenipazar/1xxx/1033/aydin-yenipazar-1033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "624693",
+            "oyveotesi_sync_timestamp": 1684394588
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

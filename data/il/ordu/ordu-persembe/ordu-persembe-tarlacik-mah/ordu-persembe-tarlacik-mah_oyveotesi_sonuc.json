@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "TARLACIK MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "TARLACIK MAHALLESİ MAHALLE ODASI",
+        "sandik_no": 1099,
+        "mahalle_id": "ordu-persembe-tarlacik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1099/ordu-persembe-1099-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "394460",
+            "oyveotesi_sync_timestamp": 1684360597
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 107,
+            "sayim_sonuc": {
+                "TOPLAM": 107,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1099/ordu-persembe-1099-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "394460",
+            "oyveotesi_sync_timestamp": 1684360597
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

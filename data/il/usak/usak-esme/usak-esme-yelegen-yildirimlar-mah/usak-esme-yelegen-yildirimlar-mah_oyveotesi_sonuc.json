@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-esme",
+        "mahalle": "YELEĞEN-YILDIRIMLAR MAH.",
+        "ilce_adi": "EŞME",
+        "okul_adi": "YILDIRIMLAR MAHALLESİ DÖNELER OKULU-YELEĞEN",
+        "sandik_no": 1041,
+        "mahalle_id": "usak-esme-yelegen-yildirimlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 9,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-esme/1xxx/1041/usak-esme-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784601",
+            "oyveotesi_sync_timestamp": 1684369786
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-esme/1xxx/1041/usak-esme-1041-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784601",
+            "oyveotesi_sync_timestamp": 1684369786
+        },
+        "secim_bolge_id": "usak"
+    }
+]

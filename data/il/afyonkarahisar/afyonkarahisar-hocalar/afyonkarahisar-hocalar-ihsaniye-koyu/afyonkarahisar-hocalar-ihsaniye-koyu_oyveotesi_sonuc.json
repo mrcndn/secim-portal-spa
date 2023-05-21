@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-hocalar",
+        "mahalle": "İHSANİYE KÖYÜ",
+        "ilce_adi": "HOCALAR",
+        "okul_adi": "İHSANİYE İLKOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "afyonkarahisar-hocalar-ihsaniye-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 111,
+            "sayim_sonuc": {
+                "TOPLAM": 111,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-hocalar/1xxx/1019/afyonkarahisar-hocalar-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829632",
+            "oyveotesi_sync_timestamp": 1684324879
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-hocalar/1xxx/1019/afyonkarahisar-hocalar-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829632",
+            "oyveotesi_sync_timestamp": 1684324879
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

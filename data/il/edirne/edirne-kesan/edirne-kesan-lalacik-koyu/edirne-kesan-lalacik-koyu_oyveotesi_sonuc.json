@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "LALACIK KÖYÜ",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "LALACIK KÖYÜ KOOPERATİF BİNASI",
+        "sandik_no": 1187,
+        "mahalle_id": "edirne-kesan-lalacik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338493
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1187/edirne-kesan-1187-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338493
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

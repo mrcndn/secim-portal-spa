@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-kestel",
+        "mahalle": "KOZLUÖREN MAH.",
+        "ilce_adi": "KESTEL",
+        "okul_adi": "KOZLUÖREN SOSYAL YAŞAM MERKEZİ (ESKİ İLKOKUL)",
+        "sandik_no": 1082,
+        "mahalle_id": "bursa-kestel-kozluoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 51,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1016941",
+            "oyveotesi_sync_timestamp": 1684334942
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1016941",
+            "oyveotesi_sync_timestamp": 1684334942
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

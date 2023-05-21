@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-emet",
+        "mahalle": "KONUŞ KÖYÜ",
+        "ilce_adi": "EMET",
+        "okul_adi": "KONUŞ KÖYÜ İLKOKULU",
+        "sandik_no": 1053,
+        "mahalle_id": "kutahya-emet-konus-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "İYİ PARTİ": 13,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 81,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1053/kutahya-emet-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711038",
+            "oyveotesi_sync_timestamp": 1684350199
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-emet/1xxx/1053/kutahya-emet-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711038",
+            "oyveotesi_sync_timestamp": 1684350199
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

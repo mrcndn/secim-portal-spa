@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "SAZLICA KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "SAZLICA İMAM HATİP ORTAOKULU",
+        "sandik_no": 1075,
+        "mahalle_id": "mus-varto-sazlica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393710
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "SAZLICA KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "SAZLICA İMAM HATİP ORTAOKULU",
+        "sandik_no": 1074,
+        "mahalle_id": "mus-varto-sazlica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 159,
+            "sayim_sonuc": {
+                "TOPLAM": 159,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1074/mus-varto-1074-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "182250",
+            "oyveotesi_sync_timestamp": 1684393710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "182250",
+            "oyveotesi_sync_timestamp": 1684393710
+        },
+        "secim_bolge_id": "mus"
+    }
+]

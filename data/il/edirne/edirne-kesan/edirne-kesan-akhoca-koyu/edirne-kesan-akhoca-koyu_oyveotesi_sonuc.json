@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "AKHOCA KÖYÜ",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "AKHOCA KÖY KAHVESİ ( CAMİ YANI )",
+        "sandik_no": 1157,
+        "mahalle_id": "edirne-kesan-akhoca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 358,
+            "sayim_sonuc": {
+                "TOPLAM": 358,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 40,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 175,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1157/edirne-kesan-1157-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "597269",
+            "oyveotesi_sync_timestamp": 1684338456
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 367,
+            "sayim_sonuc": {
+                "TOPLAM": 367,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 226,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1157/edirne-kesan-1157-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "597269",
+            "oyveotesi_sync_timestamp": 1684338456
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

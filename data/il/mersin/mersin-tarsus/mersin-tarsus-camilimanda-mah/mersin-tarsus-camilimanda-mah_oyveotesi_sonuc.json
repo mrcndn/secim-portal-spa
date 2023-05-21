@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "CAMİLİMANDA MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "CAMİLİMANDA MAH. OKUL BİNASI",
+        "sandik_no": 2042,
+        "mahalle_id": "mersin-tarsus-camilimanda-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363711
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2042/mersin-tarsus-2042-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363711
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

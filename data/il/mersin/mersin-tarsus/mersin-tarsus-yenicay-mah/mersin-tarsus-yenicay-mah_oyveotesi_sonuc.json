@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "YENİÇAY MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "YENİÇAY MAH. OKUL BİNASI",
+        "sandik_no": 2199,
+        "mahalle_id": "mersin-tarsus-yenicay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363666
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 75,
+            "sayim_sonuc": {
+                "TOPLAM": 75,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2199/mersin-tarsus-2199-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363666
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

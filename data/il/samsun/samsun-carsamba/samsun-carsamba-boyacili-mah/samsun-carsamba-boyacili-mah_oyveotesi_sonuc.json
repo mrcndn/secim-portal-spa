@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-carsamba",
+        "mahalle": "BOYACILI MAH.",
+        "ilce_adi": "ÇARŞAMBA",
+        "okul_adi": "BOYACILI İLKOKULU",
+        "sandik_no": 1042,
+        "mahalle_id": "samsun-carsamba-boyacili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368104
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 141,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-carsamba/1xxx/1042/samsun-carsamba-1042-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368104
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

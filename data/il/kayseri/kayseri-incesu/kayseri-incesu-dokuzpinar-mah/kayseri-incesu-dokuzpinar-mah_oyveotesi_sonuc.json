@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-incesu",
+        "mahalle": "DOKUZPINAR MAH.",
+        "ilce_adi": "İNCESU",
+        "okul_adi": "DOKUZPINAR KÖY KONAĞI",
+        "sandik_no": 1013,
+        "mahalle_id": "kayseri-incesu-dokuzpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-incesu/1xxx/1013/kayseri-incesu-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "539505",
+            "oyveotesi_sync_timestamp": 1684359731
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-incesu/1xxx/1013/kayseri-incesu-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "539505",
+            "oyveotesi_sync_timestamp": 1684359731
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

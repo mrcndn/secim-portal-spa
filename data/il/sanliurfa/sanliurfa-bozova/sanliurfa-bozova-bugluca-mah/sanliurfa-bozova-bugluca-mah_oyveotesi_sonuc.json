@@ -1,0 +1,52 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-bozova",
+        "mahalle": "BUĞLUCA MAH.",
+        "ilce_adi": "BOZOVA",
+        "okul_adi": "BUĞLUCA İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "sanliurfa-bozova-bugluca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 44,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-bozova/1xxx/1016/sanliurfa-bozova-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835745",
+            "oyveotesi_sync_timestamp": 1684372858
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-bozova/1xxx/1016/sanliurfa-bozova-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835745",
+            "oyveotesi_sync_timestamp": 1684372858
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

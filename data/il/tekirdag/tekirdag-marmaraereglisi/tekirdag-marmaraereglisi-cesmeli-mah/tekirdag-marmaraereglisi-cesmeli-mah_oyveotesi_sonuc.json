@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-marmaraereglisi",
+        "mahalle": "ÇEŞMELİ MAH.",
+        "ilce_adi": "MARMARAEREĞLİSİ",
+        "okul_adi": "ÇEŞMELİ MAHALLESİ KÜLTÜR MERKEZİ",
+        "sandik_no": 1018,
+        "mahalle_id": "tekirdag-marmaraereglisi-cesmeli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368690
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368690
+        },
+        "secim_bolge_id": "tekirdag"
+    },
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-marmaraereglisi",
+        "mahalle": "ÇEŞMELİ MAH.",
+        "ilce_adi": "MARMARAEREĞLİSİ",
+        "okul_adi": "ÇEŞMELİ MAHALLESİ KÜLTÜR MERKEZİ",
+        "sandik_no": 1019,
+        "mahalle_id": "tekirdag-marmaraereglisi-cesmeli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 147,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-marmaraereglisi/1xxx/1019/tekirdag-marmaraereglisi-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "494005",
+            "oyveotesi_sync_timestamp": 1684368690
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 189,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-marmaraereglisi/1xxx/1019/tekirdag-marmaraereglisi-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "494005",
+            "oyveotesi_sync_timestamp": 1684368690
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

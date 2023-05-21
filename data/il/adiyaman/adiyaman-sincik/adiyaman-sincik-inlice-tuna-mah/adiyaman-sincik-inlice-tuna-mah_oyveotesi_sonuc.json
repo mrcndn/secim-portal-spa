@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-sincik",
+        "mahalle": "İNLİCE-TUNA MAH.",
+        "ilce_adi": "SİNCİK",
+        "okul_adi": "İNLİCE - TUNA MAHALLESİ İNLİCE İLKÖĞRETİM OKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "adiyaman-sincik-inlice-tuna-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326576
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 126,
+            "sayim_sonuc": {
+                "TOPLAM": 126,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-sincik/1xxx/1019/adiyaman-sincik-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326576
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cubuk",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "ÇUBUK",
+        "okul_adi": "CELAL TARIMAN ANAOKULU",
+        "sandik_no": 1107,
+        "mahalle_id": "ankara-cubuk-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 138
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393040
+        },
+        "secim_bolge_id": "ankara2"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cubuk",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "ÇUBUK",
+        "okul_adi": "CELAL TARIMAN ANAOKULU",
+        "sandik_no": 1108,
+        "mahalle_id": "ankara-cubuk-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "804678",
+            "oyveotesi_sync_timestamp": 1684393040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "804678",
+            "oyveotesi_sync_timestamp": 1684393040
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

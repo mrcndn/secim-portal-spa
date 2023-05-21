@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-saphane",
+        "mahalle": "KARAAĞIL MAH.",
+        "ilce_adi": "ŞAPHANE",
+        "okul_adi": "KARAAĞIL- MAHALLE CAMİİ MİSAFİRHANESİ",
+        "sandik_no": 1003,
+        "mahalle_id": "kutahya-saphane-karaagil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 6,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-saphane/1xxx/1003/kutahya-saphane-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574379",
+            "oyveotesi_sync_timestamp": 1684350547
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-saphane/1xxx/1003/kutahya-saphane-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574379",
+            "oyveotesi_sync_timestamp": 1684350547
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-merkez",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "KARABÜK MERKEZ",
+        "okul_adi": "SOSYAL GÜVENLİK KURUMU.KAT.1",
+        "sandik_no": 1118,
+        "mahalle_id": "karabuk-merkez-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 267,
+            "sayim_sonuc": {
+                "TOPLAM": 267,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 48,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 112,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-merkez/1xxx/1118/karabuk-merkez-1118-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "548163",
+            "oyveotesi_sync_timestamp": 1684346111
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "548163",
+            "oyveotesi_sync_timestamp": 1684346111
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-camoluk",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "ÇAMOLUK",
+        "okul_adi": "KURTULUŞ MAHALLESİ ÖĞRETMENEVİ ALTI İLÇE MİLLİ EĞİTİM MÜDÜRLÜĞÜ",
+        "sandik_no": 1005,
+        "mahalle_id": "giresun-camoluk-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342896
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 137
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-camoluk/1xxx/1005/giresun-camoluk-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342896
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-camoluk",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "ÇAMOLUK",
+        "okul_adi": "KURTULUŞ MAHALLESİ ÖĞRETMENEVİ ALTI İLÇE MİLLİ EĞİTİM MÜDÜRLÜĞÜ",
+        "sandik_no": 1006,
+        "mahalle_id": "giresun-camoluk-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-camoluk/1xxx/1006/giresun-camoluk-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790779",
+            "oyveotesi_sync_timestamp": 1684342896
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "790779",
+            "oyveotesi_sync_timestamp": 1684342896
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

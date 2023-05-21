@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-tirebolu",
+        "mahalle": "YUKARIORTACAMİ KÖYÜ",
+        "ilce_adi": "TİREBOLU",
+        "okul_adi": "Y.ORTACAMİ KARAKAYA İ.Ö.OKULU",
+        "sandik_no": 1101,
+        "mahalle_id": "giresun-tirebolu-yukariortacami-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343504
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-tirebolu/1xxx/1101/giresun-tirebolu-1101-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343504
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

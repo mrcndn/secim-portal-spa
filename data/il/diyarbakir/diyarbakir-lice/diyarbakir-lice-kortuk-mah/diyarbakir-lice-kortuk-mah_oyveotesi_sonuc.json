@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KÖRTÜK MAH.",
+        "ilce_adi": "LİCE",
+        "okul_adi": "AHMET TOPRAK ÇOK PROGRAMLI ANADOLU LİSESİ",
+        "sandik_no": 1041,
+        "mahalle_id": "diyarbakir-lice-kortuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336412
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336412
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KÖRTÜK MAH.",
+        "ilce_adi": "LİCE",
+        "okul_adi": "AHMET TOPRAK ÇOK PROGRAMLI ANADOLU LİSESİ",
+        "sandik_no": 1040,
+        "mahalle_id": "diyarbakir-lice-kortuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336412
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-lice/1xxx/1040/diyarbakir-lice-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336412
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

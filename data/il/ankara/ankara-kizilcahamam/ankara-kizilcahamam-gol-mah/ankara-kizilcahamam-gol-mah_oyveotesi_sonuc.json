@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "GÖL MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "GÖL MAHALLESİ MİSAFİRHANESİ",
+        "sandik_no": 1059,
+        "mahalle_id": "ankara-kizilcahamam-gol-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 10,
+            "sayim_sonuc": {
+                "TOPLAM": 10,
+                "İYİ PARTİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837156",
+            "oyveotesi_sync_timestamp": 1684395401
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 10,
+            "sayim_sonuc": {
+                "TOPLAM": 10,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837156",
+            "oyveotesi_sync_timestamp": 1684395401
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

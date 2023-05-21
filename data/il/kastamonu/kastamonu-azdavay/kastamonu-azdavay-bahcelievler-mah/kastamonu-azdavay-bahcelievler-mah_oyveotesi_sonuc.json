@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-azdavay",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "AZDAVAY",
+        "okul_adi": "KARAKUŞLU ANAOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "kastamonu-azdavay-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347357
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347357
+        },
+        "secim_bolge_id": "kastamonu"
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-azdavay",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "AZDAVAY",
+        "okul_adi": "KARAKUŞLU ANAOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "kastamonu-azdavay-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347357
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 113,
+                "RECEP TAYYİP ERDOĞAN": 95
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-azdavay/1xxx/1002/kastamonu-azdavay-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347357
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

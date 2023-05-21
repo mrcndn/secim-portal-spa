@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-selcuklu",
+        "mahalle": "GÜVENÇ MAH.",
+        "ilce_adi": "SELÇUKLU",
+        "okul_adi": "GÜVENÇ MAH. İLKOKULU",
+        "sandik_no": 3133,
+        "mahalle_id": "konya-selcuklu-guvenc-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 170,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-selcuklu/3xxx/3133/konya-selcuklu-3133-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572004",
+            "oyveotesi_sync_timestamp": 1684354993
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 226
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-selcuklu/3xxx/3133/konya-selcuklu-3133-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572004",
+            "oyveotesi_sync_timestamp": 1684354993
+        },
+        "secim_bolge_id": "konya"
+    }
+]

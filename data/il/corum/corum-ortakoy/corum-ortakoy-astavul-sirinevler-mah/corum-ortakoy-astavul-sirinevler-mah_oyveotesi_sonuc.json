@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-ortakoy",
+        "mahalle": "AŞTAVUL-ŞİRİNEVLER MAH.",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "ŞEHİT MAHSUNİ TÜRKMEN İLK ÖĞRETİM OKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "corum-ortakoy-astavul-sirinevler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369400
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 97,
+                "RECEP TAYYİP ERDOĞAN": 202
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1011/corum-ortakoy-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369400
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-ortakoy",
+        "mahalle": "AŞTAVUL-ŞİRİNEVLER MAH.",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "ŞEHİT MAHSUNİ TÜRKMEN İLK ÖĞRETİM OKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "corum-ortakoy-astavul-sirinevler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369400
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 206
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1010/corum-ortakoy-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369400
+        },
+        "secim_bolge_id": "corum"
+    }
+]

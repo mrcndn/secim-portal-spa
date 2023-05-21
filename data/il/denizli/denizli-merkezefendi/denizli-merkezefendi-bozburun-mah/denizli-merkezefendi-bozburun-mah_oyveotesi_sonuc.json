@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-merkezefendi",
+        "mahalle": "BOZBURUN MAH.",
+        "ilce_adi": "MERKEZEFENDİ",
+        "okul_adi": "BOZBURUN MAH.KAHVEHANESİ",
+        "sandik_no": 1060,
+        "mahalle_id": "denizli-merkezefendi-bozburun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 64,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-merkezefendi/1xxx/1060/denizli-merkezefendi-1060-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824734",
+            "oyveotesi_sync_timestamp": 1684365570
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "SİNAN OĞAN": 21,
+                "KEMAL KILIÇDAROĞLU": 118,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-merkezefendi/1xxx/1060/denizli-merkezefendi-1060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824734",
+            "oyveotesi_sync_timestamp": 1684365570
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

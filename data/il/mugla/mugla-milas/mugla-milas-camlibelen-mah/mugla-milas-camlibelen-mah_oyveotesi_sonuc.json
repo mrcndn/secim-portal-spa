@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "ÇAMLIBELEN MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "ÇAMLIBELEN İLKOKULU",
+        "sandik_no": 1125,
+        "mahalle_id": "mugla-milas-camlibelen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1125/mugla-milas-1125-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "745762",
+            "oyveotesi_sync_timestamp": 1684374512
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 90,
+            "sayim_sonuc": {
+                "TOPLAM": 90,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1125/mugla-milas-1125-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "745762",
+            "oyveotesi_sync_timestamp": 1684374512
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

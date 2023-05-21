@@ -1,0 +1,102 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cankaya",
+        "mahalle": "KIZILAY MAH.",
+        "ilce_adi": "ÇANKAYA",
+        "okul_adi": "MİMAR KEMAL ORTAOKULU A BLOK EK BİNA",
+        "sandik_no": 1288,
+        "mahalle_id": "ankara-cankaya-kizilay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395664
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 166,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395664
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cankaya",
+        "mahalle": "KIZILAY MAH.",
+        "ilce_adi": "ÇANKAYA",
+        "okul_adi": "MİMAR KEMAL ORTAOKULU A BLOK EK BİNA",
+        "sandik_no": 1289,
+        "mahalle_id": "ankara-cankaya-kizilay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395664
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395664
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cankaya",
+        "mahalle": "KIZILAY MAH.",
+        "ilce_adi": "ÇANKAYA",
+        "okul_adi": "MİMAR KEMAL ORTAOKULU A BLOK EK BİNA",
+        "sandik_no": 1290,
+        "mahalle_id": "ankara-cankaya-kizilay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 114,
+                "ADALET VE KALKINMA PARTİSİ": 45,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "830058",
+            "oyveotesi_sync_timestamp": 1684395664
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "830058",
+            "oyveotesi_sync_timestamp": 1684395664
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

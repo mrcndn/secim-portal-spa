@@ -1,0 +1,662 @@
+[
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KÜPLÜ KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kuplu-koyu",
+        "oyveotesi_neighborhood_id": 32922
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "İSTASYON MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-istasyon-mah",
+        "oyveotesi_neighborhood_id": 32871
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-istiklal-mah",
+        "oyveotesi_neighborhood_id": 32866
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KAPAKLI KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kapakli-koyu",
+        "oyveotesi_neighborhood_id": 32925
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KARAAĞAÇ KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-karaagac-koyu",
+        "oyveotesi_neighborhood_id": 32913
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KAVAKLI KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kavakli-koyu",
+        "oyveotesi_neighborhood_id": 32929
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KENDİRLİ KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kendirli-koyu",
+        "oyveotesi_neighborhood_id": 32873
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KEPİRLER KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kepirler-koyu",
+        "oyveotesi_neighborhood_id": 32889
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KINIK KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kinik-koyu",
+        "oyveotesi_neighborhood_id": 32890
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KIZILDAMLAR KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kizildamlar-koyu",
+        "oyveotesi_neighborhood_id": 32926
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KOYUNKÖY",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-koyunkoy",
+        "oyveotesi_neighborhood_id": 32881
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KÜNCEĞİZ KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kuncegiz-koyu",
+        "oyveotesi_neighborhood_id": 32876
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KURTKÖY",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kurtkoy",
+        "oyveotesi_neighborhood_id": 32930
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "KUYUBAŞI KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-kuyubasi-koyu",
+        "oyveotesi_neighborhood_id": 32869
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "NECMİYEKÖY",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-necmiyekoy",
+        "oyveotesi_neighborhood_id": 32874
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "OKLUCA KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-okluca-koyu",
+        "oyveotesi_neighborhood_id": 32870
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ÖREN KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-oren-koyu",
+        "oyveotesi_neighborhood_id": 32885
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ORHANGAZİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-orhangazi-mah",
+        "oyveotesi_neighborhood_id": 32882
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "OSMANGAZİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-osmangazi-mah",
+        "oyveotesi_neighborhood_id": 32894
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "PELİTÖZÜ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-pelitozu-mah",
+        "oyveotesi_neighborhood_id": 50236
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "SELBÜKÜ KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-selbuku-koyu",
+        "oyveotesi_neighborhood_id": 32883
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "SELÖZ KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-seloz-koyu",
+        "oyveotesi_neighborhood_id": 32911
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ŞÜKRANİYE KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-sukraniye-koyu",
+        "oyveotesi_neighborhood_id": 32918
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "SÜTLÜK KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-sutluk-koyu",
+        "oyveotesi_neighborhood_id": 32899
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "TAŞÇILAR KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-tascilar-koyu",
+        "oyveotesi_neighborhood_id": 32877
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ULUPINAR KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ulupinar-koyu",
+        "oyveotesi_neighborhood_id": 32900
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "VEZİRHAN-ERTUĞRULGAZİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-vezirhan-ertugrulgazi-mah",
+        "oyveotesi_neighborhood_id": 32914
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "VEZİRHAN-İSTASYON MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-vezirhan-istasyon-mah",
+        "oyveotesi_neighborhood_id": 32923
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "VEZİRHAN-KAYALAR MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-vezirhan-kayalar-mah",
+        "oyveotesi_neighborhood_id": 32915
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "VEZİRHAN-KÖPRÜLÜ MEHMET PAŞA MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-vezirhan-koprulu-mehmet-pasa-mah",
+        "oyveotesi_neighborhood_id": 32884
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "VEZİRHAN-YENİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-vezirhan-yeni-mah",
+        "oyveotesi_neighborhood_id": 32931
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "YENİKÖY",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-yenikoy",
+        "oyveotesi_neighborhood_id": 32917
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ABADİYE KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-abadiye-koyu",
+        "oyveotesi_neighborhood_id": 32886
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ABBASLIK KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-abbaslik-koyu",
+        "oyveotesi_neighborhood_id": 32927
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "AHMETPINAR KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ahmetpinar-koyu",
+        "oyveotesi_neighborhood_id": 32912
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ALPAĞUT KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-alpagut-koyu",
+        "oyveotesi_neighborhood_id": 32907
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "AŞAĞIKÖY",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-asagikoy",
+        "oyveotesi_neighborhood_id": 32875
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "AYVACIK KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ayvacik-koyu",
+        "oyveotesi_neighborhood_id": 32906
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAHÇECİK KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-bahcecik-koyu",
+        "oyveotesi_neighborhood_id": 32919
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 32920
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAŞKÖY",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-baskoy",
+        "oyveotesi_neighborhood_id": 32872
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-FATİH MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-bayirkoy-fatih-mah",
+        "oyveotesi_neighborhood_id": 32891
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-GAZİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-bayirkoy-gazi-mah",
+        "oyveotesi_neighborhood_id": 32903
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-SARMAŞIK MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-bayirkoy-sarmasik-mah",
+        "oyveotesi_neighborhood_id": 32924
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BEKDEMİR KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-bekdemir-koyu",
+        "oyveotesi_neighborhood_id": 32908
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BEŞİKTAŞ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-besiktas-mah",
+        "oyveotesi_neighborhood_id": 32892
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BEYCE KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-beyce-koyu",
+        "oyveotesi_neighborhood_id": 32897
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ÇAKIRPINAR KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-cakirpinar-koyu",
+        "oyveotesi_neighborhood_id": 32902
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ÇAVUŞKÖY",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-cavuskoy",
+        "oyveotesi_neighborhood_id": 32904
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ÇUKURÖREN KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-cukuroren-koyu",
+        "oyveotesi_neighborhood_id": 32878
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "CUMALI KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-cumali-koyu",
+        "oyveotesi_neighborhood_id": 32909
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 32887
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "DERESAKARI KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-deresakari-koyu",
+        "oyveotesi_neighborhood_id": 32895
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "DEREŞEMSETTİN KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-deresemsettin-koyu",
+        "oyveotesi_neighborhood_id": 32921
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ELMABAHÇE KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-elmabahce-koyu",
+        "oyveotesi_neighborhood_id": 32928
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ERKOCA KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-erkoca-koyu",
+        "oyveotesi_neighborhood_id": 32898
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "ERTUĞRULGAZİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ertugrulgazi-mah",
+        "oyveotesi_neighborhood_id": 32879
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "GAZİPAŞA MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-gazipasa-mah",
+        "oyveotesi_neighborhood_id": 32888
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "GÖKPINAR KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-gokpinar-koyu",
+        "oyveotesi_neighborhood_id": 32867
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "GÜLÜMBE KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-gulumbe-koyu",
+        "oyveotesi_neighborhood_id": 32880
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "HASANDERE KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-hasandere-koyu",
+        "oyveotesi_neighborhood_id": 32893
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-hurriyet-mah",
+        "oyveotesi_neighborhood_id": 32868
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "İKİZCE KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ikizce-koyu",
+        "oyveotesi_neighborhood_id": 32901
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "İLYASBEY KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ilyasbey-koyu",
+        "oyveotesi_neighborhood_id": 32916
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "İLYASÇA KÖYÜ",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ilyasca-koyu",
+        "oyveotesi_neighborhood_id": 32896
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "İSMETPAŞA MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "mahalle_id": "bilecik-merkez-ismetpasa-mah",
+        "oyveotesi_neighborhood_id": 32905
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-eceabat",
+        "mahalle": "KİLİDÜLBAHİR KÖYÜ",
+        "ilce_adi": "ECEABAT",
+        "okul_adi": "KİLİDÜLBAHİR KÖY KONAĞI",
+        "sandik_no": 1022,
+        "mahalle_id": "canakkale-eceabat-kilidulbahir-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 125,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-eceabat/1xxx/1022/canakkale-eceabat-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1018135",
+            "oyveotesi_sync_timestamp": 1684336053
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 167,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-eceabat/1xxx/1022/canakkale-eceabat-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1018135",
+            "oyveotesi_sync_timestamp": 1684336053
+        },
+        "secim_bolge_id": "canakkale"
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-eceabat",
+        "mahalle": "KİLİDÜLBAHİR KÖYÜ",
+        "ilce_adi": "ECEABAT",
+        "okul_adi": "KİLİDÜLBAHİR KÖY KONAĞI",
+        "sandik_no": 1021,
+        "mahalle_id": "canakkale-eceabat-kilidulbahir-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 128,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-eceabat/1xxx/1021/canakkale-eceabat-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1018288",
+            "oyveotesi_sync_timestamp": 1684336053
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 178,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-eceabat/1xxx/1021/canakkale-eceabat-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1018288",
+            "oyveotesi_sync_timestamp": 1684336053
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KATİPMUSTAFA ÇELEBİ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "İSTANBUL ATATÜRK ANADOLU LİSESİ",
+        "sandik_no": 1152,
+        "mahalle_id": "istanbul-beyoglu-katipmustafa-celebi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 75,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "TÜRKİYE İŞÇİ PARTİSİ": 24,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 54
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "343814",
+            "oyveotesi_sync_timestamp": 1684330092
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 171,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "343814",
+            "oyveotesi_sync_timestamp": 1684330092
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "KATİPMUSTAFA ÇELEBİ MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "İSTANBUL ATATÜRK ANADOLU LİSESİ",
+        "sandik_no": 1153,
+        "mahalle_id": "istanbul-beyoglu-katipmustafa-celebi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "TÜRKİYE İŞÇİ PARTİSİ": 29,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 50
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "410976",
+            "oyveotesi_sync_timestamp": 1684330092
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 205,
+                "RECEP TAYYİP ERDOĞAN": 34
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "410976",
+            "oyveotesi_sync_timestamp": 1684330092
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

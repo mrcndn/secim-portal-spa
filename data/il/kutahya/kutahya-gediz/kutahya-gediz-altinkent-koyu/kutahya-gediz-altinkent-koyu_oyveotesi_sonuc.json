@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-gediz",
+        "mahalle": "ALTINKENT KÖYÜ",
+        "ilce_adi": "GEDİZ",
+        "okul_adi": "ALTINKENT KÖYÜ İÖO",
+        "sandik_no": 1084,
+        "mahalle_id": "kutahya-gediz-altinkent-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 93,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1084/kutahya-gediz-1084-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "683752",
+            "oyveotesi_sync_timestamp": 1684350221
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 126,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1084/kutahya-gediz-1084-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "683752",
+            "oyveotesi_sync_timestamp": 1684350221
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-gediz",
+        "mahalle": "ALTINKENT KÖYÜ",
+        "ilce_adi": "GEDİZ",
+        "okul_adi": "ALTINKENT KÖYÜ İÖO",
+        "sandik_no": 1085,
+        "mahalle_id": "kutahya-gediz-altinkent-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350221
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1085/kutahya-gediz-1085-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350221
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

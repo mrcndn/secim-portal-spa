@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-merkez",
+        "mahalle": "KOÇBEYİ KÖYÜ",
+        "ilce_adi": "ŞIRNAK MERKEZ",
+        "okul_adi": "DAVUTLU ORTAOKULU",
+        "sandik_no": 1173,
+        "mahalle_id": "sirnak-merkez-kocbeyi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 221
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-merkez/1xxx/1173/sirnak-merkez-1173-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "789700",
+            "oyveotesi_sync_timestamp": 1684370598
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 233,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-merkez/1xxx/1173/sirnak-merkez-1173-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "789700",
+            "oyveotesi_sync_timestamp": 1684370598
+        },
+        "secim_bolge_id": "sirnak"
+    },
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-merkez",
+        "mahalle": "KOÇBEYİ KÖYÜ",
+        "ilce_adi": "ŞIRNAK MERKEZ",
+        "okul_adi": "DAVUTLU ORTAOKULU",
+        "sandik_no": 1174,
+        "mahalle_id": "sirnak-merkez-kocbeyi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370598
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 265,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-merkez/1xxx/1174/sirnak-merkez-1174-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370598
+        },
+        "secim_bolge_id": "sirnak"
+    }
+]

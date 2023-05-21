@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-cine",
+        "mahalle": "KABALAR MAH.",
+        "ilce_adi": "ÇİNE",
+        "okul_adi": "KABALAR - HARIMCIK ESKİ İLKOKULU",
+        "sandik_no": 1072,
+        "mahalle_id": "aydin-cine-kabalar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394248
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 45,
+            "sayim_sonuc": {
+                "TOPLAM": 45,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-cine/1xxx/1072/aydin-cine-1072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394248
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-cine",
+        "mahalle": "KABALAR MAH.",
+        "ilce_adi": "ÇİNE",
+        "okul_adi": "KABALAR MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1073,
+        "mahalle_id": "aydin-cine-kabalar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394248
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394248
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

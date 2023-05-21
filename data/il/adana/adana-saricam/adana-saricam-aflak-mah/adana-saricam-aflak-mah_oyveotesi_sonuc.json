@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-saricam",
+        "mahalle": "AFLAK MAH.",
+        "ilce_adi": "SARIÇAM",
+        "okul_adi": "AFLAK KÖY KONAĞI",
+        "sandik_no": 1006,
+        "mahalle_id": "adana-saricam-aflak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-saricam/1xxx/1006/adana-saricam-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "489446",
+            "oyveotesi_sync_timestamp": 1684371055
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 117,
+            "sayim_sonuc": {
+                "TOPLAM": 117,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-saricam/1xxx/1006/adana-saricam-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "489446",
+            "oyveotesi_sync_timestamp": 1684371055
+        },
+        "secim_bolge_id": "adana"
+    }
+]

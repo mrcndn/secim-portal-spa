@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-hinis",
+        "mahalle": "ARPADERESİ MAH.",
+        "ilce_adi": "HINIS",
+        "okul_adi": "ARPADERESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "erzurum-hinis-arpaderesi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "SOL PARTİ": 4,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-hinis/1xxx/1012/erzurum-hinis-1012-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "516036",
+            "oyveotesi_sync_timestamp": 1684340372
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "516036",
+            "oyveotesi_sync_timestamp": 1684340372
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

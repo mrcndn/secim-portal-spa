@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "ÇÖMLEKLİ MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "ÇÖMLEKLİ MAH. CAMİ LOJMANI",
+        "sandik_no": 1041,
+        "mahalle_id": "ordu-fatsa-comlekli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360853
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1041/ordu-fatsa-1041-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360853
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

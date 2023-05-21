@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-karaisali",
+        "mahalle": "SAYPINAR MAH.",
+        "ilce_adi": "KARAİSALI",
+        "okul_adi": "SAYPINAR MAH. CAMİİ TOPL. SALONU",
+        "sandik_no": 1072,
+        "mahalle_id": "adana-karaisali-saypinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "İYİ PARTİ": 17,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 18,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-karaisali/1xxx/1072/adana-karaisali-1072-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "458932",
+            "oyveotesi_sync_timestamp": 1684371272
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-karaisali/1xxx/1072/adana-karaisali-1072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "458932",
+            "oyveotesi_sync_timestamp": 1684371272
+        },
+        "secim_bolge_id": "adana"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "SUBAŞI MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-subasi-mah",
+        "oyveotesi_neighborhood_id": 20505
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "GÖLLÜCE MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-golluce-mah",
+        "oyveotesi_neighborhood_id": 20556
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "HELVACI MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-helvaci-mah",
+        "oyveotesi_neighborhood_id": 20558
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "İNÖNÜ MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-inonu-mah",
+        "oyveotesi_neighborhood_id": 20531
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-istiklal-mah",
+        "oyveotesi_neighborhood_id": 20552
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KAPLANCIK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-kaplancik-mah",
+        "oyveotesi_neighborhood_id": 20517
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KARAKIZLAR MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-karakizlar-mah",
+        "oyveotesi_neighborhood_id": 20526
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KARAKUYU MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-karakuyu-mah",
+        "oyveotesi_neighborhood_id": 20533
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KARAOT MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-karaot-mah",
+        "oyveotesi_neighborhood_id": 20518
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 20543
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KAZIM KARABEKİR MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-kazim-karabekir-mah",
+        "oyveotesi_neighborhood_id": 20534
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KIRBAŞ MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-kirbas-mah",
+        "oyveotesi_neighborhood_id": 20536
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "KUŞÇUBURUN MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-kuscuburun-mah",
+        "oyveotesi_neighborhood_id": 20537
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "MURATBEY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-muratbey-mah",
+        "oyveotesi_neighborhood_id": 20548
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "MUSTAFA KEMAL ATATÜRK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-mustafa-kemal-ataturk-mah",
+        "oyveotesi_neighborhood_id": 20549
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "NAİME MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-naime-mah",
+        "oyveotesi_neighborhood_id": 20550
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ORMANKÖY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-ormankoy-mah",
+        "oyveotesi_neighborhood_id": 20551
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ORTAKÖY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-ortakoy-mah",
+        "oyveotesi_neighborhood_id": 20504
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ÖZBEY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-ozbey-mah",
+        "oyveotesi_neighborhood_id": 20513
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "PAMUKYAZI MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-pamukyazi-mah",
+        "oyveotesi_neighborhood_id": 20501
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "PANCAR MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-pancar-mah",
+        "oyveotesi_neighborhood_id": 20522
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "SAĞLIK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-saglik-mah",
+        "oyveotesi_neighborhood_id": 20512
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "SAİPLER MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-saipler-mah",
+        "oyveotesi_neighborhood_id": 20559
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ŞEHİTLER MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-sehitler-mah",
+        "oyveotesi_neighborhood_id": 20525
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "GAZİ MUSTAFA KEMAL MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-gazi-mustafa-kemal-mah",
+        "oyveotesi_neighborhood_id": 20503
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "YOĞURTÇULAR MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-yogurtcular-mah",
+        "oyveotesi_neighborhood_id": 20528
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "YEŞİLKÖY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-yesilkoy-mah",
+        "oyveotesi_neighborhood_id": 20527
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-yeni-mah",
+        "oyveotesi_neighborhood_id": 20511
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "TAŞKESİK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-taskesik-mah",
+        "oyveotesi_neighborhood_id": 20509
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 20506
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "YEMİŞLİK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-yemislik-mah",
+        "oyveotesi_neighborhood_id": 20510
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "YEDİ EYLÜL MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-yedi-eylul-mah",
+        "oyveotesi_neighborhood_id": 20530
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "YAZIBAŞI MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-yazibasi-mah",
+        "oyveotesi_neighborhood_id": 20524
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "TÜRKMENKÖY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-turkmenkoy-mah",
+        "oyveotesi_neighborhood_id": 20538
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "TULUM MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-tulum-mah",
+        "oyveotesi_neighborhood_id": 20546
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "TORBALI MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-torbali-mah",
+        "oyveotesi_neighborhood_id": 20535
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "TEPEKÖY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-tepekoy-mah",
+        "oyveotesi_neighborhood_id": 20544
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "19 MAYIS MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-19-mayis-mah",
+        "oyveotesi_neighborhood_id": 20500
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "AHMETLİ MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-ahmetli-mah",
+        "oyveotesi_neighborhood_id": 20519
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ALPKENT MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-alpkent-mah",
+        "oyveotesi_neighborhood_id": 20541
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ARSLANLAR MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-arslanlar-mah",
+        "oyveotesi_neighborhood_id": 20553
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ATALAN MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-atalan-mah",
+        "oyveotesi_neighborhood_id": 20520
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ATATÜRK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-ataturk-mah",
+        "oyveotesi_neighborhood_id": 20502
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "AYRANCILAR MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-ayrancilar-mah",
+        "oyveotesi_neighborhood_id": 20507
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 20554
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "BOZKÖY MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-bozkoy-mah",
+        "oyveotesi_neighborhood_id": 20532
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "BÜLBÜLDERE MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-bulbuldere-mah",
+        "oyveotesi_neighborhood_id": 20547
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ÇAKIRBEYLİ MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-cakirbeyli-mah",
+        "oyveotesi_neighborhood_id": 20557
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ÇAMLICA MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-camlica-mah",
+        "oyveotesi_neighborhood_id": 20539
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ÇAPAK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-capak-mah",
+        "oyveotesi_neighborhood_id": 20540
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ÇAYBAŞI MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-caybasi-mah",
+        "oyveotesi_neighborhood_id": 20545
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 20529
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "DAĞKIZILCA MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-dagkizilca-mah",
+        "oyveotesi_neighborhood_id": 20508
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "DAĞTEKE MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-dagteke-mah",
+        "oyveotesi_neighborhood_id": 20555
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "DEMİRCİ MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-demirci-mah",
+        "oyveotesi_neighborhood_id": 20523
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "DİRMİL MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-dirmil-mah",
+        "oyveotesi_neighborhood_id": 20542
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "DÜVERLİK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-duverlik-mah",
+        "oyveotesi_neighborhood_id": 20521
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "EĞERCİ MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-egerci-mah",
+        "oyveotesi_neighborhood_id": 20515
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "ERTUĞRUL MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-ertugrul-mah",
+        "oyveotesi_neighborhood_id": 20514
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "FEVZİ ÇAKMAK MAH.",
+        "ilce_adi": "TORBALI",
+        "mahalle_id": "izmir-torbali-fevzi-cakmak-mah",
+        "oyveotesi_neighborhood_id": 20516
+    }
+]

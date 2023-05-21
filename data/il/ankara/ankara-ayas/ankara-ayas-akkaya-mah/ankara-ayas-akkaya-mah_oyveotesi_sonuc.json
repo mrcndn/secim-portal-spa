@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "AKKAYA MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "AKKAYA KÖY ODASI SOSYAL TESİSİ",
+        "sandik_no": 1001,
+        "mahalle_id": "ankara-ayas-akkaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 156
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393639
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

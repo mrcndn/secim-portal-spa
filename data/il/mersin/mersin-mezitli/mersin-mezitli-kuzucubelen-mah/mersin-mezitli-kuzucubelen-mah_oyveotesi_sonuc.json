@@ -1,0 +1,87 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-mezitli",
+        "mahalle": "KUZUCUBELEN MAH.",
+        "ilce_adi": "MEZİTLİ",
+        "okul_adi": "KUZUCUBELEN ORTAOKULU",
+        "sandik_no": 1223,
+        "mahalle_id": "mersin-mezitli-kuzucubelen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 157,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1223/mersin-mezitli-1223-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "189416",
+            "oyveotesi_sync_timestamp": 1684327329
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 175,
+                "RECEP TAYYİP ERDOĞAN": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1223/mersin-mezitli-1223-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "189416",
+            "oyveotesi_sync_timestamp": 1684327329
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-mezitli",
+        "mahalle": "KUZUCUBELEN MAH.",
+        "ilce_adi": "MEZİTLİ",
+        "okul_adi": "KUZUCUBELEN ORTAOKULU",
+        "sandik_no": 1222,
+        "mahalle_id": "mersin-mezitli-kuzucubelen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "İYİ PARTİ": 23,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 129,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1222/mersin-mezitli-1222-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "188323",
+            "oyveotesi_sync_timestamp": 1684327329
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 160,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-mezitli/1xxx/1222/mersin-mezitli-1222-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "188323",
+            "oyveotesi_sync_timestamp": 1684327329
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

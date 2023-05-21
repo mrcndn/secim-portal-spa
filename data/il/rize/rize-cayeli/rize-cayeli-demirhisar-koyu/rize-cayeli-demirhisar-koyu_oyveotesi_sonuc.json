@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-cayeli",
+        "mahalle": "DEMİRHİSAR KÖYÜ",
+        "ilce_adi": "ÇAYELİ",
+        "okul_adi": "DEMİRHİSAR-CAMİ ALTI - TOPLANTI SALONU VE LOKAL",
+        "sandik_no": 1094,
+        "mahalle_id": "rize-cayeli-demirhisar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 220,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-cayeli/1xxx/1094/rize-cayeli-1094-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "811755",
+            "oyveotesi_sync_timestamp": 1684356273
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "811755",
+            "oyveotesi_sync_timestamp": 1684356273
+        },
+        "secim_bolge_id": "rize"
+    }
+]

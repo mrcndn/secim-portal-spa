@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-gomec",
+        "mahalle": "KUYUALAN MAH.",
+        "ilce_adi": "GÖMEÇ",
+        "okul_adi": "KUYUALAN MAHALLESİ DİKİŞ NAKIŞ ODASI",
+        "sandik_no": 1025,
+        "mahalle_id": "balikesir-gomec-kuyualan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331795
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 56
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gomec/1xxx/1025/balikesir-gomec-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331795
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "HASANDERE KÖYÜ",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "HASANDERE KÖYÜ İLK OKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "sinop-erfelek-hasandere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 143,
+            "sayim_sonuc": {
+                "TOPLAM": 143,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1029/sinop-erfelek-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369917",
+            "oyveotesi_sync_timestamp": 1684354227
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1029/sinop-erfelek-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369917",
+            "oyveotesi_sync_timestamp": 1684354227
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

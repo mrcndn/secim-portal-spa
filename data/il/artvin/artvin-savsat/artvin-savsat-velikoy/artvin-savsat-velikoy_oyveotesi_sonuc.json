@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-savsat",
+        "mahalle": "VELİKÖY",
+        "ilce_adi": "ŞAVŞAT",
+        "okul_adi": "VELİKÖY KÖYÜ İLKOKULU",
+        "sandik_no": 1082,
+        "mahalle_id": "artvin-savsat-velikoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "SOL PARTİ": 4,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 38,
+                "VATAN PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 106,
+                "ADALET VE KALKINMA PARTİSİ": 18,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-savsat/1xxx/1082/artvin-savsat-1082-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "315638",
+            "oyveotesi_sync_timestamp": 1684361539
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-savsat/1xxx/1082/artvin-savsat-1082-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "315638",
+            "oyveotesi_sync_timestamp": 1684361539
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

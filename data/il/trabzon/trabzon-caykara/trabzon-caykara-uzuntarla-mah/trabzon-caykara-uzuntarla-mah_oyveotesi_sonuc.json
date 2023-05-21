@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "UZUNTARLA MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "UZUNTARLA KÖY ODASI",
+        "sandik_no": 1055,
+        "mahalle_id": "trabzon-caykara-uzuntarla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366221
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 209
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1055/trabzon-caykara-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366221
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-islahiye",
+        "mahalle": "ELBİSTANHÜYÜĞÜ MAH.",
+        "ilce_adi": "İSLAHİYE",
+        "okul_adi": "ELBİSTANHÜYÜĞÜ MAHALLESİ İLKOKULU",
+        "sandik_no": 1066,
+        "mahalle_id": "gaziantep-islahiye-elbistanhuyugu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342036
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-islahiye/1xxx/1066/gaziantep-islahiye-1066-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342036
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

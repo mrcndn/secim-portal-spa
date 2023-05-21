@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-antakya",
+        "mahalle": "SAÇAKLI MAH.",
+        "ilce_adi": "ANTAKYA",
+        "okul_adi": "SAÇAKLI İLKOKULU",
+        "sandik_no": 2286,
+        "mahalle_id": "hatay-antakya-sacakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375426
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 157,
+                "RECEP TAYYİP ERDOĞAN": 96
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-antakya/2xxx/2286/hatay-antakya-2286-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375426
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

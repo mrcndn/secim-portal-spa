@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-karamursel",
+        "mahalle": "AKÇAT MAH.",
+        "ilce_adi": "KARAMÜRSEL",
+        "okul_adi": "AKÇAT İLKOKULU",
+        "sandik_no": 1064,
+        "mahalle_id": "kocaeli-karamursel-akcat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350023
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350023
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-karamursel",
+        "mahalle": "AKÇAT MAH.",
+        "ilce_adi": "KARAMÜRSEL",
+        "okul_adi": "AKÇAT İLKOKULU",
+        "sandik_no": 1065,
+        "mahalle_id": "kocaeli-karamursel-akcat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 180,
+            "sayim_sonuc": {
+                "TOPLAM": 180,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1065/kocaeli-karamursel-1065-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833426",
+            "oyveotesi_sync_timestamp": 1684350023
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "833426",
+            "oyveotesi_sync_timestamp": 1684350023
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

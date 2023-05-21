@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-camlihemsin",
+        "mahalle": "KAPLICA MAH.",
+        "ilce_adi": "ÇAMLIHEMŞİN",
+        "okul_adi": "KAPLICA MAHALLESİ CAMİ AVLUSU",
+        "sandik_no": 1004,
+        "mahalle_id": "rize-camlihemsin-kaplica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 7,
+                "MİLLİ YOL PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1004/rize-camlihemsin-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "506959",
+            "oyveotesi_sync_timestamp": 1684356159
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 97,
+                "RECEP TAYYİP ERDOĞAN": 113
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1004/rize-camlihemsin-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "506959",
+            "oyveotesi_sync_timestamp": 1684356159
+        },
+        "secim_bolge_id": "rize"
+    }
+]

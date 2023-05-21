@@ -1,0 +1,542 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "ÇİMŞİT MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-cimsit-mah",
+        "oyveotesi_neighborhood_id": 4438
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "İNCEK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-incek-mah",
+        "oyveotesi_neighborhood_id": 4410
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KARAALİ MERKEZ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-karaali-merkez-mah",
+        "oyveotesi_neighborhood_id": 4440
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KARAALİ YAZLIK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-karaali-yazlik-mah",
+        "oyveotesi_neighborhood_id": 4407
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KARACAÖREN MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-karacaoren-mah",
+        "oyveotesi_neighborhood_id": 4396
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KARAGEDİK AYDIN MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-karagedik-aydin-mah",
+        "oyveotesi_neighborhood_id": 4419
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KARAGEDİK ERCAN MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-karagedik-ercan-mah",
+        "oyveotesi_neighborhood_id": 4412
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KARAOĞLAN MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-karaoglan-mah",
+        "oyveotesi_neighborhood_id": 4428
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 4395
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KIRIKLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-kirikli-mah",
+        "oyveotesi_neighborhood_id": 4389
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KIZILCAŞAR MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-kizilcasar-mah",
+        "oyveotesi_neighborhood_id": 4429
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "KOPARAN MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-koparan-mah",
+        "oyveotesi_neighborhood_id": 4390
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "MAHMATLIBAHÇE MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-mahmatlibahce-mah",
+        "oyveotesi_neighborhood_id": 4430
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "MAHMATLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-mahmatli-mah",
+        "oyveotesi_neighborhood_id": 4420
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "OĞULBEY MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-ogulbey-mah",
+        "oyveotesi_neighborhood_id": 4404
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "ÖRENCİK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-orencik-mah",
+        "oyveotesi_neighborhood_id": 4416
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "OYACA AKARSU MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-oyaca-akarsu-mah",
+        "oyveotesi_neighborhood_id": 4413
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "OYACA YEŞİLÇAM MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-oyaca-yesilcam-mah",
+        "oyveotesi_neighborhood_id": 4408
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "ŞAFAK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-safak-mah",
+        "oyveotesi_neighborhood_id": 4411
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "SEĞMENLER MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-segmenler-mah",
+        "oyveotesi_neighborhood_id": 4441
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "SELAMETLİ ŞEHİT EMRAH MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-selametli-sehit-emrah-mah",
+        "oyveotesi_neighborhood_id": 4405
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "SOĞULCAK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-sogulcak-mah",
+        "oyveotesi_neighborhood_id": 4401
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "SUBAŞI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-subasi-mah",
+        "oyveotesi_neighborhood_id": 4409
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "TAŞPINAR MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-taspinar-mah",
+        "oyveotesi_neighborhood_id": 4414
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "TEPEYURT MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-tepeyurt-mah",
+        "oyveotesi_neighborhood_id": 4432
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "TOPAKLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-topakli-mah",
+        "oyveotesi_neighborhood_id": 4433
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "TULUMTAŞ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-tulumtas-mah",
+        "oyveotesi_neighborhood_id": 4391
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "VELİHİMMETLİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-velihimmetli-mah",
+        "oyveotesi_neighborhood_id": 4421
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "YAĞLIPINAR MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-yaglipinar-mah",
+        "oyveotesi_neighborhood_id": 4423
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "YAVRUCUK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-yavrucuk-mah",
+        "oyveotesi_neighborhood_id": 4402
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "YAYLABAĞ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-yaylabag-mah",
+        "oyveotesi_neighborhood_id": 4422
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "YURTBEYİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-yurtbeyi-mah",
+        "oyveotesi_neighborhood_id": 4442
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "AHİBOZ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-ahiboz-mah",
+        "oyveotesi_neighborhood_id": 4424
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "AKÖRENÇARŞAK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-akorencarsak-mah",
+        "oyveotesi_neighborhood_id": 4431
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "ALTUNÇANAK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-altuncanak-mah",
+        "oyveotesi_neighborhood_id": 4397
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "BAĞİÇİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-bagici-mah",
+        "oyveotesi_neighborhood_id": 4398
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 4392
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "BALLIKPINAR MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-ballikpinar-mah",
+        "oyveotesi_neighborhood_id": 4439
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "BEZİRHANE MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-bezirhane-mah",
+        "oyveotesi_neighborhood_id": 4434
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "BOYALIK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-boyalik-mah",
+        "oyveotesi_neighborhood_id": 4393
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "ÇAYIRLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-cayirli-mah",
+        "oyveotesi_neighborhood_id": 4437
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "ÇELTEK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-celtek-mah",
+        "oyveotesi_neighborhood_id": 4403
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "DİKİLİTAŞ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-dikilitas-mah",
+        "oyveotesi_neighborhood_id": 4418
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "EMİRLER MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-emirler-mah",
+        "oyveotesi_neighborhood_id": 4425
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "EYMİR MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-eymir-mah",
+        "oyveotesi_neighborhood_id": 4435
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "GAZİOSMANPAŞA MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-gaziosmanpasa-mah",
+        "oyveotesi_neighborhood_id": 4406
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "GÖKÇEHÜYÜK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-gokcehuyuk-mah",
+        "oyveotesi_neighborhood_id": 4399
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "GÖLBEK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-golbek-mah",
+        "oyveotesi_neighborhood_id": 4415
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "GÜNALAN MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-gunalan-mah",
+        "oyveotesi_neighborhood_id": 4394
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "HACIHASAN MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-hacihasan-mah",
+        "oyveotesi_neighborhood_id": 4436
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "HACILAR MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-hacilar-mah",
+        "oyveotesi_neighborhood_id": 4400
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "HACIMURATLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-hacimuratli-mah",
+        "oyveotesi_neighborhood_id": 4426
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "HALAÇLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-halacli-mah",
+        "oyveotesi_neighborhood_id": 4427
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "İKİZCE MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "mahalle_id": "ankara-golbasi-ikizce-mah",
+        "oyveotesi_neighborhood_id": 4417
+    }
+]

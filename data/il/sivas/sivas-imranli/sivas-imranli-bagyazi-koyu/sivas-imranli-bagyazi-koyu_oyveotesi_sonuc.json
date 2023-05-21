@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "BAĞYAZI KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "BAĞYAZI KÖYÜ NO:10",
+        "sandik_no": 1024,
+        "mahalle_id": "sivas-imranli-bagyazi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 12,
+            "sayim_sonuc": {
+                "TOPLAM": 12,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1024/sivas-imranli-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369766",
+            "oyveotesi_sync_timestamp": 1684359127
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 14,
+            "sayim_sonuc": {
+                "TOPLAM": 14,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1024/sivas-imranli-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369766",
+            "oyveotesi_sync_timestamp": 1684359127
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

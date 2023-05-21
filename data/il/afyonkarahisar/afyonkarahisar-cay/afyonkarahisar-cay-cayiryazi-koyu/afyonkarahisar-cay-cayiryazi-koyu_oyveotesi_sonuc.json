@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "ÇAYIRYAZI KÖYÜ",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ÇAYIRYAZI İLKOKULU",
+        "sandik_no": 1059,
+        "mahalle_id": "afyonkarahisar-cay-cayiryazi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1059/afyonkarahisar-cay-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "605367",
+            "oyveotesi_sync_timestamp": 1684324793
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 204
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1059/afyonkarahisar-cay-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "605367",
+            "oyveotesi_sync_timestamp": 1684324793
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

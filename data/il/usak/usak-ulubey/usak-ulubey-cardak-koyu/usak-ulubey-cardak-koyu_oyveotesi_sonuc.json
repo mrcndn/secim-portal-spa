@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-ulubey",
+        "mahalle": "ÇARDAK KÖYÜ",
+        "ilce_adi": "ULUBEY",
+        "okul_adi": "ÇARDAK KÖY KONAĞI",
+        "sandik_no": 1024,
+        "mahalle_id": "usak-ulubey-cardak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-ulubey/1xxx/1024/usak-ulubey-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "738179",
+            "oyveotesi_sync_timestamp": 1684369927
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-ulubey/1xxx/1024/usak-ulubey-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "738179",
+            "oyveotesi_sync_timestamp": 1684369927
+        },
+        "secim_bolge_id": "usak"
+    }
+]

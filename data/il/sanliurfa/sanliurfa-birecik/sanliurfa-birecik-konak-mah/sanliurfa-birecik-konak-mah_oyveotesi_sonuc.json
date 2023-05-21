@@ -1,0 +1,53 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-birecik",
+        "mahalle": "KONAK MAH.",
+        "ilce_adi": "BİRECİK",
+        "okul_adi": "KONAK İLKOKULU",
+        "sandik_no": 1076,
+        "mahalle_id": "sanliurfa-birecik-konak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 197
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-birecik/1xxx/1076/sanliurfa-birecik-1076-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781981",
+            "oyveotesi_sync_timestamp": 1684373744
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 235,
+                "RECEP TAYYİP ERDOĞAN": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-birecik/1xxx/1076/sanliurfa-birecik-1076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781981",
+            "oyveotesi_sync_timestamp": 1684373744
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

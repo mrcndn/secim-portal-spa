@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-yesilova",
+        "mahalle": "KAVAK KÖYÜ",
+        "ilce_adi": "YEŞİLOVA",
+        "okul_adi": "KAVAK KÖY İLKOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "burdur-yesilova-kavak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333846
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-yesilova/1xxx/1047/burdur-yesilova-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333846
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

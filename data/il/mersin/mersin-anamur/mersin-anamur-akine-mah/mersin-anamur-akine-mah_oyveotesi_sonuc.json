@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "AKİNE MAH.",
+        "ilce_adi": "ANAMUR",
+        "okul_adi": "AKİNE MAHALLESİ YENİ KÖY KONAĞI",
+        "sandik_no": 1012,
+        "mahalle_id": "mersin-anamur-akine-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 221,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1012/mersin-anamur-1012-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829500",
+            "oyveotesi_sync_timestamp": 1684363923
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 236,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1012/mersin-anamur-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829500",
+            "oyveotesi_sync_timestamp": 1684363923
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

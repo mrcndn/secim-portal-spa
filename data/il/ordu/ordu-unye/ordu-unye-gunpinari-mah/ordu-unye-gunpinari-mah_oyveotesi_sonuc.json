@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "GÜNPINARI MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "GÜNPINARI MAH. ÇİMENTO LOKALİ",
+        "sandik_no": 1174,
+        "mahalle_id": "ordu-unye-gunpinari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360257
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-unye/1xxx/1174/ordu-unye-1174-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360257
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "GÜNPINARI MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "GÜNPINARI MAH. ŞEHRİMAN CAMİ ALTI KÖY ODASI",
+        "sandik_no": 1175,
+        "mahalle_id": "ordu-unye-gunpinari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360257
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360257
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

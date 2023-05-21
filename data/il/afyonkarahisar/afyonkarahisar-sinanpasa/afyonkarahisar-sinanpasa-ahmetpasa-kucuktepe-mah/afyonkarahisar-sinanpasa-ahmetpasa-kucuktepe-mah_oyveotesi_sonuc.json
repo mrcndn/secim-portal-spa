@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-KÜÇÜKTEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "okul_adi": "AHMETPAŞA ATATÜRK İLKOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-kucuktepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328842
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-sinanpasa/1xxx/1019/afyonkarahisar-sinanpasa-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328842
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "AHMETPAŞA-KÜÇÜKTEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "okul_adi": "AHMETPAŞA ORTA OKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "afyonkarahisar-sinanpasa-ahmetpasa-kucuktepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-sinanpasa/1xxx/1020/afyonkarahisar-sinanpasa-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815893",
+            "oyveotesi_sync_timestamp": 1684328842
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-sinanpasa/1xxx/1020/afyonkarahisar-sinanpasa-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815893",
+            "oyveotesi_sync_timestamp": 1684328842
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-besni",
+        "mahalle": "ÇİLBOĞAZ KÖYÜ",
+        "ilce_adi": "BESNİ",
+        "okul_adi": "ÇİLBOĞAZ İLKOKULU",
+        "sandik_no": 1130,
+        "mahalle_id": "adiyaman-besni-cilbogaz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330587
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-besni/1xxx/1130/adiyaman-besni-1130-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330587
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

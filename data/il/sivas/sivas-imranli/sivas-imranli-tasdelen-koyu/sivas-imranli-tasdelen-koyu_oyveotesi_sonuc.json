@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "TAŞDELEN KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "TAŞDELEN KÖYÜ NO:7",
+        "sandik_no": 1087,
+        "mahalle_id": "sivas-imranli-tasdelen-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 18,
+            "sayim_sonuc": {
+                "TOPLAM": 18,
+                "İYİ PARTİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1087/sivas-imranli-1087-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369807",
+            "oyveotesi_sync_timestamp": 1684359057
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 18,
+            "sayim_sonuc": {
+                "TOPLAM": 18,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1087/sivas-imranli-1087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "369807",
+            "oyveotesi_sync_timestamp": 1684359057
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

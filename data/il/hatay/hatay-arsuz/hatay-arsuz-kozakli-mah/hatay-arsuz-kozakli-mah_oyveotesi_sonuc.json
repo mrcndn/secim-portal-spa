@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-arsuz",
+        "mahalle": "KOZAKLI MAH.",
+        "ilce_adi": "ARSUZ",
+        "okul_adi": "KOZAKLI İLKOKULU",
+        "sandik_no": 1159,
+        "mahalle_id": "hatay-arsuz-kozakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 135,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 81,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1159/hatay-arsuz-1159-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818068",
+            "oyveotesi_sync_timestamp": 1684375266
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 235
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-arsuz/1xxx/1159/hatay-arsuz-1159-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818068",
+            "oyveotesi_sync_timestamp": 1684375266
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

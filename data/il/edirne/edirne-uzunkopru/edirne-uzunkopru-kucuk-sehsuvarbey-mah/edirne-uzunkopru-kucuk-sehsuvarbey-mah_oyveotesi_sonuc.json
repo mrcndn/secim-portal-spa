@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-uzunkopru",
+        "mahalle": "KÜÇÜK ŞEHSUVARBEY MAH.",
+        "ilce_adi": "UZUNKÖPRÜ",
+        "okul_adi": "ŞEHSUVARBEY İLKÖĞRETİM OKULU",
+        "sandik_no": 1063,
+        "mahalle_id": "edirne-uzunkopru-kucuk-sehsuvarbey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 80,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 129,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-uzunkopru/1xxx/1063/edirne-uzunkopru-1063-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "380484",
+            "oyveotesi_sync_timestamp": 1684338641
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "380484",
+            "oyveotesi_sync_timestamp": 1684338641
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

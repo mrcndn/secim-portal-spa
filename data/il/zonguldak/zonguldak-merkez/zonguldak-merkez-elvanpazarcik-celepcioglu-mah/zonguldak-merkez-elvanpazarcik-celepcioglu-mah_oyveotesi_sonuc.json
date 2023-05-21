@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-merkez",
+        "mahalle": "ELVANPAZARCIK-CELEPÇİOĞLU MAH.",
+        "ilce_adi": "ZONGULDAK MERKEZ",
+        "okul_adi": "CELEPÇİOĞLU CAMİ LOJMANI",
+        "sandik_no": 1234,
+        "mahalle_id": "zonguldak-merkez-elvanpazarcik-celepcioglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-merkez/1xxx/1234/zonguldak-merkez-1234-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "353563",
+            "oyveotesi_sync_timestamp": 1684370213
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-merkez/1xxx/1234/zonguldak-merkez-1234-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "353563",
+            "oyveotesi_sync_timestamp": 1684370213
+        },
+        "secim_bolge_id": "zonguldak"
+    }
+]

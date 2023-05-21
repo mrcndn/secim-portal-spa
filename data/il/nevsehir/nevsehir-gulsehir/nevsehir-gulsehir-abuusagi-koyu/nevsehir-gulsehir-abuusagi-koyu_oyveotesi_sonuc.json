@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "nevsehir",
+        "il_adi": "NEVŞEHİR",
+        "il_kodu": 50,
+        "ilce_id": "nevsehir-gulsehir",
+        "mahalle": "ABUUŞAĞI KÖYÜ",
+        "ilce_adi": "GÜLŞEHİR",
+        "okul_adi": "ABUŞAĞI ORTAOKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "nevsehir-gulsehir-abuusagi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354087
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354087
+        },
+        "secim_bolge_id": "nevsehir"
+    },
+    {
+        "il_id": "nevsehir",
+        "il_adi": "NEVŞEHİR",
+        "il_kodu": 50,
+        "ilce_id": "nevsehir-gulsehir",
+        "mahalle": "ABUUŞAĞI KÖYÜ",
+        "ilce_adi": "GÜLŞEHİR",
+        "okul_adi": "ABUŞAĞI ORTAOKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "nevsehir-gulsehir-abuusagi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354087
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-nevsehir-tutanaklari/blob/main/tutanak/nevsehir/nevsehir-gulsehir/1xxx/1032/nevsehir-gulsehir-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354087
+        },
+        "secim_bolge_id": "nevsehir"
+    }
+]

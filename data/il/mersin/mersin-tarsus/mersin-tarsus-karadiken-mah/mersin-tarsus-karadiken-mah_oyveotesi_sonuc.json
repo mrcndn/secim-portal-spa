@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "KARADİKEN MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "KARADİKEN MAH. KARADİKEN İLK/ORTAOKULU-EKBİNA YEMEKHANE",
+        "sandik_no": 2107,
+        "mahalle_id": "mersin-tarsus-karadiken-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363600
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 136
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2107/mersin-tarsus-2107-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363600
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "KARADİKEN MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "KARADİKEN MAH. KARADİKEN İLK/ORTAOKULU-EKBİNA YEMEKHANE",
+        "sandik_no": 2108,
+        "mahalle_id": "mersin-tarsus-karadiken-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2108/mersin-tarsus-2108-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822570",
+            "oyveotesi_sync_timestamp": 1684363600
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 212,
+            "sayim_sonuc": {
+                "TOPLAM": 212,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2108/mersin-tarsus-2108-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822570",
+            "oyveotesi_sync_timestamp": 1684363600
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

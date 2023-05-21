@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "KAZANCILI MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "KAZANCILI MAHALLESİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1058,
+        "mahalle_id": "ordu-persembe-kazancili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 176,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1058/ordu-persembe-1058-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "299813",
+            "oyveotesi_sync_timestamp": 1684360618
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 213
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1058/ordu-persembe-1058-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "299813",
+            "oyveotesi_sync_timestamp": 1684360618
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

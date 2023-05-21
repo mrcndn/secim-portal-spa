@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "TÜRKMEN KÖYÜ",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "TÜRKMEN İLKÖĞRETİM OKULU",
+        "sandik_no": 1202,
+        "mahalle_id": "edirne-kesan-turkmen-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 90,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 127,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1202/edirne-kesan-1202-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "714301",
+            "oyveotesi_sync_timestamp": 1684338508
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 130,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1202/edirne-kesan-1202-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "714301",
+            "oyveotesi_sync_timestamp": 1684338508
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "TÜRKMEN KÖYÜ",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "TÜRKMEN İLKÖĞRETİM OKULU",
+        "sandik_no": 1203,
+        "mahalle_id": "edirne-kesan-turkmen-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338508
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338508
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

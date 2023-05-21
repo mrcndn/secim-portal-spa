@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-bulanik",
+        "mahalle": "ERENTEPE-FATİH MAH.",
+        "ilce_adi": "BULANIK",
+        "okul_adi": "ERENTEPE İMAM HATİP ORTA OKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "mus-bulanik-erentepe-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 143,
+            "sayim_sonuc": {
+                "TOPLAM": 143,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-bulanik/1xxx/1056/mus-bulanik-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "817404",
+            "oyveotesi_sync_timestamp": 1684393735
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "KEMAL KILIÇDAROĞLU": 116,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-bulanik/1xxx/1056/mus-bulanik-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "817404",
+            "oyveotesi_sync_timestamp": 1684393735
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-bulanik",
+        "mahalle": "ERENTEPE-FATİH MAH.",
+        "ilce_adi": "BULANIK",
+        "okul_adi": "ERENTEPE İMAM HATİP ORTA OKULU",
+        "sandik_no": 1057,
+        "mahalle_id": "mus-bulanik-erentepe-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393735
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393735
+        },
+        "secim_bolge_id": "mus"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-savsat",
+        "mahalle": "DUTLU KÖYÜ",
+        "ilce_adi": "ŞAVŞAT",
+        "okul_adi": "DUTLU KÖYÜ İLKOKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "artvin-savsat-dutlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 148,
+            "sayim_sonuc": {
+                "TOPLAM": 148,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-savsat/1xxx/1041/artvin-savsat-1041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "752242",
+            "oyveotesi_sync_timestamp": 1684361577
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "752242",
+            "oyveotesi_sync_timestamp": 1684361577
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

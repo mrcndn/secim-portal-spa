@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "ŞEHİT MAHMUT DAŞTAN ENDÜSTRİ MESLEK LİSESİ",
+        "sandik_no": 1003,
+        "mahalle_id": "corum-mecitozu-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 97,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1003/corum-mecitozu-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "740733",
+            "oyveotesi_sync_timestamp": 1684368877
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 160,
+            "sayim_sonuc": {
+                "TOPLAM": 160,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 100,
+                "RECEP TAYYİP ERDOĞAN": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1003/corum-mecitozu-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "740733",
+            "oyveotesi_sync_timestamp": 1684368877
+        },
+        "secim_bolge_id": "corum"
+    }
+]

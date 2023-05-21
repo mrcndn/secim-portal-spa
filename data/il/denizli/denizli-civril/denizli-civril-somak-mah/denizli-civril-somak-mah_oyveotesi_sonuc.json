@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "SOMAK MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "SOMAK KÖY KAHVEHANESİ",
+        "sandik_no": 1139,
+        "mahalle_id": "denizli-civril-somak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 185,
+            "sayim_sonuc": {
+                "TOPLAM": 185,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1139/denizli-civril-1139-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "764025",
+            "oyveotesi_sync_timestamp": 1684365734
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1139/denizli-civril-1139-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "764025",
+            "oyveotesi_sync_timestamp": 1684365734
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

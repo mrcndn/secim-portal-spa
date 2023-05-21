@@ -1,0 +1,35 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "ARSLANTAŞ MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "ARSLANTAŞ MAH. MAHALLE ODASI",
+        "sandik_no": 1011,
+        "mahalle_id": "samsun-ladik-arslantas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 17,
+            "sayim_sonuc": {
+                "TOPLAM": 17,
+                "İYİ PARTİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1011/samsun-ladik-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "310456",
+            "oyveotesi_sync_timestamp": 1684367441
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "310456",
+            "oyveotesi_sync_timestamp": 1684367441
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-yaglidere",
+        "mahalle": "GÜLLÜCE KÖYÜ",
+        "ilce_adi": "YAĞLIDERE",
+        "okul_adi": "GÜLLÜCE İLK.ÖĞ.OK.",
+        "sandik_no": 1032,
+        "mahalle_id": "giresun-yaglidere-gulluce-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343513
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 2,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-yaglidere/1xxx/1032/giresun-yaglidere-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343513
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

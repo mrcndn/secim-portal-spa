@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-cardak",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "ÇARDAK",
+        "okul_adi": "BAHÇELİEVLER MAHALLESİ (MEHMET AKİF ERSOY İLKOKULU)",
+        "sandik_no": 1002,
+        "mahalle_id": "denizli-cardak-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 68,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 84,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1002/denizli-cardak-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "300038",
+            "oyveotesi_sync_timestamp": 1684365639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 105,
+                "RECEP TAYYİP ERDOĞAN": 113
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1002/denizli-cardak-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "300038",
+            "oyveotesi_sync_timestamp": 1684365639
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-cardak",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "ÇARDAK",
+        "okul_adi": "BAHÇELİEVLER MAHALLESİ (MEHMET AKİF ERSOY İLKOKULU)",
+        "sandik_no": 1003,
+        "mahalle_id": "denizli-cardak-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 8,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 93,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1003/denizli-cardak-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "456072",
+            "oyveotesi_sync_timestamp": 1684365639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 121,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cardak/1xxx/1003/denizli-cardak-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "456072",
+            "oyveotesi_sync_timestamp": 1684365639
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

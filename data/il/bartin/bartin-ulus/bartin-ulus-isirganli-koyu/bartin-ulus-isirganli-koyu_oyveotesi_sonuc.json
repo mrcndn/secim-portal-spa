@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ISIRGANLI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "okul_adi": "ISIRGANLI KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1068,
+        "mahalle_id": "bartin-ulus-isirganli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "GENÇ PARTİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1068/bartin-ulus-1068-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "395516",
+            "oyveotesi_sync_timestamp": 1684328230
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1068/bartin-ulus-1068-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "395516",
+            "oyveotesi_sync_timestamp": 1684328230
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

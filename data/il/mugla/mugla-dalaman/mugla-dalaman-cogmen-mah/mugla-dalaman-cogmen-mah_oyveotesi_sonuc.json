@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-dalaman",
+        "mahalle": "ÇÖĞMEN MAH.",
+        "ilce_adi": "DALAMAN",
+        "okul_adi": "ÇÖĞMEN MAHALLESİ ORTAOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "mugla-dalaman-cogmen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 50,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-dalaman/1xxx/1017/mugla-dalaman-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "797900",
+            "oyveotesi_sync_timestamp": 1684374274
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-dalaman/1xxx/1017/mugla-dalaman-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "797900",
+            "oyveotesi_sync_timestamp": 1684374274
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-dalaman",
+        "mahalle": "ÇÖĞMEN MAH.",
+        "ilce_adi": "DALAMAN",
+        "okul_adi": "ÇÖĞMEN MAHALLESİ ORTAOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "mugla-dalaman-cogmen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "İYİ PARTİ": 75,
+                "VATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 56,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-dalaman/1xxx/1018/mugla-dalaman-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819562",
+            "oyveotesi_sync_timestamp": 1684374274
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 121,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-dalaman/1xxx/1018/mugla-dalaman-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819562",
+            "oyveotesi_sync_timestamp": 1684374274
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

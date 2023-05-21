@@ -1,0 +1,83 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-nizip",
+        "mahalle": "SAHA MAH.",
+        "ilce_adi": "NİZİP",
+        "okul_adi": "ATATÜRK İLK OKULU",
+        "sandik_no": 1246,
+        "mahalle_id": "gaziantep-nizip-saha-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 14,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 123,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-nizip/1xxx/1246/gaziantep-nizip-1246-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "460387",
+            "oyveotesi_sync_timestamp": 1684342213
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-nizip/1xxx/1246/gaziantep-nizip-1246-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "460387",
+            "oyveotesi_sync_timestamp": 1684342213
+        },
+        "secim_bolge_id": "gaziantep"
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-nizip",
+        "mahalle": "SAHA MAH.",
+        "ilce_adi": "NİZİP",
+        "okul_adi": "ATATÜRK İLK OKULU",
+        "sandik_no": 1247,
+        "mahalle_id": "gaziantep-nizip-saha-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342213
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342213
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

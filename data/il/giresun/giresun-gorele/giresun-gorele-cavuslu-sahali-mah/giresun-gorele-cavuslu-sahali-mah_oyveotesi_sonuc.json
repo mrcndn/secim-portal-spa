@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "ÇAVUŞLU-ŞAHALİ MAH.",
+        "ilce_adi": "GÖRELE",
+        "okul_adi": "ŞAHALİ İLKOKULU",
+        "sandik_no": 1054,
+        "mahalle_id": "giresun-gorele-cavuslu-sahali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1054/giresun-gorele-1054-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834549",
+            "oyveotesi_sync_timestamp": 1684343181
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1054/giresun-gorele-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834549",
+            "oyveotesi_sync_timestamp": 1684343181
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

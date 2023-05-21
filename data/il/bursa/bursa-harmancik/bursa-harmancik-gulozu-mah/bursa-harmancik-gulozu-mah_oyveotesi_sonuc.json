@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-harmancik",
+        "mahalle": "GÜLÖZÜ MAH.",
+        "ilce_adi": "HARMANCIK",
+        "okul_adi": "GÜLÖZÜ İLKOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "bursa-harmancik-gulozu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 6,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 33,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 104,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "830275",
+            "oyveotesi_sync_timestamp": 1684334608
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "830275",
+            "oyveotesi_sync_timestamp": 1684334608
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

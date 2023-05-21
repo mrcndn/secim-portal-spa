@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-senirkent",
+        "mahalle": "BAŞKÖY",
+        "ilce_adi": "SENİRKENT",
+        "okul_adi": "BAŞKÖY İLK OKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "isparta-senirkent-baskoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344236
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 21,
+            "sayim_sonuc": {
+                "TOPLAM": 21,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-senirkent/1xxx/1025/isparta-senirkent-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344236
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

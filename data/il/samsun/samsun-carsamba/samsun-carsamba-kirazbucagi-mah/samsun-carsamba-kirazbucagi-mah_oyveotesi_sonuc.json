@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-carsamba",
+        "mahalle": "KİRAZBUCAĞI MAH.",
+        "ilce_adi": "ÇARŞAMBA",
+        "okul_adi": "KİRAZBUCAĞI İLKOKULU",
+        "sandik_no": 1165,
+        "mahalle_id": "samsun-carsamba-kirazbucagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 26,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-carsamba/1xxx/1165/samsun-carsamba-1165-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "687154",
+            "oyveotesi_sync_timestamp": 1684368137
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 240
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-carsamba/1xxx/1165/samsun-carsamba-1165-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "687154",
+            "oyveotesi_sync_timestamp": 1684368137
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

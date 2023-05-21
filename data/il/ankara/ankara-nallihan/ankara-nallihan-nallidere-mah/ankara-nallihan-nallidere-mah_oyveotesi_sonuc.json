@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "NALLIDERE MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "NALLIDERE MAHALLESİ KONAĞI",
+        "sandik_no": 1089,
+        "mahalle_id": "ankara-nallihan-nallidere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "570524",
+            "oyveotesi_sync_timestamp": 1684376102
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 65,
+            "sayim_sonuc": {
+                "TOPLAM": 65,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "570524",
+            "oyveotesi_sync_timestamp": 1684376102
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

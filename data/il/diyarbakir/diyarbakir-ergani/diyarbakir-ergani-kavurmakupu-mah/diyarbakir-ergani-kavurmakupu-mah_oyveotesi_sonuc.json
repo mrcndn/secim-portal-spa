@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-ergani",
+        "mahalle": "KAVURMAKÜPÜ MAH.",
+        "ilce_adi": "ERGANİ",
+        "okul_adi": "ERGANİ İLKOKULU",
+        "sandik_no": 1184,
+        "mahalle_id": "diyarbakir-ergani-kavurmakupu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-ergani/1xxx/1184/diyarbakir-ergani-1184-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172822",
+            "oyveotesi_sync_timestamp": 1684337331
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-ergani/1xxx/1184/diyarbakir-ergani-1184-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172822",
+            "oyveotesi_sync_timestamp": 1684337331
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-adilcevaz",
+        "mahalle": "ÖRENTAŞ KÖYÜ",
+        "ilce_adi": "ADİLCEVAZ",
+        "okul_adi": "ÖRENTAŞ KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1068,
+        "mahalle_id": "bitlis-adilcevaz-orentas-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330916
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bitlis-tutanaklari/blob/main/tutanak/bitlis/bitlis-adilcevaz/1xxx/1068/bitlis-adilcevaz-1068-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330916
+        },
+        "secim_bolge_id": "bitlis"
+    }
+]

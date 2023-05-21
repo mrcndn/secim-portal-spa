@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "AKPINAR İLKOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "eskisehir-odunpazari-akpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341628
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 134,
+            "sayim_sonuc": {
+                "TOPLAM": 134,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/1xxx/1047/eskisehir-odunpazari-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341628
+        },
+        "secim_bolge_id": "eskisehir"
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "AKPINAR İLKOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "eskisehir-odunpazari-akpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341628
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/1xxx/1048/eskisehir-odunpazari-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341628
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

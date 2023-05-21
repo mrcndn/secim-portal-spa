@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "KISIK KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "KISIK KÖY İLKOKULU",
+        "sandik_no": 1542,
+        "mahalle_id": "usak-merkez-kisik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369716
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 58
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1542/usak-merkez-1542-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369716
+        },
+        "secim_bolge_id": "usak"
+    }
+]

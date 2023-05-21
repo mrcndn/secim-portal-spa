@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-gudul",
+        "mahalle": "YELLİ MAH.",
+        "ilce_adi": "GÜDÜL",
+        "okul_adi": "YELLİ MAHALLE ODASI",
+        "sandik_no": 1031,
+        "mahalle_id": "ankara-gudul-yelli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "517053",
+            "oyveotesi_sync_timestamp": 1684395285
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "517053",
+            "oyveotesi_sync_timestamp": 1684395285
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

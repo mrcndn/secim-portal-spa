@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "ÇAMLICA KÖYÜ",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "ÇAMLICA KÖYÜ İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "kutahya-domanic-camlica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 355,
+            "sayim_sonuc": {
+                "TOPLAM": 355,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 221,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1025/kutahya-domanic-1025-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "685018",
+            "oyveotesi_sync_timestamp": 1684350122
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 361,
+            "sayim_sonuc": {
+                "TOPLAM": 361,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 273
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1025/kutahya-domanic-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "685018",
+            "oyveotesi_sync_timestamp": 1684350122
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

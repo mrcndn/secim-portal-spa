@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-babaeski",
+        "mahalle": "KARACAOĞLAN KÖYÜ",
+        "ilce_adi": "BABAESKİ",
+        "okul_adi": "KARACAOĞLAN KÖYÜ (KÖY KAHVEHANESİ)",
+        "sandik_no": 1098,
+        "mahalle_id": "kirklareli-babaeski-karacaoglan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 144,
+            "sayim_sonuc": {
+                "TOPLAM": 144,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1098/kirklareli-babaeski-1098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835642",
+            "oyveotesi_sync_timestamp": 1684349082
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1098/kirklareli-babaeski-1098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835642",
+            "oyveotesi_sync_timestamp": 1684349082
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

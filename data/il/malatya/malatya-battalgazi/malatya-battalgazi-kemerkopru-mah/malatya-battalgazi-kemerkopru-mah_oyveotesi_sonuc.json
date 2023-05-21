@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-battalgazi",
+        "mahalle": "KEMERKÖPRÜ MAH.",
+        "ilce_adi": "BATTALGAZİ",
+        "okul_adi": "ŞEHİT AHMET ÖZBULUT İLK/ORTAOKULU",
+        "sandik_no": 2198,
+        "mahalle_id": "malatya-battalgazi-kemerkopru-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 231
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-battalgazi/2xxx/2198/malatya-battalgazi-2198-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351073
+        },
+        "secim_bolge_id": "malatya"
+    },
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-battalgazi",
+        "mahalle": "KEMERKÖPRÜ MAH.",
+        "ilce_adi": "BATTALGAZİ",
+        "okul_adi": "ŞEHİT AHMET ÖZBULUT İLK/ORTAOKULU",
+        "sandik_no": 2199,
+        "mahalle_id": "malatya-battalgazi-kemerkopru-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 349,
+            "sayim_sonuc": {
+                "TOPLAM": 349,
+                "İYİ PARTİ": 6,
+                "YENİDEN REFAH PARTİSİ": 44,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 231,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-battalgazi/2xxx/2199/malatya-battalgazi-2199-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "314783",
+            "oyveotesi_sync_timestamp": 1684351073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 356,
+            "sayim_sonuc": {
+                "TOPLAM": 356,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 291
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-battalgazi/2xxx/2199/malatya-battalgazi-2199-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "314783",
+            "oyveotesi_sync_timestamp": 1684351073
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

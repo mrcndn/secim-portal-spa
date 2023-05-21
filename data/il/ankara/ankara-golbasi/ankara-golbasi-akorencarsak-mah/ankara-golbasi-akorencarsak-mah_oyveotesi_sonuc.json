@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "AKÖRENÇARŞAK MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "AKÖRENÇARŞAK KÜLTÜR MERKEZİ",
+        "sandik_no": 1002,
+        "mahalle_id": "ankara-golbasi-akorencarsak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "İYİ PARTİ": 23,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 81,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "812446",
+            "oyveotesi_sync_timestamp": 1684375959
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 172
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "812446",
+            "oyveotesi_sync_timestamp": 1684375959
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

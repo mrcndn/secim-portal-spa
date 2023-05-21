@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "ÇAMBAŞI MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "ÇAMBAŞI İLKÖĞRETİM OKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "trabzon-caykara-cambasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366214
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366214
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "ÇAMBAŞI MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "ÇAMBAŞI İLKÖĞRETİM OKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "trabzon-caykara-cambasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "İYİ PARTİ": 15,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 112,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1008/trabzon-caykara-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023336",
+            "oyveotesi_sync_timestamp": 1684366214
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1008/trabzon-caykara-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023336",
+            "oyveotesi_sync_timestamp": 1684366214
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

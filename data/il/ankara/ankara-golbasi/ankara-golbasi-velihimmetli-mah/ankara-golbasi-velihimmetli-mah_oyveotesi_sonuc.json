@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "VELİHİMMETLİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "VELİHİMMETLİ KÜLTÜR MERKEZİ",
+        "sandik_no": 1301,
+        "mahalle_id": "ankara-golbasi-velihimmetli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "İYİ PARTİ": 21,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 103,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "321341",
+            "oyveotesi_sync_timestamp": 1684375965
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "321341",
+            "oyveotesi_sync_timestamp": 1684375965
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "VELİHİMMETLİ MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "VELİHİMMETLİ KÜLTÜR MERKEZİ",
+        "sandik_no": 1302,
+        "mahalle_id": "ankara-golbasi-velihimmetli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 242,
+            "sayim_sonuc": {
+                "TOPLAM": 242,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "ADALET VE KALKINMA PARTİSİ": 97,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 78,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "333633",
+            "oyveotesi_sync_timestamp": 1684375965
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SİNAN OĞAN": 21,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 178
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "333633",
+            "oyveotesi_sync_timestamp": 1684375965
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

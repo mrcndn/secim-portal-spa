@@ -1,0 +1,658 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "sandik_sayisi": 4773,
+        "secmen_sayisi": 1613334,
+        "oyveotesi_city_id": 57
+    },
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "sandik_sayisi": 1452,
+        "secmen_sayisi": 399303,
+        "oyveotesi_city_id": 15
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "sandik_sayisi": 1880,
+        "secmen_sayisi": 536163,
+        "oyveotesi_city_id": 4
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "sandik_sayisi": 1204,
+        "secmen_sayisi": 306684,
+        "oyveotesi_city_id": 11
+    },
+    {
+        "il_id": "aksaray",
+        "il_adi": "AKSARAY",
+        "il_kodu": 68,
+        "sandik_sayisi": 970,
+        "secmen_sayisi": 296279,
+        "oyveotesi_city_id": 64
+    },
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "sandik_sayisi": 970,
+        "secmen_sayisi": 256644,
+        "oyveotesi_city_id": 18
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "sandik_sayisi": 12250,
+        "secmen_sayisi": 4282718,
+        "oyveotesi_city_id": 7
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "sandik_sayisi": 5580,
+        "secmen_sayisi": 1905525,
+        "oyveotesi_city_id": 41
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "sandik_sayisi": 338,
+        "secmen_sayisi": 68061,
+        "oyveotesi_city_id": 74
+    },
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "sandik_sayisi": 636,
+        "secmen_sayisi": 132280,
+        "oyveotesi_city_id": 29
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "sandik_sayisi": 2717,
+        "secmen_sayisi": 876784,
+        "oyveotesi_city_id": 76
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "sandik_sayisi": 3316,
+        "secmen_sayisi": 989570,
+        "oyveotesi_city_id": 42
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "sandik_sayisi": 575,
+        "secmen_sayisi": 156043,
+        "oyveotesi_city_id": 28
+    },
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "sandik_sayisi": 1299,
+        "secmen_sayisi": 399560,
+        "oyveotesi_city_id": 75
+    },
+    {
+        "il_id": "bayburt",
+        "il_adi": "BAYBURT",
+        "il_kodu": 69,
+        "sandik_sayisi": 290,
+        "secmen_sayisi": 57134,
+        "oyveotesi_city_id": 65
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "sandik_sayisi": 670,
+        "secmen_sayisi": 167050,
+        "oyveotesi_city_id": 50
+    },
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "sandik_sayisi": 713,
+        "secmen_sayisi": 193535,
+        "oyveotesi_city_id": 68
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "sandik_sayisi": 864,
+        "secmen_sayisi": 220659,
+        "oyveotesi_city_id": 19
+    },
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "sandik_sayisi": 1007,
+        "secmen_sayisi": 235979,
+        "oyveotesi_city_id": 51
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "sandik_sayisi": 716,
+        "secmen_sayisi": 204237,
+        "oyveotesi_city_id": 79
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "sandik_sayisi": 6865,
+        "secmen_sayisi": 2366370,
+        "oyveotesi_city_id": 21
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "sandik_sayisi": 1591,
+        "secmen_sayisi": 436013,
+        "oyveotesi_city_id": 77
+    },
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "sandik_sayisi": 701,
+        "secmen_sayisi": 141860,
+        "oyveotesi_city_id": 16
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "sandik_sayisi": 1698,
+        "secmen_sayisi": 398565,
+        "oyveotesi_city_id": 52
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "sandik_sayisi": 2459,
+        "secmen_sayisi": 794714,
+        "oyveotesi_city_id": 43
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "sandik_sayisi": 3673,
+        "secmen_sayisi": 1144533,
+        "oyveotesi_city_id": 61
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "sandik_sayisi": 984,
+        "secmen_sayisi": 294391,
+        "oyveotesi_city_id": 67
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "sandik_sayisi": 1020,
+        "secmen_sayisi": 319783,
+        "oyveotesi_city_id": 22
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "sandik_sayisi": 1631,
+        "secmen_sayisi": 430745,
+        "oyveotesi_city_id": 33
+    },
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "sandik_sayisi": 968,
+        "secmen_sayisi": 169638,
+        "oyveotesi_city_id": 5
+    },
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "sandik_sayisi": 2236,
+        "secmen_sayisi": 509702,
+        "oyveotesi_city_id": 46
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "sandik_sayisi": 2191,
+        "secmen_sayisi": 688989,
+        "oyveotesi_city_id": 30
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "sandik_sayisi": 4064,
+        "secmen_sayisi": 1359367,
+        "oyveotesi_city_id": 58
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "sandik_sayisi": 1342,
+        "secmen_sayisi": 349276,
+        "oyveotesi_city_id": 34
+    },
+    {
+        "il_id": "gumushane",
+        "il_adi": "GÜMÜŞHANE",
+        "il_kodu": 29,
+        "sandik_sayisi": 567,
+        "secmen_sayisi": 96519,
+        "oyveotesi_city_id": 78
+    },
+    {
+        "il_id": "hakkari",
+        "il_adi": "HAKKARİ",
+        "il_kodu": 30,
+        "sandik_sayisi": 590,
+        "secmen_sayisi": 186234,
+        "oyveotesi_city_id": 69
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "sandik_sayisi": 3152,
+        "secmen_sayisi": 1062519,
+        "oyveotesi_city_id": 70
+    },
+    {
+        "il_id": "igdir",
+        "il_adi": "IĞDIR",
+        "il_kodu": 76,
+        "sandik_sayisi": 473,
+        "secmen_sayisi": 133812,
+        "oyveotesi_city_id": 3
+    },
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "sandik_sayisi": 1083,
+        "secmen_sayisi": 328186,
+        "oyveotesi_city_id": 72
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "sandik_sayisi": 30802,
+        "secmen_sayisi": 11358083,
+        "oyveotesi_city_id": 6
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "sandik_sayisi": 9877,
+        "secmen_sayisi": 3442424,
+        "oyveotesi_city_id": 31
+    },
+    {
+        "il_id": "kahramanmaras",
+        "il_adi": "KAHRAMANMARAŞ",
+        "il_kodu": 46,
+        "sandik_sayisi": 2405,
+        "secmen_sayisi": 753538,
+        "oyveotesi_city_id": 14
+    },
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "sandik_sayisi": 726,
+        "secmen_sayisi": 181914,
+        "oyveotesi_city_id": 71
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "sandik_sayisi": 666,
+        "secmen_sayisi": 187900,
+        "oyveotesi_city_id": 45
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "sandik_sayisi": 722,
+        "secmen_sayisi": 185088,
+        "oyveotesi_city_id": 35
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "sandik_sayisi": 1654,
+        "secmen_sayisi": 295443,
+        "oyveotesi_city_id": 23
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "sandik_sayisi": 3170,
+        "secmen_sayisi": 1026271,
+        "oyveotesi_city_id": 37
+    },
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "sandik_sayisi": 393,
+        "secmen_sayisi": 96956,
+        "oyveotesi_city_id": 56
+    },
+    {
+        "il_id": "kirikkale",
+        "il_adi": "KIRIKKALE",
+        "il_kodu": 71,
+        "sandik_sayisi": 717,
+        "secmen_sayisi": 203007,
+        "oyveotesi_city_id": 10
+    },
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "sandik_sayisi": 916,
+        "secmen_sayisi": 291596,
+        "oyveotesi_city_id": 8
+    },
+    {
+        "il_id": "kirsehir",
+        "il_adi": "KIRŞEHİR",
+        "il_kodu": 40,
+        "sandik_sayisi": 683,
+        "secmen_sayisi": 173939,
+        "oyveotesi_city_id": 24
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "sandik_sayisi": 4317,
+        "secmen_sayisi": 1515277,
+        "oyveotesi_city_id": 59
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "sandik_sayisi": 4992,
+        "secmen_sayisi": 1629257,
+        "oyveotesi_city_id": 17
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "sandik_sayisi": 1605,
+        "secmen_sayisi": 430283,
+        "oyveotesi_city_id": 62
+    },
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "sandik_sayisi": 1900,
+        "secmen_sayisi": 531110,
+        "oyveotesi_city_id": 80
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "sandik_sayisi": 3573,
+        "secmen_sayisi": 1106359,
+        "oyveotesi_city_id": 9
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "sandik_sayisi": 1844,
+        "secmen_sayisi": 541762,
+        "oyveotesi_city_id": 12
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "sandik_sayisi": 4123,
+        "secmen_sayisi": 1378750,
+        "oyveotesi_city_id": 36
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "sandik_sayisi": 2435,
+        "secmen_sayisi": 805757,
+        "oyveotesi_city_id": 63
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "sandik_sayisi": 860,
+        "secmen_sayisi": 242569,
+        "oyveotesi_city_id": 73
+    },
+    {
+        "il_id": "nevsehir",
+        "il_adi": "NEVŞEHİR",
+        "il_kodu": 50,
+        "sandik_sayisi": 748,
+        "secmen_sayisi": 225360,
+        "oyveotesi_city_id": 13
+    },
+    {
+        "il_id": "nigde",
+        "il_adi": "NİĞDE",
+        "il_kodu": 51,
+        "sandik_sayisi": 820,
+        "secmen_sayisi": 258102,
+        "oyveotesi_city_id": 47
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "sandik_sayisi": 2092,
+        "secmen_sayisi": 590574,
+        "oyveotesi_city_id": 38
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "sandik_sayisi": 1170,
+        "secmen_sayisi": 386135,
+        "oyveotesi_city_id": 66
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "sandik_sayisi": 1004,
+        "secmen_sayisi": 265192,
+        "oyveotesi_city_id": 20
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "sandik_sayisi": 2444,
+        "secmen_sayisi": 783923,
+        "oyveotesi_city_id": 25
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "sandik_sayisi": 3417,
+        "secmen_sayisi": 1024017,
+        "oyveotesi_city_id": 48
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "sandik_sayisi": 4082,
+        "secmen_sayisi": 1219859,
+        "oyveotesi_city_id": 60
+    },
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "sandik_sayisi": 745,
+        "secmen_sayisi": 201853,
+        "oyveotesi_city_id": 39
+    },
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "sandik_sayisi": 792,
+        "secmen_sayisi": 171746,
+        "oyveotesi_city_id": 1
+    },
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "sandik_sayisi": 1024,
+        "secmen_sayisi": 324179,
+        "oyveotesi_city_id": 55
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "sandik_sayisi": 2331,
+        "secmen_sayisi": 460513,
+        "oyveotesi_city_id": 26
+    },
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "sandik_sayisi": 2487,
+        "secmen_sayisi": 857570,
+        "oyveotesi_city_id": 49
+    },
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "sandik_sayisi": 1709,
+        "secmen_sayisi": 439663,
+        "oyveotesi_city_id": 40
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "sandik_sayisi": 2156,
+        "secmen_sayisi": 611966,
+        "oyveotesi_city_id": 44
+    },
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "sandik_sayisi": 336,
+        "secmen_sayisi": 65571,
+        "oyveotesi_city_id": 27
+    },
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "sandik_sayisi": 927,
+        "secmen_sayisi": 280452,
+        "oyveotesi_city_id": 53
+    },
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "sandik_sayisi": 2294,
+        "secmen_sayisi": 706611,
+        "oyveotesi_city_id": 2
+    },
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "sandik_sayisi": 588,
+        "secmen_sayisi": 204816,
+        "oyveotesi_city_id": 32
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "sandik_sayisi": 1295,
+        "secmen_sayisi": 299951,
+        "oyveotesi_city_id": 81
+    },
+    {
+        "il_id": "yurtdisi",
+        "il_adi": "YURTDIŞI",
+        "il_kodu": 999,
+        "sandik_sayisi": null,
+        "secmen_sayisi": null,
+        "oyveotesi_city_id": 82
+    },
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "sandik_sayisi": 1536,
+        "secmen_sayisi": 457651,
+        "oyveotesi_city_id": 54
+    }
+]

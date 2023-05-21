@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "HIDIRLAR MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "HIDIRLAR MAHALLESİ OKUL BİNASI",
+        "sandik_no": 1063,
+        "mahalle_id": "ankara-kizilcahamam-hidirlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395405
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 81
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395405
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

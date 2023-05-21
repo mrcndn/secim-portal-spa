@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "BAKİOĞLU KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "BAKİOĞLU ORTA O.",
+        "sandik_no": 1219,
+        "mahalle_id": "bartin-merkez-bakioglu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327818
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327818
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "BAKİOĞLU KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "BAKİOĞLU ORTA O.",
+        "sandik_no": 1218,
+        "mahalle_id": "bartin-merkez-bakioglu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327818
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 172
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1218/bartin-merkez-1218-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327818
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

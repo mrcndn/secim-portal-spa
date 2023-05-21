@@ -1,0 +1,281 @@
+[
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "ŞEYH ŞAMİL MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1272,
+        "mahalle_id": "karaman-merkez-seyh-samil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1272/karaman-merkez-1272-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "secim_bolge_id": "karaman"
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "ŞEYH ŞAMİL MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1273,
+        "mahalle_id": "karaman-merkez-seyh-samil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 116,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 51,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1273/karaman-merkez-1273-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "599046",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "SİNAN OĞAN": 31,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 176
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1273/karaman-merkez-1273-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "599046",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "secim_bolge_id": "karaman"
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "ŞEYH ŞAMİL MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1268,
+        "mahalle_id": "karaman-merkez-seyh-samil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 143,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1268/karaman-merkez-1268-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "591795",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1268/karaman-merkez-1268-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "591795",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "secim_bolge_id": "karaman"
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "ŞEYH ŞAMİL MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1269,
+        "mahalle_id": "karaman-merkez-seyh-samil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 267,
+            "sayim_sonuc": {
+                "TOPLAM": 267,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 41,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1269/karaman-merkez-1269-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1007502",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1269/karaman-merkez-1269-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1007502",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "secim_bolge_id": "karaman"
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "ŞEYH ŞAMİL MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1270,
+        "mahalle_id": "karaman-merkez-seyh-samil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 10,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 67,
+                "ADALET VE KALKINMA PARTİSİ": 104,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1270/karaman-merkez-1270-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "608626",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 98,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1270/karaman-merkez-1270-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "608626",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "secim_bolge_id": "karaman"
+    },
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-merkez",
+        "mahalle": "ŞEYH ŞAMİL MAH.",
+        "ilce_adi": "KARAMAN MERKEZ",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1271,
+        "mahalle_id": "karaman-merkez-seyh-samil-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 49,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 114,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 78,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1271/karaman-merkez-1271-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "614975",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "SİNAN OĞAN": 31,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-merkez/1xxx/1271/karaman-merkez-1271-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "614975",
+            "oyveotesi_sync_timestamp": 1684346607
+        },
+        "secim_bolge_id": "karaman"
+    }
+]

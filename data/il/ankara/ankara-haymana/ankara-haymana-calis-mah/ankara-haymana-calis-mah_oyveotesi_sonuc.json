@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "ÇALIŞ MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "ÇALIŞ MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1024,
+        "mahalle_id": "ankara-haymana-calis-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 22,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 155,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 69
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "764585",
+            "oyveotesi_sync_timestamp": 1684393510
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 265
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "764585",
+            "oyveotesi_sync_timestamp": 1684393510
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

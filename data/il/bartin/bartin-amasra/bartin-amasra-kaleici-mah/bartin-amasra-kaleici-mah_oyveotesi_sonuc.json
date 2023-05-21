@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "KALEİÇİ MAH.",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "AMASRA MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1004,
+        "mahalle_id": "bartin-amasra-kaleici-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 117,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1004/bartin-amasra-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510227",
+            "oyveotesi_sync_timestamp": 1684327765
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1004/bartin-amasra-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510227",
+            "oyveotesi_sync_timestamp": 1684327765
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

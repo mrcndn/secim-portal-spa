@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AŞAĞIÇALICA MAH.",
+        "ilce_adi": "HENDEK",
+        "okul_adi": "AŞAĞIÇALICA İLKÖĞRETİM OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "sakarya-hendek-asagicalica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 206,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1013/sakarya-hendek-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "456744",
+            "oyveotesi_sync_timestamp": 1684357607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 251
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1013/sakarya-hendek-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "456744",
+            "oyveotesi_sync_timestamp": 1684357607
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

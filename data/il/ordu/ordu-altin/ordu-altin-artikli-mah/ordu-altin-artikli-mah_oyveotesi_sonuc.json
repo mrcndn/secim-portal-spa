@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-altin",
+        "mahalle": "ARTIKLI MAH.",
+        "ilce_adi": "ALTINORDU",
+        "okul_adi": "ARTIKLI KÖY ODASI",
+        "sandik_no": 1045,
+        "mahalle_id": "ordu-altin-artikli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 129,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1045/ordu-altin-1045-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "655476",
+            "oyveotesi_sync_timestamp": 1684360329
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 152,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1045/ordu-altin-1045-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "655476",
+            "oyveotesi_sync_timestamp": 1684360329
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

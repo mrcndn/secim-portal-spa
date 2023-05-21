@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BOĞAZİÇİ-YAZLIK MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BOĞAZİÇİ - YAZLIK MAH BOĞAZİÇİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1399,
+        "mahalle_id": "duzce-merkez-bogazici-yazlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338026
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 346,
+            "sayim_sonuc": {
+                "TOPLAM": 346,
+                "SİNAN OĞAN": 12,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 233
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1399/duzce-merkez-1399-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338026
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "BOĞAZİÇİ-YAZLIK MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "BOĞAZİÇİ - YAZLIK MAH BOĞAZİÇİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1398,
+        "mahalle_id": "duzce-merkez-bogazici-yazlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338026
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 233
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1398/duzce-merkez-1398-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338026
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

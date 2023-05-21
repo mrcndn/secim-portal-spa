@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-dinar",
+        "mahalle": "İSTASYON MAH.",
+        "ilce_adi": "DİNAR",
+        "okul_adi": "DİNAR MEHMET ÇAVUŞ ANADOLU LİSESİ",
+        "sandik_no": 1032,
+        "mahalle_id": "afyonkarahisar-dinar-istasyon-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "İYİ PARTİ": 46,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1032/afyonkarahisar-dinar-1032-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732485",
+            "oyveotesi_sync_timestamp": 1684329583
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1032/afyonkarahisar-dinar-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732485",
+            "oyveotesi_sync_timestamp": 1684329583
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-dinar",
+        "mahalle": "İSTASYON MAH.",
+        "ilce_adi": "DİNAR",
+        "okul_adi": "DİNAR MEHMET ÇAVUŞ ANADOLU LİSESİ",
+        "sandik_no": 1033,
+        "mahalle_id": "afyonkarahisar-dinar-istasyon-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329583
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 23,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1033/afyonkarahisar-dinar-1033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329583
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

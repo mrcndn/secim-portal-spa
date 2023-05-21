@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-osmangazi",
+        "mahalle": "TUZPAZARI MAH.",
+        "ilce_adi": "OSMANGAZİ",
+        "okul_adi": "REŞİTPAŞA İLKOKULU GİRİŞ B",
+        "sandik_no": 1363,
+        "mahalle_id": "bursa-osmangazi-tuzpazari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "375633",
+            "oyveotesi_sync_timestamp": 1684335398
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "375633",
+            "oyveotesi_sync_timestamp": 1684335398
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-emirdag",
+        "mahalle": "DAĞILGAN KÖYÜ",
+        "ilce_adi": "EMİRDAĞ",
+        "okul_adi": "DAĞILGAN KÖY KONAĞI",
+        "sandik_no": 1092,
+        "mahalle_id": "afyonkarahisar-emirdag-dagilgan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330174
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-emirdag/1xxx/1092/afyonkarahisar-emirdag-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330174
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

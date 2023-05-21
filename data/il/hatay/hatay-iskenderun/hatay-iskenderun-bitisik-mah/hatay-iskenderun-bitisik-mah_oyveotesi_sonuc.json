@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BİTİŞİK MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BİTİŞİK İLKOKULU",
+        "sandik_no": 2033,
+        "mahalle_id": "hatay-iskenderun-bitisik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375800
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 245
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2033/hatay-iskenderun-2033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375800
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BİTİŞİK MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BİTİŞİK İLKOKULU",
+        "sandik_no": 2032,
+        "mahalle_id": "hatay-iskenderun-bitisik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375800
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375800
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

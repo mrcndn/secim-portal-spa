@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "bayburt",
+        "il_adi": "BAYBURT",
+        "il_kodu": 69,
+        "ilce_id": "bayburt-merkez",
+        "mahalle": "MANAS KÖYÜ",
+        "ilce_adi": "BAYBURT MERKEZ",
+        "okul_adi": "MANAS KÖY ODASI",
+        "sandik_no": 1172,
+        "mahalle_id": "bayburt-merkez-manas-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1172/bayburt-merkez-1172-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "195836",
+            "oyveotesi_sync_timestamp": 1684328362
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1172/bayburt-merkez-1172-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "195836",
+            "oyveotesi_sync_timestamp": 1684328362
+        },
+        "secim_bolge_id": "bayburt"
+    }
+]

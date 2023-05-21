@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-fatih",
+        "mahalle": "MERCAN MAH.",
+        "ilce_adi": "FATİH",
+        "okul_adi": "BEYAZIT FORD OTOSAN İLKOKULU",
+        "sandik_no": 3096,
+        "mahalle_id": "istanbul-fatih-mercan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 39,
+            "sayim_sonuc": {
+                "TOPLAM": 39,
+                "İYİ PARTİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "196487",
+            "oyveotesi_sync_timestamp": 1684344791
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "196487",
+            "oyveotesi_sync_timestamp": 1684344791
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

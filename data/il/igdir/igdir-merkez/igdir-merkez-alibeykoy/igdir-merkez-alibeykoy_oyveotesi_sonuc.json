@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "igdir",
+        "il_adi": "IĞDIR",
+        "il_kodu": 76,
+        "ilce_id": "igdir-merkez",
+        "mahalle": "ALİBEYKÖY",
+        "ilce_adi": "IĞDIR MERKEZ",
+        "okul_adi": "ALİBEYKÖY İLKOKULU",
+        "sandik_no": 1217,
+        "mahalle_id": "igdir-merkez-alibeykoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343756
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 168,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-igdir-tutanaklari/blob/main/tutanak/igdir/igdir-merkez/1xxx/1217/igdir-merkez-1217-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343756
+        },
+        "secim_bolge_id": "igdir"
+    }
+]

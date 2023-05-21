@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-merkez",
+        "mahalle": "TEPEKÖY",
+        "ilce_adi": "ELAZIĞ MERKEZ",
+        "okul_adi": "TEPE KÖYÜ SOSYAL TESİSİ",
+        "sandik_no": 2472,
+        "mahalle_id": "elazig-merkez-tepekoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "İYİ PARTİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-merkez/2xxx/2472/elazig-merkez-2472-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "234462",
+            "oyveotesi_sync_timestamp": 1684338966
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "234462",
+            "oyveotesi_sync_timestamp": 1684338966
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

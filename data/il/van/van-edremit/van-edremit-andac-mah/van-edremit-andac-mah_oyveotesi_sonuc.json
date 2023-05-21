@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-edremit",
+        "mahalle": "ANDAÇ MAH.",
+        "ilce_adi": "EDREMİT",
+        "okul_adi": "ANDAÇ İLKOKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "van-edremit-andac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357159
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357159
+        },
+        "secim_bolge_id": "van"
+    },
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-edremit",
+        "mahalle": "ANDAÇ MAH.",
+        "ilce_adi": "EDREMİT",
+        "okul_adi": "ANDAÇ İLKOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "van-edremit-andac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357159
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-edremit/1xxx/1002/van-edremit-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357159
+        },
+        "secim_bolge_id": "van"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "YUKARIOVACIK KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "okul_adi": "YUKARIOVACIK KÖYÜ İLKOKULU",
+        "sandik_no": 1123,
+        "mahalle_id": "elazig-karakocan-yukariovacik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 43,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-karakocan/1xxx/1123/elazig-karakocan-1123-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "519618",
+            "oyveotesi_sync_timestamp": 1684339099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-karakocan/1xxx/1123/elazig-karakocan-1123-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "519618",
+            "oyveotesi_sync_timestamp": 1684339099
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

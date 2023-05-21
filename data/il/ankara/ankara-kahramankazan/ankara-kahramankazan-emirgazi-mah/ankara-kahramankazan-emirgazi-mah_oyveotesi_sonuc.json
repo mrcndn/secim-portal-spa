@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kahramankazan",
+        "mahalle": "EMİRGAZİ MAH.",
+        "ilce_adi": "KAHRAMANKAZAN",
+        "okul_adi": "EMİRGAZİ MAHALLE KONAĞI",
+        "sandik_no": 1082,
+        "mahalle_id": "ankara-kahramankazan-emirgazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 111,
+            "sayim_sonuc": {
+                "TOPLAM": 111,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "826808",
+            "oyveotesi_sync_timestamp": 1684393182
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "826808",
+            "oyveotesi_sync_timestamp": 1684393182
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

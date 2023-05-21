@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-dinar",
+        "mahalle": "ADLİYE MAH.",
+        "ilce_adi": "DİNAR",
+        "okul_adi": "YENİYOL İLKOKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "afyonkarahisar-dinar-adliye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "İYİ PARTİ": 39,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 90,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1001/afyonkarahisar-dinar-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "628724",
+            "oyveotesi_sync_timestamp": 1684329526
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 134,
+                "RECEP TAYYİP ERDOĞAN": 132
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1001/afyonkarahisar-dinar-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "628724",
+            "oyveotesi_sync_timestamp": 1684329526
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

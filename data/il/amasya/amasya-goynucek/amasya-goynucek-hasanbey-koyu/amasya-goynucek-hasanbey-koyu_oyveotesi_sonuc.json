@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "HASANBEY KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "HASANBEY KÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "amasya-goynucek-hasanbey-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 98,
+            "sayim_sonuc": {
+                "TOPLAM": 98,
+                "İYİ PARTİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1027/amasya-goynucek-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1026866",
+            "oyveotesi_sync_timestamp": 1684325186
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1026866",
+            "oyveotesi_sync_timestamp": 1684325186
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

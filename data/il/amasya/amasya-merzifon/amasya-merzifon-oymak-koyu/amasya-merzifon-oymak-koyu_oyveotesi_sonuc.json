@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merzifon",
+        "mahalle": "OYMAK KÖYÜ",
+        "ilce_adi": "MERZİFON",
+        "okul_adi": "OYMAK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1201,
+        "mahalle_id": "amasya-merzifon-oymak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 52,
+            "sayim_sonuc": {
+                "TOPLAM": 52,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merzifon/1xxx/1201/amasya-merzifon-1201-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542456",
+            "oyveotesi_sync_timestamp": 1684329393
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 52,
+            "sayim_sonuc": {
+                "TOPLAM": 52,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merzifon/1xxx/1201/amasya-merzifon-1201-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542456",
+            "oyveotesi_sync_timestamp": 1684329393
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

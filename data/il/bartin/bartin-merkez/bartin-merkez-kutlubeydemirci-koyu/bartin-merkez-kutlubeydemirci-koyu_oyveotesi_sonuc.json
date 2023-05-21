@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KUTLUBEYDEMİRCİ KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KÖY KAHVESİ",
+        "sandik_no": 1330,
+        "mahalle_id": "bartin-merkez-kutlubeydemirci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327971
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 7,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 155
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1330/bartin-merkez-1330-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327971
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KUTLUBEYDEMİRCİ KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KÖY KAHVESİ",
+        "sandik_no": 1331,
+        "mahalle_id": "bartin-merkez-kutlubeydemirci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327971
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 183
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1331/bartin-merkez-1331-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327971
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

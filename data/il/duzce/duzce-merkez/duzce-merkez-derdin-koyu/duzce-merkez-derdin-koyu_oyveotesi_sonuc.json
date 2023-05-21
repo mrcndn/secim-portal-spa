@@ -1,0 +1,96 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "DERDİN KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "DERDİN KÖYÜ HAMAMDAĞ CAMİ ALTI KÖY KONAĞI",
+        "sandik_no": 1434,
+        "mahalle_id": "duzce-merkez-derdin-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1434/duzce-merkez-1434-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "206742",
+            "oyveotesi_sync_timestamp": 1684338050
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1434/duzce-merkez-1434-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "206742",
+            "oyveotesi_sync_timestamp": 1684338050
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "DERDİN KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "DERDİN KÖYÜ MERKEZ KÖY KONAĞI",
+        "sandik_no": 1435,
+        "mahalle_id": "duzce-merkez-derdin-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "ZAFER PARTİSİ": 10,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1435/duzce-merkez-1435-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "392049",
+            "oyveotesi_sync_timestamp": 1684338050
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "392049",
+            "oyveotesi_sync_timestamp": 1684338050
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

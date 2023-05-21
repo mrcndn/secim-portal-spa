@@ -1,0 +1,74 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "VAKIFGEÇİTVEREN KÖYÜ",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "VAKIFGEÇİTVEREN KÖY KONAĞI",
+        "sandik_no": 1475,
+        "mahalle_id": "bolu-merkez-vakifgecitveren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333792
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1475/bolu-merkez-1475-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333792
+        },
+        "secim_bolge_id": "bolu"
+    },
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "VAKIFGEÇİTVEREN KÖYÜ",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "VAKIFGEÇİTVEREN KÖY KONAĞI",
+        "sandik_no": 1476,
+        "mahalle_id": "bolu-merkez-vakifgecitveren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "İYİ PARTİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 131,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1476/bolu-merkez-1476-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831546",
+            "oyveotesi_sync_timestamp": 1684333792
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1476/bolu-merkez-1476-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831546",
+            "oyveotesi_sync_timestamp": 1684333792
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mudanya",
+        "mahalle": "BALABANCIK MAH.",
+        "ilce_adi": "MUDANYA",
+        "okul_adi": "BALABANCIK ESKİ İLKOKULU BİNASI(ANAOKULU)",
+        "sandik_no": 1019,
+        "mahalle_id": "bursa-mudanya-balabancik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "İYİ PARTİ": 48,
+                "ZAFER PARTİSİ": 7,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 142,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "797382",
+            "oyveotesi_sync_timestamp": 1684328680
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "797382",
+            "oyveotesi_sync_timestamp": 1684328680
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

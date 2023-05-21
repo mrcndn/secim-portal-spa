@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "ilce_id": "kilis-merkez",
+        "mahalle": "BULAMAÇLI KÖYÜ",
+        "ilce_adi": "KİLİS MERKEZ",
+        "okul_adi": "BULAMAÇLI İLKOKULU",
+        "sandik_no": 1239,
+        "mahalle_id": "kilis-merkez-bulamacli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1239/kilis-merkez-1239-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "533393",
+            "oyveotesi_sync_timestamp": 1684348499
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1239/kilis-merkez-1239-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "533393",
+            "oyveotesi_sync_timestamp": 1684348499
+        },
+        "secim_bolge_id": "kilis"
+    }
+]

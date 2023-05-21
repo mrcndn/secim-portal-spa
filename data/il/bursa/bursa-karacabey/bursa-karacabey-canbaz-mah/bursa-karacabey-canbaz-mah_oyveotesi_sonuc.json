@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-karacabey",
+        "mahalle": "CANBAZ MAH.",
+        "ilce_adi": "KARACABEY",
+        "okul_adi": "CANBAZ MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1022,
+        "mahalle_id": "bursa-karacabey-canbaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 43,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 83,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "706009",
+            "oyveotesi_sync_timestamp": 1684334805
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 136,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "706009",
+            "oyveotesi_sync_timestamp": 1684334805
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

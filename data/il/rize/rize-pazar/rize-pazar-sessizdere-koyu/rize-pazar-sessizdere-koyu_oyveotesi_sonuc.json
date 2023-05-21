@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "SESSİZDERE KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "SESSİZDERE KÖYÜ ÇAY ALIM YERİ",
+        "sandik_no": 1087,
+        "mahalle_id": "rize-pazar-sessizdere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1087/rize-pazar-1087-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510008",
+            "oyveotesi_sync_timestamp": 1684355890
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 97
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1087/rize-pazar-1087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510008",
+            "oyveotesi_sync_timestamp": 1684355890
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "SESSİZDERE KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "SESSİZDERE KÖYÜ ÇAY ALIM YERİ",
+        "sandik_no": 1088,
+        "mahalle_id": "rize-pazar-sessizdere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355890
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1088/rize-pazar-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355890
+        },
+        "secim_bolge_id": "rize"
+    }
+]

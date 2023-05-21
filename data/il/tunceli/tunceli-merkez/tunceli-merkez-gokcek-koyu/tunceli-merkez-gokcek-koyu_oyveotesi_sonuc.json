@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-merkez",
+        "mahalle": "GÖKÇEK KÖYÜ",
+        "ilce_adi": "TUNCELİ MERKEZ",
+        "okul_adi": "GÖKÇEK KÖYÜ (GÖZEBAŞI RESTAURANT)",
+        "sandik_no": 1090,
+        "mahalle_id": "tunceli-merkez-gokcek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361292
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361292
+        },
+        "secim_bolge_id": "tunceli"
+    },
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-merkez",
+        "mahalle": "GÖKÇEK KÖYÜ",
+        "ilce_adi": "TUNCELİ MERKEZ",
+        "okul_adi": "GÖKÇEK KÖYÜ (KARDEŞLER RESTAURANT)",
+        "sandik_no": 1088,
+        "mahalle_id": "tunceli-merkez-gokcek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361292
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 151,
+                "RECEP TAYYİP ERDOĞAN": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-merkez/1xxx/1088/tunceli-merkez-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361292
+        },
+        "secim_bolge_id": "tunceli"
+    },
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-merkez",
+        "mahalle": "GÖKÇEK KÖYÜ",
+        "ilce_adi": "TUNCELİ MERKEZ",
+        "okul_adi": "GÖKÇEK KÖYÜ (ROJ GÖLÜ RESTAURANTİ)",
+        "sandik_no": 1089,
+        "mahalle_id": "tunceli-merkez-gokcek-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361292
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-merkez/1xxx/1089/tunceli-merkez-1089-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361292
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

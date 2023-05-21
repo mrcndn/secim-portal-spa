@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "BİNKOZ MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "BİNKOZ MAHALLESİ KONAĞI",
+        "sandik_no": 1033,
+        "mahalle_id": "ankara-kizilcahamam-binkoz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 47,
+            "sayim_sonuc": {
+                "TOPLAM": 47,
+                "İYİ PARTİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837759",
+            "oyveotesi_sync_timestamp": 1684395375
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837759",
+            "oyveotesi_sync_timestamp": 1684395375
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

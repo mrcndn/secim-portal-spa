@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhangazi",
+        "mahalle": "GÖLYAKA MAH.",
+        "ilce_adi": "ORHANGAZİ",
+        "okul_adi": "GÖLYAKA İLKÖĞRETİM OKULU (ESKİ)",
+        "sandik_no": 1097,
+        "mahalle_id": "bursa-orhangazi-golyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335249
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 141,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335249
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-tasova",
+        "mahalle": "ESENÇAY KÖYÜ",
+        "ilce_adi": "TAŞOVA",
+        "okul_adi": "ESENÇAY KÖYÜ İİLK/ORTA OKULU",
+        "sandik_no": 1058,
+        "mahalle_id": "amasya-tasova-esencay-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325412
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325412
+        },
+        "secim_bolge_id": "amasya"
+    },
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-tasova",
+        "mahalle": "ESENÇAY KÖYÜ",
+        "ilce_adi": "TAŞOVA",
+        "okul_adi": "ESENÇAY KÖYÜ İİLK/ORTA OKULU",
+        "sandik_no": 1059,
+        "mahalle_id": "amasya-tasova-esencay-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 180,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-tasova/1xxx/1059/amasya-tasova-1059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "675869",
+            "oyveotesi_sync_timestamp": 1684325412
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 209,
+                "RECEP TAYYİP ERDOĞAN": 90
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-tasova/1xxx/1059/amasya-tasova-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "675869",
+            "oyveotesi_sync_timestamp": 1684325412
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

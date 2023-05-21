@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mudanya",
+        "mahalle": "ÇAYÖNÜ MAH.",
+        "ilce_adi": "MUDANYA",
+        "okul_adi": "ÇAYÖNÜ İLK VE ORTAOKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "bursa-mudanya-cayonu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "ADALET VE KALKINMA PARTİSİ": 115,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "816841",
+            "oyveotesi_sync_timestamp": 1684328684
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 135
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "816841",
+            "oyveotesi_sync_timestamp": 1684328684
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

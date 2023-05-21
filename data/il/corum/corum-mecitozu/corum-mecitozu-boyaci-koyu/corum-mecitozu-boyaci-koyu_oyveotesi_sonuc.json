@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "BOYACI KÖYÜ",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "BOYACI KÖY İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "corum-mecitozu-boyaci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "ANAVATAN PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 168,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1022/corum-mecitozu-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "777425",
+            "oyveotesi_sync_timestamp": 1684368879
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "KEMAL KILIÇDAROĞLU": 171,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1022/corum-mecitozu-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "777425",
+            "oyveotesi_sync_timestamp": 1684368879
+        },
+        "secim_bolge_id": "corum"
+    }
+]

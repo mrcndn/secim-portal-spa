@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-yenicaga",
+        "mahalle": "DEREKÖY",
+        "ilce_adi": "YENİÇAĞA",
+        "okul_adi": "DEREKÖY KÖY İLKOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "bolu-yenicaga-derekoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 102,
+            "sayim_sonuc": {
+                "TOPLAM": 102,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 69,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1017/bolu-yenicaga-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "610438",
+            "oyveotesi_sync_timestamp": 1684334283
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1017/bolu-yenicaga-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "610438",
+            "oyveotesi_sync_timestamp": 1684334283
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

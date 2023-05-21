@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhaneli",
+        "mahalle": "CELEPLER MAH.",
+        "ilce_adi": "ORHANELİ",
+        "okul_adi": "CELEPLER MAH. İLKOKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "bursa-orhaneli-celepler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "İYİ PARTİ": 15,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "722925",
+            "oyveotesi_sync_timestamp": 1684335183
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 38
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "722925",
+            "oyveotesi_sync_timestamp": 1684335183
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

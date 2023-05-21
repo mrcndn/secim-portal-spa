@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "ŞEYHMUHİTTİN MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "ŞEHİT RIDVAN SÜER ANADOLU LİSESİ (ŞEYHMUHİTTİN MAHALLESİ)",
+        "sandik_no": 1038,
+        "mahalle_id": "ankara-ayas-seyhmuhittin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 39
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "782079",
+            "oyveotesi_sync_timestamp": 1684393631
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "782079",
+            "oyveotesi_sync_timestamp": 1684393631
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

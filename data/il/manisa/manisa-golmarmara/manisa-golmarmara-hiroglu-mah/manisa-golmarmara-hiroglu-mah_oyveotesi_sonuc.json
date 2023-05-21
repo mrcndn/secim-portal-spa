@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "HIROĞLU MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "HIROĞLU MAHALLESİ KÖY ODASI",
+        "sandik_no": 1019,
+        "mahalle_id": "manisa-golmarmara-hiroglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1019/manisa-golmarmara-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "691630",
+            "oyveotesi_sync_timestamp": 1684397026
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1019/manisa-golmarmara-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "691630",
+            "oyveotesi_sync_timestamp": 1684397026
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

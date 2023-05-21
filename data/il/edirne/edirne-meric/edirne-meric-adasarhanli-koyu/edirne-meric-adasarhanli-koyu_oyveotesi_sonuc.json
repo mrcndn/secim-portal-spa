@@ -1,0 +1,95 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-meric",
+        "mahalle": "ADASARHANLI KÖYÜ",
+        "ilce_adi": "MERİÇ",
+        "okul_adi": "ADASARHANLI İLKÖĞRETİM OKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "edirne-meric-adasarhanli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 48,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 113,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-meric/1xxx/1020/edirne-meric-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "214949",
+            "oyveotesi_sync_timestamp": 1684338549
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 168,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-meric/1xxx/1020/edirne-meric-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "214949",
+            "oyveotesi_sync_timestamp": 1684338549
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-meric",
+        "mahalle": "ADASARHANLI KÖYÜ",
+        "ilce_adi": "MERİÇ",
+        "okul_adi": "ADASARHANLI İLKÖĞRETİM OKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "edirne-meric-adasarhanli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 56,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 140,
+                "ADALET VE KALKINMA PARTİSİ": 108,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-meric/1xxx/1021/edirne-meric-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "214948",
+            "oyveotesi_sync_timestamp": 1684338549
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 182,
+                "RECEP TAYYİP ERDOĞAN": 136
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-meric/1xxx/1021/edirne-meric-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "214948",
+            "oyveotesi_sync_timestamp": 1684338549
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

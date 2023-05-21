@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "hakkari",
+        "il_adi": "HAKKARİ",
+        "il_kodu": 30,
+        "ilce_id": "hakkari-yuksekova",
+        "mahalle": "ESENDERE-GÜVENLİ MAH.",
+        "ilce_adi": "YÜKSEKOVA",
+        "okul_adi": "ESENDERE GÜVENLİ MAHALLESİ ORTAOKULU",
+        "sandik_no": 1149,
+        "mahalle_id": "hakkari-yuksekova-esendere-guvenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SOL PARTİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 180
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1149/hakkari-yuksekova-1149-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762026",
+            "oyveotesi_sync_timestamp": 1684343679
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "KEMAL KILIÇDAROĞLU": 192,
+                "RECEP TAYYİP ERDOĞAN": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1149/hakkari-yuksekova-1149-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762026",
+            "oyveotesi_sync_timestamp": 1684343679
+        },
+        "secim_bolge_id": "hakkari"
+    },
+    {
+        "il_id": "hakkari",
+        "il_adi": "HAKKARİ",
+        "il_kodu": 30,
+        "ilce_id": "hakkari-yuksekova",
+        "mahalle": "ESENDERE-GÜVENLİ MAH.",
+        "ilce_adi": "YÜKSEKOVA",
+        "okul_adi": "ESENDERE GÜVENLİ MAHALLESİ ORTAOKULU",
+        "sandik_no": 1150,
+        "mahalle_id": "hakkari-yuksekova-esendere-guvenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343679
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 196,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hakkari-tutanaklari/blob/main/tutanak/hakkari/hakkari-yuksekova/1xxx/1150/hakkari-yuksekova-1150-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343679
+        },
+        "secim_bolge_id": "hakkari"
+    }
+]

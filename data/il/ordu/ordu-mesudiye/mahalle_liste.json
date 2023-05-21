@@ -1,0 +1,702 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ABDİLİ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-abdili-mah",
+        "oyveotesi_neighborhood_id": 24567
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "AKKIRIK MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-akkirik-mah",
+        "oyveotesi_neighborhood_id": 24559
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-akpinar-mah",
+        "oyveotesi_neighborhood_id": 50664
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ALAN MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-alan-mah",
+        "oyveotesi_neighborhood_id": 24606
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ARICILAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-aricilar-mah",
+        "oyveotesi_neighborhood_id": 24607
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ARIKMUSA MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-arikmusa-mah",
+        "oyveotesi_neighborhood_id": 24591
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ARMUTKOLU MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-armutkolu-mah",
+        "oyveotesi_neighborhood_id": 24620
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ARPAALAN MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-arpaalan-mah",
+        "oyveotesi_neighborhood_id": 24575
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "AŞAĞIGÖKÇE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-asagigokce-mah",
+        "oyveotesi_neighborhood_id": 24568
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "AŞIKLI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-asikli-mah",
+        "oyveotesi_neighborhood_id": 24596
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BAHÇE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-bahce-mah",
+        "oyveotesi_neighborhood_id": 24609
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BALIKLI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-balikli-mah",
+        "oyveotesi_neighborhood_id": 24569
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BAYIRKÖY MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-bayirkoy-mah",
+        "oyveotesi_neighborhood_id": 24572
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BAYRAKLI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-bayrakli-mah",
+        "oyveotesi_neighborhood_id": 24562
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BEŞPINAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-bespinar-mah",
+        "oyveotesi_neighborhood_id": 24621
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BEYAĞAÇ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-beyagac-mah",
+        "oyveotesi_neighborhood_id": 24560
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BEYSEKİ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-beyseki-mah",
+        "oyveotesi_neighborhood_id": 24592
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "BİREBİR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-birebir-mah",
+        "oyveotesi_neighborhood_id": 24622
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ÇALTEPE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-caltepe-mah",
+        "oyveotesi_neighborhood_id": 24590
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ÇARDAKLI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-cardakli-mah",
+        "oyveotesi_neighborhood_id": 24566
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ÇAVDAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-cavdar-mah",
+        "oyveotesi_neighborhood_id": 24619
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "CELAL MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-celal-mah",
+        "oyveotesi_neighborhood_id": 24573
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ÇERÇİ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-cerci-mah",
+        "oyveotesi_neighborhood_id": 24580
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ÇİTLİKSARICA MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-citliksarica-mah",
+        "oyveotesi_neighborhood_id": 24581
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ÇUKURALAN MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-cukuralan-mah",
+        "oyveotesi_neighborhood_id": 24595
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "DARICABAŞI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-daricabasi-mah",
+        "oyveotesi_neighborhood_id": 24597
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "DAYILI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-dayili-mah",
+        "oyveotesi_neighborhood_id": 24598
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "DEREBAŞI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-derebasi-mah",
+        "oyveotesi_neighborhood_id": 24602
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "DOĞANÇAM MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-dogancam-mah",
+        "oyveotesi_neighborhood_id": 24574
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "DURSUNLU MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-dursunlu-mah",
+        "oyveotesi_neighborhood_id": 24576
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ERİKKÖY MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-erikkoy-mah",
+        "oyveotesi_neighborhood_id": 24593
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ESATLI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-esatli-mah",
+        "oyveotesi_neighborhood_id": 24583
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "GÖÇBEYİ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-gocbeyi-mah",
+        "oyveotesi_neighborhood_id": 24625
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "GÖLBAŞI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-golbasi-mah",
+        "oyveotesi_neighborhood_id": 24613
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "GÜLPINAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-gulpinar-mah",
+        "oyveotesi_neighborhood_id": 24584
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "GÜNEYCE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-guneyce-mah",
+        "oyveotesi_neighborhood_id": 24603
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "GÜVENLİ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-guvenli-mah",
+        "oyveotesi_neighborhood_id": 24586
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "GÜZELCE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-guzelce-mah",
+        "oyveotesi_neighborhood_id": 24604
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "GÜZLE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-guzle-mah",
+        "oyveotesi_neighborhood_id": 24614
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "HAMZALI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-hamzali-mah",
+        "oyveotesi_neighborhood_id": 24610
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "HERKÖZÜ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-herkozu-mah",
+        "oyveotesi_neighborhood_id": 24608
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ILIŞAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-ilisar-mah",
+        "oyveotesi_neighborhood_id": 24563
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KALE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-kale-mah",
+        "oyveotesi_neighborhood_id": 24577
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KARABAYIR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-karabayir-mah",
+        "oyveotesi_neighborhood_id": 24587
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KARACAÖREN MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-karacaoren-mah",
+        "oyveotesi_neighborhood_id": 24626
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KAVAKLIDERE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-kavaklidere-mah",
+        "oyveotesi_neighborhood_id": 24570
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KAYADİBİ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-kayadibi-mah",
+        "oyveotesi_neighborhood_id": 24585
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KIŞLACIK MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-kislacik-mah",
+        "oyveotesi_neighborhood_id": 24578
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KONACIK MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-konacik-mah",
+        "oyveotesi_neighborhood_id": 24588
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "KÖŞE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-kose-mah",
+        "oyveotesi_neighborhood_id": 24564
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "MAHMUDİYE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-mahmudiye-mah",
+        "oyveotesi_neighborhood_id": 24615
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "MAKSUTALAN MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-maksutalan-mah",
+        "oyveotesi_neighborhood_id": 24565
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-merkez-mah",
+        "oyveotesi_neighborhood_id": 24579
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "MUSALI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-musali-mah",
+        "oyveotesi_neighborhood_id": 24594
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "MÜSLÜM SARICA MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-muslum-sarica-mah",
+        "oyveotesi_neighborhood_id": 24611
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "PINARLI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-pinarli-mah",
+        "oyveotesi_neighborhood_id": 24599
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "SARICA MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-sarica-mah",
+        "oyveotesi_neighborhood_id": 24561
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "SARIYAYLA MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-sariyayla-mah",
+        "oyveotesi_neighborhood_id": 24627
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "TOPÇAM MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-topcam-mah",
+        "oyveotesi_neighborhood_id": 24623
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "TÜRKKÖYÜ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-turkkoyu-mah",
+        "oyveotesi_neighborhood_id": 24616
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ÜÇYOL MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-ucyol-mah",
+        "oyveotesi_neighborhood_id": 24582
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YAĞMURLAR MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yagmurlar-mah",
+        "oyveotesi_neighborhood_id": 24600
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YARDERE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yardere-mah",
+        "oyveotesi_neighborhood_id": 24571
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YAVŞAN MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yavsan-mah",
+        "oyveotesi_neighborhood_id": 24589
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YENİMAHALLE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yenimahalle-mah",
+        "oyveotesi_neighborhood_id": 24617
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YEŞİLCE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yesilce-mah",
+        "oyveotesi_neighborhood_id": 24624
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YEŞİLÇİT MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yesilcit-mah",
+        "oyveotesi_neighborhood_id": 24601
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YEVELİ MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yeveli-mah",
+        "oyveotesi_neighborhood_id": 24605
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YUKARIGÖKÇE MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yukarigokce-mah",
+        "oyveotesi_neighborhood_id": 24612
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "YUVALI MAH.",
+        "ilce_adi": "MESUDİYE",
+        "mahalle_id": "ordu-mesudiye-yuvali-mah",
+        "oyveotesi_neighborhood_id": 24618
+    }
+]

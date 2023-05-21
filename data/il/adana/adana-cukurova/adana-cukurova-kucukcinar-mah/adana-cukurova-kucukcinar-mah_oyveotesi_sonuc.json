@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-cukurova",
+        "mahalle": "KÜÇÜKÇINAR MAH.",
+        "ilce_adi": "ÇUKUROVA",
+        "okul_adi": "KÜÇÜKÇINAR İLKOKULU",
+        "sandik_no": 2258,
+        "mahalle_id": "adana-cukurova-kucukcinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-cukurova/2xxx/2258/adana-cukurova-2258-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832650",
+            "oyveotesi_sync_timestamp": 1684371156
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-cukurova/2xxx/2258/adana-cukurova-2258-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832650",
+            "oyveotesi_sync_timestamp": 1684371156
+        },
+        "secim_bolge_id": "adana"
+    }
+]

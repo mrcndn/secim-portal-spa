@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-buldan",
+        "mahalle": "ÇATAK MAH.",
+        "ilce_adi": "BULDAN",
+        "okul_adi": "ÇATAK İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "denizli-buldan-catak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365956
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 65,
+            "sayim_sonuc": {
+                "TOPLAM": 65,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-buldan/1xxx/1022/denizli-buldan-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365956
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

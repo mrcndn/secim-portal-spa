@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-cekerek",
+        "mahalle": "GÖNÜLYURDU KÖYÜ",
+        "ilce_adi": "ÇEKEREK",
+        "okul_adi": "GÖNÜLYURDU KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1049,
+        "mahalle_id": "yozgat-cekerek-gonulyurdu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 133,
+            "sayim_sonuc": {
+                "TOPLAM": 133,
+                "İYİ PARTİ": 127,
+                "ANAVATAN PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1049/yozgat-cekerek-1049-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "616780",
+            "oyveotesi_sync_timestamp": 1684396633
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 134,
+            "sayim_sonuc": {
+                "TOPLAM": 134,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 130,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1049/yozgat-cekerek-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "616780",
+            "oyveotesi_sync_timestamp": 1684396633
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

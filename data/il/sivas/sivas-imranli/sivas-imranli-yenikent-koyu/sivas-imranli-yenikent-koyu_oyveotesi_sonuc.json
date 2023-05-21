@@ -1,0 +1,35 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "YENİKENT KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "YENİKENT KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1099,
+        "mahalle_id": "sivas-imranli-yenikent-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 6,
+            "sayim_sonuc": {
+                "TOPLAM": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1099/sivas-imranli-1099-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "362908",
+            "oyveotesi_sync_timestamp": 1684359041
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 6,
+            "sayim_sonuc": {
+                "TOPLAM": 6,
+                "KEMAL KILIÇDAROĞLU": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1099/sivas-imranli-1099-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "362908",
+            "oyveotesi_sync_timestamp": 1684359041
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

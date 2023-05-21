@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-buharkent",
+        "mahalle": "FESLEK MAH.",
+        "ilce_adi": "BUHARKENT",
+        "okul_adi": "FESLEK KÖYÜ KÖY MUHTARLIĞI BİNASI",
+        "sandik_no": 1002,
+        "mahalle_id": "aydin-buharkent-feslek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394650
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 170,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-buharkent/1xxx/1002/aydin-buharkent-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394650
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-buharkent",
+        "mahalle": "FESLEK MAH.",
+        "ilce_adi": "BUHARKENT",
+        "okul_adi": "FESLEK KÖYÜ KÖY MUHTARLIĞI BİNASI",
+        "sandik_no": 1003,
+        "mahalle_id": "aydin-buharkent-feslek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 45,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 116,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-buharkent/1xxx/1003/aydin-buharkent-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542921",
+            "oyveotesi_sync_timestamp": 1684394650
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 174,
+                "RECEP TAYYİP ERDOĞAN": 113
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-buharkent/1xxx/1003/aydin-buharkent-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542921",
+            "oyveotesi_sync_timestamp": 1684394650
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

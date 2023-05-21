@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-antakya",
+        "mahalle": "SOFULAR MAH.",
+        "ilce_adi": "ANTAKYA",
+        "okul_adi": "FEVZİ ÇAKMAK İMAM HATİP ORTAOKULU (SOFULAR MAH.)",
+        "sandik_no": 1245,
+        "mahalle_id": "hatay-antakya-sofular-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 155,
+            "sayim_sonuc": {
+                "TOPLAM": 155,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 57,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE İŞÇİ PARTİSİ": 15,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-antakya/1xxx/1245/hatay-antakya-1245-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832581",
+            "oyveotesi_sync_timestamp": 1684375371
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "832581",
+            "oyveotesi_sync_timestamp": 1684375371
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-antakya",
+        "mahalle": "SOFULAR MAH.",
+        "ilce_adi": "ANTAKYA",
+        "okul_adi": "FEVZİ ÇAKMAK İMAM HATİP ORTAOKULU (SOFULAR MAH.)",
+        "sandik_no": 1244,
+        "mahalle_id": "hatay-antakya-sofular-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375371
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375371
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

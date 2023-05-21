@@ -1,0 +1,912 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YOLBAŞI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yolbasi-mah",
+        "oyveotesi_neighborhood_id": 7800
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YÜCE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yuce-mah",
+        "oyveotesi_neighborhood_id": 7802
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YUKARIAYDINLI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yukariaydinli-mah",
+        "oyveotesi_neighborhood_id": 7837
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YUKARIHATUNLU MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yukarihatunlu-mah",
+        "oyveotesi_neighborhood_id": 7873
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YUKARIYENİKÖY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yukariyenikoy-mah",
+        "oyveotesi_neighborhood_id": 7801
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇAĞLAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-caglar-mah",
+        "oyveotesi_neighborhood_id": 7814
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇABUK MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-cabuk-mah",
+        "oyveotesi_neighborhood_id": 7827
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "13 MART MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-13-mart-mah",
+        "oyveotesi_neighborhood_id": 7842
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ACAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-acar-mah",
+        "oyveotesi_neighborhood_id": 7796
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "AHMETLİ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ahmetli-mah",
+        "oyveotesi_neighborhood_id": 7843
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "AKBAĞ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-akbag-mah",
+        "oyveotesi_neighborhood_id": 7848
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "AKINCI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-akinci-mah",
+        "oyveotesi_neighborhood_id": 7874
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ALAKUŞ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-alakus-mah",
+        "oyveotesi_neighborhood_id": 7803
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ALIMLI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-alimli-mah",
+        "oyveotesi_neighborhood_id": 7830
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "AMBAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ambar-mah",
+        "oyveotesi_neighborhood_id": 7815
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ARAN MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-aran-mah",
+        "oyveotesi_neighborhood_id": 7863
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ARPATEPE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-arpatepe-mah",
+        "oyveotesi_neighborhood_id": 7831
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "AŞAĞIYENİKÖY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-asagiyenikoy-mah",
+        "oyveotesi_neighborhood_id": 7833
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "AVCILAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-avcilar-mah",
+        "oyveotesi_neighborhood_id": 7832
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "AYTEPE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-aytepe-mah",
+        "oyveotesi_neighborhood_id": 7804
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "BAĞLICA MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-baglica-mah",
+        "oyveotesi_neighborhood_id": 7822
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "BOZTEPE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-boztepe-mah",
+        "oyveotesi_neighborhood_id": 7816
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "BUĞDAY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-bugday-mah",
+        "oyveotesi_neighborhood_id": 7856
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇALIŞLI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-calisli-mah",
+        "oyveotesi_neighborhood_id": 7855
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇATAK MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-catak-mah",
+        "oyveotesi_neighborhood_id": 7847
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇAYIRPINAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-cayirpinar-mah",
+        "oyveotesi_neighborhood_id": 7867
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "CEVİZLİK MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-cevizlik-mah",
+        "oyveotesi_neighborhood_id": 7823
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "CEVİZPINARI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-cevizpinari-mah",
+        "oyveotesi_neighborhood_id": 7792
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇİFTLİKKÖY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ciftlikkoy-mah",
+        "oyveotesi_neighborhood_id": 7828
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇIPLAKTEPE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ciplaktepe-mah",
+        "oyveotesi_neighborhood_id": 7868
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÇUKURYURT MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-cukuryurt-mah",
+        "oyveotesi_neighborhood_id": 7820
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 7875
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "DARA MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-dara-mah",
+        "oyveotesi_neighborhood_id": 7797
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "DİBEKTAŞ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-dibektas-mah",
+        "oyveotesi_neighborhood_id": 7805
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "DİYARBAKIR KAPI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-diyarbakir-kapi-mah",
+        "oyveotesi_neighborhood_id": 7869
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "DÜZLÜK MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-duzluk-mah",
+        "oyveotesi_neighborhood_id": 7824
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ELMABAHÇE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-elmabahce-mah",
+        "oyveotesi_neighborhood_id": 7859
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "EMİNETTİN MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-eminettin-mah",
+        "oyveotesi_neighborhood_id": 7849
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ENSAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ensar-mah",
+        "oyveotesi_neighborhood_id": 7851
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "EROĞLU MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-eroglu-mah",
+        "oyveotesi_neighborhood_id": 7844
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ERYERİ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-eryeri-mah",
+        "oyveotesi_neighborhood_id": 7864
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-esentepe-mah",
+        "oyveotesi_neighborhood_id": 7845
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ESKİKALE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-eskikale-mah",
+        "oyveotesi_neighborhood_id": 7865
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "GÖKÇE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-gokce-mah",
+        "oyveotesi_neighborhood_id": 7857
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "GÖLLÜ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-gollu-mah",
+        "oyveotesi_neighborhood_id": 7817
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "GÜL MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-gul-mah",
+        "oyveotesi_neighborhood_id": 7860
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "GÜNEYLİ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-guneyli-mah",
+        "oyveotesi_neighborhood_id": 7870
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "GÜRAĞAÇ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-guragac-mah",
+        "oyveotesi_neighborhood_id": 7838
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "HAMZABEY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-hamzabey-mah",
+        "oyveotesi_neighborhood_id": 7871
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "HATUNLU MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-hatunlu-mah",
+        "oyveotesi_neighborhood_id": 7861
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "HAYDAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-haydar-mah",
+        "oyveotesi_neighborhood_id": 7818
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "HÜYÜKLÜ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-huyuklu-mah",
+        "oyveotesi_neighborhood_id": 7872
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "İSTASYON MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-istasyon-mah",
+        "oyveotesi_neighborhood_id": 7829
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KABALA MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-kabala-mah",
+        "oyveotesi_neighborhood_id": 7793
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KARADEMİR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-karademir-mah",
+        "oyveotesi_neighborhood_id": 7811
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KAYACAN MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-kayacan-mah",
+        "oyveotesi_neighborhood_id": 7806
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KONAKLI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-konakli-mah",
+        "oyveotesi_neighborhood_id": 7839
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KOTEK MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-kotek-mah",
+        "oyveotesi_neighborhood_id": 7819
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KÜÇÜKKÖY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-kucukkoy-mah",
+        "oyveotesi_neighborhood_id": 7846
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KUMLU MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-kumlu-mah",
+        "oyveotesi_neighborhood_id": 7794
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "KUYULU MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-kuyulu-mah",
+        "oyveotesi_neighborhood_id": 7834
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "LATİFİYE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-latifiye-mah",
+        "oyveotesi_neighborhood_id": 7835
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "MEDRESE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-medrese-mah",
+        "oyveotesi_neighborhood_id": 7812
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "NECMETTİN MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-necmettin-mah",
+        "oyveotesi_neighborhood_id": 7876
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "NUR (AKINCI) MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-nur-akinci-mah",
+        "oyveotesi_neighborhood_id": 7798
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "NUR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-nur-mah",
+        "oyveotesi_neighborhood_id": 7858
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "OFİS MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ofis-mah",
+        "oyveotesi_neighborhood_id": 7877
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ORTAKÖY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ortakoy-mah",
+        "oyveotesi_neighborhood_id": 7807
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ÖZLÜCE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ozluce-mah",
+        "oyveotesi_neighborhood_id": 7879
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "SAKALAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-sakalar-mah",
+        "oyveotesi_neighborhood_id": 7825
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "SARAÇOĞLU MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-saracoglu-mah",
+        "oyveotesi_neighborhood_id": 7808
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ŞAR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-sar-mah",
+        "oyveotesi_neighborhood_id": 7821
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "SAVURKAPI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-savurkapi-mah",
+        "oyveotesi_neighborhood_id": 7809
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ŞEHİDİYE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-sehidiye-mah",
+        "oyveotesi_neighborhood_id": 7880
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "SULAK MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-sulak-mah",
+        "oyveotesi_neighborhood_id": 50626
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "SULTANKÖY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-sultankoy-mah",
+        "oyveotesi_neighborhood_id": 7866
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "TANDIR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-tandir-mah",
+        "oyveotesi_neighborhood_id": 50675
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "TEKER MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-teker-mah",
+        "oyveotesi_neighborhood_id": 7852
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "TİLKİTEPE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-tilkitepe-mah",
+        "oyveotesi_neighborhood_id": 7813
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "TOZAN MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-tozan-mah",
+        "oyveotesi_neighborhood_id": 7853
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "ULUCAMİ MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-ulucami-mah",
+        "oyveotesi_neighborhood_id": 7810
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YALIM MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yalim-mah",
+        "oyveotesi_neighborhood_id": 7878
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YARDERE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yardere-mah",
+        "oyveotesi_neighborhood_id": 7840
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YAYLABAŞI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yaylabasi-mah",
+        "oyveotesi_neighborhood_id": 7836
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YAYLACIK MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yaylacik-mah",
+        "oyveotesi_neighborhood_id": 7850
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YAYLA MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yayla-mah",
+        "oyveotesi_neighborhood_id": 7799
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YAYLI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yayli-mah",
+        "oyveotesi_neighborhood_id": 7841
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yenice-mah",
+        "oyveotesi_neighborhood_id": 7795
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YENİKAPI MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yenikapi-mah",
+        "oyveotesi_neighborhood_id": 7854
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 7826
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-artuklu",
+        "mahalle": "YENİŞEHİR MAH.",
+        "ilce_adi": "ARTUKLU",
+        "mahalle_id": "mardin-artuklu-yenisehir-mah",
+        "oyveotesi_neighborhood_id": 7862
+    }
+]

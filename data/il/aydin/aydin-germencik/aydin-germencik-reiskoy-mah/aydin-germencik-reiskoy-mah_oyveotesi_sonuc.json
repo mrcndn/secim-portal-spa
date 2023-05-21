@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-germencik",
+        "mahalle": "REİSKÖY MAH.",
+        "ilce_adi": "GERMENCİK",
+        "okul_adi": "REİSKÖY İLKOKULU",
+        "sandik_no": 1094,
+        "mahalle_id": "aydin-germencik-reiskoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "ADALET VE KALKINMA PARTİSİ": 48,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-germencik/1xxx/1094/aydin-germencik-1094-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "191213",
+            "oyveotesi_sync_timestamp": 1684394437
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "191213",
+            "oyveotesi_sync_timestamp": 1684394437
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

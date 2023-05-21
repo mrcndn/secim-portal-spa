@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-merkez",
+        "mahalle": "BEŞTEPE KÖYÜ",
+        "ilce_adi": "RİZE MERKEZ",
+        "okul_adi": "MALTEPE ÇAY ALIM YERİ",
+        "sandik_no": 1290,
+        "mahalle_id": "rize-merkez-bestepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 122,
+            "sayim_sonuc": {
+                "TOPLAM": 122,
+                "GENÇ PARTİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-merkez/1xxx/1290/rize-merkez-1290-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1020635",
+            "oyveotesi_sync_timestamp": 1684356075
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-merkez/1xxx/1290/rize-merkez-1290-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1020635",
+            "oyveotesi_sync_timestamp": 1684356075
+        },
+        "secim_bolge_id": "rize"
+    }
+]

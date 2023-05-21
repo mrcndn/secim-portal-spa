@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "ULUCAMİ MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "ULUCAMİ KÖY ODASI",
+        "sandik_no": 1047,
+        "mahalle_id": "trabzon-caykara-ulucami-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366223
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366223
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "ULUCAMİ MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "ULUCAMİ MAHALLESİ KABAN MEVKİİ MESCİT KÖY ODASI",
+        "sandik_no": 1048,
+        "mahalle_id": "trabzon-caykara-ulucami-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1048/trabzon-caykara-1048-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023379",
+            "oyveotesi_sync_timestamp": 1684366223
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1048/trabzon-caykara-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023379",
+            "oyveotesi_sync_timestamp": 1684366223
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

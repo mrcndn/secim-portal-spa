@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-konak",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "KONAK",
+        "okul_adi": "KONAK ÖZEL EĞİTİM MESLEK OKULU",
+        "sandik_no": 1252,
+        "mahalle_id": "izmir-konak-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 6,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 38,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "177017",
+            "oyveotesi_sync_timestamp": 1684362544
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "177017",
+            "oyveotesi_sync_timestamp": 1684362544
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

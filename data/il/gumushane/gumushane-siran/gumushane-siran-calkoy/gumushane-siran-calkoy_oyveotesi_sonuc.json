@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "gumushane",
+        "il_adi": "GÜMÜŞHANE",
+        "il_kodu": 29,
+        "ilce_id": "gumushane-siran",
+        "mahalle": "ÇALKÖY",
+        "ilce_adi": "ŞİRAN",
+        "okul_adi": "ÇAL İLKÖĞRETİM OKULU",
+        "sandik_no": 1049,
+        "mahalle_id": "gumushane-siran-calkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395206
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gumushane-tutanaklari/blob/main/tutanak/gumushane/gumushane-siran/1xxx/1049/gumushane-siran-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395206
+        },
+        "secim_bolge_id": "gumushane"
+    }
+]

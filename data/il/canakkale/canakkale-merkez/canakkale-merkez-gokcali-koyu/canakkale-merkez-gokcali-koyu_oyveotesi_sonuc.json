@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-merkez",
+        "mahalle": "GÖKÇALI KÖYÜ",
+        "ilce_adi": "ÇANAKKALE MERKEZ",
+        "okul_adi": "ESKİ İLKOKUL - GÖKÇALI KÖYÜ",
+        "sandik_no": 1392,
+        "mahalle_id": "canakkale-merkez-gokcali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336003
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 197,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-merkez/1xxx/1392/canakkale-merkez-1392-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336003
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

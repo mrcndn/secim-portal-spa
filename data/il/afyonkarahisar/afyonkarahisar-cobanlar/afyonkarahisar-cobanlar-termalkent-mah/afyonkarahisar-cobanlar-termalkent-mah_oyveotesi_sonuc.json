@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cobanlar",
+        "mahalle": "TERMALKENT MAH.",
+        "ilce_adi": "ÇOBANLAR",
+        "okul_adi": "ZAFER ORTAOKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "afyonkarahisar-cobanlar-termalkent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cobanlar/1xxx/1013/afyonkarahisar-cobanlar-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830488",
+            "oyveotesi_sync_timestamp": 1684328563
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cobanlar/1xxx/1013/afyonkarahisar-cobanlar-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830488",
+            "oyveotesi_sync_timestamp": 1684328563
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

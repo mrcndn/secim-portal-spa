@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-lapseki",
+        "mahalle": "İLYASKÖY",
+        "ilce_adi": "LAPSEKİ",
+        "okul_adi": "İLYASKÖY DÜĞÜN SALONU",
+        "sandik_no": 1073,
+        "mahalle_id": "canakkale-lapseki-ilyaskoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1073/canakkale-lapseki-1073-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "664180",
+            "oyveotesi_sync_timestamp": 1684335601
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 114
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1073/canakkale-lapseki-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "664180",
+            "oyveotesi_sync_timestamp": 1684335601
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

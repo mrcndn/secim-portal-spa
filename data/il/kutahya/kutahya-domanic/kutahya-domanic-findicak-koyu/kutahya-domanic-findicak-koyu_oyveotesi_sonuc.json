@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "FINDICAK KÖYÜ",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "FINDICAK KÖYÜ İLKOKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "kutahya-domanic-findicak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 56,
+            "sayim_sonuc": {
+                "TOPLAM": 56,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1032/kutahya-domanic-1032-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577247",
+            "oyveotesi_sync_timestamp": 1684350134
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 3,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1032/kutahya-domanic-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "577247",
+            "oyveotesi_sync_timestamp": 1684350134
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

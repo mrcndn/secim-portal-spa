@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KOŞUBURNUTÜRKMENLERİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "KOŞUBURNUTÜRKMENLERİ KÖYÜ İLKOKULU",
+        "sandik_no": 1078,
+        "mahalle_id": "canakkale-bayramic-kosuburnuturkmenleri-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "İYİ PARTİ": 44,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 223,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1078/canakkale-bayramic-1078-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "621544",
+            "oyveotesi_sync_timestamp": 1684335736
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 272,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1078/canakkale-bayramic-1078-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "621544",
+            "oyveotesi_sync_timestamp": 1684335736
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

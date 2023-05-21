@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ayvacik",
+        "mahalle": "SÖĞÜTLÜ KÖYÜ",
+        "ilce_adi": "AYVACIK",
+        "okul_adi": "SÖĞÜTLÜ KÖYÜ KÖY KAHVEHANESİ",
+        "sandik_no": 1114,
+        "mahalle_id": "canakkale-ayvacik-sogutlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "İYİ PARTİ": 4,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ayvacik/1xxx/1114/canakkale-ayvacik-1114-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836081",
+            "oyveotesi_sync_timestamp": 1684335681
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 70,
+            "sayim_sonuc": {
+                "TOPLAM": 70,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ayvacik/1xxx/1114/canakkale-ayvacik-1114-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836081",
+            "oyveotesi_sync_timestamp": 1684335681
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

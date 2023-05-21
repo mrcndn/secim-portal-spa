@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "ARDIÇ MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "ARDIÇ İLKOKULU (ARDINÇ MAHALLESİ)",
+        "sandik_no": 1003,
+        "mahalle_id": "ordu-kabatas-ardic-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360453
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 155
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1003/ordu-kabatas-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360453
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "ARDIÇ MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "ARDIÇ İLKOKULU (ARDINÇ MAHALLESİ)",
+        "sandik_no": 1004,
+        "mahalle_id": "ordu-kabatas-ardic-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "İYİ PARTİ": 43,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 25,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 103,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1004/ordu-kabatas-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718983",
+            "oyveotesi_sync_timestamp": 1684360453
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 182
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1004/ordu-kabatas-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718983",
+            "oyveotesi_sync_timestamp": 1684360453
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

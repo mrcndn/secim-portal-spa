@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "BULGURLUK KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "BULGURLUK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "sivas-imranli-bulgurluk-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 16,
+            "sayim_sonuc": {
+                "TOPLAM": 16,
+                "İYİ PARTİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1034/sivas-imranli-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203880",
+            "oyveotesi_sync_timestamp": 1684359116
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 16,
+            "sayim_sonuc": {
+                "TOPLAM": 16,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1034/sivas-imranli-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203880",
+            "oyveotesi_sync_timestamp": 1684359116
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

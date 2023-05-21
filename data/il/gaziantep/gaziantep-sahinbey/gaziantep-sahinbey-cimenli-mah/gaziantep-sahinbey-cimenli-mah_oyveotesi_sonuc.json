@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-sahinbey",
+        "mahalle": "ÇİMENLİ MAH.",
+        "ilce_adi": "ŞAHİNBEY",
+        "okul_adi": "ÇİMENLİ (K) (UYGUN YER)",
+        "sandik_no": 2074,
+        "mahalle_id": "gaziantep-sahinbey-cimenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342448
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-sahinbey/2xxx/2074/gaziantep-sahinbey-2074-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342448
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

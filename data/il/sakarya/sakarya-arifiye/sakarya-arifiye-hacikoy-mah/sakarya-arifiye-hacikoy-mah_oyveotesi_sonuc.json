@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-arifiye",
+        "mahalle": "HACIKÖY MAH.",
+        "ilce_adi": "ARİFİYE",
+        "okul_adi": "HACIKÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1060,
+        "mahalle_id": "sakarya-arifiye-hacikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-arifiye/1xxx/1060/sakarya-arifiye-1060-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "621825",
+            "oyveotesi_sync_timestamp": 1684357344
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-arifiye/1xxx/1060/sakarya-arifiye-1060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "621825",
+            "oyveotesi_sync_timestamp": 1684357344
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-arifiye",
+        "mahalle": "HACIKÖY MAH.",
+        "ilce_adi": "ARİFİYE",
+        "okul_adi": "HACIKÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1061,
+        "mahalle_id": "sakarya-arifiye-hacikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 24,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-arifiye/1xxx/1061/sakarya-arifiye-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "621071",
+            "oyveotesi_sync_timestamp": 1684357344
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 156
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-arifiye/1xxx/1061/sakarya-arifiye-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "621071",
+            "oyveotesi_sync_timestamp": 1684357344
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

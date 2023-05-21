@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-caykara",
+        "mahalle": "MARAŞLI MAH.",
+        "ilce_adi": "ÇAYKARA",
+        "okul_adi": "MARAŞLI İLKOKULU BİNASI",
+        "sandik_no": 1035,
+        "mahalle_id": "trabzon-caykara-marasli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "İYİ PARTİ": 39,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 49,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1035/trabzon-caykara-1035-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023363",
+            "oyveotesi_sync_timestamp": 1684366231
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-caykara/1xxx/1035/trabzon-caykara-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023363",
+            "oyveotesi_sync_timestamp": 1684366231
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "ŞÜKRANİYE KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "ŞÜKRANİYE KÖY DÜĞÜN SALONU",
+        "sandik_no": 1564,
+        "mahalle_id": "usak-merkez-sukraniye-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "İYİ PARTİ": 9,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 77,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1564/usak-merkez-1564-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536401",
+            "oyveotesi_sync_timestamp": 1684369628
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 120,
+            "sayim_sonuc": {
+                "TOPLAM": 120,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1564/usak-merkez-1564-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536401",
+            "oyveotesi_sync_timestamp": 1684369628
+        },
+        "secim_bolge_id": "usak"
+    }
+]

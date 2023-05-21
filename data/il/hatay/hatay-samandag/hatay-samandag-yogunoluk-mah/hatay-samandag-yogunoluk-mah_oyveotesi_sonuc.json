@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-samandag",
+        "mahalle": "YOĞUNOLUK MAH.",
+        "ilce_adi": "SAMANDAĞ",
+        "okul_adi": "YOĞUNOLUK İLKOKULU",
+        "sandik_no": 1248,
+        "mahalle_id": "hatay-samandag-yogunoluk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375703
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 202
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-samandag/1xxx/1248/hatay-samandag-1248-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375703
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-samandag",
+        "mahalle": "YOĞUNOLUK MAH.",
+        "ilce_adi": "SAMANDAĞ",
+        "okul_adi": "YOĞUNOLUK İLKOKULU",
+        "sandik_no": 1249,
+        "mahalle_id": "hatay-samandag-yogunoluk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 159,
+                "TÜRKİYE İŞÇİ PARTİSİ": 11,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-samandag/1xxx/1249/hatay-samandag-1249-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819849",
+            "oyveotesi_sync_timestamp": 1684375703
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 239
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-samandag/1xxx/1249/hatay-samandag-1249-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "819849",
+            "oyveotesi_sync_timestamp": 1684375703
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

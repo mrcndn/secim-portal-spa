@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-demre",
+        "mahalle": "KAYAALTI MAH.",
+        "ilce_adi": "DEMRE",
+        "okul_adi": "KAYAALTI İLKOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "antalya-demre-kayaalti-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "İYİ PARTİ": 39,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 75,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-demre/1xxx/1051/antalya-demre-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "758608",
+            "oyveotesi_sync_timestamp": 1684325533
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "758608",
+            "oyveotesi_sync_timestamp": 1684325533
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

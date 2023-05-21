@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-atakum",
+        "mahalle": "ÖZÖREN MAH.",
+        "ilce_adi": "ATAKUM",
+        "okul_adi": "ÖZÖREN MAH. KÖY KONAĞI",
+        "sandik_no": 1345,
+        "mahalle_id": "samsun-atakum-ozoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367892
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 216
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-atakum/1xxx/1345/samsun-atakum-1345-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367892
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

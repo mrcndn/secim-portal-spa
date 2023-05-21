@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kahramanmaras",
+        "il_adi": "KAHRAMANMARAŞ",
+        "il_kodu": 46,
+        "ilce_id": "kahramanmaras-elbistan",
+        "mahalle": "YOĞUNSÖĞÜT MAH.",
+        "ilce_adi": "ELBİSTAN",
+        "okul_adi": "YOGUNSÖGÜT İLKOKULU",
+        "sandik_no": 1281,
+        "mahalle_id": "kahramanmaras-elbistan-yogunsogut-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kahramanmaras-tutanaklari/blob/main/tutanak/kahramanmaras/kahramanmaras-elbistan/1xxx/1281/kahramanmaras-elbistan-1281-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172965",
+            "oyveotesi_sync_timestamp": 1684345722
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kahramanmaras-tutanaklari/blob/main/tutanak/kahramanmaras/kahramanmaras-elbistan/1xxx/1281/kahramanmaras-elbistan-1281-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "172965",
+            "oyveotesi_sync_timestamp": 1684345722
+        },
+        "secim_bolge_id": "kahramanmaras"
+    }
+]

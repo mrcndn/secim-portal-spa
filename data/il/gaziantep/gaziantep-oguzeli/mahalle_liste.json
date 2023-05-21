@@ -1,0 +1,912 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "HACAR MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-hacar-mah",
+        "oyveotesi_neighborhood_id": 36953
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ACER MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-acer-mah",
+        "oyveotesi_neighborhood_id": 36987
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "AKÇAMEZRA MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-akcamezra-mah",
+        "oyveotesi_neighborhood_id": 36981
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ALTINYURT MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-altinyurt-mah",
+        "oyveotesi_neighborhood_id": 36994
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "AMBARCIK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-ambarcik-mah",
+        "oyveotesi_neighborhood_id": 36988
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ARSLANLI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-arslanli-mah",
+        "oyveotesi_neighborhood_id": 37020
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "AŞAĞI GÜNEYSE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-asagi-guneyse-mah",
+        "oyveotesi_neighborhood_id": 37007
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "AŞAĞI YENİYAPAN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-asagi-yeniyapan-mah",
+        "oyveotesi_neighborhood_id": 36952
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ASMACIK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-asmacik-mah",
+        "oyveotesi_neighborhood_id": 37006
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "AYDINKAYA MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-aydinkaya-mah",
+        "oyveotesi_neighborhood_id": 36995
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "BELÖREN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-beloren-mah",
+        "oyveotesi_neighborhood_id": 36996
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "BEŞDELİ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-besdeli-mah",
+        "oyveotesi_neighborhood_id": 37008
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "BULDUK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-bulduk-mah",
+        "oyveotesi_neighborhood_id": 37014
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "BÜYÜKKARACAVİRAN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-buyukkaracaviran-mah",
+        "oyveotesi_neighborhood_id": 36961
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ÇATALÇAM MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-catalcam-mah",
+        "oyveotesi_neighborhood_id": 37003
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ÇATALSU MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-catalsu-mah",
+        "oyveotesi_neighborhood_id": 37034
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ÇAVUŞBAŞI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-cavusbasi-mah",
+        "oyveotesi_neighborhood_id": 37035
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ÇAYBAŞI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-caybasi-mah",
+        "oyveotesi_neighborhood_id": 36986
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ÇAYBEYİ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-caybeyi-mah",
+        "oyveotesi_neighborhood_id": 36973
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 37030
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DEMİRKONAK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-demirkonak-mah",
+        "oyveotesi_neighborhood_id": 37000
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DERO KÜÇÜKKARACAVİRAN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-dero-kucukkaracaviran-mah",
+        "oyveotesi_neighborhood_id": 36975
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DEVEHÜYÜĞÜ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-devehuyugu-mah",
+        "oyveotesi_neighborhood_id": 36967
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DİBECİK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-dibecik-mah",
+        "oyveotesi_neighborhood_id": 37024
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DİKMETAŞ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-dikmetas-mah",
+        "oyveotesi_neighborhood_id": 37015
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DİREKLİ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-direkli-mah",
+        "oyveotesi_neighborhood_id": 37001
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DOĞANPINAR MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-doganpinar-mah",
+        "oyveotesi_neighborhood_id": 36962
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DOKUZYOL MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-dokuzyol-mah",
+        "oyveotesi_neighborhood_id": 37036
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DURUKÖY MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-durukoy-mah",
+        "oyveotesi_neighborhood_id": 37037
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "DUTLUCA MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-dutluca-mah",
+        "oyveotesi_neighborhood_id": 37038
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "EKİNVEREN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-ekinveren-mah",
+        "oyveotesi_neighborhood_id": 37039
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ERMİŞ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-ermis-mah",
+        "oyveotesi_neighborhood_id": 36989
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-fatih-mah",
+        "oyveotesi_neighborhood_id": 37016
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "GEBE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-gebe-mah",
+        "oyveotesi_neighborhood_id": 36958
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "GEDİK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-gedik-mah",
+        "oyveotesi_neighborhood_id": 37031
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "GÜLLÜK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-gulluk-mah",
+        "oyveotesi_neighborhood_id": 37040
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "GÜNDOĞAN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-gundogan-mah",
+        "oyveotesi_neighborhood_id": 37021
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "GÜRSU MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-gursu-mah",
+        "oyveotesi_neighborhood_id": 36959
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "GÜVEÇLİ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-guvecli-mah",
+        "oyveotesi_neighborhood_id": 36976
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "GÜZELCE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-guzelce-mah",
+        "oyveotesi_neighborhood_id": 36982
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "HATUNLU MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-hatunlu-mah",
+        "oyveotesi_neighborhood_id": 36977
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "HÖTOĞLU MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-hotoglu-mah",
+        "oyveotesi_neighborhood_id": 36954
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-hurriyet-mah",
+        "oyveotesi_neighborhood_id": 37017
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "İKİZKUYU MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-ikizkuyu-mah",
+        "oyveotesi_neighborhood_id": 37028
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "İNCEYOL MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-inceyol-mah",
+        "oyveotesi_neighborhood_id": 37029
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "İNKILAP MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-inkilap-mah",
+        "oyveotesi_neighborhood_id": 36951
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "İNÖNÜ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-inonu-mah",
+        "oyveotesi_neighborhood_id": 37004
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KABACAAĞAÇ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kabacaagac-mah",
+        "oyveotesi_neighborhood_id": 36968
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KARABURUN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-karaburun-mah",
+        "oyveotesi_neighborhood_id": 37009
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KARADİBEK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-karadibek-mah",
+        "oyveotesi_neighborhood_id": 36955
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KARAMAN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-karaman-mah",
+        "oyveotesi_neighborhood_id": 36963
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KARATAŞ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-karatas-mah",
+        "oyveotesi_neighborhood_id": 36969
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KAŞYOLU MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kasyolu-mah",
+        "oyveotesi_neighborhood_id": 36956
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KAVUNLUK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kavunluk-mah",
+        "oyveotesi_neighborhood_id": 37002
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KAYACIK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kayacik-mah",
+        "oyveotesi_neighborhood_id": 36990
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KAYALIPINAR MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kayalipinar-mah",
+        "oyveotesi_neighborhood_id": 36978
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KEÇİKUYUSU MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kecikuyusu-mah",
+        "oyveotesi_neighborhood_id": 36979
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KEÇİLİ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kecili-mah",
+        "oyveotesi_neighborhood_id": 36997
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KERSENTAŞ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kersentas-mah",
+        "oyveotesi_neighborhood_id": 37010
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KILAVUZ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kilavuz-mah",
+        "oyveotesi_neighborhood_id": 36991
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KOÇAKLAR MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kocaklar-mah",
+        "oyveotesi_neighborhood_id": 36964
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KÖRKÜN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-korkun-mah",
+        "oyveotesi_neighborhood_id": 36999
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KOVANLI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kovanli-mah",
+        "oyveotesi_neighborhood_id": 36998
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kurtulus-mah",
+        "oyveotesi_neighborhood_id": 36971
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KURUÇAY MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-kurucay-mah",
+        "oyveotesi_neighborhood_id": 36983
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "MİMAR SİNAN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-mimar-sinan-mah",
+        "oyveotesi_neighborhood_id": 36972
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "OĞUZLAR MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-oguzlar-mah",
+        "oyveotesi_neighborhood_id": 37011
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ŞAHİNBEY MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-sahinbey-mah",
+        "oyveotesi_neighborhood_id": 37005
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "SAZGIN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-sazgin-mah",
+        "oyveotesi_neighborhood_id": 36992
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "SERGİLİ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-sergili-mah",
+        "oyveotesi_neighborhood_id": 37025
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "SEVİNDİ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-sevindi-mah",
+        "oyveotesi_neighborhood_id": 37018
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ŞIH KÜÇÜKKARACAVİRAN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-sih-kucukkaracaviran-mah",
+        "oyveotesi_neighborhood_id": 37033
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "SUBAŞI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-subasi-mah",
+        "oyveotesi_neighborhood_id": 37032
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "SÜTLÜCE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-sutluce-mah",
+        "oyveotesi_neighborhood_id": 37019
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "TAŞÇANAK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-tascanak-mah",
+        "oyveotesi_neighborhood_id": 37027
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "TAŞLI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-tasli-mah",
+        "oyveotesi_neighborhood_id": 36984
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "TAŞYAZI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-tasyazi-mah",
+        "oyveotesi_neighborhood_id": 37026
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "TINAZDERE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-tinazdere-mah",
+        "oyveotesi_neighborhood_id": 36965
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "TÜZEL MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-tuzel-mah",
+        "oyveotesi_neighborhood_id": 36980
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ÜÇDAMLAR MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-ucdamlar-mah",
+        "oyveotesi_neighborhood_id": 37023
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ÜÇKUBBE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-uckubbe-mah",
+        "oyveotesi_neighborhood_id": 36993
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "UĞUROVA MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-ugurova-mah",
+        "oyveotesi_neighborhood_id": 37012
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "ULAŞLI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-ulasli-mah",
+        "oyveotesi_neighborhood_id": 36985
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YAKACIK MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yakacik-mah",
+        "oyveotesi_neighborhood_id": 37013
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YALNIZBAĞ MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yalnizbag-mah",
+        "oyveotesi_neighborhood_id": 37022
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YAZILI MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yazili-mah",
+        "oyveotesi_neighborhood_id": 36960
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YENİ CUMHURİYET MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yeni-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 37041
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 36966
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YEŞİLDERE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yesildere-mah",
+        "oyveotesi_neighborhood_id": 36957
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YEŞİLTEPE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yesiltepe-mah",
+        "oyveotesi_neighborhood_id": 36974
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "YUKARIGÜNEYSE MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "mahalle_id": "gaziantep-oguzeli-yukariguneyse-mah",
+        "oyveotesi_neighborhood_id": 36970
+    }
+]

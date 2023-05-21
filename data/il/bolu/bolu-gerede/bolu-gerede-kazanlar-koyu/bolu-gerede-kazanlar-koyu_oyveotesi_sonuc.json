@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-gerede",
+        "mahalle": "KAZANLAR KÖYÜ",
+        "ilce_adi": "GEREDE",
+        "okul_adi": "KAZANLAR KÖY ODASI",
+        "sandik_no": 1104,
+        "mahalle_id": "bolu-gerede-kazanlar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 45,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-gerede/1xxx/1104/bolu-gerede-1104-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837748",
+            "oyveotesi_sync_timestamp": 1684333952
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 3,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-gerede/1xxx/1104/bolu-gerede-1104-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837748",
+            "oyveotesi_sync_timestamp": 1684333952
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

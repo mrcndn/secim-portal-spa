@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "BELKAVAK KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "BELKAVAK KÖY KONAĞI",
+        "sandik_no": 1087,
+        "mahalle_id": "corum-osmancik-belkavak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1087/corum-osmancik-1087-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236249",
+            "oyveotesi_sync_timestamp": 1684368953
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1087/corum-osmancik-1087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236249",
+            "oyveotesi_sync_timestamp": 1684368953
+        },
+        "secim_bolge_id": "corum"
+    }
+]

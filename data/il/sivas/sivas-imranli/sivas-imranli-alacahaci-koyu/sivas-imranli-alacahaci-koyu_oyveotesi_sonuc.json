@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "ALACAHACI KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "ALACAHACI KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "sivas-imranli-alacahaci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 16,
+            "sayim_sonuc": {
+                "TOPLAM": 16,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1013/sivas-imranli-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "387217",
+            "oyveotesi_sync_timestamp": 1684359138
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "387217",
+            "oyveotesi_sync_timestamp": 1684359138
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

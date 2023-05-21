@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-muratli",
+        "mahalle": "BALLIHOCA MAH.",
+        "ilce_adi": "MURATLI",
+        "okul_adi": "BALLIHOCA MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1007,
+        "mahalle_id": "tekirdag-muratli-ballihoca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368633
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 236,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-muratli/1xxx/1007/tekirdag-muratli-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368633
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

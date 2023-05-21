@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-suruc",
+        "mahalle": "ORTA BOSTANCI MAH.",
+        "ilce_adi": "SURUÇ",
+        "okul_adi": "ORTA BOSTANCI MAH İLKOKULU",
+        "sandik_no": 1150,
+        "mahalle_id": "sanliurfa-suruc-orta-bostanci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684372186
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 231
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-suruc/1xxx/1150/sanliurfa-suruc-1150-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684372186
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

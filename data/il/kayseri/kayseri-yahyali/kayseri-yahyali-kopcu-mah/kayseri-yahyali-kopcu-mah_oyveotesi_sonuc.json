@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-yahyali",
+        "mahalle": "KOPÇU MAH.",
+        "ilce_adi": "YAHYALI",
+        "okul_adi": "KOPÇU MAH NİMET VE İSMAİL BULUT İLKOKULU",
+        "sandik_no": 1063,
+        "mahalle_id": "kayseri-yahyali-kopcu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-yahyali/1xxx/1063/kayseri-yahyali-1063-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "611170",
+            "oyveotesi_sync_timestamp": 1684360077
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "611170",
+            "oyveotesi_sync_timestamp": 1684360077
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-yahyali",
+        "mahalle": "KOPÇU MAH.",
+        "ilce_adi": "YAHYALI",
+        "okul_adi": "KOPÇU MAH NİMET VE İSMAİL BULUT İLKOKULU",
+        "sandik_no": 1064,
+        "mahalle_id": "kayseri-yahyali-kopcu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360077
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-yahyali/1xxx/1064/kayseri-yahyali-1064-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360077
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kahramankazan",
+        "mahalle": "PEÇENEK MAH.",
+        "ilce_adi": "KAHRAMANKAZAN",
+        "okul_adi": "PEÇENEK MAHALLE KONAĞI",
+        "sandik_no": 1115,
+        "mahalle_id": "ankara-kahramankazan-pecenek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "807192",
+            "oyveotesi_sync_timestamp": 1684393214
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 58
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "807192",
+            "oyveotesi_sync_timestamp": 1684393214
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

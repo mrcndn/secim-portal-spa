@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-haskoy",
+        "mahalle": "DÜZKIŞLA-YENİ MAH.",
+        "ilce_adi": "HASKÖY",
+        "okul_adi": "DÜZKIŞLA BEL.YENİ MAH DÜZKIŞLA ORTAOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "mus-haskoy-duzkisla-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "İYİ PARTİ": 2,
+                "YENİLİK PARTİSİ": 12,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 260,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-haskoy/1xxx/1028/mus-haskoy-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "371267",
+            "oyveotesi_sync_timestamp": 1684393835
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 301
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-haskoy/1xxx/1028/mus-haskoy-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "371267",
+            "oyveotesi_sync_timestamp": 1684393835
+        },
+        "secim_bolge_id": "mus"
+    }
+]

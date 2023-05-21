@@ -1,0 +1,106 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "FERAHFAKİ MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "GAZİ İLKOKULU/ORTAOKULU (FERAHFAKİ MAHALLESİ)",
+        "sandik_no": 1014,
+        "mahalle_id": "ankara-ayas-ferahfaki-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 43,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 11,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 15,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "795598",
+            "oyveotesi_sync_timestamp": 1684393651
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 134,
+                "RECEP TAYYİP ERDOĞAN": 134
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "795598",
+            "oyveotesi_sync_timestamp": 1684393651
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "FERAHFAKİ MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "GAZİ İLKOKULU/ORTAOKULU (FERAHFAKİ MAHALLESİ)",
+        "sandik_no": 1015,
+        "mahalle_id": "ankara-ayas-ferahfaki-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "İYİ PARTİ": 53,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 25,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "325045",
+            "oyveotesi_sync_timestamp": 1684393651
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 303,
+            "sayim_sonuc": {
+                "TOPLAM": 303,
+                "SİNAN OĞAN": 29,
+                "KEMAL KILIÇDAROĞLU": 145,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "325045",
+            "oyveotesi_sync_timestamp": 1684393651
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

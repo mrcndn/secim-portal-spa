@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kalecik",
+        "mahalle": "AHİLER YENİCE MAH.",
+        "ilce_adi": "KALECİK",
+        "okul_adi": "KALECİK CUMHURİYET ORTAOKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "ankara-kalecik-ahiler-yenice-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "833081",
+            "oyveotesi_sync_timestamp": 1684393538
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 73,
+            "sayim_sonuc": {
+                "TOPLAM": 73,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "833081",
+            "oyveotesi_sync_timestamp": 1684393538
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

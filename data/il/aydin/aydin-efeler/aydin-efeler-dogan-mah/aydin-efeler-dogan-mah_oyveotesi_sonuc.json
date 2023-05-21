@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-efeler",
+        "mahalle": "DOĞAN MAH.",
+        "ilce_adi": "EFELER",
+        "okul_adi": "DOĞAN KÖY KAHVESİ",
+        "sandik_no": 1101,
+        "mahalle_id": "aydin-efeler-dogan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 267,
+            "sayim_sonuc": {
+                "TOPLAM": 267,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 130,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-efeler/1xxx/1101/aydin-efeler-1101-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "358401",
+            "oyveotesi_sync_timestamp": 1684394792
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 9,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-efeler/1xxx/1101/aydin-efeler-1101-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "358401",
+            "oyveotesi_sync_timestamp": 1684394792
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

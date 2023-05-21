@@ -1,0 +1,87 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KIZILELMA KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KIZILELMA ORTA OKULU",
+        "sandik_no": 1323,
+        "mahalle_id": "bartin-merkez-kizilelma-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "ZAFER PARTİSİ": 6,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 93,
+                "ADALET VE KALKINMA PARTİSİ": 45,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1323/bartin-merkez-1323-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177405",
+            "oyveotesi_sync_timestamp": 1684327949
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1323/bartin-merkez-1323-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177405",
+            "oyveotesi_sync_timestamp": 1684327949
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KIZILELMA KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "KIZILELMA ORTA OKULU",
+        "sandik_no": 1322,
+        "mahalle_id": "bartin-merkez-kizilelma-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "GENÇ PARTİ": 2,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1322/bartin-merkez-1322-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199337",
+            "oyveotesi_sync_timestamp": 1684327949
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 58
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1322/bartin-merkez-1322-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199337",
+            "oyveotesi_sync_timestamp": 1684327949
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

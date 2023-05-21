@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-bahce",
+        "mahalle": "BURGAÇLI KÖYÜ",
+        "ilce_adi": "BAHÇE",
+        "okul_adi": "BURGAÇLI KÖY İLKOKULU",
+        "sandik_no": 1045,
+        "mahalle_id": "osmaniye-bahce-burgacli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 51,
+                "ADALET VE KALKINMA PARTİSİ": 47,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1045/osmaniye-bahce-1045-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "615932",
+            "oyveotesi_sync_timestamp": 1684374891
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 130
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1045/osmaniye-bahce-1045-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "615932",
+            "oyveotesi_sync_timestamp": 1684374891
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-bahce",
+        "mahalle": "BURGAÇLI KÖYÜ",
+        "ilce_adi": "BAHÇE",
+        "okul_adi": "BURGAÇLI KÖY İLKOKULU",
+        "sandik_no": 1046,
+        "mahalle_id": "osmaniye-bahce-burgacli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374891
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-bahce/1xxx/1046/osmaniye-bahce-1046-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374891
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

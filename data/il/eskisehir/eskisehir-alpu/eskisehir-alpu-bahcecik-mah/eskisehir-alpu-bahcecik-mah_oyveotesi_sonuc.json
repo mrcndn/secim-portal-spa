@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-alpu",
+        "mahalle": "BAHÇECİK MAH.",
+        "ilce_adi": "ALPU",
+        "okul_adi": "BAHÇECİK MAHALLESİ İLKOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "eskisehir-alpu-bahcecik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 4,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1006/eskisehir-alpu-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "217523",
+            "oyveotesi_sync_timestamp": 1684341394
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1006/eskisehir-alpu-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "217523",
+            "oyveotesi_sync_timestamp": 1684341394
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

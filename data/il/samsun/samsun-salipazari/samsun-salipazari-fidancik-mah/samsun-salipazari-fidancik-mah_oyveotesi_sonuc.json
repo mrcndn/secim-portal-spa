@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-salipazari",
+        "mahalle": "FİDANCIK MAH.",
+        "ilce_adi": "SALIPAZARI",
+        "okul_adi": "FİDANCIK KÖY KONAĞI",
+        "sandik_no": 1021,
+        "mahalle_id": "samsun-salipazari-fidancik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "YENİDEN REFAH PARTİSİ": 31,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-salipazari/1xxx/1021/samsun-salipazari-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836707",
+            "oyveotesi_sync_timestamp": 1684367746
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "KEMAL KILIÇDAROĞLU": 3,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-salipazari/1xxx/1021/samsun-salipazari-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836707",
+            "oyveotesi_sync_timestamp": 1684367746
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

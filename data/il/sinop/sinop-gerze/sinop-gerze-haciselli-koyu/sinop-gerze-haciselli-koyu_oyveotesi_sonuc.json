@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "HACISELLİ KÖYÜ",
+        "ilce_adi": "GERZE",
+        "okul_adi": "HACISELLİ KÖYÜ MERKEZ SAĞLIK OCAĞI",
+        "sandik_no": 1061,
+        "mahalle_id": "sinop-gerze-haciselli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 159,
+            "sayim_sonuc": {
+                "TOPLAM": 159,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 7,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1061/sinop-gerze-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "423121",
+            "oyveotesi_sync_timestamp": 1684353893
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 157,
+            "sayim_sonuc": {
+                "TOPLAM": 157,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1061/sinop-gerze-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "423121",
+            "oyveotesi_sync_timestamp": 1684353893
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

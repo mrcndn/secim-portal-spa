@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "ÇULHALAR MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "ÇULHALAR MAHALLESİ KONAĞI",
+        "sandik_no": 1052,
+        "mahalle_id": "ankara-nallihan-culhalar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376066
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 20,
+            "sayim_sonuc": {
+                "TOPLAM": 20,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 12
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376066
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

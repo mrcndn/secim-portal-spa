@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-sabanozu",
+        "mahalle": "KUTLUŞAR KÖYÜ",
+        "ilce_adi": "ŞABANÖZÜ",
+        "okul_adi": "KUTLUŞAR KÖY İLKOKULU",
+        "sandik_no": 1037,
+        "mahalle_id": "cankiri-sabanozu-kutlusar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 45,
+                "ZAFER PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-sabanozu/1xxx/1037/cankiri-sabanozu-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830944",
+            "oyveotesi_sync_timestamp": 1684336721
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-sabanozu/1xxx/1037/cankiri-sabanozu-1037-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830944",
+            "oyveotesi_sync_timestamp": 1684336721
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "KAYINCIK MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "KAYINCIK CAMİSİ İMAM LOJMANI ALTI",
+        "sandik_no": 1020,
+        "mahalle_id": "ordu-kabatas-kayincik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "ADALET VE KALKINMA PARTİSİ": 155,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1020/ordu-kabatas-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "719926",
+            "oyveotesi_sync_timestamp": 1684360444
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 9,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 212
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1020/ordu-kabatas-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "719926",
+            "oyveotesi_sync_timestamp": 1684360444
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

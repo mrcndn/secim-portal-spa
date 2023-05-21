@@ -1,0 +1,105 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-akdeniz",
+        "mahalle": "CAMİLİ MAH.",
+        "ilce_adi": "AKDENİZ",
+        "okul_adi": "CAMİLİ İLKOKULU",
+        "sandik_no": 2043,
+        "mahalle_id": "mersin-akdeniz-camili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 69,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 63,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-akdeniz/2xxx/2043/mersin-akdeniz-2043-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "205043",
+            "oyveotesi_sync_timestamp": 1684363824
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 128,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-akdeniz/2xxx/2043/mersin-akdeniz-2043-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "205043",
+            "oyveotesi_sync_timestamp": 1684363824
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-akdeniz",
+        "mahalle": "CAMİLİ MAH.",
+        "ilce_adi": "AKDENİZ",
+        "okul_adi": "CAMİLİ İLKOKULU",
+        "sandik_no": 2044,
+        "mahalle_id": "mersin-akdeniz-camili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 64,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 4,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 84,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-akdeniz/2xxx/2044/mersin-akdeniz-2044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "205881",
+            "oyveotesi_sync_timestamp": 1684363824
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 349,
+            "sayim_sonuc": {
+                "TOPLAM": 349,
+                "SİNAN OĞAN": 22,
+                "KEMAL KILIÇDAROĞLU": 122,
+                "RECEP TAYYİP ERDOĞAN": 205
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-akdeniz/2xxx/2044/mersin-akdeniz-2044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "205881",
+            "oyveotesi_sync_timestamp": 1684363824
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

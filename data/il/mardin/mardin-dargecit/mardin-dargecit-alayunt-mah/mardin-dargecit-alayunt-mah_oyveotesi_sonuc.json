@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-dargecit",
+        "mahalle": "ALAYUNT MAH.",
+        "ilce_adi": "DARGEÇİT",
+        "okul_adi": "ALAYURT İLKOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "mardin-dargecit-alayunt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 141,
+            "sayim_sonuc": {
+                "TOPLAM": 141,
+                "SOL PARTİ": 3,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 90
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-dargecit/1xxx/1002/mardin-dargecit-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177642",
+            "oyveotesi_sync_timestamp": 1684353192
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 143,
+            "sayim_sonuc": {
+                "TOPLAM": 143,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-dargecit/1xxx/1002/mardin-dargecit-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177642",
+            "oyveotesi_sync_timestamp": 1684353192
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

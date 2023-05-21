@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-tavas",
+        "mahalle": "SOLMAZ MAH.",
+        "ilce_adi": "TAVAS",
+        "okul_adi": "SOLMAZ MAH. ŞEHİT ETHEM EKŞİ İLKOKULU",
+        "sandik_no": 1094,
+        "mahalle_id": "denizli-tavas-solmaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365851
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365851
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-tavas",
+        "mahalle": "SOLMAZ MAH.",
+        "ilce_adi": "TAVAS",
+        "okul_adi": "SOLMAZ MAH. ŞEHİT ETHEM EKŞİ İLKOKULU",
+        "sandik_no": 1095,
+        "mahalle_id": "denizli-tavas-solmaz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365851
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-tavas/1xxx/1095/denizli-tavas-1095-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365851
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

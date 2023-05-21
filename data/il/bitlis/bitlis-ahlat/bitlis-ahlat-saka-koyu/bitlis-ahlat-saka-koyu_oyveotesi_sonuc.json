@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-ahlat",
+        "mahalle": "SAKA KÖYÜ",
+        "ilce_adi": "AHLAT",
+        "okul_adi": "SAKA KÖYÜ İLKOKULU",
+        "sandik_no": 1085,
+        "mahalle_id": "bitlis-ahlat-saka-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331130
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bitlis-tutanaklari/blob/main/tutanak/bitlis/bitlis-ahlat/1xxx/1085/bitlis-ahlat-1085-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331130
+        },
+        "secim_bolge_id": "bitlis"
+    }
+]

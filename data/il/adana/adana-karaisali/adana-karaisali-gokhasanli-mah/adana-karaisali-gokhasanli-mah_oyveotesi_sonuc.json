@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-karaisali",
+        "mahalle": "GÖKHASANLI MAH.",
+        "ilce_adi": "KARAİSALI",
+        "okul_adi": "GÖKHASANLI MAH. KÖY ODASI",
+        "sandik_no": 1038,
+        "mahalle_id": "adana-karaisali-gokhasanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371229
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 119,
+            "sayim_sonuc": {
+                "TOPLAM": 119,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-karaisali/1xxx/1038/adana-karaisali-1038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371229
+        },
+        "secim_bolge_id": "adana"
+    }
+]

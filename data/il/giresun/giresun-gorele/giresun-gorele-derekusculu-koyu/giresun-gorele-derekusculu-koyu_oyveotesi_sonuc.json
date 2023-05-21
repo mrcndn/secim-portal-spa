@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "DEREKUŞÇULU KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "okul_adi": "DEREKUŞÇULU KÖYÜ İLKOKULU",
+        "sandik_no": 1072,
+        "mahalle_id": "giresun-gorele-derekusculu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "İYİ PARTİ": 22,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 63,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1072/giresun-gorele-1072-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836147",
+            "oyveotesi_sync_timestamp": 1684343189
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1072/giresun-gorele-1072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836147",
+            "oyveotesi_sync_timestamp": 1684343189
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

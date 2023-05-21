@@ -1,0 +1,802 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KARAASLANDEDE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-karaaslandede-mah",
+        "oyveotesi_neighborhood_id": 10917
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KARAASLANÜZÜMCÜ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-karaaslanuzumcu-mah",
+        "oyveotesi_neighborhood_id": 10908
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KARACİĞAN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-karacigan-mah",
+        "oyveotesi_neighborhood_id": 10888
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KARADONA MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-karadona-mah",
+        "oyveotesi_neighborhood_id": 10941
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KARAKAYA MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-karakaya-mah",
+        "oyveotesi_neighborhood_id": 10901
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KARAKULAK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-karakulak-mah",
+        "oyveotesi_neighborhood_id": 10875
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KATRANCI MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-katranci-mah",
+        "oyveotesi_neighborhood_id": 10869
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KAYACIKARAPLAR MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-kayacikaraplar-mah",
+        "oyveotesi_neighborhood_id": 10909
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KEÇECİLER MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-kececiler-mah",
+        "oyveotesi_neighborhood_id": 10890
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KERİM DEDE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-kerim-dede-mah",
+        "oyveotesi_neighborhood_id": 10895
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KEYKUBAT MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-keykubat-mah",
+        "oyveotesi_neighborhood_id": 10889
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KIZÖREN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-kizoren-mah",
+        "oyveotesi_neighborhood_id": 10931
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "oyveotesi_neighborhood_id": 10902
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖSEALİ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-koseali-mah",
+        "oyveotesi_neighborhood_id": 10923
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KUMKÖPRÜ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-kumkopru-mah",
+        "oyveotesi_neighborhood_id": 10910
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "MENGENE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-mengene-mah",
+        "oyveotesi_neighborhood_id": 10932
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "NAKİPOĞLU MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-nakipoglu-mah",
+        "oyveotesi_neighborhood_id": 10926
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "OBRUK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-obruk-mah",
+        "oyveotesi_neighborhood_id": 10886
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ORHANGAZİ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-orhangazi-mah",
+        "oyveotesi_neighborhood_id": 10933
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ORTAKONAK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-ortakonak-mah",
+        "oyveotesi_neighborhood_id": 10927
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "OVAKAVAĞI MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-ovakavagi-mah",
+        "oyveotesi_neighborhood_id": 10887
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "SAKYATAN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-sakyatan-mah",
+        "oyveotesi_neighborhood_id": 10896
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "SARAÇOĞLU MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-saracoglu-mah",
+        "oyveotesi_neighborhood_id": 10914
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "SARIYAKUP MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-sariyakup-mah",
+        "oyveotesi_neighborhood_id": 10891
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ŞATIR MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-satir-mah",
+        "oyveotesi_neighborhood_id": 10878
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "SELİMSULTAN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-selimsultan-mah",
+        "oyveotesi_neighborhood_id": 10924
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ŞEMSİTEBRİZİ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-semsitebrizi-mah",
+        "oyveotesi_neighborhood_id": 10907
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "SULTAN MESUD MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-sultan-mesud-mah",
+        "oyveotesi_neighborhood_id": 49575
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "SÜRÜÇ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-suruc-mah",
+        "oyveotesi_neighborhood_id": 10870
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "TATLICAK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-tatlicak-mah",
+        "oyveotesi_neighborhood_id": 10876
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ULUBATLIHASAN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-ulubatlihasan-mah",
+        "oyveotesi_neighborhood_id": 10871
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "YAĞLIBAYAT MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-yaglibayat-mah",
+        "oyveotesi_neighborhood_id": 10897
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "YARMA MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-yarma-mah",
+        "oyveotesi_neighborhood_id": 10882
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "YAVŞANKUYU MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-yavsankuyu-mah",
+        "oyveotesi_neighborhood_id": 10934
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "YEDİLER MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-yediler-mah",
+        "oyveotesi_neighborhood_id": 10942
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-yenice-mah",
+        "oyveotesi_neighborhood_id": 10913
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "YENİKENT MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-yenikent-mah",
+        "oyveotesi_neighborhood_id": 10921
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ZİNCİRLİ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-zincirli-mah",
+        "oyveotesi_neighborhood_id": 10877
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "BEŞAĞIL MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-besagil-mah",
+        "oyveotesi_neighborhood_id": 10905
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HACIİBALI MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-haciibali-mah",
+        "oyveotesi_neighborhood_id": 10922
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HACI HASAN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-haci-hasan-mah",
+        "oyveotesi_neighborhood_id": 10938
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "GÖÇÜ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-gocu-mah",
+        "oyveotesi_neighborhood_id": 10937
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "GAZİOSMANPAŞA MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-gaziosmanpasa-mah",
+        "oyveotesi_neighborhood_id": 10900
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "FEVZİÇAKMAK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-fevzicakmak-mah",
+        "oyveotesi_neighborhood_id": 10885
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "FETİH MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-fetih-mah",
+        "oyveotesi_neighborhood_id": 10945
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-esentepe-mah",
+        "oyveotesi_neighborhood_id": 10936
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ERLER MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-erler-mah",
+        "oyveotesi_neighborhood_id": 10874
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ERENLER MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-erenler-mah",
+        "oyveotesi_neighborhood_id": 10930
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "EMİRGAZİ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-emirgazi-mah",
+        "oyveotesi_neighborhood_id": 10929
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ELMACI MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-elmaci-mah",
+        "oyveotesi_neighborhood_id": 10944
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "DOĞUŞ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-dogus-mah",
+        "oyveotesi_neighborhood_id": 10940
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "DİVANLAR MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-divanlar-mah",
+        "oyveotesi_neighborhood_id": 10880
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ÇİMENLİK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-cimenlik-mah",
+        "oyveotesi_neighborhood_id": 10935
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ÇENGİLTİ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-cengilti-mah",
+        "oyveotesi_neighborhood_id": 10918
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ÇELEBİ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-celebi-mah",
+        "oyveotesi_neighborhood_id": 10864
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ÇATALTÖMEK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-cataltomek-mah",
+        "oyveotesi_neighborhood_id": 10883
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ÇATALHÜYÜK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-catalhuyuk-mah",
+        "oyveotesi_neighborhood_id": 10903
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "BÜYÜK SİNAN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-buyuk-sinan-mah",
+        "oyveotesi_neighborhood_id": 10899
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "BÜYÜKBURNAK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-buyukburnak-mah",
+        "oyveotesi_neighborhood_id": 10872
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HACISADIK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-hacisadik-mah",
+        "oyveotesi_neighborhood_id": 10867
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "BAŞGÖTÜREN MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-basgoturen-mah",
+        "oyveotesi_neighborhood_id": 10919
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "BAŞAK MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-basak-mah",
+        "oyveotesi_neighborhood_id": 10904
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "BAKIRTOLU MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-bakirtolu-mah",
+        "oyveotesi_neighborhood_id": 10916
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "AZİZİYE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-aziziye-mah",
+        "oyveotesi_neighborhood_id": 10943
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "AKÖRENKIŞLA MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-akorenkisla-mah",
+        "oyveotesi_neighborhood_id": 10879
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "AKİFPAŞA MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-akifpasa-mah",
+        "oyveotesi_neighborhood_id": 10928
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "AKÇEŞME MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-akcesme-mah",
+        "oyveotesi_neighborhood_id": 10898
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "AKBAŞ MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-akbas-mah",
+        "oyveotesi_neighborhood_id": 10892
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "AKABE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-akabe-mah",
+        "oyveotesi_neighborhood_id": 10915
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "AĞSAKLI MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-agsakli-mah",
+        "oyveotesi_neighborhood_id": 10866
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "ACIDORT MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-acidort-mah",
+        "oyveotesi_neighborhood_id": 10911
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HACIVEYİSZADE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-haciveyiszade-mah",
+        "oyveotesi_neighborhood_id": 10925
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HACIYUSUFMESCİT MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-haciyusufmescit-mah",
+        "oyveotesi_neighborhood_id": 10893
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HAMZAOĞLU MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-hamzaoglu-mah",
+        "oyveotesi_neighborhood_id": 10906
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HASANDEDEMESCİT MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-hasandedemescit-mah",
+        "oyveotesi_neighborhood_id": 10920
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "HAYIROĞLU MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-hayiroglu-mah",
+        "oyveotesi_neighborhood_id": 10881
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "İPEKLER MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-ipekler-mah",
+        "oyveotesi_neighborhood_id": 10939
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "İSMİL MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-ismil-mah",
+        "oyveotesi_neighborhood_id": 10884
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-istiklal-mah",
+        "oyveotesi_neighborhood_id": 10865
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KALENDERHANE MAH.",
+        "ilce_adi": "KARATAY",
+        "mahalle_id": "konya-karatay-kalenderhane-mah",
+        "oyveotesi_neighborhood_id": 10894
+    }
+]

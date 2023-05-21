@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-yumurtalik",
+        "mahalle": "AYAS MAH.",
+        "ilce_adi": "YUMURTALIK",
+        "okul_adi": "ATATÜRK ORTA OKULU (AYAS-ÖREN MAHALLESİ)",
+        "sandik_no": 1010,
+        "mahalle_id": "adana-yumurtalik-ayas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371417
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 102
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1010/adana-yumurtalik-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371417
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-yumurtalik",
+        "mahalle": "AYAS MAH.",
+        "ilce_adi": "YUMURTALIK",
+        "okul_adi": "ATATÜRK ORTA OKULU (AYAS-ÖREN MAHALLESİ)",
+        "sandik_no": 1011,
+        "mahalle_id": "adana-yumurtalik-ayas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 27,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 80,
+                "ADALET VE KALKINMA PARTİSİ": 42,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 50,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1011/adana-yumurtalik-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "749196",
+            "oyveotesi_sync_timestamp": 1684371417
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 110,
+                "RECEP TAYYİP ERDOĞAN": 100
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1011/adana-yumurtalik-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "749196",
+            "oyveotesi_sync_timestamp": 1684371417
+        },
+        "secim_bolge_id": "adana"
+    }
+]

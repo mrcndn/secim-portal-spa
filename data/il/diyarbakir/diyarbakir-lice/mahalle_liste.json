@@ -1,0 +1,522 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ULUCAK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-ulucak-mah",
+        "oyveotesi_neighborhood_id": 39470
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "YALIMLI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-yalimli-mah",
+        "oyveotesi_neighborhood_id": 39484
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "YAMAÇLI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-yamacli-mah",
+        "oyveotesi_neighborhood_id": 39478
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "YAPRAK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-yaprak-mah",
+        "oyveotesi_neighborhood_id": 39476
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "YENİŞEHİR MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-yenisehir-mah",
+        "oyveotesi_neighborhood_id": 39439
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "YEŞİLBURÇ MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-yesilburc-mah",
+        "oyveotesi_neighborhood_id": 39479
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "YOLÇATI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-yolcati-mah",
+        "oyveotesi_neighborhood_id": 39447
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "YÜNLÜCE MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-yunluce-mah",
+        "oyveotesi_neighborhood_id": 39453
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ZİYARET MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-ziyaret-mah",
+        "oyveotesi_neighborhood_id": 39444
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ZÜMRÜT MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-zumrut-mah",
+        "oyveotesi_neighborhood_id": 39459
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "AKÇABUDAK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-akcabudak-mah",
+        "oyveotesi_neighborhood_id": 39434
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "BAYIRLI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-bayirli-mah",
+        "oyveotesi_neighborhood_id": 39456
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "BİRLİK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-birlik-mah",
+        "oyveotesi_neighborhood_id": 39435
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ÇAĞDAŞ MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-cagdas-mah",
+        "oyveotesi_neighborhood_id": 39471
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-camikebir-mah",
+        "oyveotesi_neighborhood_id": 39461
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ÇARŞI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-carsi-mah",
+        "oyveotesi_neighborhood_id": 39455
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ÇEPER MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-ceper-mah",
+        "oyveotesi_neighborhood_id": 39480
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ÇIRALI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-cirali-mah",
+        "oyveotesi_neighborhood_id": 39432
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "DALLICA MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-dallica-mah",
+        "oyveotesi_neighborhood_id": 39445
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "DELVAN MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-delvan-mah",
+        "oyveotesi_neighborhood_id": 39481
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "DERNEK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-dernek-mah",
+        "oyveotesi_neighborhood_id": 39448
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "DİBEK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-dibek-mah",
+        "oyveotesi_neighborhood_id": 39472
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "DURU MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-duru-mah",
+        "oyveotesi_neighborhood_id": 39486
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ECEMİŞ MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-ecemis-mah",
+        "oyveotesi_neighborhood_id": 39473
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "GÖKÇE MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-gokce-mah",
+        "oyveotesi_neighborhood_id": 39450
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "GÜÇLÜ MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-guclu-mah",
+        "oyveotesi_neighborhood_id": 39436
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "GÜRBEYLİ MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-gurbeyli-mah",
+        "oyveotesi_neighborhood_id": 39475
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "HEDİK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-hedik-mah",
+        "oyveotesi_neighborhood_id": 39431
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KABAKAYA MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kabakaya-mah",
+        "oyveotesi_neighborhood_id": 39437
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KALİ MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kali-mah",
+        "oyveotesi_neighborhood_id": 39465
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KARAHASAN MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-karahasan-mah",
+        "oyveotesi_neighborhood_id": 39451
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KELVAN MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kelvan-mah",
+        "oyveotesi_neighborhood_id": 39457
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KILIÇLI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kilicli-mah",
+        "oyveotesi_neighborhood_id": 39440
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KIPÇAK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kipcak-mah",
+        "oyveotesi_neighborhood_id": 39452
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ARIKLI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-arikli-mah",
+        "oyveotesi_neighborhood_id": 39485
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KIYI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kiyi-mah",
+        "oyveotesi_neighborhood_id": 39446
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KÖRTÜK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kortuk-mah",
+        "oyveotesi_neighborhood_id": 39482
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KUMLUCA MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kumluca-mah",
+        "oyveotesi_neighborhood_id": 39449
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "KUTLU MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-kutlu-mah",
+        "oyveotesi_neighborhood_id": 39462
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "MULLA MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-mulla-mah",
+        "oyveotesi_neighborhood_id": 39441
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "MÜMİNAĞA MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-muminaga-mah",
+        "oyveotesi_neighborhood_id": 39454
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "MURADİYE MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-muradiye-mah",
+        "oyveotesi_neighborhood_id": 39458
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ÖRTÜLÜ MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-ortulu-mah",
+        "oyveotesi_neighborhood_id": 39474
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "OYUKLU MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-oyuklu-mah",
+        "oyveotesi_neighborhood_id": 39468
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ŞAAR MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-saar-mah",
+        "oyveotesi_neighborhood_id": 39433
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "SAVAT MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-savat-mah",
+        "oyveotesi_neighborhood_id": 39483
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "SAYDAMLI MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-saydamli-mah",
+        "oyveotesi_neighborhood_id": 39466
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ŞENLİK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-senlik-mah",
+        "oyveotesi_neighborhood_id": 39460
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "SERİN MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-serin-mah",
+        "oyveotesi_neighborhood_id": 39438
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "SIĞINAK MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-siginak-mah",
+        "oyveotesi_neighborhood_id": 39443
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "TEPE MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-tepe-mah",
+        "oyveotesi_neighborhood_id": 39469
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-lice",
+        "mahalle": "ÜÇDAMLAR MAH.",
+        "ilce_adi": "LİCE",
+        "mahalle_id": "diyarbakir-lice-ucdamlar-mah",
+        "oyveotesi_neighborhood_id": 39464
+    }
+]

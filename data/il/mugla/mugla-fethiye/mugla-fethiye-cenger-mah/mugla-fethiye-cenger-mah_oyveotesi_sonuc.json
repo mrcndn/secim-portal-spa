@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-fethiye",
+        "mahalle": "ÇENGER MAH.",
+        "ilce_adi": "FETHİYE",
+        "okul_adi": "ÇENGER İLKOKULU",
+        "sandik_no": 1071,
+        "mahalle_id": "mugla-fethiye-cenger-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "İYİ PARTİ": 55,
+                "ZAFER PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 45,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-fethiye/1xxx/1071/mugla-fethiye-1071-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824049",
+            "oyveotesi_sync_timestamp": 1684374724
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 150,
+            "sayim_sonuc": {
+                "TOPLAM": 150,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-fethiye/1xxx/1071/mugla-fethiye-1071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824049",
+            "oyveotesi_sync_timestamp": 1684374724
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

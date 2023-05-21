@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-merkez",
+        "mahalle": "BAĞPINAR KÖYÜ",
+        "ilce_adi": "ADIYAMAN MERKEZ",
+        "okul_adi": "BAĞPINAR AFETZEDE BARINMA YERİ",
+        "sandik_no": 2038,
+        "mahalle_id": "adiyaman-merkez-bagpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330387
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-merkez/2xxx/2038/adiyaman-merkez-2038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330387
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

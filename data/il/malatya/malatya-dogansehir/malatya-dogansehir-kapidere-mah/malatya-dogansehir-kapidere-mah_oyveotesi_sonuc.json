@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-dogansehir",
+        "mahalle": "KAPIDERE MAH.",
+        "ilce_adi": "DOĞANŞEHİR",
+        "okul_adi": "KAPIDERE MAHALLESİ İLKÖĞRT.OK.",
+        "sandik_no": 1045,
+        "mahalle_id": "malatya-dogansehir-kapidere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 49,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 54,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-dogansehir/1xxx/1045/malatya-dogansehir-1045-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815045",
+            "oyveotesi_sync_timestamp": 1684351211
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 221
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-dogansehir/1xxx/1045/malatya-dogansehir-1045-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815045",
+            "oyveotesi_sync_timestamp": 1684351211
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

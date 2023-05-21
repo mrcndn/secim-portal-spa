@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-nurdagi",
+        "mahalle": "OLUCAK MAH.",
+        "ilce_adi": "NURDAĞI",
+        "okul_adi": "OLUCAK TAZİYE EVİ",
+        "sandik_no": 1065,
+        "mahalle_id": "gaziantep-nurdagi-olucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342291
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-nurdagi/1xxx/1065/gaziantep-nurdagi-1065-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342291
+        },
+        "secim_bolge_id": "gaziantep"
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-nurdagi",
+        "mahalle": "OLUCAK MAH.",
+        "ilce_adi": "NURDAĞI",
+        "okul_adi": "TÜMBEL İLKOKUL BAHÇESİ",
+        "sandik_no": 1066,
+        "mahalle_id": "gaziantep-nurdagi-olucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342291
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342291
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

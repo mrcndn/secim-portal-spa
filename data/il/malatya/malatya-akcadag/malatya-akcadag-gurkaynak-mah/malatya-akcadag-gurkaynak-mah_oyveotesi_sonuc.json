@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-akcadag",
+        "mahalle": "GÜRKAYNAK MAH.",
+        "ilce_adi": "AKÇADAĞ",
+        "okul_adi": "GÜRKAYNAK İLKOKULU",
+        "sandik_no": 1052,
+        "mahalle_id": "malatya-akcadag-gurkaynak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-akcadag/1xxx/1052/malatya-akcadag-1052-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837084",
+            "oyveotesi_sync_timestamp": 1684350850
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837084",
+            "oyveotesi_sync_timestamp": 1684350850
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

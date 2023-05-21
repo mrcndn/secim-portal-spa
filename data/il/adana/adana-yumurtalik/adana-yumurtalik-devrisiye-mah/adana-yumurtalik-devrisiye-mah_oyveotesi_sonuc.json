@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-yumurtalik",
+        "mahalle": "DEVRİŞİYE MAH.",
+        "ilce_adi": "YUMURTALIK",
+        "okul_adi": "BARBAROS İLKOKULU (AKDENİZ-DEVRİŞİYE MAH)",
+        "sandik_no": 1018,
+        "mahalle_id": "adana-yumurtalik-devrisiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "İYİ PARTİ": 55,
+                "ZAFER PARTİSİ": 12,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1018/adana-yumurtalik-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565954",
+            "oyveotesi_sync_timestamp": 1684371413
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 152,
+                "RECEP TAYYİP ERDOĞAN": 135
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1018/adana-yumurtalik-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565954",
+            "oyveotesi_sync_timestamp": 1684371413
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-yumurtalik",
+        "mahalle": "DEVRİŞİYE MAH.",
+        "ilce_adi": "YUMURTALIK",
+        "okul_adi": "BARBAROS İLKOKULU (AKDENİZ-DEVRİŞİYE MAH)",
+        "sandik_no": 1019,
+        "mahalle_id": "adana-yumurtalik-devrisiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371413
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 162,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1019/adana-yumurtalik-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371413
+        },
+        "secim_bolge_id": "adana"
+    }
+]

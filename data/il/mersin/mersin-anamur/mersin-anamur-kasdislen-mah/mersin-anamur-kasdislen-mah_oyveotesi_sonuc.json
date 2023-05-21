@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "KAŞDİŞLEN MAH.",
+        "ilce_adi": "ANAMUR",
+        "okul_adi": "KAŞDİŞLEN KÜLTÜR MERKEZİ",
+        "sandik_no": 1106,
+        "mahalle_id": "mersin-anamur-kasdislen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 255,
+                "ADALET VE KALKINMA PARTİSİ": 11,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1106/mersin-anamur-1106-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "733444",
+            "oyveotesi_sync_timestamp": 1684363874
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 295,
+                "RECEP TAYYİP ERDOĞAN": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1106/mersin-anamur-1106-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "733444",
+            "oyveotesi_sync_timestamp": 1684363874
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

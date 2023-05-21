@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-dikmen",
+        "mahalle": "KÜÇÜKKIZIK KÖYÜ",
+        "ilce_adi": "DİKMEN",
+        "okul_adi": "KÜÇÜKKIZIKKÖY KONAĞI",
+        "sandik_no": 1024,
+        "mahalle_id": "sinop-dikmen-kucukkizik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1024/sinop-dikmen-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "321281",
+            "oyveotesi_sync_timestamp": 1684354193
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 3,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1024/sinop-dikmen-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "321281",
+            "oyveotesi_sync_timestamp": 1684354193
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

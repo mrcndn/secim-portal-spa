@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ayvacik",
+        "mahalle": "YEŞİLYURT KÖYÜ",
+        "ilce_adi": "AYVACIK",
+        "okul_adi": "YEŞİLYURT KÖYÜ KÖY KAHVEHANESİ",
+        "sandik_no": 1127,
+        "mahalle_id": "canakkale-ayvacik-yesilyurt-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 121,
+            "sayim_sonuc": {
+                "TOPLAM": 121,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 78,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ayvacik/1xxx/1127/canakkale-ayvacik-1127-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015589",
+            "oyveotesi_sync_timestamp": 1684335693
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ayvacik/1xxx/1127/canakkale-ayvacik-1127-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015589",
+            "oyveotesi_sync_timestamp": 1684335693
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

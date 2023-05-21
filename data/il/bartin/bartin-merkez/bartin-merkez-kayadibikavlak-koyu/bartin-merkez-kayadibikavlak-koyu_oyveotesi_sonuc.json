@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KAYADİBİKAVLAK KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ESKİ OKUL",
+        "sandik_no": 1318,
+        "mahalle_id": "bartin-merkez-kayadibikavlak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327942
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1318/bartin-merkez-1318-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327942
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "KAYADİBİKAVLAK KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ESKİ OKUL",
+        "sandik_no": 1317,
+        "mahalle_id": "bartin-merkez-kayadibikavlak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327942
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327942
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

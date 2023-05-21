@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kumru",
+        "mahalle": "YENİAKÇAALAN MAH.",
+        "ilce_adi": "KUMRU",
+        "okul_adi": "YENİAKÇAALAN MAH. İLKOKULU",
+        "sandik_no": 1074,
+        "mahalle_id": "ordu-kumru-yeniakcaalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 75,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 175,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kumru/1xxx/1074/ordu-kumru-1074-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "315310",
+            "oyveotesi_sync_timestamp": 1684360138
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "315310",
+            "oyveotesi_sync_timestamp": 1684360138
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-varto",
+        "mahalle": "BOYLU KÖYÜ",
+        "ilce_adi": "VARTO",
+        "okul_adi": "BOYLU KÖYÜ (AŞAĞI SIRA SÖĞÜTLER ORTAOKULU)",
+        "sandik_no": 1034,
+        "mahalle_id": "mus-varto-boylu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393688
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "KEMAL KILIÇDAROĞLU": 122,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-varto/1xxx/1034/mus-varto-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393688
+        },
+        "secim_bolge_id": "mus"
+    }
+]

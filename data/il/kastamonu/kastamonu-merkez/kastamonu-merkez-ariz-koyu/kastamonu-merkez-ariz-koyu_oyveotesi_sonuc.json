@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-merkez",
+        "mahalle": "ARIZ KÖYÜ",
+        "ilce_adi": "KASTAMONU MERKEZ",
+        "okul_adi": "ARIZ KÖYÜ KÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1262,
+        "mahalle_id": "kastamonu-merkez-ariz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-merkez/1xxx/1262/kastamonu-merkez-1262-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "259268",
+            "oyveotesi_sync_timestamp": 1684347902
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 143,
+            "sayim_sonuc": {
+                "TOPLAM": 143,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-merkez/1xxx/1262/kastamonu-merkez-1262-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "259268",
+            "oyveotesi_sync_timestamp": 1684347902
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

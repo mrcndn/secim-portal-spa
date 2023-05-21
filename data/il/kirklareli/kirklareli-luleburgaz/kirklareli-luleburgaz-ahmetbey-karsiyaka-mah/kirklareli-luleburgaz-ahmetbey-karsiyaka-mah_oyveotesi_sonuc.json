@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-luleburgaz",
+        "mahalle": "AHMETBEY-KARŞIYAKA MAH.",
+        "ilce_adi": "LÜLEBURGAZ",
+        "okul_adi": "KARŞIYAKA MAH-ATATÜRK İLKOKULU",
+        "sandik_no": 1282,
+        "mahalle_id": "kirklareli-luleburgaz-ahmetbey-karsiyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 308,
+            "sayim_sonuc": {
+                "TOPLAM": 308,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 111,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 101,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1282/kirklareli-luleburgaz-1282-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "730508",
+            "oyveotesi_sync_timestamp": 1684348702
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1282/kirklareli-luleburgaz-1282-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "730508",
+            "oyveotesi_sync_timestamp": 1684348702
+        },
+        "secim_bolge_id": "kirklareli"
+    },
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-luleburgaz",
+        "mahalle": "AHMETBEY-KARŞIYAKA MAH.",
+        "ilce_adi": "LÜLEBURGAZ",
+        "okul_adi": "KARŞIYAKA MAH-ATATÜRK İLKOKULU",
+        "sandik_no": 1281,
+        "mahalle_id": "kirklareli-luleburgaz-ahmetbey-karsiyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348702
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 118,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-luleburgaz/1xxx/1281/kirklareli-luleburgaz-1281-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348702
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

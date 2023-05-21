@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-aksehir",
+        "mahalle": "ENGİLİ MAH.",
+        "ilce_adi": "AKŞEHİR",
+        "okul_adi": "ENGİLİ HASAN DOĞAN İLKOKULU - ORTAOKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "konya-aksehir-engili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355317
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-aksehir/1xxx/1050/konya-aksehir-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355317
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-aksehir",
+        "mahalle": "ENGİLİ MAH.",
+        "ilce_adi": "AKŞEHİR",
+        "okul_adi": "ENGİLİ HASAN DOĞAN İLKOKULU - ORTAOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "konya-aksehir-engili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355317
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 99,
+                "RECEP TAYYİP ERDOĞAN": 182
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-aksehir/1xxx/1051/konya-aksehir-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355317
+        },
+        "secim_bolge_id": "konya"
+    }
+]

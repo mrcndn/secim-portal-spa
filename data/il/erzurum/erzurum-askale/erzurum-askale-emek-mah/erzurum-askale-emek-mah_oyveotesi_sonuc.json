@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-askale",
+        "mahalle": "EMEK MAH.",
+        "ilce_adi": "AŞKALE",
+        "okul_adi": "EMEK MAHALLESİ ÜÇMART İLK OKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "erzurum-askale-emek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SOL PARTİ": 1,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 24,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 19,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-askale/1xxx/1026/erzurum-askale-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "406946",
+            "oyveotesi_sync_timestamp": 1684340171
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-askale/1xxx/1026/erzurum-askale-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "406946",
+            "oyveotesi_sync_timestamp": 1684340171
+        },
+        "secim_bolge_id": "erzurum"
+    },
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-askale",
+        "mahalle": "EMEK MAH.",
+        "ilce_adi": "AŞKALE",
+        "okul_adi": "EMEK MAHALLESİ ÜÇMART İLK OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "erzurum-askale-emek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340171
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340171
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

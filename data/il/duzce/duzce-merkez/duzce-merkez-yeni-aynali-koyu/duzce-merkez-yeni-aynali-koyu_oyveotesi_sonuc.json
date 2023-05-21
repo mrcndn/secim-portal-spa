@@ -1,0 +1,87 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "YENİ AYNALI KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "YENİ AYNALI KÖYÜ KÖY KAHVEHANESİ",
+        "sandik_no": 1544,
+        "mahalle_id": "duzce-merkez-yeni-aynali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1544/duzce-merkez-1544-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "392922",
+            "oyveotesi_sync_timestamp": 1684338155
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "392922",
+            "oyveotesi_sync_timestamp": 1684338155
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "YENİ AYNALI KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "YENİ AYNALI KÖYÜ KÖY KAHVEHANESİ",
+        "sandik_no": 1543,
+        "mahalle_id": "duzce-merkez-yeni-aynali-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 185,
+            "sayim_sonuc": {
+                "TOPLAM": 185,
+                "ZAFER PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1543/duzce-merkez-1543-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814441",
+            "oyveotesi_sync_timestamp": 1684338155
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1543/duzce-merkez-1543-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814441",
+            "oyveotesi_sync_timestamp": 1684338155
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

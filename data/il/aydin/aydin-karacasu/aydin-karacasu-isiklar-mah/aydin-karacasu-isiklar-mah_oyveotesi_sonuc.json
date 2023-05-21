@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-karacasu",
+        "mahalle": "IŞIKLAR MAH.",
+        "ilce_adi": "KARACASU",
+        "okul_adi": "IŞIKLAR İLKOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "aydin-karacasu-isiklar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394662
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 154,
+            "sayim_sonuc": {
+                "TOPLAM": 154,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1033/aydin-karacasu-1033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394662
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-karacasu",
+        "mahalle": "IŞIKLAR MAH.",
+        "ilce_adi": "KARACASU",
+        "okul_adi": "IŞIKLAR İLKOKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "aydin-karacasu-isiklar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394662
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1034/aydin-karacasu-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394662
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

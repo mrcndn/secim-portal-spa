@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "ALİAĞA MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "ALİAĞA İLKOKULU",
+        "sandik_no": 2008,
+        "mahalle_id": "mersin-tarsus-aliaga-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363741
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 312,
+                "RECEP TAYYİP ERDOĞAN": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2008/mersin-tarsus-2008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363741
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

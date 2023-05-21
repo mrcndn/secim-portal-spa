@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-sirvan",
+        "mahalle": "SOĞANLI KÖYÜ",
+        "ilce_adi": "ŞİRVAN",
+        "okul_adi": "SOĞANLI İLKÖĞRETİM OKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "siirt-sirvan-soganli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "İYİ PARTİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-sirvan/1xxx/1056/siirt-sirvan-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "564814",
+            "oyveotesi_sync_timestamp": 1684360986
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "564814",
+            "oyveotesi_sync_timestamp": 1684360986
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

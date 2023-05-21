@@ -1,0 +1,802 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DİKKONAK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-dikkonak-mah",
+        "oyveotesi_neighborhood_id": 27200
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "4 EYLÜL MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-4-eylul-mah",
+        "oyveotesi_neighborhood_id": 27173
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ABACI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-abaci-mah",
+        "oyveotesi_neighborhood_id": 27149
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ADALI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-adali-mah",
+        "oyveotesi_neighborhood_id": 27145
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "AKYAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-akyar-mah",
+        "oyveotesi_neighborhood_id": 27162
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ALANKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-alankoy-mah",
+        "oyveotesi_neighborhood_id": 27135
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ALTINLAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-altinlar-mah",
+        "oyveotesi_neighborhood_id": 27163
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "AŞAĞIÇAMLI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-asagicamli-mah",
+        "oyveotesi_neighborhood_id": 27140
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "AŞAĞIGÖCEK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-asagigocek-mah",
+        "oyveotesi_neighborhood_id": 27189
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "BABAKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-babakoy-mah",
+        "oyveotesi_neighborhood_id": 27152
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "BADEMLİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-bademli-mah",
+        "oyveotesi_neighborhood_id": 27130
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "BALATLI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-balatli-mah",
+        "oyveotesi_neighborhood_id": 27153
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "BAŞÇEŞME MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-bascesme-mah",
+        "oyveotesi_neighborhood_id": 27194
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "BEĞENDİKLER MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-begendikler-mah",
+        "oyveotesi_neighborhood_id": 27181
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "BEKİRLER MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-bekirler-mah",
+        "oyveotesi_neighborhood_id": 27199
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "BOZBÜK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-bozbuk-mah",
+        "oyveotesi_neighborhood_id": 27154
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇAĞIŞ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-cagis-mah",
+        "oyveotesi_neighborhood_id": 27197
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "CAMİİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-camii-mah",
+        "oyveotesi_neighborhood_id": 27156
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇAMKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-camkoy-mah",
+        "oyveotesi_neighborhood_id": 27138
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇAVUŞ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-cavus-mah",
+        "oyveotesi_neighborhood_id": 27177
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇAYÜSTÜ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-cayustu-mah",
+        "oyveotesi_neighborhood_id": 27139
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇEKİRDEKLİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-cekirdekli-mah",
+        "oyveotesi_neighborhood_id": 27124
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇERİBAŞI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-ceribasi-mah",
+        "oyveotesi_neighborhood_id": 27168
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇITAK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-citak-mah",
+        "oyveotesi_neighborhood_id": 27167
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÇÖMLEKÇİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-comlekci-mah",
+        "oyveotesi_neighborhood_id": 27125
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DAVUTÇA MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-davutca-mah",
+        "oyveotesi_neighborhood_id": 27190
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DAVUTLAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-davutlar-mah",
+        "oyveotesi_neighborhood_id": 27195
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DEDEÇINAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-dedecinar-mah",
+        "oyveotesi_neighborhood_id": 27164
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DEĞİRMENLİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-degirmenli-mah",
+        "oyveotesi_neighborhood_id": 27142
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DERE ÇERKES MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-dere-cerkes-mah",
+        "oyveotesi_neighborhood_id": 27141
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DOĞANÇAM MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-dogancam-mah",
+        "oyveotesi_neighborhood_id": 27191
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DÜNDARCIK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-dundarcik-mah",
+        "oyveotesi_neighborhood_id": 27143
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "DURASILAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-durasilar-mah",
+        "oyveotesi_neighborhood_id": 27182
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ELYAPAN MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-elyapan-mah",
+        "oyveotesi_neighborhood_id": 27169
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "EMEK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-emek-mah",
+        "oyveotesi_neighborhood_id": 27192
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "EMİRLER MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-emirler-mah",
+        "oyveotesi_neighborhood_id": 27131
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ESENLİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-esenli-mah",
+        "oyveotesi_neighborhood_id": 27201
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "FETHİBEY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-fethibey-mah",
+        "oyveotesi_neighborhood_id": 27183
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "GÜVEMÇETMİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-guvemcetmi-mah",
+        "oyveotesi_neighborhood_id": 27146
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "HACIÖMERDERESİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-haciomerderesi-mah",
+        "oyveotesi_neighborhood_id": 27170
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "HAMİDİYE MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-hamidiye-mah",
+        "oyveotesi_neighborhood_id": 27185
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "HİSARKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-hisarkoy-mah",
+        "oyveotesi_neighborhood_id": 27184
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "İĞCİLER MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-igciler-mah",
+        "oyveotesi_neighborhood_id": 27134
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "İLYASLAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-ilyaslar-mah",
+        "oyveotesi_neighborhood_id": 27144
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "IŞIKLAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-isiklar-mah",
+        "oyveotesi_neighborhood_id": 27165
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "İSKELEKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-iskelekoy-mah",
+        "oyveotesi_neighborhood_id": 27129
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KADIKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kadikoy-mah",
+        "oyveotesi_neighborhood_id": 27136
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KALAFAT MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kalafat-mah",
+        "oyveotesi_neighborhood_id": 27196
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KARABAHÇE MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-karabahce-mah",
+        "oyveotesi_neighborhood_id": 27158
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KARGIN MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kargin-mah",
+        "oyveotesi_neighborhood_id": 27174
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KAYALIDERE MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kayalidere-mah",
+        "oyveotesi_neighborhood_id": 27176
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KAYIRLAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kayirlar-mah",
+        "oyveotesi_neighborhood_id": 27178
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KIRCA MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kirca-mah",
+        "oyveotesi_neighborhood_id": 27186
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KIZILÇUKUR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kizilcukur-mah",
+        "oyveotesi_neighborhood_id": 27159
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KÖSELER MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-koseler-mah",
+        "oyveotesi_neighborhood_id": 27147
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KOZPINAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kozpinar-mah",
+        "oyveotesi_neighborhood_id": 27150
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KÜÇÜKYENİKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kucukyenikoy-mah",
+        "oyveotesi_neighborhood_id": 27160
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KÜRSÜ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kursu-mah",
+        "oyveotesi_neighborhood_id": 27132
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "KUYU MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-kuyu-mah",
+        "oyveotesi_neighborhood_id": 27187
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "MECİDİYE MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-mecidiye-mah",
+        "oyveotesi_neighborhood_id": 27161
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "MEYVALI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-meyvali-mah",
+        "oyveotesi_neighborhood_id": 27155
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "OKÇULAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-okcular-mah",
+        "oyveotesi_neighborhood_id": 27202
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "OKÇULARYERİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-okcularyeri-mah",
+        "oyveotesi_neighborhood_id": 27137
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ORTA MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-orta-mah",
+        "oyveotesi_neighborhood_id": 27188
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "OSMANCA MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-osmanca-mah",
+        "oyveotesi_neighborhood_id": 27179
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "ÖZGÖREN MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-ozgoren-mah",
+        "oyveotesi_neighborhood_id": 27198
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "PANAYIR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-panayir-mah",
+        "oyveotesi_neighborhood_id": 27171
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "SALMANLI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-salmanli-mah",
+        "oyveotesi_neighborhood_id": 27175
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "SERVİ MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-servi-mah",
+        "oyveotesi_neighborhood_id": 27172
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "TOPALAK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-topalak-mah",
+        "oyveotesi_neighborhood_id": 27133
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "TOZAĞAN MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-tozagan-mah",
+        "oyveotesi_neighborhood_id": 27148
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "TURFULLAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-turfullar-mah",
+        "oyveotesi_neighborhood_id": 27126
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YAĞCIBEDİR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yagcibedir-mah",
+        "oyveotesi_neighborhood_id": 27180
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YAĞCILAR MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yagcilar-mah",
+        "oyveotesi_neighborhood_id": 27166
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 27151
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YEŞİLDERE MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yesildere-mah",
+        "oyveotesi_neighborhood_id": 27123
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YOLBAŞI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yolbasi-mah",
+        "oyveotesi_neighborhood_id": 27127
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YUKARIÇAMLI MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yukaricamli-mah",
+        "oyveotesi_neighborhood_id": 27193
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YUKARIGÖÇEK MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yukarigocek-mah",
+        "oyveotesi_neighborhood_id": 27128
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bigadic",
+        "mahalle": "YÜRÜCEKLER MAH.",
+        "ilce_adi": "BİGADİÇ",
+        "mahalle_id": "balikesir-bigadic-yurucekler-mah",
+        "oyveotesi_neighborhood_id": 27157
+    }
+]

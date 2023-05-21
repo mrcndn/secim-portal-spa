@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-merkez",
+        "mahalle": "AKOBA KÖYÜ",
+        "ilce_adi": "BATMAN MERKEZ",
+        "okul_adi": "AKOBA KÖYÜ İLKOKULU",
+        "sandik_no": 1473,
+        "mahalle_id": "batman-merkez-akoba-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SOL PARTİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/1xxx/1473/batman-merkez-1473-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530583",
+            "oyveotesi_sync_timestamp": 1684332418
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "KEMAL KILIÇDAROĞLU": 210,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/1xxx/1473/batman-merkez-1473-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530583",
+            "oyveotesi_sync_timestamp": 1684332418
+        },
+        "secim_bolge_id": "batman"
+    },
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-merkez",
+        "mahalle": "AKOBA KÖYÜ",
+        "ilce_adi": "BATMAN MERKEZ",
+        "okul_adi": "AKOBA KÖYÜ İLKOKULU",
+        "sandik_no": 1474,
+        "mahalle_id": "batman-merkez-akoba-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "SOL PARTİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/1xxx/1474/batman-merkez-1474-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530585",
+            "oyveotesi_sync_timestamp": 1684332418
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 226,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-merkez/1xxx/1474/batman-merkez-1474-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "530585",
+            "oyveotesi_sync_timestamp": 1684332418
+        },
+        "secim_bolge_id": "batman"
+    }
+]

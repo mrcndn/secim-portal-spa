@@ -1,0 +1,106 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bandirma",
+        "mahalle": "DERE MAH.",
+        "ilce_adi": "BANDIRMA",
+        "okul_adi": "HÜRRİYET İLKOKULU",
+        "sandik_no": 1119,
+        "mahalle_id": "balikesir-bandirma-dere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "İYİ PARTİ": 45,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 123,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bandirma/1xxx/1119/balikesir-bandirma-1119-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832697",
+            "oyveotesi_sync_timestamp": 1684331468
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 179,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bandirma/1xxx/1119/balikesir-bandirma-1119-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832697",
+            "oyveotesi_sync_timestamp": 1684331468
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bandirma",
+        "mahalle": "DERE MAH.",
+        "ilce_adi": "BANDIRMA",
+        "okul_adi": "HÜRRİYET İLKOKULU",
+        "sandik_no": 1120,
+        "mahalle_id": "balikesir-bandirma-dere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331468
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 205,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bandirma/1xxx/1120/balikesir-bandirma-1120-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331468
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bandirma",
+        "mahalle": "DERE MAH.",
+        "ilce_adi": "BANDIRMA",
+        "okul_adi": "HÜRRİYET İLKOKULU",
+        "sandik_no": 1121,
+        "mahalle_id": "balikesir-bandirma-dere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331468
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331468
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

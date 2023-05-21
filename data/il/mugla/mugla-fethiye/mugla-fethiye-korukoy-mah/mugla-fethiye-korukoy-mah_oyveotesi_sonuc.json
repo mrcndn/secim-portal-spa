@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-fethiye",
+        "mahalle": "KORUKÖY MAH.",
+        "ilce_adi": "FETHİYE",
+        "okul_adi": "KORUKÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1207,
+        "mahalle_id": "mugla-fethiye-korukoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 97,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-fethiye/1xxx/1207/mugla-fethiye-1207-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "254749",
+            "oyveotesi_sync_timestamp": 1684374700
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-fethiye/1xxx/1207/mugla-fethiye-1207-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "254749",
+            "oyveotesi_sync_timestamp": 1684374700
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

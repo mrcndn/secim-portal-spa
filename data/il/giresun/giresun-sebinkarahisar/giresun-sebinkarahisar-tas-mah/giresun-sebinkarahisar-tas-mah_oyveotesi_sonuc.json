@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-sebinkarahisar",
+        "mahalle": "TAŞ MAH.",
+        "ilce_adi": "ŞEBİNKARAHİSAR",
+        "okul_adi": "TAŞ MAHALLESİ-ÖĞRETMEN HÜSEYİN HÜSNÜ TEKIŞIK ANADOLU LİSESİ",
+        "sandik_no": 1025,
+        "mahalle_id": "giresun-sebinkarahisar-tas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343430
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343430
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-sebinkarahisar",
+        "mahalle": "TAŞ MAH.",
+        "ilce_adi": "ŞEBİNKARAHİSAR",
+        "okul_adi": "TAŞ MAHALLESİ-ÖĞRETMEN HÜSEYİN HÜSNÜ TEKIŞIK ANADOLU LİSESİ",
+        "sandik_no": 1026,
+        "mahalle_id": "giresun-sebinkarahisar-tas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-sebinkarahisar/1xxx/1026/giresun-sebinkarahisar-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "749902",
+            "oyveotesi_sync_timestamp": 1684343430
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "749902",
+            "oyveotesi_sync_timestamp": 1684343430
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

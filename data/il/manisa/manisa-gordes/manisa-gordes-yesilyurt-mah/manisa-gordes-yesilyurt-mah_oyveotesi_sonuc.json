@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "YEŞİLYURT MAH. İLKOKULU",
+        "sandik_no": 1093,
+        "mahalle_id": "manisa-gordes-yesilyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1093/manisa-gordes-1093-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "567259",
+            "oyveotesi_sync_timestamp": 1684396650
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 82,
+            "sayim_sonuc": {
+                "TOPLAM": 82,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1093/manisa-gordes-1093-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "567259",
+            "oyveotesi_sync_timestamp": 1684396650
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

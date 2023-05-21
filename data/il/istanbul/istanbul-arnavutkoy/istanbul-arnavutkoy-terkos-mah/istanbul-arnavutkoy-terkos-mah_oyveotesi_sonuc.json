@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-arnavutkoy",
+        "mahalle": "TERKOS MAH.",
+        "ilce_adi": "ARNAVUTKÖY",
+        "okul_adi": "DURUSU HÜSEYİN ÖKTEN LİSESİ",
+        "sandik_no": 1540,
+        "mahalle_id": "istanbul-arnavutkoy-terkos-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 58,
+                "VATAN PARTİSİ": 8,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 106,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE İŞÇİ PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "410023",
+            "oyveotesi_sync_timestamp": 1684340013
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 185,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "410023",
+            "oyveotesi_sync_timestamp": 1684340013
+        },
+        "secim_bolge_id": "istanbul3"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-arnavutkoy",
+        "mahalle": "TERKOS MAH.",
+        "ilce_adi": "ARNAVUTKÖY",
+        "okul_adi": "DURUSU HÜSEYİN ÖKTEN LİSESİ",
+        "sandik_no": 1541,
+        "mahalle_id": "istanbul-arnavutkoy-terkos-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340013
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 173,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340013
+        },
+        "secim_bolge_id": "istanbul3"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "ATAKÖY MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "ATAKÖY MAH. İLKOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "ankara-haymana-atakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "İYİ PARTİ": 1,
+                "MİLLİ YOL PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 21,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "362678",
+            "oyveotesi_sync_timestamp": 1684393530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "362678",
+            "oyveotesi_sync_timestamp": 1684393530
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "ATAKÖY MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "ATAKÖY MAH. İLKOKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "ankara-haymana-atakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393530
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

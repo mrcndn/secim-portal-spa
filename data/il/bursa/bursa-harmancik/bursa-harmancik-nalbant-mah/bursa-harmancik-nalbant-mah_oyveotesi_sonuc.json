@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-harmancik",
+        "mahalle": "NALBANT MAH.",
+        "ilce_adi": "HARMANCIK",
+        "okul_adi": "NALBANT İLKOKULU",
+        "sandik_no": 1038,
+        "mahalle_id": "bursa-harmancik-nalbant-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "İYİ PARTİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 23,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "828343",
+            "oyveotesi_sync_timestamp": 1684334620
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "828343",
+            "oyveotesi_sync_timestamp": 1684334620
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

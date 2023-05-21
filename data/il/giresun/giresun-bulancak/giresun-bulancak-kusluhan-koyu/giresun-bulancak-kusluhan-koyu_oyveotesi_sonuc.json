@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-bulancak",
+        "mahalle": "KUŞLUHAN KÖYÜ",
+        "ilce_adi": "BULANCAK",
+        "okul_adi": "KUŞLUHAN KÖY ODASI",
+        "sandik_no": 1159,
+        "mahalle_id": "giresun-bulancak-kusluhan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 126,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1159/giresun-bulancak-1159-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793164",
+            "oyveotesi_sync_timestamp": 1684342844
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 117,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1159/giresun-bulancak-1159-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "793164",
+            "oyveotesi_sync_timestamp": 1684342844
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

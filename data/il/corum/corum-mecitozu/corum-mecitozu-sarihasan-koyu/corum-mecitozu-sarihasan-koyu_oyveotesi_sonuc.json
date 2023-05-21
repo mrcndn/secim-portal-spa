@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "SARIHASAN KÖYÜ",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "SARIHASAN KÖY İLKOKULU",
+        "sandik_no": 1057,
+        "mahalle_id": "corum-mecitozu-sarihasan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 154,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1057/corum-mecitozu-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266524",
+            "oyveotesi_sync_timestamp": 1684368841
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1057/corum-mecitozu-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266524",
+            "oyveotesi_sync_timestamp": 1684368841
+        },
+        "secim_bolge_id": "corum"
+    }
+]

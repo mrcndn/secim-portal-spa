@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-cermik",
+        "mahalle": "BAYIRBAĞI MAH.",
+        "ilce_adi": "ÇERMİK",
+        "okul_adi": "BAYIRBAĞI İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "diyarbakir-cermik-bayirbagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336969
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 42,
+            "sayim_sonuc": {
+                "TOPLAM": 42,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-cermik/1xxx/1025/diyarbakir-cermik-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336969
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

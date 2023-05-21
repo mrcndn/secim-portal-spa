@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-golcuk",
+        "mahalle": "HALIDERE YENİ MAH.",
+        "ilce_adi": "GÖLCÜK",
+        "okul_adi": "HALIDERE ORTAOKULU ( C )",
+        "sandik_no": 1131,
+        "mahalle_id": "kocaeli-golcuk-halidere-yeni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 49,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 11,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 16,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 130,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-golcuk/1xxx/1131/kocaeli-golcuk-1131-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "267438",
+            "oyveotesi_sync_timestamp": 1684349773
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 29,
+                "KEMAL KILIÇDAROĞLU": 184,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-golcuk/1xxx/1131/kocaeli-golcuk-1131-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "267438",
+            "oyveotesi_sync_timestamp": 1684349773
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

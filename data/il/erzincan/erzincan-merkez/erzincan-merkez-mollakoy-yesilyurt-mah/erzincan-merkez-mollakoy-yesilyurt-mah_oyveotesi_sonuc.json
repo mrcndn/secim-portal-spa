@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "MOLLAKÖY-YEŞİLYURT MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "AZİZBEY ÇİFTLİĞİ 100.YIL İLKÖĞRETİM OKULU",
+        "sandik_no": 1325,
+        "mahalle_id": "erzincan-merkez-mollakoy-yesilyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "CUMHURİYET HALK PARTİSİ": 167,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1325/erzincan-merkez-1325-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175489",
+            "oyveotesi_sync_timestamp": 1684339561
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "KEMAL KILIÇDAROĞLU": 174,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1325/erzincan-merkez-1325-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175489",
+            "oyveotesi_sync_timestamp": 1684339561
+        },
+        "secim_bolge_id": "erzincan"
+    },
+    {
+        "il_id": "erzincan",
+        "il_adi": "ERZİNCAN",
+        "il_kodu": 24,
+        "ilce_id": "erzincan-merkez",
+        "mahalle": "MOLLAKÖY-YEŞİLYURT MAH.",
+        "ilce_adi": "ERZİNCAN MERKEZ",
+        "okul_adi": "AZİZBEY ÇİFTLİĞİ 100.YIL İLKÖĞRETİM OKULU",
+        "sandik_no": 1324,
+        "mahalle_id": "erzincan-merkez-mollakoy-yesilyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "CUMHURİYET HALK PARTİSİ": 171,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1324/erzincan-merkez-1324-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175531",
+            "oyveotesi_sync_timestamp": 1684339561
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 175,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzincan-tutanaklari/blob/main/tutanak/erzincan/erzincan-merkez/1xxx/1324/erzincan-merkez-1324-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175531",
+            "oyveotesi_sync_timestamp": 1684339561
+        },
+        "secim_bolge_id": "erzincan"
+    }
+]

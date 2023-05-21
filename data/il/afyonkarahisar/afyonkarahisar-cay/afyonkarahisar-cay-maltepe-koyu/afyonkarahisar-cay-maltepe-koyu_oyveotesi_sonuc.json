@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "MALTEPE KÖYÜ",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "MALTEPE İLKOKULU",
+        "sandik_no": 1076,
+        "mahalle_id": "afyonkarahisar-cay-maltepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1076/afyonkarahisar-cay-1076-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711327",
+            "oyveotesi_sync_timestamp": 1684324821
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1076/afyonkarahisar-cay-1076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711327",
+            "oyveotesi_sync_timestamp": 1684324821
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

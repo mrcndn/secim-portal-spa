@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-alpu",
+        "mahalle": "SARIKAVAK MAH.",
+        "ilce_adi": "ALPU",
+        "okul_adi": "SARIKAVAK MAHALLESİ KONAĞI YENİ",
+        "sandik_no": 1037,
+        "mahalle_id": "eskisehir-alpu-sarikavak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 126,
+            "sayim_sonuc": {
+                "TOPLAM": 126,
+                "İYİ PARTİ": 37,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1037/eskisehir-alpu-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174274",
+            "oyveotesi_sync_timestamp": 1684341419
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1037/eskisehir-alpu-1037-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174274",
+            "oyveotesi_sync_timestamp": 1684341419
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "YENİKIZILCAKESE MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "YENİKIZILCAKESE MAH. CAMİ ALTI KÖY ODASI",
+        "sandik_no": 1351,
+        "mahalle_id": "ordu-unye-yenikizilcakese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360206
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-unye/1xxx/1351/ordu-unye-1351-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360206
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-pervari",
+        "mahalle": "GÖKBUDAK KÖYÜ",
+        "ilce_adi": "PERVARİ",
+        "okul_adi": "GÖKBUDAK İLK-ORTA MÜD.",
+        "sandik_no": 1037,
+        "mahalle_id": "siirt-pervari-gokbudak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364350
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364350
+        },
+        "secim_bolge_id": "siirt"
+    },
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-pervari",
+        "mahalle": "GÖKBUDAK KÖYÜ",
+        "ilce_adi": "PERVARİ",
+        "okul_adi": "GÖKBUDAK İLK-ORTA MÜD.",
+        "sandik_no": 1038,
+        "mahalle_id": "siirt-pervari-gokbudak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-pervari/1xxx/1038/siirt-pervari-1038-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "540783",
+            "oyveotesi_sync_timestamp": 1684364350
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "540783",
+            "oyveotesi_sync_timestamp": 1684364350
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

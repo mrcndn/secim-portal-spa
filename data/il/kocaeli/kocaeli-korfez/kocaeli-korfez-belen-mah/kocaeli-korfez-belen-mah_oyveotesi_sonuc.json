@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-korfez",
+        "mahalle": "BELEN MAH.",
+        "ilce_adi": "KÖRFEZ",
+        "okul_adi": "BELEN KÖY KONAĞI",
+        "sandik_no": 1038,
+        "mahalle_id": "kocaeli-korfez-belen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 155,
+            "sayim_sonuc": {
+                "TOPLAM": 155,
+                "İYİ PARTİ": 14,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-korfez/1xxx/1038/kocaeli-korfez-1038-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "185029",
+            "oyveotesi_sync_timestamp": 1684327194
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-korfez/1xxx/1038/kocaeli-korfez-1038-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "185029",
+            "oyveotesi_sync_timestamp": 1684327194
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

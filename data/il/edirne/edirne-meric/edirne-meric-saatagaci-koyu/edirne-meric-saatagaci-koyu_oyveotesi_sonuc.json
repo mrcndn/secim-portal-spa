@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-meric",
+        "mahalle": "SAATAĞACI KÖYÜ",
+        "ilce_adi": "MERİÇ",
+        "okul_adi": "SAATAĞACI KÖY KONAĞI",
+        "sandik_no": 1039,
+        "mahalle_id": "edirne-meric-saatagaci-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "ADALET PARTİSİ": 24,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-meric/1xxx/1039/edirne-meric-1039-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "736613",
+            "oyveotesi_sync_timestamp": 1684338570
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-meric/1xxx/1039/edirne-meric-1039-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "736613",
+            "oyveotesi_sync_timestamp": 1684338570
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

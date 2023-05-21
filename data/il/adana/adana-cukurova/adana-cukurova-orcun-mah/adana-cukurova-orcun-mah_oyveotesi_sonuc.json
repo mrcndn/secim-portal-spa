@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-cukurova",
+        "mahalle": "ÖRCÜN MAH.",
+        "ilce_adi": "ÇUKUROVA",
+        "okul_adi": "ÖRCÜN İLKOKULU",
+        "sandik_no": 1206,
+        "mahalle_id": "adana-cukurova-orcun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-cukurova/1xxx/1206/adana-cukurova-1206-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "508360",
+            "oyveotesi_sync_timestamp": 1684371151
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 162
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-cukurova/1xxx/1206/adana-cukurova-1206-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "508360",
+            "oyveotesi_sync_timestamp": 1684371151
+        },
+        "secim_bolge_id": "adana"
+    }
+]

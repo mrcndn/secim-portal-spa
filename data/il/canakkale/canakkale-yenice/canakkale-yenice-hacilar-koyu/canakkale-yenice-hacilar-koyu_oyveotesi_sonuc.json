@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-yenice",
+        "mahalle": "HACILAR KÖYÜ",
+        "ilce_adi": "YENİCE",
+        "okul_adi": "HACILAR KÖY KONAĞI",
+        "sandik_no": 1063,
+        "mahalle_id": "canakkale-yenice-hacilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 98,
+            "sayim_sonuc": {
+                "TOPLAM": 98,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1063/canakkale-yenice-1063-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573976",
+            "oyveotesi_sync_timestamp": 1684336151
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-yenice/1xxx/1063/canakkale-yenice-1063-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573976",
+            "oyveotesi_sync_timestamp": 1684336151
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

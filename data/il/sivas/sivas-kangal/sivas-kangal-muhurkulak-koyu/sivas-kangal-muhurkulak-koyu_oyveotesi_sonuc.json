@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-kangal",
+        "mahalle": "MÜHÜRKULAK KÖYÜ",
+        "ilce_adi": "KANGAL",
+        "okul_adi": "MÜHÜRKULAK ODASI",
+        "sandik_no": 1105,
+        "mahalle_id": "sivas-kangal-muhurkulak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-kangal/1xxx/1105/sivas-kangal-1105-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174859",
+            "oyveotesi_sync_timestamp": 1684358575
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 28,
+            "sayim_sonuc": {
+                "TOPLAM": 28,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-kangal/1xxx/1105/sivas-kangal-1105-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "174859",
+            "oyveotesi_sync_timestamp": 1684358575
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

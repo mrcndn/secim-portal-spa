@@ -1,0 +1,71 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-golyaka",
+        "mahalle": "HAMAMÜSTÜ KÖYÜ",
+        "ilce_adi": "GÖLYAKA",
+        "okul_adi": "HAMAMÜSTÜ KÖYÜ CEVİZLİK MAHALLESİ CAMİ YANI",
+        "sandik_no": 1042,
+        "mahalle_id": "duzce-golyaka-hamamustu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338187
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338187
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-golyaka",
+        "mahalle": "HAMAMÜSTÜ KÖYÜ",
+        "ilce_adi": "GÖLYAKA",
+        "okul_adi": "HAMAMÜSTÜ KÖYÜ MERKEZ KÖY KONAĞI",
+        "sandik_no": 1043,
+        "mahalle_id": "duzce-golyaka-hamamustu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-golyaka/1xxx/1043/duzce-golyaka-1043-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "682849",
+            "oyveotesi_sync_timestamp": 1684338187
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 160
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-golyaka/1xxx/1043/duzce-golyaka-1043-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "682849",
+            "oyveotesi_sync_timestamp": 1684338187
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

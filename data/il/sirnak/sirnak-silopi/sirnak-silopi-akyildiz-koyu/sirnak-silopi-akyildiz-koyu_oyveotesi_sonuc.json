@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-silopi",
+        "mahalle": "AKYILDIZ KÖYÜ",
+        "ilce_adi": "SİLOPİ",
+        "okul_adi": "BABINDAK İLK-ORTA OKULU",
+        "sandik_no": 1209,
+        "mahalle_id": "sirnak-silopi-akyildiz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370740
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370740
+        },
+        "secim_bolge_id": "sirnak"
+    },
+    {
+        "il_id": "sirnak",
+        "il_adi": "ŞIRNAK",
+        "il_kodu": 73,
+        "ilce_id": "sirnak-silopi",
+        "mahalle": "AKYILDIZ KÖYÜ",
+        "ilce_adi": "SİLOPİ",
+        "okul_adi": "BABINDAK İLK-ORTA OKULU",
+        "sandik_no": 1208,
+        "mahalle_id": "sirnak-silopi-akyildiz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370740
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 189,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sirnak-tutanaklari/blob/main/tutanak/sirnak/sirnak-silopi/1xxx/1208/sirnak-silopi-1208-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370740
+        },
+        "secim_bolge_id": "sirnak"
+    }
+]

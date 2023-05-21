@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "YÜNÖREN KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "YÜNÖREN KÖYÜ KÖY KONAĞI NO:34",
+        "sandik_no": 1105,
+        "mahalle_id": "sivas-imranli-yunoren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1105/sivas-imranli-1105-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203861",
+            "oyveotesi_sync_timestamp": 1684359033
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1105/sivas-imranli-1105-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203861",
+            "oyveotesi_sync_timestamp": 1684359033
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-ardesen",
+        "mahalle": "YURTSEVER KÖYÜ",
+        "ilce_adi": "ARDEŞEN",
+        "okul_adi": "YURTSEVER KÖYÜ KÖY KONAĞINDA",
+        "sandik_no": 1122,
+        "mahalle_id": "rize-ardesen-yurtsever-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356296
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 128,
+            "sayim_sonuc": {
+                "TOPLAM": 128,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 57
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1122/rize-ardesen-1122-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356296
+        },
+        "secim_bolge_id": "rize"
+    }
+]

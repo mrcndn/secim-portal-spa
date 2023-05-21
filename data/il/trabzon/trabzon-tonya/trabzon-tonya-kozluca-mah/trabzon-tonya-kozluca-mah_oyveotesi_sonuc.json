@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-tonya",
+        "mahalle": "KOZLUCA MAH.",
+        "ilce_adi": "TONYA",
+        "okul_adi": "KOZLUCA ESKİ OKUL BİNASI",
+        "sandik_no": 1028,
+        "mahalle_id": "trabzon-tonya-kozluca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 71,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-tonya/1xxx/1028/trabzon-tonya-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "191522",
+            "oyveotesi_sync_timestamp": 1684366134
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "191522",
+            "oyveotesi_sync_timestamp": 1684366134
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

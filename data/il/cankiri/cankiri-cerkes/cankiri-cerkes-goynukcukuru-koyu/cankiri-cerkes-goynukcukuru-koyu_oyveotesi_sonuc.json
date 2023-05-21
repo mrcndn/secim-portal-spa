@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-cerkes",
+        "mahalle": "GÖYNÜKÇUKURU KÖYÜ",
+        "ilce_adi": "ÇERKEŞ",
+        "okul_adi": "YEŞİLÖREN MAHALLESİ İLKOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "cankiri-cerkes-goynukcukuru-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336343
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336343
+        },
+        "secim_bolge_id": "cankiri"
+    },
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-cerkes",
+        "mahalle": "GÖYNÜKÇUKURU KÖYÜ",
+        "ilce_adi": "ÇERKEŞ",
+        "okul_adi": "GÖYNÜKÇUKURU KÖY KONAĞI",
+        "sandik_no": 1050,
+        "mahalle_id": "cankiri-cerkes-goynukcukuru-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336343
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-cerkes/1xxx/1050/cankiri-cerkes-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684336343
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-merkez",
+        "mahalle": "SARPINAĞZI KÖYÜ",
+        "ilce_adi": "OSMANİYE MERKEZ",
+        "okul_adi": "SARPINAĞZI KÖYÜ- ŞEHİT ERDOĞAN KARATEKERİLKOKULU",
+        "sandik_no": 1528,
+        "mahalle_id": "osmaniye-merkez-sarpinagzi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 246,
+            "sayim_sonuc": {
+                "TOPLAM": 246,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 117,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1528/osmaniye-merkez-1528-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816153",
+            "oyveotesi_sync_timestamp": 1684375150
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 187
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1528/osmaniye-merkez-1528-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816153",
+            "oyveotesi_sync_timestamp": 1684375150
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

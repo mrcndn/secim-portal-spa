@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ikizce",
+        "mahalle": "BEYLERCE MAH.",
+        "ilce_adi": "İKİZCE",
+        "okul_adi": "BEYLERCE MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "ordu-ikizce-beylerce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "İYİ PARTİ": 46,
+                "ZAFER PARTİSİ": 6,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ikizce/1xxx/1008/ordu-ikizce-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "311386",
+            "oyveotesi_sync_timestamp": 1684360299
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "311386",
+            "oyveotesi_sync_timestamp": 1684360299
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

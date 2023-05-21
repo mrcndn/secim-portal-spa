@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-ercis",
+        "mahalle": "GERGİLİ MAH.",
+        "ilce_adi": "ERCİŞ",
+        "okul_adi": "ÇAKIR BEY MEHMET DEMİR ORTA OKULU",
+        "sandik_no": 1141,
+        "mahalle_id": "van-ercis-gergili-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 77,
+            "sayim_sonuc": {
+                "TOPLAM": 77,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1141/van-ercis-1141-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173195",
+            "oyveotesi_sync_timestamp": 1684356829
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1141/van-ercis-1141-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173195",
+            "oyveotesi_sync_timestamp": 1684356829
+        },
+        "secim_bolge_id": "van"
+    }
+]

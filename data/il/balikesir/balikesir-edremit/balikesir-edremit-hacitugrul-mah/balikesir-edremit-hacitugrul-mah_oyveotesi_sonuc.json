@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-edremit",
+        "mahalle": "HACITUĞRUL MAH.",
+        "ilce_adi": "EDREMİT",
+        "okul_adi": "KARAGÖZOĞLU İLKOKULU",
+        "sandik_no": 1197,
+        "mahalle_id": "balikesir-edremit-hacitugrul-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "İYİ PARTİ": 10,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-edremit/1xxx/1197/balikesir-edremit-1197-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179506",
+            "oyveotesi_sync_timestamp": 1684330002
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-edremit/1xxx/1197/balikesir-edremit-1197-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "179506",
+            "oyveotesi_sync_timestamp": 1684330002
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

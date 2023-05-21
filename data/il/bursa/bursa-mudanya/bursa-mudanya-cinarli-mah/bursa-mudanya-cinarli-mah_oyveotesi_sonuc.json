@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mudanya",
+        "mahalle": "ÇINARLI MAH.",
+        "ilce_adi": "MUDANYA",
+        "okul_adi": "ÇINARLI KÖY KONAĞI ÜSTÜ (DÜĞÜN SALONU)",
+        "sandik_no": 1033,
+        "mahalle_id": "bursa-mudanya-cinarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "832995",
+            "oyveotesi_sync_timestamp": 1684328687
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 103,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "832995",
+            "oyveotesi_sync_timestamp": 1684328687
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

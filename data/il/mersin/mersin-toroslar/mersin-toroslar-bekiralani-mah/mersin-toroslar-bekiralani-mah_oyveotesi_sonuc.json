@@ -1,0 +1,96 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-toroslar",
+        "mahalle": "BEKİRALANI MAH.",
+        "ilce_adi": "TOROSLAR",
+        "okul_adi": "BEKİRALANI ESKİ SAĞLIK OCAĞI",
+        "sandik_no": 2020,
+        "mahalle_id": "mersin-toroslar-bekiralani-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "İYİ PARTİ": 37,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 116,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2020/mersin-toroslar-2020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "187064",
+            "oyveotesi_sync_timestamp": 1684364114
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 157,
+                "RECEP TAYYİP ERDOĞAN": 102
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2020/mersin-toroslar-2020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "187064",
+            "oyveotesi_sync_timestamp": 1684364114
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-toroslar",
+        "mahalle": "BEKİRALANI MAH.",
+        "ilce_adi": "TOROSLAR",
+        "okul_adi": "BEKİRALANI ESKİ SAĞLIK OCAĞI",
+        "sandik_no": 2021,
+        "mahalle_id": "mersin-toroslar-bekiralani-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 266,
+            "sayim_sonuc": {
+                "TOPLAM": 266,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 41,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 110,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2021/mersin-toroslar-2021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "483103",
+            "oyveotesi_sync_timestamp": 1684364114
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 162,
+                "RECEP TAYYİP ERDOĞAN": 95
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2021/mersin-toroslar-2021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "483103",
+            "oyveotesi_sync_timestamp": 1684364114
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

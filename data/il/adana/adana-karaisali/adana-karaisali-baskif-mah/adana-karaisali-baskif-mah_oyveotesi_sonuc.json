@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-karaisali",
+        "mahalle": "BAŞKIF MAH.",
+        "ilce_adi": "KARAİSALI",
+        "okul_adi": "BAŞKIF MAH. CAMİİ LOJMANI",
+        "sandik_no": 1008,
+        "mahalle_id": "adana-karaisali-baskif-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 148,
+            "sayim_sonuc": {
+                "TOPLAM": 148,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-karaisali/1xxx/1008/adana-karaisali-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "490023",
+            "oyveotesi_sync_timestamp": 1684371244
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "490023",
+            "oyveotesi_sync_timestamp": 1684371244
+        },
+        "secim_bolge_id": "adana"
+    }
+]

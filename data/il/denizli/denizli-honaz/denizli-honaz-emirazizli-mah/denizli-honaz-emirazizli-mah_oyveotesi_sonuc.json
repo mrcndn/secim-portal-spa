@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-honaz",
+        "mahalle": "EMİRAZİZLİ MAH.",
+        "ilce_adi": "HONAZ",
+        "okul_adi": "EMİRAZİZLİ KÖY KAHVESİ",
+        "sandik_no": 1018,
+        "mahalle_id": "denizli-honaz-emirazizli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "İYİ PARTİ": 45,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 26,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-honaz/1xxx/1018/denizli-honaz-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566010",
+            "oyveotesi_sync_timestamp": 1684365825
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "566010",
+            "oyveotesi_sync_timestamp": 1684365825
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

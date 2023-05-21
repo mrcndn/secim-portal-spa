@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-sur",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "SUR",
+        "okul_adi": "KÖPRÜBAŞI İ.Ö.O",
+        "sandik_no": 1148,
+        "mahalle_id": "diyarbakir-sur-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SOL PARTİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 98
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-sur/1xxx/1148/diyarbakir-sur-1148-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "190285",
+            "oyveotesi_sync_timestamp": 1684337760
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 103,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-sur/1xxx/1148/diyarbakir-sur-1148-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "190285",
+            "oyveotesi_sync_timestamp": 1684337760
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-sur",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "SUR",
+        "okul_adi": "KÖPRÜBAŞI İ.Ö.O",
+        "sandik_no": 1147,
+        "mahalle_id": "diyarbakir-sur-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 184,
+            "sayim_sonuc": {
+                "TOPLAM": 184,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-sur/1xxx/1147/diyarbakir-sur-1147-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "188398",
+            "oyveotesi_sync_timestamp": 1684337760
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "188398",
+            "oyveotesi_sync_timestamp": 1684337760
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-merkez",
+        "mahalle": "KARAKÖSE KÖYÜ",
+        "ilce_adi": "UŞAK MERKEZ",
+        "okul_adi": "KARAKÖSE KÖY İLKOKULU",
+        "sandik_no": 1533,
+        "mahalle_id": "usak-merkez-karakose-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 31,
+            "sayim_sonuc": {
+                "TOPLAM": 31,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1533/usak-merkez-1533-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836216",
+            "oyveotesi_sync_timestamp": 1684369708
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-merkez/1xxx/1533/usak-merkez-1533-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836216",
+            "oyveotesi_sync_timestamp": 1684369708
+        },
+        "secim_bolge_id": "usak"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MÜRSELOĞLU MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "MURSELOĞLU İLK OKULU",
+        "sandik_no": 2312,
+        "mahalle_id": "adana-seyhan-murseloglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370880
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "KEMAL KILIÇDAROĞLU": 241,
+                "RECEP TAYYİP ERDOĞAN": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/2xxx/2312/adana-seyhan-2312-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370880
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "MÜRSELOĞLU MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "MURSELOĞLU İLK OKULU",
+        "sandik_no": 2313,
+        "mahalle_id": "adana-seyhan-murseloglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "İYİ PARTİ": 94,
+                "VATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 95,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE İŞÇİ PARTİSİ": 21,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/2xxx/2313/adana-seyhan-2313-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "715534",
+            "oyveotesi_sync_timestamp": 1684370880
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 229,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/2xxx/2313/adana-seyhan-2313-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "715534",
+            "oyveotesi_sync_timestamp": 1684370880
+        },
+        "secim_bolge_id": "adana"
+    }
+]

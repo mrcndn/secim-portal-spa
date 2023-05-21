@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-merkez",
+        "mahalle": "BAHÇE KÖYÜ",
+        "ilce_adi": "OSMANİYE MERKEZ",
+        "okul_adi": "BAHÇE KÖYÜ- BAHÇE ORTAOKULU",
+        "sandik_no": 1473,
+        "mahalle_id": "osmaniye-merkez-bahce-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375123
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375123
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-merkez",
+        "mahalle": "BAHÇE KÖYÜ",
+        "ilce_adi": "OSMANİYE MERKEZ",
+        "okul_adi": "BAHÇE KÖYÜ- BAHÇE ORTAOKULU",
+        "sandik_no": 1474,
+        "mahalle_id": "osmaniye-merkez-bahce-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375123
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-merkez/1xxx/1474/osmaniye-merkez-1474-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375123
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

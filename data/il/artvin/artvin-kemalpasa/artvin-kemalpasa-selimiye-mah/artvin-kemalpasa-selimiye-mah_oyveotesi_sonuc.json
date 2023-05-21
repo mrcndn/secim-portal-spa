@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-kemalpasa",
+        "mahalle": "SELİMİYE MAH.",
+        "ilce_adi": "KEMALPAŞA",
+        "okul_adi": "KEMALPAŞA GENÇLİK MERKEZİ",
+        "sandik_no": 1009,
+        "mahalle_id": "artvin-kemalpasa-selimiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361773
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-kemalpasa/1xxx/1009/artvin-kemalpasa-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361773
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

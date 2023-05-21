@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-ahmetli",
+        "mahalle": "YARAŞLI MAH.",
+        "ilce_adi": "AHMETLİ",
+        "okul_adi": "YARAŞLI MUSTAFA AKÇA KÖY KAHVESİ",
+        "sandik_no": 1043,
+        "mahalle_id": "manisa-ahmetli-yarasli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "İYİ PARTİ": 52,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 90,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-ahmetli/1xxx/1043/manisa-ahmetli-1043-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "586757",
+            "oyveotesi_sync_timestamp": 1684351594
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "586757",
+            "oyveotesi_sync_timestamp": 1684351594
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

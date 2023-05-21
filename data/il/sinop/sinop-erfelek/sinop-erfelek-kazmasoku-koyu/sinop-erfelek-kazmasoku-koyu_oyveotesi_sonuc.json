@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "KAZMASÖKÜ KÖYÜ",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "KAZMASÖKÜ KÖYÜ İLK OKULU",
+        "sandik_no": 1037,
+        "mahalle_id": "sinop-erfelek-kazmasoku-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1037/sinop-erfelek-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "763422",
+            "oyveotesi_sync_timestamp": 1684354219
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "763422",
+            "oyveotesi_sync_timestamp": 1684354219
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

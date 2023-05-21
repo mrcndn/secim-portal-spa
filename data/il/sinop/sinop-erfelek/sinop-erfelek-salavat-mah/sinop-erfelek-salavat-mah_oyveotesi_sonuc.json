@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-erfelek",
+        "mahalle": "SALAVAT MAH.",
+        "ilce_adi": "ERFELEK",
+        "okul_adi": "YUNUS EMRE ORTAOKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "sinop-erfelek-salavat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1010/sinop-erfelek-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "374771",
+            "oyveotesi_sync_timestamp": 1684354209
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-erfelek/1xxx/1010/sinop-erfelek-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "374771",
+            "oyveotesi_sync_timestamp": 1684354209
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

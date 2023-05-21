@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-safranbolu",
+        "mahalle": "MUSALLA MAH.",
+        "ilce_adi": "SAFRANBOLU",
+        "okul_adi": "KALEALTI ŞEHİT OĞUZ İNAN İLKOKULU",
+        "sandik_no": 1109,
+        "mahalle_id": "karabuk-safranbolu-musalla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346251
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346251
+        },
+        "secim_bolge_id": "karabuk"
+    },
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-safranbolu",
+        "mahalle": "MUSALLA MAH.",
+        "ilce_adi": "SAFRANBOLU",
+        "okul_adi": "KALEALTI ŞEHİT OĞUZ İNAN İLKOKULU",
+        "sandik_no": 1108,
+        "mahalle_id": "karabuk-safranbolu-musalla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-safranbolu/1xxx/1108/karabuk-safranbolu-1108-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178808",
+            "oyveotesi_sync_timestamp": 1684346251
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 169,
+            "sayim_sonuc": {
+                "TOPLAM": 169,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-safranbolu/1xxx/1108/karabuk-safranbolu-1108-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178808",
+            "oyveotesi_sync_timestamp": 1684346251
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

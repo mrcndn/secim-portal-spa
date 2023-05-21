@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-niksar",
+        "mahalle": "ORMANCIK KÖYÜ",
+        "ilce_adi": "NİKSAR",
+        "okul_adi": "ORMANCIK KÖYÜ İLKOKULU",
+        "sandik_no": 1177,
+        "mahalle_id": "tokat-niksar-ormancik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 43,
+                "MEMLEKET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 207,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-niksar/1xxx/1177/tokat-niksar-1177-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828036",
+            "oyveotesi_sync_timestamp": 1684365009
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "828036",
+            "oyveotesi_sync_timestamp": 1684365009
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

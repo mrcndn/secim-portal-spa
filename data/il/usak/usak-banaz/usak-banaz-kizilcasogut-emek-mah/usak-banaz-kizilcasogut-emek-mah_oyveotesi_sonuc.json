@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "KIZILCASÖĞÜT-EMEK MAH.",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "KIZILCASÖĞÜT -ŞEHİT SERDAR ULUDAĞ ORTAOKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "usak-banaz-kizilcasogut-emek-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369767
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 225,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1044/usak-banaz-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369767
+        },
+        "secim_bolge_id": "usak"
+    }
+]

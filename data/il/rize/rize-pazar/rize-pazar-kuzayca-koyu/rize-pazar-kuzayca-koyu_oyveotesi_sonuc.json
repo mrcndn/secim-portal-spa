@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-pazar",
+        "mahalle": "KUZAYCA KÖYÜ",
+        "ilce_adi": "PAZAR",
+        "okul_adi": "KUZAYCA KÖYÜ ÇAYKUR ÜSTÜ DÜĞÜN SALONU",
+        "sandik_no": 1080,
+        "mahalle_id": "rize-pazar-kuzayca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1080/rize-pazar-1080-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "469701",
+            "oyveotesi_sync_timestamp": 1684355866
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 205
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-pazar/1xxx/1080/rize-pazar-1080-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "469701",
+            "oyveotesi_sync_timestamp": 1684355866
+        },
+        "secim_bolge_id": "rize"
+    }
+]

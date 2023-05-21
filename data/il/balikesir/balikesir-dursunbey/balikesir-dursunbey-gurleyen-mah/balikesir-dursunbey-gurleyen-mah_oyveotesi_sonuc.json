@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-dursunbey",
+        "mahalle": "GÜRLEYEN MAH.",
+        "ilce_adi": "DURSUNBEY",
+        "okul_adi": "GÜRLEYEN KÖY KONAĞI",
+        "sandik_no": 1073,
+        "mahalle_id": "balikesir-dursunbey-gurleyen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1073/balikesir-dursunbey-1073-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "444274",
+            "oyveotesi_sync_timestamp": 1684331677
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 29,
+            "sayim_sonuc": {
+                "TOPLAM": 29,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1073/balikesir-dursunbey-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "444274",
+            "oyveotesi_sync_timestamp": 1684331677
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

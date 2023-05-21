@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "ÜVEZDERE KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "ÜVEZDERE KÖY KONAĞI",
+        "sandik_no": 1145,
+        "mahalle_id": "canakkale-can-uvezdere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "İYİ PARTİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1145/canakkale-can-1145-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015925",
+            "oyveotesi_sync_timestamp": 1684335974
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1145/canakkale-can-1145-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1015925",
+            "oyveotesi_sync_timestamp": 1684335974
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

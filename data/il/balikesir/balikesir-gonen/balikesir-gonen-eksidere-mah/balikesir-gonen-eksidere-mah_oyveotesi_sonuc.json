@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-gonen",
+        "mahalle": "EKŞİDERE MAH.",
+        "ilce_adi": "GÖNEN",
+        "okul_adi": "EKŞİDERE MAH KÖY KAHVEHANESİ",
+        "sandik_no": 1051,
+        "mahalle_id": "balikesir-gonen-eksidere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1051/balikesir-gonen-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "341330",
+            "oyveotesi_sync_timestamp": 1684331834
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 116
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1051/balikesir-gonen-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "341330",
+            "oyveotesi_sync_timestamp": 1684331834
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

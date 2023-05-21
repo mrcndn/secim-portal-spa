@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-arhavi",
+        "mahalle": "YUKARI HACILAR MAH.",
+        "ilce_adi": "ARHAVİ",
+        "okul_adi": "HACILAR İLKÖĞRETİM OKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "artvin-arhavi-yukari-hacilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361695
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361695
+        },
+        "secim_bolge_id": "artvin"
+    },
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-arhavi",
+        "mahalle": "YUKARI HACILAR MAH.",
+        "ilce_adi": "ARHAVİ",
+        "okul_adi": "HACILAR İLKÖĞRETİM OKULU",
+        "sandik_no": 1039,
+        "mahalle_id": "artvin-arhavi-yukari-hacilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 7,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 82,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 147,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-arhavi/1xxx/1039/artvin-arhavi-1039-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "685280",
+            "oyveotesi_sync_timestamp": 1684361695
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 103,
+                "RECEP TAYYİP ERDOĞAN": 176
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-arhavi/1xxx/1039/artvin-arhavi-1039-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "685280",
+            "oyveotesi_sync_timestamp": 1684361695
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

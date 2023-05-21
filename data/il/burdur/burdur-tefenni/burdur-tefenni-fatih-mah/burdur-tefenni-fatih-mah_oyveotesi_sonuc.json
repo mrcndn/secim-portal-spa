@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "ANADOLU İMAM HATİP LİSESİ",
+        "sandik_no": 1004,
+        "mahalle_id": "burdur-tefenni-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 267,
+            "sayim_sonuc": {
+                "TOPLAM": 267,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1004/burdur-tefenni-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334578
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "ANADOLU İMAM HATİP LİSESİ",
+        "sandik_no": 1005,
+        "mahalle_id": "burdur-tefenni-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 52,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 79,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1005/burdur-tefenni-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "578329",
+            "oyveotesi_sync_timestamp": 1684334578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "SİNAN OĞAN": 31,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 118,
+                "RECEP TAYYİP ERDOĞAN": 130
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1005/burdur-tefenni-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "578329",
+            "oyveotesi_sync_timestamp": 1684334578
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

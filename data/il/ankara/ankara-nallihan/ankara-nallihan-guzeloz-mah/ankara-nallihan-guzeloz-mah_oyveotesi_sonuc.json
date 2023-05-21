@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "GÜZELÖZ MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "GÜZELÖZ MAHALLESİ KONAĞI",
+        "sandik_no": 1068,
+        "mahalle_id": "ankara-nallihan-guzeloz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376082
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 57
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684376082
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

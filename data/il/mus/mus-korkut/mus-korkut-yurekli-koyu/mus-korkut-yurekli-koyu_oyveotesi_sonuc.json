@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-korkut",
+        "mahalle": "YÜREKLİ KÖYÜ",
+        "ilce_adi": "KORKUT",
+        "okul_adi": "YÜREKLİ KÖYÜ İLKOKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "mus-korkut-yurekli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "İYİ PARTİ": 3,
+                "YENİDEN REFAH PARTİSİ": 37,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 15,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-korkut/1xxx/1055/mus-korkut-1055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "230095",
+            "oyveotesi_sync_timestamp": 1684393840
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "230095",
+            "oyveotesi_sync_timestamp": 1684393840
+        },
+        "secim_bolge_id": "mus"
+    }
+]

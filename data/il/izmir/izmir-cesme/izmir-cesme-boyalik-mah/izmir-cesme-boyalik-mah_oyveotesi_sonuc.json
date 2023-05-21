@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-cesme",
+        "mahalle": "BOYALIK MAH.",
+        "ilce_adi": "ÇEŞME",
+        "okul_adi": "ULUSOY MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1037,
+        "mahalle_id": "izmir-cesme-boyalik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 36,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 198,
+                "ADALET VE KALKINMA PARTİSİ": 42,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "203980",
+            "oyveotesi_sync_timestamp": 1684362007
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 242,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "203980",
+            "oyveotesi_sync_timestamp": 1684362007
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

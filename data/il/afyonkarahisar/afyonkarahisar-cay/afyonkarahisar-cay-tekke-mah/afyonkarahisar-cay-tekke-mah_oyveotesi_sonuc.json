@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "TEKKE MAH.",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "ÇAY NENE HATUN MTAL (KIZ MESLEK LİSESİ)",
+        "sandik_no": 1028,
+        "mahalle_id": "afyonkarahisar-cay-tekke-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324833
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1028/afyonkarahisar-cay-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324833
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

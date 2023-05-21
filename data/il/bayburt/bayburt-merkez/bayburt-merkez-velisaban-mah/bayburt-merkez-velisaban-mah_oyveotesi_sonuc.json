@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "bayburt",
+        "il_adi": "BAYBURT",
+        "il_kodu": 69,
+        "ilce_id": "bayburt-merkez",
+        "mahalle": "VELİŞABAN MAH.",
+        "ilce_adi": "BAYBURT MERKEZ",
+        "okul_adi": "21 ŞUBAT KURTULUŞ İLKOKULU",
+        "sandik_no": 1068,
+        "mahalle_id": "bayburt-merkez-velisaban-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328405
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328405
+        },
+        "secim_bolge_id": "bayburt"
+    },
+    {
+        "il_id": "bayburt",
+        "il_adi": "BAYBURT",
+        "il_kodu": 69,
+        "ilce_id": "bayburt-merkez",
+        "mahalle": "VELİŞABAN MAH.",
+        "ilce_adi": "BAYBURT MERKEZ",
+        "okul_adi": "21 ŞUBAT KURTULUŞ İLKOKULU",
+        "sandik_no": 1067,
+        "mahalle_id": "bayburt-merkez-velisaban-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "İYİ PARTİ": 55,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 151,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1067/bayburt-merkez-1067-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178125",
+            "oyveotesi_sync_timestamp": 1684328405
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 211
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bayburt-tutanaklari/blob/main/tutanak/bayburt/bayburt-merkez/1xxx/1067/bayburt-merkez-1067-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178125",
+            "oyveotesi_sync_timestamp": 1684328405
+        },
+        "secim_bolge_id": "bayburt"
+    }
+]

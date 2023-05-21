@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-ahmetli",
+        "mahalle": "DERİCİ MAH.",
+        "ilce_adi": "AHMETLİ",
+        "okul_adi": "DERİCİ KÖY KAHVESİ",
+        "sandik_no": 1016,
+        "mahalle_id": "manisa-ahmetli-derici-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351579
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-ahmetli/1xxx/1016/manisa-ahmetli-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684351579
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-cat",
+        "mahalle": "YARMAK MAH.",
+        "ilce_adi": "ÇAT",
+        "okul_adi": "YARMAK İLKÖĞRETİM OKULU",
+        "sandik_no": 1053,
+        "mahalle_id": "erzurum-cat-yarmak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 134,
+            "sayim_sonuc": {
+                "TOPLAM": 134,
+                "SOL PARTİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 54,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 59
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-cat/1xxx/1053/erzurum-cat-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832272",
+            "oyveotesi_sync_timestamp": 1684340357
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "832272",
+            "oyveotesi_sync_timestamp": 1684340357
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

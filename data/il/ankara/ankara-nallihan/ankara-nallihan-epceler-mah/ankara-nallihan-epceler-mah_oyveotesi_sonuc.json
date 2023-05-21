@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "EPÇELER MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "EPÇELER MAHALLESİ KONAĞI",
+        "sandik_no": 1061,
+        "mahalle_id": "ankara-nallihan-epceler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "604064",
+            "oyveotesi_sync_timestamp": 1684376076
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 42,
+            "sayim_sonuc": {
+                "TOPLAM": 42,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 23
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "604064",
+            "oyveotesi_sync_timestamp": 1684376076
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

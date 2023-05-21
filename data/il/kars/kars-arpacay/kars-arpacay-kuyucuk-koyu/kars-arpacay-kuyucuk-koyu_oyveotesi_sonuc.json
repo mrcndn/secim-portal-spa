@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-arpacay",
+        "mahalle": "KUYUCUK KÖYÜ",
+        "ilce_adi": "ARPAÇAY",
+        "okul_adi": "KUYUCUK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1038,
+        "mahalle_id": "kars-arpacay-kuyucuk-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 149,
+            "sayim_sonuc": {
+                "TOPLAM": 149,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 37,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kars-tutanaklari/blob/main/tutanak/kars/kars-arpacay/1xxx/1038/kars-arpacay-1038-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574061",
+            "oyveotesi_sync_timestamp": 1684346364
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "574061",
+            "oyveotesi_sync_timestamp": 1684346364
+        },
+        "secim_bolge_id": "kars"
+    }
+]

@@ -1,0 +1,792 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇIRPILAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-cirpilar-koyu",
+        "oyveotesi_neighborhood_id": 46862
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "AĞAÇKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-agackoy",
+        "oyveotesi_neighborhood_id": 46876
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "AHMETÇELİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-ahmetceli-koyu",
+        "oyveotesi_neighborhood_id": 46815
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "AKPINAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-akpinar-koyu",
+        "oyveotesi_neighborhood_id": 46816
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ALAKEÇİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-alakeci-koyu",
+        "oyveotesi_neighborhood_id": 46881
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ALİKABAKLAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-alikabaklar-koyu",
+        "oyveotesi_neighborhood_id": 46831
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "AŞAĞIŞAPCI KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-asagisapci-koyu",
+        "oyveotesi_neighborhood_id": 46819
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "AŞAĞIŞEVİK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-asagisevik-koyu",
+        "oyveotesi_neighborhood_id": 46826
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "BEKİRLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-bekirler-koyu",
+        "oyveotesi_neighborhood_id": 46822
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "BEŞİK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-besik-koyu",
+        "oyveotesi_neighborhood_id": 46839
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "BEZİRGANLAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-bezirganlar-koyu",
+        "oyveotesi_neighborhood_id": 46845
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "BIYIKLI KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-biyikli-koyu",
+        "oyveotesi_neighborhood_id": 46827
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇALIDAĞI KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-calidagi-koyu",
+        "oyveotesi_neighborhood_id": 46818
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇALIOBAAKÇAKIL KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-caliobaakcakil-koyu",
+        "oyveotesi_neighborhood_id": 46830
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "CAMİCEDİT MAH.",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-camicedit-mah",
+        "oyveotesi_neighborhood_id": 46840
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-camikebir-mah",
+        "oyveotesi_neighborhood_id": 46820
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇATALÇAM KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-catalcam-koyu",
+        "oyveotesi_neighborhood_id": 46849
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇAVUŞKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-cavuskoy",
+        "oyveotesi_neighborhood_id": 46875
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇAVUŞLU KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-cavuslu-koyu",
+        "oyveotesi_neighborhood_id": 46857
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "CAZGİRLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-cazgirler-koyu",
+        "oyveotesi_neighborhood_id": 46841
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇİFTLİK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-ciftlik-koyu",
+        "oyveotesi_neighborhood_id": 46863
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "DAĞAHMETÇE KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-dagahmetce-koyu",
+        "oyveotesi_neighborhood_id": 46858
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "DAĞOBA KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-dagoba-koyu",
+        "oyveotesi_neighborhood_id": 46877
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "DALOBA KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-daloba-koyu",
+        "oyveotesi_neighborhood_id": 46886
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "DOĞANCI KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-doganci-koyu",
+        "oyveotesi_neighborhood_id": 46817
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "EVCİLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-evciler-koyu",
+        "oyveotesi_neighborhood_id": 46887
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "GEDİK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-gedik-koyu",
+        "oyveotesi_neighborhood_id": 46853
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "GÖKÇEİÇİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-gokceici-koyu",
+        "oyveotesi_neighborhood_id": 46859
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "GÜZELTEPE KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-guzeltepe-koyu",
+        "oyveotesi_neighborhood_id": 46882
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "HACIBEKİRLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-hacibekirler-koyu",
+        "oyveotesi_neighborhood_id": 46878
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "HACIDERVİŞLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-hacidervisler-koyu",
+        "oyveotesi_neighborhood_id": 46832
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "HACIKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-hacikoy",
+        "oyveotesi_neighborhood_id": 46864
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "IŞIKELİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-isikeli-koyu",
+        "oyveotesi_neighborhood_id": 46865
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KARAİBRAHİMLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-karaibrahimler-koyu",
+        "oyveotesi_neighborhood_id": 46811
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KARAKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-karakoy",
+        "oyveotesi_neighborhood_id": 46834
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KARINCALIK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-karincalik-koyu",
+        "oyveotesi_neighborhood_id": 46860
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KAYKILAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-kaykilar-koyu",
+        "oyveotesi_neighborhood_id": 46856
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KORUCAK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-korucak-koyu",
+        "oyveotesi_neighborhood_id": 46833
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KÖSELER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-koseler-koyu",
+        "oyveotesi_neighborhood_id": 46870
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KOŞUBURNUTÜRKMENLERİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-kosuburnuturkmenleri-koyu",
+        "oyveotesi_neighborhood_id": 46869
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KÖYLÜ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-koylu-koyu",
+        "oyveotesi_neighborhood_id": 46851
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KÜLCÜLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-kulculer-koyu",
+        "oyveotesi_neighborhood_id": 46852
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KURŞUNLU KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-kursunlu-koyu",
+        "oyveotesi_neighborhood_id": 46850
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KUŞÇAYIR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-kuscayir-koyu",
+        "oyveotesi_neighborhood_id": 46872
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "KUTLUOBA KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-kutluoba-koyu",
+        "oyveotesi_neighborhood_id": 46835
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "MENDERES MAH.",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-menderes-mah",
+        "oyveotesi_neighborhood_id": 46888
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "MOLLAHASANLAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-mollahasanlar-koyu",
+        "oyveotesi_neighborhood_id": 46866
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "MURATLAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-muratlar-koyu",
+        "oyveotesi_neighborhood_id": 46883
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "NEBİLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-nebiler-koyu",
+        "oyveotesi_neighborhood_id": 46871
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÖRENLİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-orenli-koyu",
+        "oyveotesi_neighborhood_id": 46855
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "OSMANİYE KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-osmaniye-koyu",
+        "oyveotesi_neighborhood_id": 46867
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "PALAMUTOBA KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-palamutoba-koyu",
+        "oyveotesi_neighborhood_id": 46823
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "PINARBAŞI KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-pinarbasi-koyu",
+        "oyveotesi_neighborhood_id": 46846
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "PITIRELİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-pitireli-koyu",
+        "oyveotesi_neighborhood_id": 46812
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "SAÇAKLI KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-sacakli-koyu",
+        "oyveotesi_neighborhood_id": 46813
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "SARAYCIK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-saraycik-koyu",
+        "oyveotesi_neighborhood_id": 46884
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "SARIDÜZ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-sariduz-koyu",
+        "oyveotesi_neighborhood_id": 46885
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "SARIOT KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-sariot-koyu",
+        "oyveotesi_neighborhood_id": 46873
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "SERHAT KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-serhat-koyu",
+        "oyveotesi_neighborhood_id": 46829
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "SÖĞÜTGEDİĞİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-sogutgedigi-koyu",
+        "oyveotesi_neighborhood_id": 46847
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "TEPECİK MAH.",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-tepecik-mah",
+        "oyveotesi_neighborhood_id": 46836
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "TOLUKLAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-toluklar-koyu",
+        "oyveotesi_neighborhood_id": 46821
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "TONGURLU KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-tongurlu-koyu",
+        "oyveotesi_neighborhood_id": 46874
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "TÜLÜLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-tululer-koyu",
+        "oyveotesi_neighborhood_id": 46868
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "TÜRKMENLİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-turkmenli-koyu",
+        "oyveotesi_neighborhood_id": 46828
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÜÇYOL KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-ucyol-koyu",
+        "oyveotesi_neighborhood_id": 46814
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÜZÜMLÜ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-uzumlu-koyu",
+        "oyveotesi_neighborhood_id": 46843
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YAHŞİELİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yahsieli-koyu",
+        "oyveotesi_neighborhood_id": 46837
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YANIKLAR KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yaniklar-koyu",
+        "oyveotesi_neighborhood_id": 46861
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YASSIBAĞ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yassibag-koyu",
+        "oyveotesi_neighborhood_id": 46879
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YAYLACIK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yaylacik-koyu",
+        "oyveotesi_neighborhood_id": 46854
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YENİCEKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yenicekoy",
+        "oyveotesi_neighborhood_id": 46824
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YENİKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yenikoy",
+        "oyveotesi_neighborhood_id": 50313
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YEŞİLKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yesilkoy",
+        "oyveotesi_neighborhood_id": 46838
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YİĞİTALİLER KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yigitaliler-koyu",
+        "oyveotesi_neighborhood_id": 46842
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YUKARIŞAPÇI KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yukarisapci-koyu",
+        "oyveotesi_neighborhood_id": 46844
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YUKARIŞEVİK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-yukarisevik-koyu",
+        "oyveotesi_neighborhood_id": 46880
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ZERDALİLİK KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-zerdalilik-koyu",
+        "oyveotesi_neighborhood_id": 46825
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ZEYTİNLİ KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "mahalle_id": "canakkale-bayramic-zeytinli-koyu",
+        "oyveotesi_neighborhood_id": 46848
+    }
+]

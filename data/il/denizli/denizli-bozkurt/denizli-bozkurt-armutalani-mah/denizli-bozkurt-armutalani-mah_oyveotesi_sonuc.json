@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-bozkurt",
+        "mahalle": "ARMUTALANI MAH.",
+        "ilce_adi": "BOZKURT",
+        "okul_adi": "ARMUTALAN MAHALLESİ (KÖY KONAĞI)",
+        "sandik_no": 1003,
+        "mahalle_id": "denizli-bozkurt-armutalani-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 47,
+            "sayim_sonuc": {
+                "TOPLAM": 47,
+                "İYİ PARTİ": 4,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bozkurt/1xxx/1003/denizli-bozkurt-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837026",
+            "oyveotesi_sync_timestamp": 1684365931
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 44,
+            "sayim_sonuc": {
+                "TOPLAM": 44,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bozkurt/1xxx/1003/denizli-bozkurt-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837026",
+            "oyveotesi_sync_timestamp": 1684365931
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

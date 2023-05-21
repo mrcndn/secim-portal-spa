@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "TAHTABAŞ MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "TAHTABAŞ MAH. CAMİ ALTI TOPLANTI SALONU",
+        "sandik_no": 1273,
+        "mahalle_id": "ordu-fatsa-tahtabas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1273/ordu-fatsa-1273-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833007",
+            "oyveotesi_sync_timestamp": 1684360898
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1273/ordu-fatsa-1273-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833007",
+            "oyveotesi_sync_timestamp": 1684360898
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

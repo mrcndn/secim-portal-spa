@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-bulancak",
+        "mahalle": "UCARLI MAH.",
+        "ilce_adi": "BULANCAK",
+        "okul_adi": "UCARLI İLKOKULU",
+        "sandik_no": 1106,
+        "mahalle_id": "giresun-bulancak-ucarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 5,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 155,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 65,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1106/giresun-bulancak-1106-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "202170",
+            "oyveotesi_sync_timestamp": 1684342866
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 183,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-bulancak/1xxx/1106/giresun-bulancak-1106-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "202170",
+            "oyveotesi_sync_timestamp": 1684342866
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

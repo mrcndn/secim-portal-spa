@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-haymana",
+        "mahalle": "GÜZELCEKALE MAH.",
+        "ilce_adi": "HAYMANA",
+        "okul_adi": "GÜZELCEKALE MAH. İLKOKULU",
+        "sandik_no": 1043,
+        "mahalle_id": "ankara-haymana-guzelcekale-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 150,
+            "sayim_sonuc": {
+                "TOPLAM": 150,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 97,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "710034",
+            "oyveotesi_sync_timestamp": 1684393475
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 153,
+            "sayim_sonuc": {
+                "TOPLAM": 153,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "710034",
+            "oyveotesi_sync_timestamp": 1684393475
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

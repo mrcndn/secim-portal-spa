@@ -1,0 +1,55 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-merkez",
+        "mahalle": "NURİBEY-MEHMET AKİF MAH.",
+        "ilce_adi": "AFYONKARAHİSAR MERKEZ",
+        "okul_adi": "NURİBEY İLKOKULU",
+        "sandik_no": 2259,
+        "mahalle_id": "afyonkarahisar-merkez-nuribey-mehmet-akif-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 246,
+            "sayim_sonuc": {
+                "TOPLAM": 246,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 17,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 83,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/2xxx/2259/afyonkarahisar-merkez-2259-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "575255",
+            "oyveotesi_sync_timestamp": 1684324607
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/2xxx/2259/afyonkarahisar-merkez-2259-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "575255",
+            "oyveotesi_sync_timestamp": 1684324607
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

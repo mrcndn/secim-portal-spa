@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-bekilli",
+        "mahalle": "ÇAMKÖY MAH.",
+        "ilce_adi": "BEKİLLİ",
+        "okul_adi": "ÇAMKÖY SAĞLIK OCAĞI",
+        "sandik_no": 1005,
+        "mahalle_id": "denizli-bekilli-camkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bekilli/1xxx/1005/denizli-bekilli-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827521",
+            "oyveotesi_sync_timestamp": 1684365761
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 85,
+            "sayim_sonuc": {
+                "TOPLAM": 85,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bekilli/1xxx/1005/denizli-bekilli-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827521",
+            "oyveotesi_sync_timestamp": 1684365761
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

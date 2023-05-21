@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-merkez",
+        "mahalle": "ÇERÇİLER MAH.",
+        "ilce_adi": "KARABÜK MERKEZ",
+        "okul_adi": "ÇERÇİLER MAHALLESİ SOSYAL YAŞAM MERKEZİ (YENİ BİNA)",
+        "sandik_no": 1103,
+        "mahalle_id": "karabuk-merkez-cerciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 165
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-merkez/1xxx/1103/karabuk-merkez-1103-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346099
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

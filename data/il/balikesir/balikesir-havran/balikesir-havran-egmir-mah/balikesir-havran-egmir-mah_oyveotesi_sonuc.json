@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-havran",
+        "mahalle": "EĞMİR MAH.",
+        "ilce_adi": "HAVRAN",
+        "okul_adi": "EĞMİR - İLKOKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "balikesir-havran-egmir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 156,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-havran/1xxx/1027/balikesir-havran-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1033628",
+            "oyveotesi_sync_timestamp": 1684331913
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 214
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-havran/1xxx/1027/balikesir-havran-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1033628",
+            "oyveotesi_sync_timestamp": 1684331913
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

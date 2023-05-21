@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "SERİNOVA-AYDINGÜN MAH.",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "SERİNOVA BEL.AYDINGÜN MAH. İLKOKULU",
+        "sandik_no": 1231,
+        "mahalle_id": "mus-merkez-serinova-aydingun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394016
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1231/mus-merkez-1231-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394016
+        },
+        "secim_bolge_id": "mus"
+    }
+]

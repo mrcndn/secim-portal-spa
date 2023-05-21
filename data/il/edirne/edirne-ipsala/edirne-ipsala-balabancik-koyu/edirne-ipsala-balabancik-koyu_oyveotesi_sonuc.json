@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-ipsala",
+        "mahalle": "BALABANCIK KÖYÜ",
+        "ilce_adi": "İPSALA",
+        "okul_adi": "BALABANCIK KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1040,
+        "mahalle_id": "edirne-ipsala-balabancik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338424
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 306,
+            "sayim_sonuc": {
+                "TOPLAM": 306,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 239,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-ipsala/1xxx/1040/edirne-ipsala-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338424
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

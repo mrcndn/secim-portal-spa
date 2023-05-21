@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-karatas",
+        "mahalle": "ÇAĞŞIRLI MAH.",
+        "ilce_adi": "KARATAŞ",
+        "okul_adi": "ÇAĞŞIRLI MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1009,
+        "mahalle_id": "adana-karatas-cagsirli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371188
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 149,
+            "sayim_sonuc": {
+                "TOPLAM": 149,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-karatas/1xxx/1009/adana-karatas-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371188
+        },
+        "secim_bolge_id": "adana"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-gediz",
+        "mahalle": "KUMTAŞ MAH.",
+        "ilce_adi": "GEDİZ",
+        "okul_adi": "(KIZ MESLEK )GEDİZ MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1020,
+        "mahalle_id": "kutahya-gediz-kumtas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350266
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1020/kutahya-gediz-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350266
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-gediz",
+        "mahalle": "KUMTAŞ MAH.",
+        "ilce_adi": "GEDİZ",
+        "okul_adi": "(KIZ MESLEK )GEDİZ MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1021,
+        "mahalle_id": "kutahya-gediz-kumtas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 55,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1021/kutahya-gediz-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "747537",
+            "oyveotesi_sync_timestamp": 1684350266
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "747537",
+            "oyveotesi_sync_timestamp": 1684350266
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

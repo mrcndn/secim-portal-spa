@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "ÇATALÇAM KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "ÇATALÇAM KÖYÜ KÖY KAHVESİ",
+        "sandik_no": 1054,
+        "mahalle_id": "canakkale-bayramic-catalcam-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335711
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 76,
+            "sayim_sonuc": {
+                "TOPLAM": 76,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1054/canakkale-bayramic-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335711
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

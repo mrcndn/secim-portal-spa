@@ -1,0 +1,816 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1263,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 253
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1263/konya-karatay-1263-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1264,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 21,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 25,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 156,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1264/konya-karatay-1264-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "221911",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 31,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 236
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1264/konya-karatay-1264-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "221911",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1265,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 16,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 194,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1265/konya-karatay-1265-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "226550",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 25,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 263
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1265/konya-karatay-1265-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "226550",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1266,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 6,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 23,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 189,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1266/konya-karatay-1266-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "258484",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 264
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1266/konya-karatay-1266-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "258484",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1267,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 14,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 31,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 170,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1267/konya-karatay-1267-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "213164",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 22,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 262
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1267/konya-karatay-1267-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "213164",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1268,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 30,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 179,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1268/konya-karatay-1268-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "262456",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 267
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1268/konya-karatay-1268-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "262456",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1269,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 27,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 168,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1269/konya-karatay-1269-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "256817",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 254
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1269/konya-karatay-1269-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "256817",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1270,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 35,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 203,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1270/konya-karatay-1270-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "201718",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SİNAN OĞAN": 24,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 275
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1270/konya-karatay-1270-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "201718",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1262,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 15,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 25,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 157,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1262/konya-karatay-1262-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199087",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 339,
+            "sayim_sonuc": {
+                "TOPLAM": 339,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 247
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1262/konya-karatay-1262-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199087",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1255,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 188,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1255/konya-karatay-1255-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "734116",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 249
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1255/konya-karatay-1255-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "734116",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1256,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 22,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "ADALET VE KALKINMA PARTİSİ": 198,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1256/konya-karatay-1256-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184596",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 22,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 267
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1256/konya-karatay-1256-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "184596",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1257,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 16,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 22,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 176,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1257/konya-karatay-1257-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203752",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "SİNAN OĞAN": 38,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 238
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1257/konya-karatay-1257-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203752",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1258,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 14,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 184,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 53,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1258/konya-karatay-1258-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "192342",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SİNAN OĞAN": 20,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 261
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1258/konya-karatay-1258-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "192342",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1259,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 255
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1259/konya-karatay-1259-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1260,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 28,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 197,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1260/konya-karatay-1260-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "257711",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 264
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1260/konya-karatay-1260-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "257711",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1261,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 28,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 182,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1261/konya-karatay-1261-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "255032",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 269
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1261/konya-karatay-1261-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "255032",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-karatay",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KARATAY",
+        "okul_adi": "İSTİKLAL İLKOKULU",
+        "sandik_no": 1254,
+        "mahalle_id": "konya-karatay-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 11,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 198,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1254/konya-karatay-1254-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "255833",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 277
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-karatay/1xxx/1254/konya-karatay-1254-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "255833",
+            "oyveotesi_sync_timestamp": 1684355217
+        },
+        "secim_bolge_id": "konya"
+    }
+]

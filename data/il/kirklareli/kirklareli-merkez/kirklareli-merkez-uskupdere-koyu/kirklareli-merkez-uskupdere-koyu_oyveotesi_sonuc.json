@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-merkez",
+        "mahalle": "ÜSKÜPDERE KÖYÜ",
+        "ilce_adi": "KIRKLARELİ MERKEZ",
+        "okul_adi": "ÜSKÜPDERE İLKÖĞRETİM OKULU",
+        "sandik_no": 1238,
+        "mahalle_id": "kirklareli-merkez-uskupdere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 107,
+            "sayim_sonuc": {
+                "TOPLAM": 107,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1238/kirklareli-merkez-1238-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "817537",
+            "oyveotesi_sync_timestamp": 1684349194
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1238/kirklareli-merkez-1238-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "817537",
+            "oyveotesi_sync_timestamp": 1684349194
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

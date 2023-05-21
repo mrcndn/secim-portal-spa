@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-merkez",
+        "mahalle": "BOZKALE MAH.",
+        "ilce_adi": "RİZE MERKEZ",
+        "okul_adi": "BOZKALE MAH. ÇAY ALIM YERİ",
+        "sandik_no": 1026,
+        "mahalle_id": "rize-merkez-bozkale-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 102,
+                "ADALET VE KALKINMA PARTİSİ": 77,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-merkez/1xxx/1026/rize-merkez-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762037",
+            "oyveotesi_sync_timestamp": 1684356071
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "762037",
+            "oyveotesi_sync_timestamp": 1684356071
+        },
+        "secim_bolge_id": "rize"
+    }
+]

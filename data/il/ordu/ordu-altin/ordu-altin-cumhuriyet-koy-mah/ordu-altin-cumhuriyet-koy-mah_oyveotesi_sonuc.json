@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-altin",
+        "mahalle": "CUMHURİYET (KÖY) MAH.",
+        "ilce_adi": "ALTINORDU",
+        "okul_adi": "CUMHURİYET KÖYÜ ORTAOKULU",
+        "sandik_no": 1108,
+        "mahalle_id": "ordu-altin-cumhuriyet-koy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360342
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 199
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-altin/1xxx/1108/ordu-altin-1108-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360342
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

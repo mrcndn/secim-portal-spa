@@ -1,0 +1,634 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE İLKOKULU",
+        "sandik_no": 2031,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE FATİH İLKOKULU",
+        "sandik_no": 2022,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 10,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 183,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 70,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2022/hatay-iskenderun-2022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "679620",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 351,
+            "sayim_sonuc": {
+                "TOPLAM": 351,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 267
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2022/hatay-iskenderun-2022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "679620",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE GEDİKSARAY İLKOKULU",
+        "sandik_no": 2023,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 28,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 68,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2023/hatay-iskenderun-2023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "786711",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 213
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2023/hatay-iskenderun-2023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "786711",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE GEDİKSARAY İLKOKULU",
+        "sandik_no": 2024,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "ADALET VE KALKINMA PARTİSİ": 115,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2024/hatay-iskenderun-2024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784258",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 185
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2024/hatay-iskenderun-2024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "784258",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE GEDİKSARAY İLKOKULU",
+        "sandik_no": 2026,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "İYİ PARTİ": 48,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2026/hatay-iskenderun-2026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "778740",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 193
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2026/hatay-iskenderun-2026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "778740",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE FATİH İLKOKULU",
+        "sandik_no": 2016,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 213,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2016/hatay-iskenderun-2016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "753901",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 279
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2016/hatay-iskenderun-2016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "753901",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE FATİH İLKOKULU",
+        "sandik_no": 2017,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 339,
+            "sayim_sonuc": {
+                "TOPLAM": 339,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "ADALET VE KALKINMA PARTİSİ": 194,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 77,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2017/hatay-iskenderun-2017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "751433",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 16,
+                "KEMAL KILIÇDAROĞLU": 40,
+                "RECEP TAYYİP ERDOĞAN": 285
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2017/hatay-iskenderun-2017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "751433",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE FATİH İLKOKULU",
+        "sandik_no": 2018,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 257
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2018/hatay-iskenderun-2018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE FATİH İLKOKULU",
+        "sandik_no": 2019,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 45,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 158,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 68,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2019/hatay-iskenderun-2019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "690922",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 241
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2019/hatay-iskenderun-2019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "690922",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE FATİH İLKOKULU",
+        "sandik_no": 2020,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 34,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 187,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 76,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2020/hatay-iskenderun-2020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "689215",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 350,
+            "sayim_sonuc": {
+                "TOPLAM": 350,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 266
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2020/hatay-iskenderun-2020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "689215",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE FATİH İLKOKULU",
+        "sandik_no": 2021,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 263
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2021/hatay-iskenderun-2021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE GEDİKSARAY İLKOKULU",
+        "sandik_no": 2025,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2025/hatay-iskenderun-2025-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781784",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 37,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 198
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2025/hatay-iskenderun-2025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781784",
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE GEDİKSARAY İLKOKULU",
+        "sandik_no": 2027,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 228
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2027/hatay-iskenderun-2027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE GEDİKSARAY İLKOKULU",
+        "sandik_no": 2028,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-iskenderun/2xxx/2028/hatay-iskenderun-2028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE İLKOKULU",
+        "sandik_no": 2029,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-iskenderun",
+        "mahalle": "BEKBELE MAH.",
+        "ilce_adi": "İSKENDERUN",
+        "okul_adi": "BEKBELE İLKOKULU",
+        "sandik_no": 2030,
+        "mahalle_id": "hatay-iskenderun-bekbele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375802
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

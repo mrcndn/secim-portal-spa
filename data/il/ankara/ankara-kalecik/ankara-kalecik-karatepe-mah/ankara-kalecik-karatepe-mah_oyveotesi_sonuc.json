@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kalecik",
+        "mahalle": "KARATEPE MAH.",
+        "ilce_adi": "KALECİK",
+        "okul_adi": "KARATEPE MAHALLESİ İLKOKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "ankara-kalecik-karatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "İYİ PARTİ": 9,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "594382",
+            "oyveotesi_sync_timestamp": 1684393596
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "594382",
+            "oyveotesi_sync_timestamp": 1684393596
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

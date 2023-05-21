@@ -1,0 +1,50 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-tepebasi",
+        "mahalle": "YAKAKAYI MAH.",
+        "ilce_adi": "TEPEBAŞI",
+        "okul_adi": "YAKAKAYI İLKOKULU",
+        "sandik_no": 2308,
+        "mahalle_id": "eskisehir-tepebasi-yakakayi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/2xxx/2308/eskisehir-tepebasi-2308-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832711",
+            "oyveotesi_sync_timestamp": 1684341940
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/2xxx/2308/eskisehir-tepebasi-2308-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832711",
+            "oyveotesi_sync_timestamp": 1684341940
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

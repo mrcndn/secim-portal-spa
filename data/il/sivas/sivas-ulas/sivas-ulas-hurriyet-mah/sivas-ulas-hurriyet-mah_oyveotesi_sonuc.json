@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-ulas",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "ULAŞ",
+        "okul_adi": "ULAŞ ÇOK PRAGRAMLI ANADOLU LİSESİ",
+        "sandik_no": 1004,
+        "mahalle_id": "sivas-ulas-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359016
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359016
+        },
+        "secim_bolge_id": "sivas"
+    },
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-ulas",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "ULAŞ",
+        "okul_adi": "ULAŞ ÇOK PRAGRAMLI ANADOLU LİSESİ",
+        "sandik_no": 1003,
+        "mahalle_id": "sivas-ulas-hurriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359016
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-ulas/1xxx/1003/sivas-ulas-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359016
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

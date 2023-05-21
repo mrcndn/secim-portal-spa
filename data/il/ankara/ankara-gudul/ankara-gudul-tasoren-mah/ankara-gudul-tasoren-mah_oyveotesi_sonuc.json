@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-gudul",
+        "mahalle": "TAŞÖREN MAH.",
+        "ilce_adi": "GÜDÜL",
+        "okul_adi": "TAŞÖREN MAHALLE KONAĞI",
+        "sandik_no": 1030,
+        "mahalle_id": "ankara-gudul-tasoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 65,
+            "sayim_sonuc": {
+                "TOPLAM": 65,
+                "İYİ PARTİ": 17,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "499886",
+            "oyveotesi_sync_timestamp": 1684395286
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "499886",
+            "oyveotesi_sync_timestamp": 1684395286
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

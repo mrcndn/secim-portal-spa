@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-eynesil",
+        "mahalle": "ARALIK KÖYÜ",
+        "ilce_adi": "EYNESİL",
+        "okul_adi": "ARALIK KÖYÜ YUKARI İLKOĞRETİM OKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "giresun-eynesil-aralik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 79,
+                "RECEP TAYYİP ERDOĞAN": 105
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-eynesil/1xxx/1026/giresun-eynesil-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343040
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-eynesil",
+        "mahalle": "ARALIK KÖYÜ",
+        "ilce_adi": "EYNESİL",
+        "okul_adi": "ARALIK KÖYÜ YUKARI İLKOĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "giresun-eynesil-aralik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343040
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

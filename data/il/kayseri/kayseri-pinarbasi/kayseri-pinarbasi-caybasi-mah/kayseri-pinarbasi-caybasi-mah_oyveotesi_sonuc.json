@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-pinarbasi",
+        "mahalle": "ÇAYBAŞI MAH.",
+        "ilce_adi": "PINARBAŞI",
+        "okul_adi": "ÇAYBAŞI KÖYÜ İLK OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "kayseri-pinarbasi-caybasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364150
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 52,
+            "sayim_sonuc": {
+                "TOPLAM": 52,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-pinarbasi/1xxx/1027/kayseri-pinarbasi-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364150
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

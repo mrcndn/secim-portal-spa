@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-viransehir",
+        "mahalle": "AKKESE MAH.",
+        "ilce_adi": "VİRANŞEHİR",
+        "okul_adi": "AKKESE İLKÖĞRETİM OKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "sanliurfa-viransehir-akkese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 158,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-viransehir/1xxx/1003/sanliurfa-viransehir-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "269254",
+            "oyveotesi_sync_timestamp": 1684374092
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 203,
+            "sayim_sonuc": {
+                "TOPLAM": 203,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 1,
+                "RECEP TAYYİP ERDOĞAN": 200
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-viransehir/1xxx/1003/sanliurfa-viransehir-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "269254",
+            "oyveotesi_sync_timestamp": 1684374092
+        },
+        "secim_bolge_id": "sanliurfa"
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-viransehir",
+        "mahalle": "AKKESE MAH.",
+        "ilce_adi": "VİRANŞEHİR",
+        "okul_adi": "AKKESE İLKÖĞRETİM OKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "sanliurfa-viransehir-akkese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "İYİ PARTİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 159,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-viransehir/1xxx/1004/sanliurfa-viransehir-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "287881",
+            "oyveotesi_sync_timestamp": 1684374092
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "KEMAL KILIÇDAROĞLU": 2,
+                "RECEP TAYYİP ERDOĞAN": 195
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-viransehir/1xxx/1004/sanliurfa-viransehir-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "287881",
+            "oyveotesi_sync_timestamp": 1684374092
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "SERİNOVA-BAKIRCILAR MAH.",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "SERİNOVA BEL.BAKIRCILAR MAH. İLKOKULU",
+        "sandik_no": 1232,
+        "mahalle_id": "mus-merkez-serinova-bakircilar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 73,
+            "sayim_sonuc": {
+                "TOPLAM": 73,
+                "İYİ PARTİ": 21,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1232/mus-merkez-1232-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178855",
+            "oyveotesi_sync_timestamp": 1684394015
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1232/mus-merkez-1232-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178855",
+            "oyveotesi_sync_timestamp": 1684394015
+        },
+        "secim_bolge_id": "mus"
+    }
+]

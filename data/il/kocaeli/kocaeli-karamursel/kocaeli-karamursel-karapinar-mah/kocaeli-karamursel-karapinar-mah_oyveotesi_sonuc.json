@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-karamursel",
+        "mahalle": "KARAPINAR MAH.",
+        "ilce_adi": "KARAMÜRSEL",
+        "okul_adi": "KARAPINAR İLKOKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "kocaeli-karamursel-karapinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1092/kocaeli-karamursel-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "794751",
+            "oyveotesi_sync_timestamp": 1684350040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 188
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1092/kocaeli-karamursel-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "794751",
+            "oyveotesi_sync_timestamp": 1684350040
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-karamursel",
+        "mahalle": "KARAPINAR MAH.",
+        "ilce_adi": "KARAMÜRSEL",
+        "okul_adi": "KARAPINAR İLKOKULU",
+        "sandik_no": 1093,
+        "mahalle_id": "kocaeli-karamursel-karapinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 194
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1093/kocaeli-karamursel-1093-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350040
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

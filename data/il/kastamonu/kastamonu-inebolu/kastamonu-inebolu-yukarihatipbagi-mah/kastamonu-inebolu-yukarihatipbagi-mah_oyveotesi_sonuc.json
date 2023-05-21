@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-inebolu",
+        "mahalle": "YUKARIHATİPBAĞI MAH.",
+        "ilce_adi": "İNEBOLU",
+        "okul_adi": "BÜLENT ÖZYÜRÜK İÖO.",
+        "sandik_no": 1029,
+        "mahalle_id": "kastamonu-inebolu-yukarihatipbagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347883
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 77,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-inebolu/1xxx/1029/kastamonu-inebolu-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684347883
+        },
+        "secim_bolge_id": "kastamonu"
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-inebolu",
+        "mahalle": "YUKARIHATİPBAĞI MAH.",
+        "ilce_adi": "İNEBOLU",
+        "okul_adi": "BÜLENT ÖZYÜRÜK İÖO.",
+        "sandik_no": 1028,
+        "mahalle_id": "kastamonu-inebolu-yukarihatipbagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "İYİ PARTİ": 11,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-inebolu/1xxx/1028/kastamonu-inebolu-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750025",
+            "oyveotesi_sync_timestamp": 1684347883
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "750025",
+            "oyveotesi_sync_timestamp": 1684347883
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

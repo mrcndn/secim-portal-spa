@@ -1,0 +1,940 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 7,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 98,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 44,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 45
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "295907",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "295907",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 123,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "292937",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 166
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "292937",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 88,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "297721",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "297721",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1015,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 44,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 15,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 87,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "739496",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 144,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "739496",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 36,
+                "ZAFER PARTİSİ": 9,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 80,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 18
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "693893",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 136,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "693893",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "İYİ PARTİ": 36,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 18,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 72,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "260788",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 121,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "260788",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 14,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "661005",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 126,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "661005",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 76,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "644130",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 145
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "644130",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1024,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 308,
+            "sayim_sonuc": {
+                "TOPLAM": 308,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 52,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 40,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "260781",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 131,
+                "RECEP TAYYİP ERDOĞAN": 155
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "260781",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "BEDRİYE HALİL NACİ MIHCIOĞLU İLKOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 348,
+            "sayim_sonuc": {
+                "TOPLAM": 348,
+                "SİNAN OĞAN": 35,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 162,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 41,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "298266",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 273,
+            "sayim_sonuc": {
+                "TOPLAM": 273,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 135,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "298266",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 22,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1029,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 17,
+                "ADALET PARTİSİ": 39,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 57,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 24
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "313253",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 118,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "313253",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1030,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 11,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 80,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 109,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "336632",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "336632",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1031,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 35,
+                "ZAFER PARTİSİ": 19,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 71,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 20
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "304231",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 136,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "304231",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-polatli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "POLATLI",
+        "okul_adi": "SAKARYA İLKOKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "ankara-polatli-cumhuriyet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 34,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 15,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 4,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "290388",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 134,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "290388",
+            "oyveotesi_sync_timestamp": 1684395486
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

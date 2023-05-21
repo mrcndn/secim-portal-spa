@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "İSLAMALAN MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "İSLAMALAN MAHALLESİ KONAĞI",
+        "sandik_no": 1075,
+        "mahalle_id": "ankara-nallihan-islamalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 25,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "586656",
+            "oyveotesi_sync_timestamp": 1684376086
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 34
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "586656",
+            "oyveotesi_sync_timestamp": 1684376086
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

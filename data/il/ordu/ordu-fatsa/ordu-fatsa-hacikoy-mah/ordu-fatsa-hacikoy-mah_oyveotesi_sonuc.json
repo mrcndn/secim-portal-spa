@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "HACIKÖY MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "HACIKÖY MAH. HACIKÖY OKULU",
+        "sandik_no": 1141,
+        "mahalle_id": "ordu-fatsa-hacikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1141/ordu-fatsa-1141-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781898",
+            "oyveotesi_sync_timestamp": 1684360868
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 40,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1141/ordu-fatsa-1141-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "781898",
+            "oyveotesi_sync_timestamp": 1684360868
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-tufanbeyli",
+        "mahalle": "ŞAR MAH.",
+        "ilce_adi": "TUFANBEYLİ",
+        "okul_adi": "ŞAR KÖY İLKOKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "adana-tufanbeyli-sar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371387
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1050/adana-tufanbeyli-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371387
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-tufanbeyli",
+        "mahalle": "ŞAR MAH.",
+        "ilce_adi": "TUFANBEYLİ",
+        "okul_adi": "ŞAR KÖYÜ KARADURDULAR MEZRASI İLKOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "adana-tufanbeyli-sar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 18,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1051/adana-tufanbeyli-1051-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "529860",
+            "oyveotesi_sync_timestamp": 1684371387
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 33,
+            "sayim_sonuc": {
+                "TOPLAM": 33,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-tufanbeyli/1xxx/1051/adana-tufanbeyli-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "529860",
+            "oyveotesi_sync_timestamp": 1684371387
+        },
+        "secim_bolge_id": "adana"
+    }
+]

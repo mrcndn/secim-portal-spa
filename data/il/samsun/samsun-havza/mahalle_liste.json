@@ -1,0 +1,982 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "19 MAYIS MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-19-mayis-mah",
+        "oyveotesi_neighborhood_id": 31824
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "25 MAYIS MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-25-mayis-mah",
+        "oyveotesi_neighborhood_id": 31793
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "AĞCAMAHMUT MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-agcamahmut-mah",
+        "oyveotesi_neighborhood_id": 31868
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "AĞDIRHASAN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-agdirhasan-mah",
+        "oyveotesi_neighborhood_id": 31807
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ARSLANÇAYIRI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-arslancayiri-mah",
+        "oyveotesi_neighborhood_id": 31838
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "AŞAĞISUSUZ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-asagisusuz-mah",
+        "oyveotesi_neighborhood_id": 31862
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "AŞAĞI YAVUCAK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-asagi-yavucak-mah",
+        "oyveotesi_neighborhood_id": 31825
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 31808
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BAŞPELİT MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-baspelit-mah",
+        "oyveotesi_neighborhood_id": 31850
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BEKDİĞİN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-bekdigin-mah",
+        "oyveotesi_neighborhood_id": 31839
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BELALAN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-belalan-mah",
+        "oyveotesi_neighborhood_id": 31840
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BEYKÖY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-beykoy-mah",
+        "oyveotesi_neighborhood_id": 31809
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BEYÖREN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-beyoren-mah",
+        "oyveotesi_neighborhood_id": 31826
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BOYALICA MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-boyalica-mah",
+        "oyveotesi_neighborhood_id": 31869
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "BOYALI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-boyali-mah",
+        "oyveotesi_neighborhood_id": 31827
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÇAKIRALAN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-cakiralan-mah",
+        "oyveotesi_neighborhood_id": 31816
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÇAMYATAĞI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-camyatagi-mah",
+        "oyveotesi_neighborhood_id": 31889
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÇAYIRÖZÜ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-cayirozu-mah",
+        "oyveotesi_neighborhood_id": 31890
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÇAY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-cay-mah",
+        "oyveotesi_neighborhood_id": 31847
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÇELİKALAN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-celikalan-mah",
+        "oyveotesi_neighborhood_id": 31859
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "CELİL MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-celil-mah",
+        "oyveotesi_neighborhood_id": 31856
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÇELTEK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-celtek-mah",
+        "oyveotesi_neighborhood_id": 31796
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "CEVİZLİK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-cevizlik-mah",
+        "oyveotesi_neighborhood_id": 31851
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÇİFTLİKKÖY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-ciftlikkoy-mah",
+        "oyveotesi_neighborhood_id": 31883
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "DEĞİRMENÜSTÜ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-degirmenustu-mah",
+        "oyveotesi_neighborhood_id": 31799
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "DEMİRYURT MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-demiryurt-mah",
+        "oyveotesi_neighborhood_id": 31810
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-derekoy-mah",
+        "oyveotesi_neighborhood_id": 31830
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "DOĞANÇAYIR MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-dogancayir-mah",
+        "oyveotesi_neighborhood_id": 31800
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "DÜNDARLI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-dundarli-mah",
+        "oyveotesi_neighborhood_id": 31801
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "EKİNPINARI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-ekinpinari-mah",
+        "oyveotesi_neighborhood_id": 31841
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ELMACIK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-elmacik-mah",
+        "oyveotesi_neighborhood_id": 31852
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ERELİ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-ereli-mah",
+        "oyveotesi_neighborhood_id": 31817
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ERİKBELEN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-erikbelen-mah",
+        "oyveotesi_neighborhood_id": 31863
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ERSANDIK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-ersandik-mah",
+        "oyveotesi_neighborhood_id": 31846
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ESENBEY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-esenbey-mah",
+        "oyveotesi_neighborhood_id": 31794
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "EYMİR MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-eymir-mah",
+        "oyveotesi_neighborhood_id": 31818
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "GELİNCİK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-gelincik-mah",
+        "oyveotesi_neighborhood_id": 31802
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "GİDİRLİ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-gidirli-mah",
+        "oyveotesi_neighborhood_id": 31831
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "GÖÇMENLER MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-gocmenler-mah",
+        "oyveotesi_neighborhood_id": 31828
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "GÜVERCİNLİK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-guvercinlik-mah",
+        "oyveotesi_neighborhood_id": 31842
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "HACIBATTAL MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-hacibattal-mah",
+        "oyveotesi_neighborhood_id": 31885
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "HACIDEDE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-hacidede-mah",
+        "oyveotesi_neighborhood_id": 31870
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "HECİNLİ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-hecinli-mah",
+        "oyveotesi_neighborhood_id": 31886
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "HİLMİYE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-hilmiye-mah",
+        "oyveotesi_neighborhood_id": 31811
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "İCADİYE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-icadiye-mah",
+        "oyveotesi_neighborhood_id": 31835
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ILICA MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-ilica-mah",
+        "oyveotesi_neighborhood_id": 31878
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "İMARET MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-imaret-mah",
+        "oyveotesi_neighborhood_id": 31815
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "İMİRCİK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-imircik-mah",
+        "oyveotesi_neighborhood_id": 31848
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "İNÖNÜ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-inonu-mah",
+        "oyveotesi_neighborhood_id": 31860
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KALEKÖY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kalekoy-mah",
+        "oyveotesi_neighborhood_id": 31819
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KAMLIK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kamlik-mah",
+        "oyveotesi_neighborhood_id": 31864
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KARABÜK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-karabuk-mah",
+        "oyveotesi_neighborhood_id": 31832
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KARAGEÇMİŞ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-karagecmis-mah",
+        "oyveotesi_neighborhood_id": 31879
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KARAHALİL MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-karahalil-mah",
+        "oyveotesi_neighborhood_id": 31820
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KARAMEŞE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-karamese-mah",
+        "oyveotesi_neighborhood_id": 31812
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KARGA MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-karga-mah",
+        "oyveotesi_neighborhood_id": 31843
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 31873
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KAYABAŞI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kayabasi-mah",
+        "oyveotesi_neighborhood_id": 31805
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KAYACIK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kayacik-mah",
+        "oyveotesi_neighborhood_id": 31803
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KEMALİYE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kemaliye-mah",
+        "oyveotesi_neighborhood_id": 31804
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KİRENLİK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kirenlik-mah",
+        "oyveotesi_neighborhood_id": 31821
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KIROĞLU MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kiroglu-mah",
+        "oyveotesi_neighborhood_id": 31853
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KOCAOĞLU MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kocaoglu-mah",
+        "oyveotesi_neighborhood_id": 31880
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KOCAPINAR MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kocapinar-mah",
+        "oyveotesi_neighborhood_id": 31854
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KÜFLEK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kuflek-mah",
+        "oyveotesi_neighborhood_id": 31887
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KUŞKONAĞI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-kuskonagi-mah",
+        "oyveotesi_neighborhood_id": 31865
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MEDRESE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-medrese-mah",
+        "oyveotesi_neighborhood_id": 31888
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MEMDUHİYE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-memduhiye-mah",
+        "oyveotesi_neighborhood_id": 31797
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MERYEMDERE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-meryemdere-mah",
+        "oyveotesi_neighborhood_id": 31855
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MESUDİYE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-mesudiye-mah",
+        "oyveotesi_neighborhood_id": 31857
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MISMILAĞAÇ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-mismilagac-mah",
+        "oyveotesi_neighborhood_id": 31881
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "MÜRSEL MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-mursel-mah",
+        "oyveotesi_neighborhood_id": 31849
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ORHANİYE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-orhaniye-mah",
+        "oyveotesi_neighborhood_id": 31866
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ORTAKLAR MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-ortaklar-mah",
+        "oyveotesi_neighborhood_id": 31871
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "PAŞAPINARI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-pasapinari-mah",
+        "oyveotesi_neighborhood_id": 31798
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "PINARÇAY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-pinarcay-mah",
+        "oyveotesi_neighborhood_id": 31867
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ŞERİFALİ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-serifali-mah",
+        "oyveotesi_neighborhood_id": 31837
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ŞEYHALİ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-seyhali-mah",
+        "oyveotesi_neighborhood_id": 31877
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ŞEYHKOYUN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-seyhkoyun-mah",
+        "oyveotesi_neighborhood_id": 31876
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ŞEYHLER MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-seyhler-mah",
+        "oyveotesi_neighborhood_id": 31844
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ŞEYHSAFİ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-seyhsafi-mah",
+        "oyveotesi_neighborhood_id": 31884
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "SİVRİKESE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-sivrikese-mah",
+        "oyveotesi_neighborhood_id": 31874
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "SOFULAR MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-sofular-mah",
+        "oyveotesi_neighborhood_id": 31806
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "SONDAJ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-sondaj-mah",
+        "oyveotesi_neighborhood_id": 31833
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "TAŞKARACAÖREN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-taskaracaoren-mah",
+        "oyveotesi_neighborhood_id": 31882
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "TEKKEKÖY MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-tekkekoy-mah",
+        "oyveotesi_neighborhood_id": 31829
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "TUZLA MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-tuzla-mah",
+        "oyveotesi_neighborhood_id": 31813
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ULUÇAL MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-ulucal-mah",
+        "oyveotesi_neighborhood_id": 31861
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ÜNİVERSİTE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-universite-mah",
+        "oyveotesi_neighborhood_id": 31834
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YAĞCIMAHMUT MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yagcimahmut-mah",
+        "oyveotesi_neighborhood_id": 31823
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YAYLAÇATI MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yaylacati-mah",
+        "oyveotesi_neighborhood_id": 31845
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YAZIKIŞLA MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yazikisla-mah",
+        "oyveotesi_neighborhood_id": 31814
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YENİCE MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yenice-mah",
+        "oyveotesi_neighborhood_id": 31795
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yeni-mah",
+        "oyveotesi_neighborhood_id": 31872
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YENİMESCİT MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yenimescit-mah",
+        "oyveotesi_neighborhood_id": 31822
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YEŞİLALAN MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yesilalan-mah",
+        "oyveotesi_neighborhood_id": 31858
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YUKARISUSUZ MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yukarisusuz-mah",
+        "oyveotesi_neighborhood_id": 31836
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "YUKARIYAVUCAK MAH.",
+        "ilce_adi": "HAVZA",
+        "mahalle_id": "samsun-havza-yukariyavucak-mah",
+        "oyveotesi_neighborhood_id": 31875
+    }
+]

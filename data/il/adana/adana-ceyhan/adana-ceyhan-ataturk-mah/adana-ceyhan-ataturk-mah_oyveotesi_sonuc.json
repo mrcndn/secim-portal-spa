@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "ATATÜRK MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "ATATÜRK MH-M.ORHUN YAYLACI ANADOLU LİSESİ",
+        "sandik_no": 1013,
+        "mahalle_id": "adana-ceyhan-ataturk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371559
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 161,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-ceyhan/1xxx/1013/adana-ceyhan-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371559
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "ATATÜRK MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "ATATÜRK MH-M.ORHUN YAYLACI ANADOLU LİSESİ",
+        "sandik_no": 1014,
+        "mahalle_id": "adana-ceyhan-ataturk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371559
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371559
+        },
+        "secim_bolge_id": "adana"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-tirebolu",
+        "mahalle": "KAYALAR KÖYÜ",
+        "ilce_adi": "TİREBOLU",
+        "okul_adi": "KAYALAR KÖYÜ KÖY ODASI",
+        "sandik_no": 1074,
+        "mahalle_id": "giresun-tirebolu-kayalar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343478
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-tirebolu/1xxx/1074/giresun-tirebolu-1074-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343478
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

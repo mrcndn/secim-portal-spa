@@ -1,0 +1,99 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-hasankeyf",
+        "mahalle": "RAMAN MAH.",
+        "ilce_adi": "HASANKEYF",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "batman-hasankeyf-raman-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332646
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 131,
+                "RECEP TAYYİP ERDOĞAN": 100
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-hasankeyf/1xxx/1009/batman-hasankeyf-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332646
+        },
+        "secim_bolge_id": "batman"
+    },
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-hasankeyf",
+        "mahalle": "RAMAN MAH.",
+        "ilce_adi": "HASANKEYF",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "batman-hasankeyf-raman-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 244,
+            "sayim_sonuc": {
+                "TOPLAM": 244,
+                "SOL PARTİ": 2,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 84,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-hasankeyf/1xxx/1008/batman-hasankeyf-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "201783",
+            "oyveotesi_sync_timestamp": 1684332646
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "201783",
+            "oyveotesi_sync_timestamp": 1684332646
+        },
+        "secim_bolge_id": "batman"
+    },
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-hasankeyf",
+        "mahalle": "RAMAN MAH.",
+        "ilce_adi": "HASANKEYF",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "batman-hasankeyf-raman-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332646
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332646
+        },
+        "secim_bolge_id": "batman"
+    }
+]

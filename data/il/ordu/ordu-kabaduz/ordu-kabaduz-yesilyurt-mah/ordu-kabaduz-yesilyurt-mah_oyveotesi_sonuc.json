@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabaduz",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "KABADÜZ",
+        "okul_adi": "YEŞİLYURT İLKOKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "ordu-kabaduz-yesilyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 118,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 92
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabaduz/1xxx/1023/ordu-kabaduz-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "657828",
+            "oyveotesi_sync_timestamp": 1684360427
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 287,
+            "sayim_sonuc": {
+                "TOPLAM": 287,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 216
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabaduz/1xxx/1023/ordu-kabaduz-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "657828",
+            "oyveotesi_sync_timestamp": 1684360427
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

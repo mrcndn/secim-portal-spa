@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "FIRANLAR KÖYÜ",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "FIRANLAR KÖYÜ İLKOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "kutahya-domanic-firanlar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 99,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1033/kutahya-domanic-1033-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574088",
+            "oyveotesi_sync_timestamp": 1684350135
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1033/kutahya-domanic-1033-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "574088",
+            "oyveotesi_sync_timestamp": 1684350135
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

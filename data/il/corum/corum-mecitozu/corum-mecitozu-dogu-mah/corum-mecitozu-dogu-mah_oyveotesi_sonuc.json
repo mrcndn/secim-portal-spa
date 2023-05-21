@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "DOĞU MAH.",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "MECİTÖZÜ YATILI BÖLGE ORTAOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "corum-mecitozu-dogu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "VATAN PARTİSİ": 312
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1005/corum-mecitozu-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236431",
+            "oyveotesi_sync_timestamp": 1684368871
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 317,
+                "RECEP TAYYİP ERDOĞAN": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1005/corum-mecitozu-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "236431",
+            "oyveotesi_sync_timestamp": 1684368871
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "DOĞU MAH.",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "MECİTÖZÜ YATILI BÖLGE ORTAOKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "corum-mecitozu-dogu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "VATAN PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 308,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1004/corum-mecitozu-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "182285",
+            "oyveotesi_sync_timestamp": 1684368871
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 324,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1004/corum-mecitozu-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "182285",
+            "oyveotesi_sync_timestamp": 1684368871
+        },
+        "secim_bolge_id": "corum"
+    }
+]

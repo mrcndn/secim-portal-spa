@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-alanya",
+        "mahalle": "TOPHANE MAH.",
+        "ilce_adi": "ALANYA",
+        "okul_adi": "ALANYA MÜFTÜLÜĞÜ GENÇLİK MERKEZİ( ANDIZ CAMİ ALTI)",
+        "sandik_no": 1323,
+        "mahalle_id": "antalya-alanya-tophane-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 7,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-alanya/1xxx/1323/antalya-alanya-1323-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "230481",
+            "oyveotesi_sync_timestamp": 1684329509
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-alanya/1xxx/1323/antalya-alanya-1323-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "230481",
+            "oyveotesi_sync_timestamp": 1684329509
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

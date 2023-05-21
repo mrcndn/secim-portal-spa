@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-yigilca",
+        "mahalle": "AHMETÇİLER MAH.",
+        "ilce_adi": "YIĞILCA",
+        "okul_adi": "AHMETÇİLER GAZİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "duzce-yigilca-ahmetciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 120,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-yigilca/1xxx/1002/duzce-yigilca-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "811007",
+            "oyveotesi_sync_timestamp": 1684338257
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 154
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-yigilca/1xxx/1002/duzce-yigilca-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "811007",
+            "oyveotesi_sync_timestamp": 1684338257
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-yigilca",
+        "mahalle": "AHMETÇİLER MAH.",
+        "ilce_adi": "YIĞILCA",
+        "okul_adi": "AHMETÇİLER GAZİ İLKÖĞRETİM OKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "duzce-yigilca-ahmetciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 124,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-yigilca/1xxx/1001/duzce-yigilca-1001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "804676",
+            "oyveotesi_sync_timestamp": 1684338257
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 9,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-yigilca/1xxx/1001/duzce-yigilca-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "804676",
+            "oyveotesi_sync_timestamp": 1684338257
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

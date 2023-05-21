@@ -1,0 +1,752 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "TOPRAKKALE KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-toprakkale-koyu",
+        "oyveotesi_neighborhood_id": 6846
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "DOLUTAŞ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-dolutas-koyu",
+        "oyveotesi_neighborhood_id": 6857
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "TÜRKELİ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-turkeli-koyu",
+        "oyveotesi_neighborhood_id": 6914
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ULUDAL KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-uludal-koyu",
+        "oyveotesi_neighborhood_id": 6863
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "UZUNYAZI KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-uzunyazi-koyu",
+        "oyveotesi_neighborhood_id": 6854
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YAĞMURLU KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yagmurlu-koyu",
+        "oyveotesi_neighborhood_id": 50189
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YANIKDERE KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yanikdere-koyu",
+        "oyveotesi_neighborhood_id": 6898
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YAYLADÜZÜ-AŞAĞICİHANBEY MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yayladuzu-asagicihanbey-mah",
+        "oyveotesi_neighborhood_id": 6879
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YAYLADÜZÜ-CUMHURİYET MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yayladuzu-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 6875
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YAYLADÜZÜ-DEĞİRMENGEÇİDİ MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yayladuzu-degirmengecidi-mah",
+        "oyveotesi_neighborhood_id": 6876
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YAYLADÜZÜ-GÖKÇAYIR MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yayladuzu-gokcayir-mah",
+        "oyveotesi_neighborhood_id": 6884
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YAYLADÜZÜ-KARŞIYAKA MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yayladuzu-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 6847
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YELKESEN KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yelkesen-koyu",
+        "oyveotesi_neighborhood_id": 6885
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YEŞİLOVA KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yesilova-koyu",
+        "oyveotesi_neighborhood_id": 6855
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YIĞINTAŞ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yigintas-koyu",
+        "oyveotesi_neighborhood_id": 6906
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YÜCEKAPI-ESENTEPE MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yucekapi-esentepe-mah",
+        "oyveotesi_neighborhood_id": 6891
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YÜCEKAPI-OKLAVALI MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yucekapi-oklavali-mah",
+        "oyveotesi_neighborhood_id": 6907
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YÜCEKAPI-ŞEHİT ENGİN MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yucekapi-sehit-engin-mah",
+        "oyveotesi_neighborhood_id": 6869
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YÜCEKAPI-YEŞİLYURT MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yucekapi-yesilyurt-mah",
+        "oyveotesi_neighborhood_id": 6893
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "YUKARIKOPUZ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-yukarikopuz-koyu",
+        "oyveotesi_neighborhood_id": 49874
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "DÜZAĞIL KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-duzagil-koyu",
+        "oyveotesi_neighborhood_id": 6894
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "DÜZYAYLA KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-duzyayla-koyu",
+        "oyveotesi_neighborhood_id": 6915
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ERGÖZÜ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-ergozu-koyu",
+        "oyveotesi_neighborhood_id": 6872
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-esentepe-mah",
+        "oyveotesi_neighborhood_id": 6901
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-fatih-mah",
+        "oyveotesi_neighborhood_id": 6858
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "GONCALI KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-goncali-koyu",
+        "oyveotesi_neighborhood_id": 6887
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "GÖZAYDIN KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-gozaydin-koyu",
+        "oyveotesi_neighborhood_id": 6905
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ABDİKÖY",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-abdikoy",
+        "oyveotesi_neighborhood_id": 6904
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "AKYUMAK KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-akyumak-koyu",
+        "oyveotesi_neighborhood_id": 6890
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ALAGÜN KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-alagun-koyu",
+        "oyveotesi_neighborhood_id": 6909
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ALKUŞAK KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-alkusak-koyu",
+        "oyveotesi_neighborhood_id": 6865
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ARİFBEY KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-arifbey-koyu",
+        "oyveotesi_neighborhood_id": 6910
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "GÜNEYKAYA KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-guneykaya-koyu",
+        "oyveotesi_neighborhood_id": 6888
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "GÜVENCE KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-guvence-koyu",
+        "oyveotesi_neighborhood_id": 6916
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "HASANPINARI KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-hasanpinari-koyu",
+        "oyveotesi_neighborhood_id": 6852
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "HAYDAROĞLU KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-haydaroglu-koyu",
+        "oyveotesi_neighborhood_id": 6911
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "HAYRANGÖL KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-hayrangol-koyu",
+        "oyveotesi_neighborhood_id": 6902
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "HÜRRİYET KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-hurriyet-koyu",
+        "oyveotesi_neighborhood_id": 6867
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "HÜRRİYET MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-hurriyet-mah",
+        "oyveotesi_neighborhood_id": 6850
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "İKİZGEÇE KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-ikizgece-koyu",
+        "oyveotesi_neighborhood_id": 6851
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "İKİZGÖL KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-ikizgol-koyu",
+        "oyveotesi_neighborhood_id": 6880
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "İNDERE KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-indere-koyu",
+        "oyveotesi_neighborhood_id": 6856
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-istiklal-mah",
+        "oyveotesi_neighborhood_id": 6870
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "KANATGEREN KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-kanatgeren-koyu",
+        "oyveotesi_neighborhood_id": 6912
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "KARABACAK KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-karabacak-koyu",
+        "oyveotesi_neighborhood_id": 6859
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 6877
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "KAYAYOLU KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-kayayolu-koyu",
+        "oyveotesi_neighborhood_id": 50053
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "KAZIM KARABEKİR MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-kazim-karabekir-mah",
+        "oyveotesi_neighborhood_id": 6913
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "KOKULUPINAR KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-kokulupinar-koyu",
+        "oyveotesi_neighborhood_id": 49783
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "KÖRPEÇAYIR KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-korpecayir-koyu",
+        "oyveotesi_neighborhood_id": 6848
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "AŞAĞIKOPUZ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-asagikopuz-koyu",
+        "oyveotesi_neighborhood_id": 6866
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "AYDOĞDU KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-aydogdu-koyu",
+        "oyveotesi_neighborhood_id": 6871
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ÇATALPINAR KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-catalpinar-koyu",
+        "oyveotesi_neighborhood_id": 6899
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ÇATKÖSEDAĞ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-catkosedag-koyu",
+        "oyveotesi_neighborhood_id": 6889
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ÇETİNSU KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-cetinsu-koyu",
+        "oyveotesi_neighborhood_id": 6886
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ÇİFTEPINAR KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-ciftepinar-koyu",
+        "oyveotesi_neighborhood_id": 6864
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "DALKILIÇ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-dalkilic-koyu",
+        "oyveotesi_neighborhood_id": 6900
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "LOZAN MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-lozan-mah",
+        "oyveotesi_neighborhood_id": 6903
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "MOLLAHÜSEYİN KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-mollahuseyin-koyu",
+        "oyveotesi_neighborhood_id": 6868
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "MOLLASÜLEYMAN KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-mollasuleyman-koyu",
+        "oyveotesi_neighborhood_id": 6853
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "MÜFTÜSELİM MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-muftuselim-mah",
+        "oyveotesi_neighborhood_id": 6849
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "ÖZTOPRAK KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-oztoprak-koyu",
+        "oyveotesi_neighborhood_id": 6908
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "PALAKÇAYIRI KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-palakcayiri-koyu",
+        "oyveotesi_neighborhood_id": 6896
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "PİRABAT KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-pirabat-koyu",
+        "oyveotesi_neighborhood_id": 6860
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "RAMAZAN KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-ramazan-koyu",
+        "oyveotesi_neighborhood_id": 6861
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "SADAKLI KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-sadakli-koyu",
+        "oyveotesi_neighborhood_id": 6895
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "SALKIMLI KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-salkimli-koyu",
+        "oyveotesi_neighborhood_id": 6883
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "SARIKÖY",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-sarikoy",
+        "oyveotesi_neighborhood_id": 6882
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "SÖBETAŞ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-sobetas-koyu",
+        "oyveotesi_neighborhood_id": 6873
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "SULTANABAT KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-sultanabat-koyu",
+        "oyveotesi_neighborhood_id": 6862
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "SÜZGEÇLİ KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-suzgecli-koyu",
+        "oyveotesi_neighborhood_id": 6892
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "TAHİR-AYDINTEPE MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-tahir-aydintepe-mah",
+        "oyveotesi_neighborhood_id": 6874
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "TAHİR-KARŞIYAKA MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-tahir-karsiyaka-mah",
+        "oyveotesi_neighborhood_id": 6897
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "DEĞİRMENOLUĞU KÖYÜ",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-degirmenolugu-koyu",
+        "oyveotesi_neighborhood_id": 6881
+    },
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-eleskirt",
+        "mahalle": "TAHİR-YEŞİL MAH.",
+        "ilce_adi": "ELEŞKİRT",
+        "mahalle_id": "agri-eleskirt-tahir-yesil-mah",
+        "oyveotesi_neighborhood_id": 6878
+    }
+]

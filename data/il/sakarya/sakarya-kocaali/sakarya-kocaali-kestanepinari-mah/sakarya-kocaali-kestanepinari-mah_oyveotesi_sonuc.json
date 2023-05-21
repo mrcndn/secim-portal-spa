@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-kocaali",
+        "mahalle": "KESTANEPINARI MAH.",
+        "ilce_adi": "KOCAALİ",
+        "okul_adi": "KESTANEPINARI MAH. GAZİ ORTAOKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "sakarya-kocaali-kestanepinari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357278
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 195
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1034/sakarya-kocaali-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357278
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-kocaali",
+        "mahalle": "KESTANEPINARI MAH.",
+        "ilce_adi": "KOCAALİ",
+        "okul_adi": "KESTANEPINARI MAH. GAZİ ORTAOKULU",
+        "sandik_no": 1035,
+        "mahalle_id": "sakarya-kocaali-kestanepinari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 16,
+                "ADALET PARTİSİ": 27,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 28,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1035/sakarya-kocaali-1035-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "567847",
+            "oyveotesi_sync_timestamp": 1684357278
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-kocaali/1xxx/1035/sakarya-kocaali-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "567847",
+            "oyveotesi_sync_timestamp": 1684357278
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

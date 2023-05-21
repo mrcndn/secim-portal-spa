@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-pulumur",
+        "mahalle": "KOCATEPE KÖYÜ",
+        "ilce_adi": "PÜLÜMÜR",
+        "okul_adi": "KOCATEPE KÖYÜ KAHVEHANESİ SANDIK ALANI",
+        "sandik_no": 1016,
+        "mahalle_id": "tunceli-pulumur-kocatepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SOL PARTİ": 3,
+                "İYİ PARTİ": 5,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-pulumur/1xxx/1016/tunceli-pulumur-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "460279",
+            "oyveotesi_sync_timestamp": 1684361253
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 170,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-pulumur/1xxx/1016/tunceli-pulumur-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "460279",
+            "oyveotesi_sync_timestamp": 1684361253
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

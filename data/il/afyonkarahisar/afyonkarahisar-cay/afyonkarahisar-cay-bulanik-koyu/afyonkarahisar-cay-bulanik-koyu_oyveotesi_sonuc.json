@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "BULANIK KÖYÜ",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "BULANIK İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "afyonkarahisar-cay-bulanik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 142,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1056/afyonkarahisar-cay-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604712",
+            "oyveotesi_sync_timestamp": 1684324790
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 181
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1056/afyonkarahisar-cay-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604712",
+            "oyveotesi_sync_timestamp": 1684324790
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

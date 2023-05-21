@@ -1,0 +1,85 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-defne",
+        "mahalle": "BOSTANCIK MAH.",
+        "ilce_adi": "DEFNE",
+        "okul_adi": "BOSTANCIK MH. HALK EĞİTİM MERKEZİ (ESKİ BOSTANCIK İLKOKULU)",
+        "sandik_no": 1044,
+        "mahalle_id": "hatay-defne-bostancik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "İYİ PARTİ": 27,
+                "CUMHURİYET HALK PARTİSİ": 168,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 86,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-defne/1xxx/1044/hatay-defne-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830215",
+            "oyveotesi_sync_timestamp": 1684375593
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 295,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-defne/1xxx/1044/hatay-defne-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830215",
+            "oyveotesi_sync_timestamp": 1684375593
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-defne",
+        "mahalle": "BOSTANCIK MAH.",
+        "ilce_adi": "DEFNE",
+        "okul_adi": "BOSTANCIK MH. HALK EĞİTİM MERKEZİ (ESKİ BOSTANCIK İLKOKULU)",
+        "sandik_no": 1045,
+        "mahalle_id": "hatay-defne-bostancik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "İYİ PARTİ": 42,
+                "ZAFER PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 179,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "TÜRKİYE İŞÇİ PARTİSİ": 75,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-defne/1xxx/1045/hatay-defne-1045-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837167",
+            "oyveotesi_sync_timestamp": 1684375593
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 309,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-defne/1xxx/1045/hatay-defne-1045-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837167",
+            "oyveotesi_sync_timestamp": 1684375593
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

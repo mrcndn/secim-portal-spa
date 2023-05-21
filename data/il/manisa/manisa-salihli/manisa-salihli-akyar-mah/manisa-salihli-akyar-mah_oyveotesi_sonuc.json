@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "AKYAR MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "AKYAR MH. KÖY ODASI",
+        "sandik_no": 1022,
+        "mahalle_id": "manisa-salihli-akyar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 17,
+            "sayim_sonuc": {
+                "TOPLAM": 17,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1022/manisa-salihli-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815398",
+            "oyveotesi_sync_timestamp": 1684397252
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 19,
+            "sayim_sonuc": {
+                "TOPLAM": 19,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1022/manisa-salihli-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "815398",
+            "oyveotesi_sync_timestamp": 1684397252
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

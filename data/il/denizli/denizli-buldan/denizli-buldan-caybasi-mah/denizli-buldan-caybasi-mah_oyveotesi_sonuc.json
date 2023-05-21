@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-buldan",
+        "mahalle": "ÇAYBAŞI MAH.",
+        "ilce_adi": "BULDAN",
+        "okul_adi": "A.TUNCAY YATILI BÖLGE ORTAOKULU 2",
+        "sandik_no": 1023,
+        "mahalle_id": "denizli-buldan-caybasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365957
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365957
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-buldan",
+        "mahalle": "ÇAYBAŞI MAH.",
+        "ilce_adi": "BULDAN",
+        "okul_adi": "A.TUNCAY YATILI BÖLGE ORTAOKULU 2",
+        "sandik_no": 1024,
+        "mahalle_id": "denizli-buldan-caybasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365957
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-buldan/1xxx/1024/denizli-buldan-1024-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365957
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

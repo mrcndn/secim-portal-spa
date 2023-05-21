@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "GÜZELYURT MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "GÜZELYURT MAHALLESİ MAHALLE ODASI",
+        "sandik_no": 1042,
+        "mahalle_id": "ordu-persembe-guzelyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "İYİ PARTİ": 7,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 99,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1042/ordu-persembe-1042-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "348345",
+            "oyveotesi_sync_timestamp": 1684360611
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 180,
+            "sayim_sonuc": {
+                "TOPLAM": 180,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1042/ordu-persembe-1042-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "348345",
+            "oyveotesi_sync_timestamp": 1684360611
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-karahalli",
+        "mahalle": "ÇOKAKLI KÖYÜ",
+        "ilce_adi": "KARAHALLI",
+        "okul_adi": "ÇOKAKLI KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1019,
+        "mahalle_id": "usak-karahalli-cokakli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-karahalli/1xxx/1019/usak-karahalli-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504258",
+            "oyveotesi_sync_timestamp": 1684369857
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 172,
+            "sayim_sonuc": {
+                "TOPLAM": 172,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-karahalli/1xxx/1019/usak-karahalli-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "504258",
+            "oyveotesi_sync_timestamp": 1684369857
+        },
+        "secim_bolge_id": "usak"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhaneli",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "ORHANELİ",
+        "okul_adi": "ESENTEPE MAHALLESİ ŞOFÖRLER ODASI 1. KAT",
+        "sandik_no": 1026,
+        "mahalle_id": "bursa-orhaneli-esentepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 49,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "626736",
+            "oyveotesi_sync_timestamp": 1684335195
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "626736",
+            "oyveotesi_sync_timestamp": 1684335195
+        },
+        "secim_bolge_id": "bursa1"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-orhaneli",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "ORHANELİ",
+        "okul_adi": "ESENTEPE MAHALLESİ ŞOFÖRLER ODASI 1. KAT",
+        "sandik_no": 1027,
+        "mahalle_id": "bursa-orhaneli-esentepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335195
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 119,
+                "RECEP TAYYİP ERDOĞAN": 159
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335195
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

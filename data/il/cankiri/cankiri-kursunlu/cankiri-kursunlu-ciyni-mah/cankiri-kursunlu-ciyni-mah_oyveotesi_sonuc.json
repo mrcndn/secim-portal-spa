@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "ÇİYNİ MAH.",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "ÇİYNİ MAH. KONAĞI",
+        "sandik_no": 1008,
+        "mahalle_id": "cankiri-kursunlu-ciyni-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "ADALET PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 18,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1008/cankiri-kursunlu-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579162",
+            "oyveotesi_sync_timestamp": 1684336603
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 42
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1008/cankiri-kursunlu-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579162",
+            "oyveotesi_sync_timestamp": 1684336603
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

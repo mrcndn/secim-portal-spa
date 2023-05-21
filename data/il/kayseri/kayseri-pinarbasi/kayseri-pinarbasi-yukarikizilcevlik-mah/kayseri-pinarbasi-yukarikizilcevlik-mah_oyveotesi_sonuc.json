@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-pinarbasi",
+        "mahalle": "YUKARIKIZILÇEVLİK MAH.",
+        "ilce_adi": "PINARBAŞI",
+        "okul_adi": "YUKARI KIZILÇEVLİK KÖYÜ İLK OKULU",
+        "sandik_no": 1138,
+        "mahalle_id": "kayseri-pinarbasi-yukarikizilcevlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 15,
+            "sayim_sonuc": {
+                "TOPLAM": 15,
+                "İYİ PARTİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-pinarbasi/1xxx/1138/kayseri-pinarbasi-1138-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1030879",
+            "oyveotesi_sync_timestamp": 1684364126
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 28,
+            "sayim_sonuc": {
+                "TOPLAM": 28,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-pinarbasi/1xxx/1138/kayseri-pinarbasi-1138-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1030879",
+            "oyveotesi_sync_timestamp": 1684364126
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

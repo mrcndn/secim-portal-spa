@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "BÜYÜKKÖSEBALCI MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "B.KÖSEBALCI MAH. OKUL BİNASI",
+        "sandik_no": 2041,
+        "mahalle_id": "mersin-tarsus-buyukkosebalci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 8,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2041/mersin-tarsus-2041-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "725542",
+            "oyveotesi_sync_timestamp": 1684363717
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "725542",
+            "oyveotesi_sync_timestamp": 1684363717
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

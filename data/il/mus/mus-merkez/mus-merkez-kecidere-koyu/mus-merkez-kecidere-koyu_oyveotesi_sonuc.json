@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "KEÇİDERE KÖYÜ",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "KEÇİDERE KÖYÜ İLKOKULU",
+        "sandik_no": 1333,
+        "mahalle_id": "mus-merkez-kecidere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "İYİ PARTİ": 14,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 205
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1333/mus-merkez-1333-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "461439",
+            "oyveotesi_sync_timestamp": 1684394051
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 219,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1333/mus-merkez-1333-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "461439",
+            "oyveotesi_sync_timestamp": 1684394051
+        },
+        "secim_bolge_id": "mus"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KIRGIL KÖYÜ",
+        "ilce_adi": "KARAKOÇAN",
+        "okul_adi": "KIRGIL KÖYÜ KÖYEVİ",
+        "sandik_no": 1092,
+        "mahalle_id": "elazig-karakocan-kirgil-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 48,
+            "sayim_sonuc": {
+                "TOPLAM": 48,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 5,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-karakocan/1xxx/1092/elazig-karakocan-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "182105",
+            "oyveotesi_sync_timestamp": 1684339060
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-karakocan/1xxx/1092/elazig-karakocan-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "182105",
+            "oyveotesi_sync_timestamp": 1684339060
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-talas",
+        "mahalle": "YUKARI MAH.",
+        "ilce_adi": "TALAS",
+        "okul_adi": "FİNAL OKULLARI",
+        "sandik_no": 1326,
+        "mahalle_id": "kayseri-talas-yukari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 43,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-talas/1xxx/1326/kayseri-talas-1326-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "685650",
+            "oyveotesi_sync_timestamp": 1684359434
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-talas/1xxx/1326/kayseri-talas-1326-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "685650",
+            "oyveotesi_sync_timestamp": 1684359434
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-talas",
+        "mahalle": "YUKARI MAH.",
+        "ilce_adi": "TALAS",
+        "okul_adi": "FİNAL OKULLARI",
+        "sandik_no": 1327,
+        "mahalle_id": "kayseri-talas-yukari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "İYİ PARTİ": 46,
+                "ZAFER PARTİSİ": 11,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 93,
+                "ADALET VE KALKINMA PARTİSİ": 77,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-talas/1xxx/1327/kayseri-talas-1327-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "351964",
+            "oyveotesi_sync_timestamp": 1684359434
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SİNAN OĞAN": 24,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-talas/1xxx/1327/kayseri-talas-1327-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "351964",
+            "oyveotesi_sync_timestamp": 1684359434
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

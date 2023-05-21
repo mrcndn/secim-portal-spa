@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "aksaray",
+        "il_adi": "AKSARAY",
+        "il_kodu": 68,
+        "ilce_id": "aksaray-ortakoy",
+        "mahalle": "GÖKKAYA KÖYÜ",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "S.GÖKKAYA KÖYÜ İLKOKULU",
+        "sandik_no": 1057,
+        "mahalle_id": "aksaray-ortakoy-gokkaya-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327690
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327690
+        },
+        "secim_bolge_id": "aksaray"
+    },
+    {
+        "il_id": "aksaray",
+        "il_adi": "AKSARAY",
+        "il_kodu": 68,
+        "ilce_id": "aksaray-ortakoy",
+        "mahalle": "GÖKKAYA KÖYÜ",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "S.GÖKKAYA KÖYÜ İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "aksaray-ortakoy-gokkaya-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327690
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 273
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aksaray-tutanaklari/blob/main/tutanak/aksaray/aksaray-ortakoy/1xxx/1056/aksaray-ortakoy-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327690
+        },
+        "secim_bolge_id": "aksaray"
+    }
+]

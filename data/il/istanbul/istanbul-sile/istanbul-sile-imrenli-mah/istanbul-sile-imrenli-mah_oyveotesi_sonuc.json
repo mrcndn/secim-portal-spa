@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "İMRENLİ MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "İMRENLİ KÖY KAHVESİ",
+        "sandik_no": 1079,
+        "mahalle_id": "istanbul-sile-imrenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "İYİ PARTİ": 37,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 111,
+                "ADALET VE KALKINMA PARTİSİ": 110,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "460071",
+            "oyveotesi_sync_timestamp": 1684345114
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 132
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "460071",
+            "oyveotesi_sync_timestamp": 1684345114
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

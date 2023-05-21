@@ -1,0 +1,53 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-domanic",
+        "mahalle": "SEYDİKUZU KÖYÜ",
+        "ilce_adi": "DOMANİÇ",
+        "okul_adi": "SEYDİKUZU KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1049,
+        "mahalle_id": "kutahya-domanic-seydikuzu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 13,
+            "sayim_sonuc": {
+                "TOPLAM": 13,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 6,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1049/kutahya-domanic-1049-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570031",
+            "oyveotesi_sync_timestamp": 1684350153
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 13,
+            "sayim_sonuc": {
+                "TOPLAM": 13,
+                "SİNAN OĞAN": 0,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-domanic/1xxx/1049/kutahya-domanic-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570031",
+            "oyveotesi_sync_timestamp": 1684350153
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

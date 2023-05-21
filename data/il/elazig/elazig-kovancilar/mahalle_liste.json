@@ -1,0 +1,892 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ADALI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-adali-koyu",
+        "oyveotesi_neighborhood_id": 21334
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "AKMEZRA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-akmezra-koyu",
+        "oyveotesi_neighborhood_id": 21318
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "AŞAĞIDEMİRCİ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-asagidemirci-koyu",
+        "oyveotesi_neighborhood_id": 50473
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "AŞAĞIKANATLI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-asagikanatli-koyu",
+        "oyveotesi_neighborhood_id": 21313
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "AŞAĞIKÖSE KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-asagikose-koyu",
+        "oyveotesi_neighborhood_id": 21351
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "AŞAĞIMİRAHMET KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-asagimirahmet-koyu",
+        "oyveotesi_neighborhood_id": 21364
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "AVLAĞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-avlagi-koyu",
+        "oyveotesi_neighborhood_id": 21312
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "BAĞGÜLÜ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-baggulu-koyu",
+        "oyveotesi_neighborhood_id": 21308
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "BAĞLAR MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-baglar-mah",
+        "oyveotesi_neighborhood_id": 21296
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 21377
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "BAYRAMYAZI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-bayramyazi-koyu",
+        "oyveotesi_neighborhood_id": 21335
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "BEŞPINAR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-bespinar-koyu",
+        "oyveotesi_neighborhood_id": 21326
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "BİLALKÖY",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-bilalkoy",
+        "oyveotesi_neighborhood_id": 21297
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇAKIRKAŞ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-cakirkas-koyu",
+        "oyveotesi_neighborhood_id": 21369
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇARŞI BAŞI MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-carsi-basi-mah",
+        "oyveotesi_neighborhood_id": 21370
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇATAKBAŞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-catakbasi-koyu",
+        "oyveotesi_neighborhood_id": 21362
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇAYBAĞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-caybagi-koyu",
+        "oyveotesi_neighborhood_id": 21311
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇAY BAŞI MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-cay-basi-mah",
+        "oyveotesi_neighborhood_id": 21345
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇELEBİ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-celebi-koyu",
+        "oyveotesi_neighborhood_id": 21317
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ÇİFTLİK KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-ciftlik-koyu",
+        "oyveotesi_neighborhood_id": 21338
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "DEĞİRMENTAŞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-degirmentasi-koyu",
+        "oyveotesi_neighborhood_id": 21327
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "DEMİRCİ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-demirci-koyu",
+        "oyveotesi_neighborhood_id": 21378
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "DURMUŞLAR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-durmuslar-koyu",
+        "oyveotesi_neighborhood_id": 21346
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "EKİNBAĞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-ekinbagi-koyu",
+        "oyveotesi_neighborhood_id": 21341
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "EKİNÖZÜ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-ekinozu-koyu",
+        "oyveotesi_neighborhood_id": 21300
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-fatih-mah",
+        "oyveotesi_neighborhood_id": 21347
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "GEDİKYURT KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-gedikyurt-koyu",
+        "oyveotesi_neighborhood_id": 21328
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "GÖÇMEZLER KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-gocmezler-koyu",
+        "oyveotesi_neighborhood_id": 49900
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "GÖKÇEDAL KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-gokcedal-koyu",
+        "oyveotesi_neighborhood_id": 21365
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "GÖZECİK KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-gozecik-koyu",
+        "oyveotesi_neighborhood_id": 21352
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "GÜLÇATI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-gulcati-koyu",
+        "oyveotesi_neighborhood_id": 21356
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "GÜLTEPE MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-gultepe-mah",
+        "oyveotesi_neighborhood_id": 21372
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "HACIMEKKE KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-hacimekke-koyu",
+        "oyveotesi_neighborhood_id": 21353
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "HACISAM KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-hacisam-koyu",
+        "oyveotesi_neighborhood_id": 21348
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "HEYBET MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-heybet-mah",
+        "oyveotesi_neighborhood_id": 21349
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "İĞDELİ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-igdeli-koyu",
+        "oyveotesi_neighborhood_id": 21371
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "İSAAĞAMEZRASI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-isaagamezrasi-koyu",
+        "oyveotesi_neighborhood_id": 21363
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "İSMET PAŞA MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-ismet-pasa-mah",
+        "oyveotesi_neighborhood_id": 21376
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KACAR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-kacar-koyu",
+        "oyveotesi_neighborhood_id": 21354
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KAPIAÇMAZ MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-kapiacmaz-mah",
+        "oyveotesi_neighborhood_id": 49998
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KARABÖRK KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-karabork-koyu",
+        "oyveotesi_neighborhood_id": 21373
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KARACİMŞİT MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-karacimsit-mah",
+        "oyveotesi_neighborhood_id": 50029
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KARAMAN KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-karaman-koyu",
+        "oyveotesi_neighborhood_id": 21329
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KARASUNGUR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-karasungur-koyu",
+        "oyveotesi_neighborhood_id": 21322
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KARINCAKÖY",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-karincakoy",
+        "oyveotesi_neighborhood_id": 21342
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KAVAKKÖY",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-kavakkoy",
+        "oyveotesi_neighborhood_id": 21309
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KAYALIK KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-kayalik-koyu",
+        "oyveotesi_neighborhood_id": 21319
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KOLLUCA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-kolluca-koyu",
+        "oyveotesi_neighborhood_id": 21343
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KÖPRÜDERE KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-koprudere-koyu",
+        "oyveotesi_neighborhood_id": 21366
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KUŞAĞACI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-kusagaci-koyu",
+        "oyveotesi_neighborhood_id": 21357
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "KUŞÇU KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-kuscu-koyu",
+        "oyveotesi_neighborhood_id": 21358
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "MURATBAĞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-muratbagi-koyu",
+        "oyveotesi_neighborhood_id": 21344
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "MUSTAFAKÖY",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-mustafakoy",
+        "oyveotesi_neighborhood_id": 21339
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "NİŞANKAYA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-nisankaya-koyu",
+        "oyveotesi_neighborhood_id": 21336
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "OKÇULAR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-okcular-koyu",
+        "oyveotesi_neighborhood_id": 21337
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "OSMANAĞA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-osmanaga-koyu",
+        "oyveotesi_neighborhood_id": 21350
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "PAYAMLI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-payamli-koyu",
+        "oyveotesi_neighborhood_id": 21298
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "SALKIMLI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-salkimli-koyu",
+        "oyveotesi_neighborhood_id": 21374
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "SARAYBAHÇE KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-saraybahce-koyu",
+        "oyveotesi_neighborhood_id": 21314
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "SARIBUĞDAY KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-saribugday-koyu",
+        "oyveotesi_neighborhood_id": 21375
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ŞEKERCİ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-sekerci-koyu",
+        "oyveotesi_neighborhood_id": 21299
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "ŞENOVA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-senova-koyu",
+        "oyveotesi_neighborhood_id": 21368
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "SOĞANLI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-soganli-koyu",
+        "oyveotesi_neighborhood_id": 21367
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "SOĞUKPINAR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-sogukpinar-koyu",
+        "oyveotesi_neighborhood_id": 21304
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "SÜREKLİ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-surekli-koyu",
+        "oyveotesi_neighborhood_id": 21323
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TABANÖZÜ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-tabanozu-koyu",
+        "oyveotesi_neighborhood_id": 21301
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TAŞÇANAK KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-tascanak-koyu",
+        "oyveotesi_neighborhood_id": 21305
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TAŞÖREN KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-tasoren-koyu",
+        "oyveotesi_neighborhood_id": 21315
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TATAR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-tatar-koyu",
+        "oyveotesi_neighborhood_id": 21340
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TEPEBAĞ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-tepebag-koyu",
+        "oyveotesi_neighborhood_id": 21330
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TOKİ MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-toki-mah",
+        "oyveotesi_neighborhood_id": 21331
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TOPAĞAÇ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-topagac-koyu",
+        "oyveotesi_neighborhood_id": 21306
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "TUNA MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-tuna-mah",
+        "oyveotesi_neighborhood_id": 21332
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "UYANDIK KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-uyandik-koyu",
+        "oyveotesi_neighborhood_id": 21307
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "UZUNOVA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-uzunova-koyu",
+        "oyveotesi_neighborhood_id": 21320
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "VALİ FAHRİBEY KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-vali-fahribey-koyu",
+        "oyveotesi_neighborhood_id": 21324
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YARIMCA KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yarimca-koyu",
+        "oyveotesi_neighborhood_id": 21303
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YAZIBAŞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yazibasi-koyu",
+        "oyveotesi_neighborhood_id": 21321
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YENİDAM KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yenidam-koyu",
+        "oyveotesi_neighborhood_id": 21360
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YENİKÖY",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yenikoy",
+        "oyveotesi_neighborhood_id": 21302
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yeni-mah",
+        "oyveotesi_neighborhood_id": 21325
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YEŞİLDERE KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yesildere-koyu",
+        "oyveotesi_neighborhood_id": 21359
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YEŞİLKÖY",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yesilkoy",
+        "oyveotesi_neighborhood_id": 21333
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YILBAŞI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yilbasi-koyu",
+        "oyveotesi_neighborhood_id": 50052
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YONCALIBAYIR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yoncalibayir-koyu",
+        "oyveotesi_neighborhood_id": 21310
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YUKARIDEMİRLİ KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yukaridemirli-koyu",
+        "oyveotesi_neighborhood_id": 21355
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YUKARIKANATLI KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yukarikanatli-koyu",
+        "oyveotesi_neighborhood_id": 21380
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YUKARIKAZANLAR KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yukarikazanlar-koyu",
+        "oyveotesi_neighborhood_id": 21316
+    },
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-kovancilar",
+        "mahalle": "YUKARIMİRAHMET KÖYÜ",
+        "ilce_adi": "KOVANCILAR",
+        "mahalle_id": "elazig-kovancilar-yukarimirahmet-koyu",
+        "oyveotesi_neighborhood_id": 21361
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "ÇAYIR KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "ÇAYIR KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1091,
+        "mahalle_id": "corum-osmancik-cayir-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1091/corum-osmancik-1091-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "250991",
+            "oyveotesi_sync_timestamp": 1684368950
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1091/corum-osmancik-1091-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "250991",
+            "oyveotesi_sync_timestamp": 1684368950
+        },
+        "secim_bolge_id": "corum"
+    }
+]

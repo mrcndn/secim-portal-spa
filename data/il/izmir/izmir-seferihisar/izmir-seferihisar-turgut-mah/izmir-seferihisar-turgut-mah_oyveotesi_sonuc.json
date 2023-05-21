@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-seferihisar",
+        "mahalle": "TURGUT MAH.",
+        "ilce_adi": "SEFERİHİSAR",
+        "okul_adi": "TURGUT MAH. TURGUT KOY ILKOKULU",
+        "sandik_no": 1123,
+        "mahalle_id": "izmir-seferihisar-turgut-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 33,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 160,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "298857",
+            "oyveotesi_sync_timestamp": 1684361893
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 212,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "298857",
+            "oyveotesi_sync_timestamp": 1684361893
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

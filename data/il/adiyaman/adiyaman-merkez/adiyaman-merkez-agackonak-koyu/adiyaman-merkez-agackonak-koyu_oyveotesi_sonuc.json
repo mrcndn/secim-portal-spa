@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-merkez",
+        "mahalle": "AĞAÇKONAK KÖYÜ",
+        "ilce_adi": "ADIYAMAN MERKEZ",
+        "okul_adi": "AĞAÇKONAK İLKOKULU",
+        "sandik_no": 2019,
+        "mahalle_id": "adiyaman-merkez-agackonak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330367
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 72,
+            "sayim_sonuc": {
+                "TOPLAM": 72,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-merkez/2xxx/2019/adiyaman-merkez-2019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330367
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

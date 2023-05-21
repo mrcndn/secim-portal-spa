@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-cifteler",
+        "mahalle": "BELPINAR MAH.",
+        "ilce_adi": "ÇİFTELER",
+        "okul_adi": "BELPINAR / İLKÖĞRETİM OKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "eskisehir-cifteler-belpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341455
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-cifteler/1xxx/1012/eskisehir-cifteler-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341455
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

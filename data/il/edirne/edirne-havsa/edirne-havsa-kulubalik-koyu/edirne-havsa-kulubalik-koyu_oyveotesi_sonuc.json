@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-havsa",
+        "mahalle": "KULUBALIK KÖYÜ",
+        "ilce_adi": "HAVSA",
+        "okul_adi": "KULUBALIKİLKÖĞRETİM OKULU",
+        "sandik_no": 1037,
+        "mahalle_id": "edirne-havsa-kulubalik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 30,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 72,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-havsa/1xxx/1037/edirne-havsa-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "660866",
+            "oyveotesi_sync_timestamp": 1684338408
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-havsa/1xxx/1037/edirne-havsa-1037-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "660866",
+            "oyveotesi_sync_timestamp": 1684338408
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

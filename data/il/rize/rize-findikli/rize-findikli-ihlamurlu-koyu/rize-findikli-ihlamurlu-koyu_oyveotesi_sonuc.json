@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-findikli",
+        "mahalle": "IHLAMURLU KÖYÜ",
+        "ilce_adi": "FINDIKLI",
+        "okul_adi": "IHLAMURLU KÖYÜ KÖY ODASI",
+        "sandik_no": 1043,
+        "mahalle_id": "rize-findikli-ihlamurlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 3,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 21,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 180,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1043/rize-findikli-1043-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "699609",
+            "oyveotesi_sync_timestamp": 1684356371
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 237
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1043/rize-findikli-1043-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "699609",
+            "oyveotesi_sync_timestamp": 1684356371
+        },
+        "secim_bolge_id": "rize"
+    }
+]

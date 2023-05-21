@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-pertek",
+        "mahalle": "TOZKOPARAN KÖYÜ",
+        "ilce_adi": "PERTEK",
+        "okul_adi": "TOZKOPARAN İLKOKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "tunceli-pertek-tozkoparan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 126,
+            "sayim_sonuc": {
+                "TOPLAM": 126,
+                "İYİ PARTİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-pertek/1xxx/1044/tunceli-pertek-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835547",
+            "oyveotesi_sync_timestamp": 1684361460
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 126,
+            "sayim_sonuc": {
+                "TOPLAM": 126,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 118,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-pertek/1xxx/1044/tunceli-pertek-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835547",
+            "oyveotesi_sync_timestamp": 1684361460
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

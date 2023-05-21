@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-ardanuc",
+        "mahalle": "MEŞEKÖY",
+        "ilce_adi": "ARDANUÇ",
+        "okul_adi": "MEŞEKÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "artvin-ardanuc-mesekoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361638
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-ardanuc/1xxx/1047/artvin-ardanuc-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361638
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

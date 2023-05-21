@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-dogubayazit",
+        "mahalle": "YIĞINÇAL KÖYÜ",
+        "ilce_adi": "DOĞUBAYAZIT",
+        "okul_adi": "YIĞINÇAL KÖYÜ İLKOKULU",
+        "sandik_no": 1239,
+        "mahalle_id": "agri-dogubayazit-yigincal-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326908
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-dogubayazit/1xxx/1239/agri-dogubayazit-1239-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326908
+        },
+        "secim_bolge_id": "agri"
+    }
+]

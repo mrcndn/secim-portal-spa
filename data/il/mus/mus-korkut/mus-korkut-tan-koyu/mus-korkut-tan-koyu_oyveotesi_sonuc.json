@@ -1,0 +1,61 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-korkut",
+        "mahalle": "TAN KÖYÜ",
+        "ilce_adi": "KORKUT",
+        "okul_adi": "TAN KÖYÜ ORTAOKULU",
+        "sandik_no": 1048,
+        "mahalle_id": "mus-korkut-tan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393845
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393845
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-korkut",
+        "mahalle": "TAN KÖYÜ",
+        "ilce_adi": "KORKUT",
+        "okul_adi": "TAN KÖYÜ ORTAOKULU",
+        "sandik_no": 1047,
+        "mahalle_id": "mus-korkut-tan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "SOL PARTİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-korkut/1xxx/1047/mus-korkut-1047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "455946",
+            "oyveotesi_sync_timestamp": 1684393845
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "455946",
+            "oyveotesi_sync_timestamp": 1684393845
+        },
+        "secim_bolge_id": "mus"
+    }
+]

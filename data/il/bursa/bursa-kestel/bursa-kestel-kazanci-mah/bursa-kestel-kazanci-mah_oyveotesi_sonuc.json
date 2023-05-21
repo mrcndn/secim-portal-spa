@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-kestel",
+        "mahalle": "KAZANCI MAH.",
+        "ilce_adi": "KESTEL",
+        "okul_adi": "KAZANCI SOSYAL TESİS",
+        "sandik_no": 1081,
+        "mahalle_id": "bursa-kestel-kazanci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334941
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334941
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

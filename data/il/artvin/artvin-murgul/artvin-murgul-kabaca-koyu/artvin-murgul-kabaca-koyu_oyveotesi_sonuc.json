@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-murgul",
+        "mahalle": "KABACA KÖYÜ",
+        "ilce_adi": "MURGUL",
+        "okul_adi": "KABACA KÖYÜ KOY ILKOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "artvin-murgul-kabaca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 62,
+            "sayim_sonuc": {
+                "TOPLAM": 62,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 12,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "769296",
+            "oyveotesi_sync_timestamp": 1684361528
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-murgul/1xxx/1017/artvin-murgul-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "769296",
+            "oyveotesi_sync_timestamp": 1684361528
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

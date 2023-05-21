@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "YEŞİLÖZ KÖYÜ",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "YEŞİLÖZ KÖY KONAĞI",
+        "sandik_no": 1045,
+        "mahalle_id": "cankiri-kursunlu-yesiloz-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 51,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1045/cankiri-kursunlu-1045-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "719116",
+            "oyveotesi_sync_timestamp": 1684336648
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1045/cankiri-kursunlu-1045-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "719116",
+            "oyveotesi_sync_timestamp": 1684336648
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

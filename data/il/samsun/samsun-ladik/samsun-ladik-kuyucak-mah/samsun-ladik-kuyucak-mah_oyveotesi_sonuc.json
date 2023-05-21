@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "KUYUCAK MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "KUYUCAK MAH. YEMEKHANESİ",
+        "sandik_no": 1055,
+        "mahalle_id": "samsun-ladik-kuyucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "ZAFER PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1055/samsun-ladik-1055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "292005",
+            "oyveotesi_sync_timestamp": 1684367402
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1055/samsun-ladik-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "292005",
+            "oyveotesi_sync_timestamp": 1684367402
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

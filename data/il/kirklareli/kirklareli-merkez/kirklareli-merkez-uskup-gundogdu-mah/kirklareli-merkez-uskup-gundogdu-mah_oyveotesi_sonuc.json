@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-merkez",
+        "mahalle": "ÜSKÜP-GÜNDOĞDU MAH.",
+        "ilce_adi": "KIRKLARELİ MERKEZ",
+        "okul_adi": "ÜSKÜP ATATÜRK ORTAOKULU",
+        "sandik_no": 1193,
+        "mahalle_id": "kirklareli-merkez-uskup-gundogdu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349195
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1193/kirklareli-merkez-1193-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349195
+        },
+        "secim_bolge_id": "kirklareli"
+    },
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-merkez",
+        "mahalle": "ÜSKÜP-GÜNDOĞDU MAH.",
+        "ilce_adi": "KIRKLARELİ MERKEZ",
+        "okul_adi": "ÜSKÜP ATATÜRK ORTAOKULU",
+        "sandik_no": 1194,
+        "mahalle_id": "kirklareli-merkez-uskup-gundogdu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349195
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 150
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1194/kirklareli-merkez-1194-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349195
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

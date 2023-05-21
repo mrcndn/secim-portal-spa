@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "ÇANILLI ÇİĞDEMCİ MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "ÇANILLI ORTAOKULU (ÇİĞDEMCİ MAHLLESİ)",
+        "sandik_no": 1007,
+        "mahalle_id": "ankara-ayas-canilli-cigdemci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 130,
+                "VATAN PARTİSİ": 9,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "677678",
+            "oyveotesi_sync_timestamp": 1684393646
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "677678",
+            "oyveotesi_sync_timestamp": 1684393646
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

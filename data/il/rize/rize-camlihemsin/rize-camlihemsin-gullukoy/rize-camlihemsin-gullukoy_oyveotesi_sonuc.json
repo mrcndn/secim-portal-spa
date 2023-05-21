@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-camlihemsin",
+        "mahalle": "GÜLLÜKÖY",
+        "ilce_adi": "ÇAMLIHEMŞİN",
+        "okul_adi": "GÜLLÜ KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "rize-camlihemsin-gullukoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356169
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1020/rize-camlihemsin-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356169
+        },
+        "secim_bolge_id": "rize"
+    }
+]

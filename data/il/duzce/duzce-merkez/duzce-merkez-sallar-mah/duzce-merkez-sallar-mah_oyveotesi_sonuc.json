@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "SALLAR MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "SALLAR MAH. KÖY ODASI",
+        "sandik_no": 1313,
+        "mahalle_id": "duzce-merkez-sallar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 183,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1313/duzce-merkez-1313-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "611859",
+            "oyveotesi_sync_timestamp": 1684338129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "611859",
+            "oyveotesi_sync_timestamp": 1684338129
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "SALLAR MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "SALLAR MAH. KÖY ODASI",
+        "sandik_no": 1312,
+        "mahalle_id": "duzce-merkez-sallar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338129
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

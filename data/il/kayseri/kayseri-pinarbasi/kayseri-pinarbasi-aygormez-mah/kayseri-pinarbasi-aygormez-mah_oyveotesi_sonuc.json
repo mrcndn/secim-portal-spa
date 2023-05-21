@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-pinarbasi",
+        "mahalle": "AYGÖRMEZ MAH.",
+        "ilce_adi": "PINARBAŞI",
+        "okul_adi": "AYGÖRMEZ KÖYÜ İLKOKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "kayseri-pinarbasi-aygormez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 31,
+            "sayim_sonuc": {
+                "TOPLAM": 31,
+                "İYİ PARTİ": 3,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-pinarbasi/1xxx/1013/kayseri-pinarbasi-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "438600",
+            "oyveotesi_sync_timestamp": 1684364138
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "438600",
+            "oyveotesi_sync_timestamp": 1684364138
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

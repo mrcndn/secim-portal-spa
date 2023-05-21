@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kalecik",
+        "mahalle": "KARALAR MAH.",
+        "ilce_adi": "KALECİK",
+        "okul_adi": "KARALAR MAHALLESİ İLKOKULU",
+        "sandik_no": 1043,
+        "mahalle_id": "ankara-kalecik-karalar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "595234",
+            "oyveotesi_sync_timestamp": 1684393535
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 56,
+            "sayim_sonuc": {
+                "TOPLAM": 56,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "595234",
+            "oyveotesi_sync_timestamp": 1684393535
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

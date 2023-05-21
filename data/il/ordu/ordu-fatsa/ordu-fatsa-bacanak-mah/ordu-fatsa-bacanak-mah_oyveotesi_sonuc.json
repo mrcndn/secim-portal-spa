@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-fatsa",
+        "mahalle": "BACANAK MAH.",
+        "ilce_adi": "FATSA",
+        "okul_adi": "BACANAK MAH. KÖY ODASI",
+        "sandik_no": 1024,
+        "mahalle_id": "ordu-fatsa-bacanak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-fatsa/1xxx/1024/ordu-fatsa-1024-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837210",
+            "oyveotesi_sync_timestamp": 1684360842
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "837210",
+            "oyveotesi_sync_timestamp": 1684360842
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

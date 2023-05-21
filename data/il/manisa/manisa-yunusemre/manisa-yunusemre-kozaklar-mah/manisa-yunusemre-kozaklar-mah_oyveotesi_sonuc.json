@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-yunusemre",
+        "mahalle": "KOZAKLAR MAH.",
+        "ilce_adi": "YUNUSEMRE",
+        "okul_adi": "KOZAKLAR TOPLANTI SALONU",
+        "sandik_no": 1258,
+        "mahalle_id": "manisa-yunusemre-kozaklar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 52,
+            "sayim_sonuc": {
+                "TOPLAM": 52,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1258/manisa-yunusemre-1258-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836971",
+            "oyveotesi_sync_timestamp": 1684397719
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 51,
+            "sayim_sonuc": {
+                "TOPLAM": 51,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-yunusemre/1xxx/1258/manisa-yunusemre-1258-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836971",
+            "oyveotesi_sync_timestamp": 1684397719
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

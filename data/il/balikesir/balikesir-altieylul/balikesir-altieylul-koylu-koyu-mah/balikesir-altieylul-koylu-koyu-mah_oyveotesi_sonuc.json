@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "KÖYLÜ KÖYÜ MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "KÖYLÜ KÖYÜ İLKOKULU",
+        "sandik_no": 1319,
+        "mahalle_id": "balikesir-altieylul-koylu-koyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 349,
+            "sayim_sonuc": {
+                "TOPLAM": 349,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 275
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1319/balikesir-altieylul-1319-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328639
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "KÖYLÜ KÖYÜ MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "KÖYLÜ KÖYÜ İLKOKULU",
+        "sandik_no": 1320,
+        "mahalle_id": "balikesir-altieylul-koylu-koyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 247
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1320/balikesir-altieylul-1320-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328639
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

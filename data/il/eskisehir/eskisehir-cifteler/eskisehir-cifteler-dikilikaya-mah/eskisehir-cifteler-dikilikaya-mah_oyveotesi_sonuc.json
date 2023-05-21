@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-cifteler",
+        "mahalle": "DİKİLİKAYA MAH.",
+        "ilce_adi": "ÇİFTELER",
+        "okul_adi": "DİKİLİKAYA OKUL LOJMANI",
+        "sandik_no": 1018,
+        "mahalle_id": "eskisehir-cifteler-dikilikaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 22,
+            "sayim_sonuc": {
+                "TOPLAM": 22,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-cifteler/1xxx/1018/eskisehir-cifteler-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833425",
+            "oyveotesi_sync_timestamp": 1684341458
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 22,
+            "sayim_sonuc": {
+                "TOPLAM": 22,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-cifteler/1xxx/1018/eskisehir-cifteler-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833425",
+            "oyveotesi_sync_timestamp": 1684341458
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

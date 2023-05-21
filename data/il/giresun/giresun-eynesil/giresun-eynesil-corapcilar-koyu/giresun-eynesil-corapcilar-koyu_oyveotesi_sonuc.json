@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-eynesil",
+        "mahalle": "ÇORAPÇILAR KÖYÜ",
+        "ilce_adi": "EYNESİL",
+        "okul_adi": "ÇORAPÇILAR KÖYÜ CAMİİ ALTI",
+        "sandik_no": 1029,
+        "mahalle_id": "giresun-eynesil-corapcilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-eynesil/1xxx/1029/giresun-eynesil-1029-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "767518",
+            "oyveotesi_sync_timestamp": 1684343044
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-eynesil/1xxx/1029/giresun-eynesil-1029-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "767518",
+            "oyveotesi_sync_timestamp": 1684343044
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

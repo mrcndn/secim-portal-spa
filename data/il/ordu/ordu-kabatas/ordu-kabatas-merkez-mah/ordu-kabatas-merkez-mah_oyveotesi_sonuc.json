@@ -1,0 +1,102 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "KABATAŞ BELEDİYESİ DÜĞÜN SALONU",
+        "sandik_no": 1022,
+        "mahalle_id": "ordu-kabatas-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 66,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 66,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1022/ordu-kabatas-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570824",
+            "oyveotesi_sync_timestamp": 1684360446
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1022/ordu-kabatas-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570824",
+            "oyveotesi_sync_timestamp": 1684360446
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabatas",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "KABATAŞ",
+        "okul_adi": "KABATAŞ BELEDİYESİ DÜĞÜN SALONU",
+        "sandik_no": 1023,
+        "mahalle_id": "ordu-kabatas-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 60,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1023/ordu-kabatas-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576904",
+            "oyveotesi_sync_timestamp": 1684360446
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabatas/1xxx/1023/ordu-kabatas-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576904",
+            "oyveotesi_sync_timestamp": 1684360446
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

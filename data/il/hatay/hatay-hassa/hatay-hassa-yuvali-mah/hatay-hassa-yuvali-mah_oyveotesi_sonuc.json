@@ -1,0 +1,117 @@
+[
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-hassa",
+        "mahalle": "YUVALI MAH.",
+        "ilce_adi": "HASSA",
+        "okul_adi": "YUVALI İLKOKULU",
+        "sandik_no": 1118,
+        "mahalle_id": "hatay-hassa-yuvali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375328
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 272
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-hassa/1xxx/1118/hatay-hassa-1118-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684375328
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-hassa",
+        "mahalle": "YUVALI MAH.",
+        "ilce_adi": "HASSA",
+        "okul_adi": "YUVALI İLKOKULU",
+        "sandik_no": 1119,
+        "mahalle_id": "hatay-hassa-yuvali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 279,
+            "sayim_sonuc": {
+                "TOPLAM": 279,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 167,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-hassa/1xxx/1119/hatay-hassa-1119-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "378673",
+            "oyveotesi_sync_timestamp": 1684375328
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 258
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-hassa/1xxx/1119/hatay-hassa-1119-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "378673",
+            "oyveotesi_sync_timestamp": 1684375328
+        },
+        "secim_bolge_id": "hatay"
+    },
+    {
+        "il_id": "hatay",
+        "il_adi": "HATAY",
+        "il_kodu": 31,
+        "ilce_id": "hatay-hassa",
+        "mahalle": "YUVALI MAH.",
+        "ilce_adi": "HASSA",
+        "okul_adi": "YUVALI İLKOKULU",
+        "sandik_no": 1120,
+        "mahalle_id": "hatay-hassa-yuvali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 180,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-hassa/1xxx/1120/hatay-hassa-1120-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "200147",
+            "oyveotesi_sync_timestamp": 1684375328
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 276
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-hatay-tutanaklari/blob/main/tutanak/hatay/hatay-hassa/1xxx/1120/hatay-hassa-1120-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "200147",
+            "oyveotesi_sync_timestamp": 1684375328
+        },
+        "secim_bolge_id": "hatay"
+    }
+]

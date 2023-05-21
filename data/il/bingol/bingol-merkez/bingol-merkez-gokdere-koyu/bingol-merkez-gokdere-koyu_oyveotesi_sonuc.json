@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-merkez",
+        "mahalle": "GÖKDERE KÖYÜ",
+        "ilce_adi": "BİNGÖL MERKEZ",
+        "okul_adi": "GÖKDERE HACILAR İLKOKULU",
+        "sandik_no": 1316,
+        "mahalle_id": "bingol-merkez-gokdere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 146,
+            "sayim_sonuc": {
+                "TOPLAM": 146,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 97
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-merkez/1xxx/1316/bingol-merkez-1316-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "382018",
+            "oyveotesi_sync_timestamp": 1684332974
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 149,
+            "sayim_sonuc": {
+                "TOPLAM": 149,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 115,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-merkez/1xxx/1316/bingol-merkez-1316-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "382018",
+            "oyveotesi_sync_timestamp": 1684332974
+        },
+        "secim_bolge_id": "bingol"
+    }
+]

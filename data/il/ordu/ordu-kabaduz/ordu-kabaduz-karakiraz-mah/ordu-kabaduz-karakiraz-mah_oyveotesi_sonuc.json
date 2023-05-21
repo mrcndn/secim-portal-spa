@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-kabaduz",
+        "mahalle": "KARAKİRAZ MAH.",
+        "ilce_adi": "KABADÜZ",
+        "okul_adi": "HAPAN CAMİYANI KÖY ODASI",
+        "sandik_no": 1016,
+        "mahalle_id": "ordu-kabaduz-karakiraz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "İYİ PARTİ": 25,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 111,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-kabaduz/1xxx/1016/ordu-kabaduz-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "705138",
+            "oyveotesi_sync_timestamp": 1684360421
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "705138",
+            "oyveotesi_sync_timestamp": 1684360421
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

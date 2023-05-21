@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-gorele",
+        "mahalle": "AKHARMAN KÖYÜ",
+        "ilce_adi": "GÖRELE",
+        "okul_adi": "AKHARMAN İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "giresun-gorele-akharman-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "İYİ PARTİ": 14,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1056/giresun-gorele-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "713024",
+            "oyveotesi_sync_timestamp": 1684343160
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-gorele/1xxx/1056/giresun-gorele-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "713024",
+            "oyveotesi_sync_timestamp": 1684343160
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

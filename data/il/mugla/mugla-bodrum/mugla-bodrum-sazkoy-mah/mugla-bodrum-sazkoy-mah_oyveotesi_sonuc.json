@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-bodrum",
+        "mahalle": "SAZKÖY MAH.",
+        "ilce_adi": "BODRUM",
+        "okul_adi": "SAZKÖY KONAĞI",
+        "sandik_no": 1335,
+        "mahalle_id": "mugla-bodrum-sazkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374665
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 244,
+                "RECEP TAYYİP ERDOĞAN": 60
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-bodrum/1xxx/1335/mugla-bodrum-1335-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374665
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-bodrum",
+        "mahalle": "SAZKÖY MAH.",
+        "ilce_adi": "BODRUM",
+        "okul_adi": "SAZKÖY KURUDERE KÖY KONAĞI",
+        "sandik_no": 1336,
+        "mahalle_id": "mugla-bodrum-sazkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 52,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 115,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-bodrum/1xxx/1336/mugla-bodrum-1336-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835453",
+            "oyveotesi_sync_timestamp": 1684374665
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 169,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-bodrum/1xxx/1336/mugla-bodrum-1336-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835453",
+            "oyveotesi_sync_timestamp": 1684374665
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

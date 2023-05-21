@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "KAYAALTI MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "KAYAALTI MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1028,
+        "mahalle_id": "manisa-golmarmara-kayaalti-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 34,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 71,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 43,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1028/manisa-golmarmara-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711784",
+            "oyveotesi_sync_timestamp": 1684397029
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 277,
+            "sayim_sonuc": {
+                "TOPLAM": 277,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1028/manisa-golmarmara-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "711784",
+            "oyveotesi_sync_timestamp": 1684397029
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

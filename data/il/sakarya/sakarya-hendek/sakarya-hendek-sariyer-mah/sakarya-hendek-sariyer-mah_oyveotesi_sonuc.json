@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SARIYER MAH.",
+        "ilce_adi": "HENDEK",
+        "okul_adi": "SARIYER KÖY KONAĞI",
+        "sandik_no": 1146,
+        "mahalle_id": "sakarya-hendek-sariyer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 275,
+            "sayim_sonuc": {
+                "TOPLAM": 275,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 171,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-hendek/1xxx/1146/sakarya-hendek-1146-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "449005",
+            "oyveotesi_sync_timestamp": 1684357578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "449005",
+            "oyveotesi_sync_timestamp": 1684357578
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

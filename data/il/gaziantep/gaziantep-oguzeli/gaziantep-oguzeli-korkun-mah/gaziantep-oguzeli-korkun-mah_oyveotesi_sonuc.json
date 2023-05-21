@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KÖRKÜN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "okul_adi": "BÜYÜKŞAHİNBEY İLKÖĞRETİM OKULU ( ORTAOKULU )",
+        "sandik_no": 1081,
+        "mahalle_id": "gaziantep-oguzeli-korkun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-oguzeli/1xxx/1081/gaziantep-oguzeli-1081-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829246",
+            "oyveotesi_sync_timestamp": 1684342365
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-oguzeli/1xxx/1081/gaziantep-oguzeli-1081-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829246",
+            "oyveotesi_sync_timestamp": 1684342365
+        },
+        "secim_bolge_id": "gaziantep"
+    },
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-oguzeli",
+        "mahalle": "KÖRKÜN MAH.",
+        "ilce_adi": "OĞUZELİ",
+        "okul_adi": "BÜYÜKŞAHİNBEY İLKÖĞRETİM OKULU ( ORTAOKULU )",
+        "sandik_no": 1082,
+        "mahalle_id": "gaziantep-oguzeli-korkun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342365
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 21,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-oguzeli/1xxx/1082/gaziantep-oguzeli-1082-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342365
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

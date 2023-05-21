@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "ULUÇAL MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "ULUÇAL MAHALLESİ İLKOKULU",
+        "sandik_no": 1126,
+        "mahalle_id": "samsun-havza-ulucal-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 10,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1126/samsun-havza-1126-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568857",
+            "oyveotesi_sync_timestamp": 1684367726
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1126/samsun-havza-1126-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568857",
+            "oyveotesi_sync_timestamp": 1684367726
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

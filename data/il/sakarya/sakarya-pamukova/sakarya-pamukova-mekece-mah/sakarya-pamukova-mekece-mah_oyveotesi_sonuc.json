@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-pamukova",
+        "mahalle": "MEKECE MAH.",
+        "ilce_adi": "PAMUKOVA",
+        "okul_adi": "MEKECE MAH. İLKOKULU",
+        "sandik_no": 1059,
+        "mahalle_id": "sakarya-pamukova-mekece-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357304
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 99,
+                "RECEP TAYYİP ERDOĞAN": 218
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1059/sakarya-pamukova-1059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357304
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-pamukova",
+        "mahalle": "MEKECE MAH.",
+        "ilce_adi": "PAMUKOVA",
+        "okul_adi": "MEKECE MAH. İLKOKULU",
+        "sandik_no": 1060,
+        "mahalle_id": "sakarya-pamukova-mekece-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 16,
+                "İYİ PARTİ": 40,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 163,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1060/sakarya-pamukova-1060-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565912",
+            "oyveotesi_sync_timestamp": 1684357304
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 225
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1060/sakarya-pamukova-1060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565912",
+            "oyveotesi_sync_timestamp": 1684357304
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

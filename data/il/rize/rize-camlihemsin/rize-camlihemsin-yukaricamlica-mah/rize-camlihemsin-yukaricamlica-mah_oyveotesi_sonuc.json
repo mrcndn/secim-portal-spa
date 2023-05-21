@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-camlihemsin",
+        "mahalle": "YUKARIÇAMLICA MAH.",
+        "ilce_adi": "ÇAMLIHEMŞİN",
+        "okul_adi": "YUKARI ÇAMLICA MH. CAMİ AVLUSU",
+        "sandik_no": 1010,
+        "mahalle_id": "rize-camlihemsin-yukaricamlica-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1010/rize-camlihemsin-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "520206",
+            "oyveotesi_sync_timestamp": 1684356180
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1010/rize-camlihemsin-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "520206",
+            "oyveotesi_sync_timestamp": 1684356180
+        },
+        "secim_bolge_id": "rize"
+    }
+]

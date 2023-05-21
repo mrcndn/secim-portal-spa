@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-atakum",
+        "mahalle": "SARIYUSUF MAH.",
+        "ilce_adi": "ATAKUM",
+        "okul_adi": "SARIYUSUF MAH. KÖY ODASI (CAMİ ALTI)",
+        "sandik_no": 1349,
+        "mahalle_id": "samsun-atakum-sariyusuf-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367896
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 86,
+            "sayim_sonuc": {
+                "TOPLAM": 86,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 5,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-atakum/1xxx/1349/samsun-atakum-1349-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367896
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "igdir",
+        "il_adi": "IĞDIR",
+        "il_kodu": 76,
+        "ilce_id": "igdir-merkez",
+        "mahalle": "BAYRAKTUTAN KÖYÜ",
+        "ilce_adi": "IĞDIR MERKEZ",
+        "okul_adi": "BAYRAKTUTAN İLKOKULU",
+        "sandik_no": 1227,
+        "mahalle_id": "igdir-merkez-bayraktutan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343763
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343763
+        },
+        "secim_bolge_id": "igdir"
+    },
+    {
+        "il_id": "igdir",
+        "il_adi": "IĞDIR",
+        "il_kodu": 76,
+        "ilce_id": "igdir-merkez",
+        "mahalle": "BAYRAKTUTAN KÖYÜ",
+        "ilce_adi": "IĞDIR MERKEZ",
+        "okul_adi": "BAYRAKTUTAN İLKOKULU",
+        "sandik_no": 1228,
+        "mahalle_id": "igdir-merkez-bayraktutan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343763
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SİNAN OĞAN": 54,
+                "KEMAL KILIÇDAROĞLU": 96,
+                "RECEP TAYYİP ERDOĞAN": 90
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-igdir-tutanaklari/blob/main/tutanak/igdir/igdir-merkez/1xxx/1228/igdir-merkez-1228-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343763
+        },
+        "secim_bolge_id": "igdir"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-hayrat",
+        "mahalle": "BALABAN MERKEZ MAH.",
+        "ilce_adi": "HAYRAT",
+        "okul_adi": "BALABAN HACI SALİH MUSAOĞLU İLK/ORTAOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "trabzon-hayrat-balaban-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 5,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-hayrat/1xxx/1006/trabzon-hayrat-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366040
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-hayrat",
+        "mahalle": "BALABAN MERKEZ MAH.",
+        "ilce_adi": "HAYRAT",
+        "okul_adi": "BALABAN HACI SALİH MUSAOĞLU İLK/ORTAOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "trabzon-hayrat-balaban-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366040
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 184,
+            "sayim_sonuc": {
+                "TOPLAM": 184,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-hayrat/1xxx/1005/trabzon-hayrat-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366040
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

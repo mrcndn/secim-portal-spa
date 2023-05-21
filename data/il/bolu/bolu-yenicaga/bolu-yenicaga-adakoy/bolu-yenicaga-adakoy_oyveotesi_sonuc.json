@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-yenicaga",
+        "mahalle": "ADAKÖY",
+        "ilce_adi": "YENİÇAĞA",
+        "okul_adi": "ADAKÖY KÖY KONAĞI",
+        "sandik_no": 1013,
+        "mahalle_id": "bolu-yenicaga-adakoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1013/bolu-yenicaga-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "617944",
+            "oyveotesi_sync_timestamp": 1684334276
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 111
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1013/bolu-yenicaga-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "617944",
+            "oyveotesi_sync_timestamp": 1684334276
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

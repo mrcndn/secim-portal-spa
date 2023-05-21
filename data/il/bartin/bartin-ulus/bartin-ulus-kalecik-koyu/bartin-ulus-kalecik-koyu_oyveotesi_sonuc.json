@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KALECİK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "okul_adi": "KALECİK KÖYÜ İLKOKULU",
+        "sandik_no": 1073,
+        "mahalle_id": "bartin-ulus-kalecik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "ADALET VE KALKINMA PARTİSİ": 42,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1073/bartin-ulus-1073-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176173",
+            "oyveotesi_sync_timestamp": 1684328233
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-ulus/1xxx/1073/bartin-ulus-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176173",
+            "oyveotesi_sync_timestamp": 1684328233
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

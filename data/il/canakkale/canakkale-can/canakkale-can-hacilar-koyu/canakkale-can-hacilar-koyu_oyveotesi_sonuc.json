@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "HACILAR KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "HACILAR KÖY KONAĞI",
+        "sandik_no": 1111,
+        "mahalle_id": "canakkale-can-hacilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 30,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1111/canakkale-can-1111-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1012511",
+            "oyveotesi_sync_timestamp": 1684335940
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1111/canakkale-can-1111-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1012511",
+            "oyveotesi_sync_timestamp": 1684335940
+        },
+        "secim_bolge_id": "canakkale"
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "HACILAR KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "HACILAR KÖY KONAĞI",
+        "sandik_no": 1112,
+        "mahalle_id": "canakkale-can-hacilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "ADALET VE KALKINMA PARTİSİ": 108,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1112/canakkale-can-1112-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "189991",
+            "oyveotesi_sync_timestamp": 1684335940
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1112/canakkale-can-1112-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "189991",
+            "oyveotesi_sync_timestamp": 1684335940
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

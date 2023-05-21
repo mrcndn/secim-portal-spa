@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-yenicaga",
+        "mahalle": "YUKARIKULDAN KÖYÜ",
+        "ilce_adi": "YENİÇAĞA",
+        "okul_adi": "YUKARIKULDAN KÖY ODASI",
+        "sandik_no": 1028,
+        "mahalle_id": "bolu-yenicaga-yukarikuldan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "İYİ PARTİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1028/bolu-yenicaga-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "281329",
+            "oyveotesi_sync_timestamp": 1684334295
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 103,
+            "sayim_sonuc": {
+                "TOPLAM": 103,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 90
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1028/bolu-yenicaga-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "281329",
+            "oyveotesi_sync_timestamp": 1684334295
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

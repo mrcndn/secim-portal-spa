@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-nilufer",
+        "mahalle": "ATLAS MAH.",
+        "ilce_adi": "NİLÜFER",
+        "okul_adi": "ATLAS KÖY KAHVESİ BURSA CADDESİ NO : 5",
+        "sandik_no": 2043,
+        "mahalle_id": "bursa-nilufer-atlas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 27,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 57,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "768379",
+            "oyveotesi_sync_timestamp": 1684335115
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 200
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "768379",
+            "oyveotesi_sync_timestamp": 1684335115
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

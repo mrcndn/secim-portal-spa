@@ -1,0 +1,96 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-merkez",
+        "mahalle": "KAPCAMİ MAH.",
+        "ilce_adi": "ADIYAMAN MERKEZ",
+        "okul_adi": "MİMARSİNAN ORTA OKULU",
+        "sandik_no": 1162,
+        "mahalle_id": "adiyaman-merkez-kapcami-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 102,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-merkez/1xxx/1162/adiyaman-merkez-1162-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "765645",
+            "oyveotesi_sync_timestamp": 1684330454
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 190,
+            "sayim_sonuc": {
+                "TOPLAM": 190,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 134
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-merkez/1xxx/1162/adiyaman-merkez-1162-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "765645",
+            "oyveotesi_sync_timestamp": 1684330454
+        },
+        "secim_bolge_id": "adiyaman"
+    },
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-merkez",
+        "mahalle": "KAPCAMİ MAH.",
+        "ilce_adi": "ADIYAMAN MERKEZ",
+        "okul_adi": "MİMARSİNAN ORTA OKULU",
+        "sandik_no": 1161,
+        "mahalle_id": "adiyaman-merkez-kapcami-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "SOL PARTİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-merkez/1xxx/1161/adiyaman-merkez-1161-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "768544",
+            "oyveotesi_sync_timestamp": 1684330454
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 34,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-merkez/1xxx/1161/adiyaman-merkez-1161-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "768544",
+            "oyveotesi_sync_timestamp": 1684330454
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

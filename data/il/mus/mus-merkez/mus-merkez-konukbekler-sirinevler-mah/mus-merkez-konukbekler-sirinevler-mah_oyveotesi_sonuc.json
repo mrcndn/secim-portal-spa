@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "KONUKBEKLER-ŞİRİNEVLER MAH.",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "KONUKBEKLER BEL.ŞİRİNEVLER MAH. KONUKBEKLER İLKOKULU",
+        "sandik_no": 1228,
+        "mahalle_id": "mus-merkez-konukbekler-sirinevler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394037
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394037
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "KONUKBEKLER-ŞİRİNEVLER MAH.",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "KONUKBEKLER BEL.ŞİRİNEVLER MAH. KONUKBEKLER İLKOKULU",
+        "sandik_no": 1227,
+        "mahalle_id": "mus-merkez-konukbekler-sirinevler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "SOL PARTİ": 5,
+                "İYİ PARTİ": 23,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 81
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1227/mus-merkez-1227-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "453154",
+            "oyveotesi_sync_timestamp": 1684394037
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1227/mus-merkez-1227-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "453154",
+            "oyveotesi_sync_timestamp": 1684394037
+        },
+        "secim_bolge_id": "mus"
+    }
+]

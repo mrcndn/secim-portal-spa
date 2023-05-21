@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-gonen",
+        "mahalle": "KALFAKÖY MAH.",
+        "ilce_adi": "GÖNEN",
+        "okul_adi": "KALFAKÖY MAH KÖY KAHVEHANESİ",
+        "sandik_no": 1086,
+        "mahalle_id": "balikesir-gonen-kalfakoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1086/balikesir-gonen-1086-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "326960",
+            "oyveotesi_sync_timestamp": 1684331855
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 157,
+            "sayim_sonuc": {
+                "TOPLAM": 157,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-gonen/1xxx/1086/balikesir-gonen-1086-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "326960",
+            "oyveotesi_sync_timestamp": 1684331855
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

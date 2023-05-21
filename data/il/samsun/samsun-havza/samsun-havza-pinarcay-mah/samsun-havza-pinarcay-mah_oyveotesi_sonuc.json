@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "PINARÇAY MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "PINARÇAY MAHALLESİ MAHALLE KONAĞI",
+        "sandik_no": 1112,
+        "mahalle_id": "samsun-havza-pinarcay-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367714
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1112/samsun-havza-1112-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367714
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

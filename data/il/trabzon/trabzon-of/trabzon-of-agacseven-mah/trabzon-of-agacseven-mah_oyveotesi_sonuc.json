@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-of",
+        "mahalle": "AĞAÇSEVEN MAH.",
+        "ilce_adi": "OF",
+        "okul_adi": "AĞAÇSEVEN KÖY ODASI",
+        "sandik_no": 1002,
+        "mahalle_id": "trabzon-of-agacseven-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 286,
+            "sayim_sonuc": {
+                "TOPLAM": 286,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 261,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1002/trabzon-of-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827388",
+            "oyveotesi_sync_timestamp": 1684366751
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 274
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-of/1xxx/1002/trabzon-of-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827388",
+            "oyveotesi_sync_timestamp": 1684366751
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

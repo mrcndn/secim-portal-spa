@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "gaziantep",
+        "il_adi": "GAZİANTEP",
+        "il_kodu": 27,
+        "ilce_id": "gaziantep-sehitkamil",
+        "mahalle": "SEFAŞEHİR MAH.",
+        "ilce_adi": "ŞEHİTKAMİL",
+        "okul_adi": "SEFAŞEHİR İLK-ORTAOKULU",
+        "sandik_no": 1423,
+        "mahalle_id": "gaziantep-sehitkamil-sefasehir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342705
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 161
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-gaziantep-tutanaklari/blob/main/tutanak/gaziantep/gaziantep-sehitkamil/1xxx/1423/gaziantep-sehitkamil-1423-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684342705
+        },
+        "secim_bolge_id": "gaziantep"
+    }
+]

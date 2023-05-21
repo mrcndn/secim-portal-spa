@@ -1,0 +1,69 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-bekilli",
+        "mahalle": "KUTLUBEY MAH.",
+        "ilce_adi": "BEKİLLİ",
+        "okul_adi": "KUTLUBEY ŞEHİT ER CARAN ATAKAN İÖO",
+        "sandik_no": 1012,
+        "mahalle_id": "denizli-bekilli-kutlubey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 252,
+            "sayim_sonuc": {
+                "TOPLAM": 252,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 18,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 148,
+                "ADALET VE KALKINMA PARTİSİ": 69,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bekilli/1xxx/1012/denizli-bekilli-1012-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "607814",
+            "oyveotesi_sync_timestamp": 1684365752
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "607814",
+            "oyveotesi_sync_timestamp": 1684365752
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-bekilli",
+        "mahalle": "KUTLUBEY MAH.",
+        "ilce_adi": "BEKİLLİ",
+        "okul_adi": "KUTLUBEY ŞEHİT ER CARAN ATAKAN İÖO",
+        "sandik_no": 1013,
+        "mahalle_id": "denizli-bekilli-kutlubey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365752
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 156,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-bekilli/1xxx/1013/denizli-bekilli-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365752
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

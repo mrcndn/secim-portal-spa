@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-dursunbey",
+        "mahalle": "NAİPLER MAH.",
+        "ilce_adi": "DURSUNBEY",
+        "okul_adi": "NAİPLER KÖY KONAĞI",
+        "sandik_no": 1112,
+        "mahalle_id": "balikesir-dursunbey-naipler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 16,
+            "sayim_sonuc": {
+                "TOPLAM": 16,
+                "İYİ PARTİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1112/balikesir-dursunbey-1112-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173309",
+            "oyveotesi_sync_timestamp": 1684331723
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 15,
+            "sayim_sonuc": {
+                "TOPLAM": 15,
+                "KEMAL KILIÇDAROĞLU": 5,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-dursunbey/1xxx/1112/balikesir-dursunbey-1112-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "173309",
+            "oyveotesi_sync_timestamp": 1684331723
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "AMASRA MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1002,
+        "mahalle_id": "bartin-amasra-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SOL PARTİ": 1,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 197,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1002/bartin-amasra-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510221",
+            "oyveotesi_sync_timestamp": 1684327755
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 211,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1002/bartin-amasra-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "510221",
+            "oyveotesi_sync_timestamp": 1684327755
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "AMASRA MESLEKİ VE TEKNİK ANADOLU LİSESİ",
+        "sandik_no": 1003,
+        "mahalle_id": "bartin-amasra-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327755
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 198,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1003/bartin-amasra-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327755
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

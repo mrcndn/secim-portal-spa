@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-alpu",
+        "mahalle": "KARACAÖREN MAH.",
+        "ilce_adi": "ALPU",
+        "okul_adi": "MERKEZ KARACAÖREN İLKOKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "eskisehir-alpu-karacaoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1027/eskisehir-alpu-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "592873",
+            "oyveotesi_sync_timestamp": 1684341410
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 134,
+            "sayim_sonuc": {
+                "TOPLAM": 134,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1027/eskisehir-alpu-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "592873",
+            "oyveotesi_sync_timestamp": 1684341410
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

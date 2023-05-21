@@ -1,0 +1,106 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "EĞERCİ MAH.",
+        "ilce_adi": "TORBALI",
+        "okul_adi": "EĞERCİ İLKOKULU",
+        "sandik_no": 1137,
+        "mahalle_id": "izmir-torbali-egerci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 75,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 55
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "314168",
+            "oyveotesi_sync_timestamp": 1684363056
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 165,
+                "RECEP TAYYİP ERDOĞAN": 133
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "314168",
+            "oyveotesi_sync_timestamp": 1684363056
+        },
+        "secim_bolge_id": "izmir1"
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-torbali",
+        "mahalle": "EĞERCİ MAH.",
+        "ilce_adi": "TORBALI",
+        "okul_adi": "EĞERCİ İLKOKULU",
+        "sandik_no": 1138,
+        "mahalle_id": "izmir-torbali-egerci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 306,
+            "sayim_sonuc": {
+                "TOPLAM": 306,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 27,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 72
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "221981",
+            "oyveotesi_sync_timestamp": 1684363056
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 162,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "221981",
+            "oyveotesi_sync_timestamp": 1684363056
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-ahlat",
+        "mahalle": "OVAKIŞLA-SARAY MAH.",
+        "ilce_adi": "AHLAT",
+        "okul_adi": "OVAKIŞLA CUMHURİYET İLKOKULU/ORTAOKULU",
+        "sandik_no": 1061,
+        "mahalle_id": "bitlis-ahlat-ovakisla-saray-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331128
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 221,
+                "RECEP TAYYİP ERDOĞAN": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bitlis-tutanaklari/blob/main/tutanak/bitlis/bitlis-ahlat/1xxx/1061/bitlis-ahlat-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684331128
+        },
+        "secim_bolge_id": "bitlis"
+    }
+]

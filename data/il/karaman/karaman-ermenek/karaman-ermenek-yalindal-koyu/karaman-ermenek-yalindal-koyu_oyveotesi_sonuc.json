@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "karaman",
+        "il_adi": "KARAMAN",
+        "il_kodu": 70,
+        "ilce_id": "karaman-ermenek",
+        "mahalle": "YALINDAL KÖYÜ",
+        "ilce_adi": "ERMENEK",
+        "okul_adi": "YALINDAL İLKOKULU",
+        "sandik_no": 1086,
+        "mahalle_id": "karaman-ermenek-yalindal-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "İYİ PARTİ": 63,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 110,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-ermenek/1xxx/1086/karaman-ermenek-1086-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831293",
+            "oyveotesi_sync_timestamp": 1684346474
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 161,
+                "RECEP TAYYİP ERDOĞAN": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karaman-tutanaklari/blob/main/tutanak/karaman/karaman-ermenek/1xxx/1086/karaman-ermenek-1086-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831293",
+            "oyveotesi_sync_timestamp": 1684346474
+        },
+        "secim_bolge_id": "karaman"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "YAZKONAĞI MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "YAZKONAĞI MAH. BAKACAK İLKOKULU",
+        "sandik_no": 1342,
+        "mahalle_id": "ordu-unye-yazkonagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360204
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360204
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "YAZKONAĞI MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "YAZKONAĞI MAH. KARAMÜRSEL MUSTAFA ÇELİK'E AİT BİNA",
+        "sandik_no": 1343,
+        "mahalle_id": "ordu-unye-yazkonagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360204
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 144,
+            "sayim_sonuc": {
+                "TOPLAM": 144,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-unye/1xxx/1343/ordu-unye-1343-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360204
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-unye",
+        "mahalle": "YAZKONAĞI MAH.",
+        "ilce_adi": "ÜNYE",
+        "okul_adi": "YAZKONAĞI MAH. KOZARASI BOŞ KUR'AN KURSU BİNASI",
+        "sandik_no": 1344,
+        "mahalle_id": "ordu-unye-yazkonagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360204
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360204
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

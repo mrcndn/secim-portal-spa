@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-pozanti",
+        "mahalle": "BELEMEDİK MAH.",
+        "ilce_adi": "POZANTI",
+        "okul_adi": "BELEMEDİK MAH. İLKOKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "adana-pozanti-belemedik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 73,
+            "sayim_sonuc": {
+                "TOPLAM": 73,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 2,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-pozanti/1xxx/1011/adana-pozanti-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198769",
+            "oyveotesi_sync_timestamp": 1684371120
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 75,
+            "sayim_sonuc": {
+                "TOPLAM": 75,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 71,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-pozanti/1xxx/1011/adana-pozanti-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198769",
+            "oyveotesi_sync_timestamp": 1684371120
+        },
+        "secim_bolge_id": "adana"
+    }
+]

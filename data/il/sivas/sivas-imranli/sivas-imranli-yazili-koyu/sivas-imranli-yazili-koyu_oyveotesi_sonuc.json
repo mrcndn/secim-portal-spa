@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-imranli",
+        "mahalle": "YAZILI KÖYÜ",
+        "ilce_adi": "İMRANLI",
+        "okul_adi": "YAZILI KÖYÜ KÖY KONAĞI NO:13",
+        "sandik_no": 1098,
+        "mahalle_id": "sivas-imranli-yazili-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 21,
+            "sayim_sonuc": {
+                "TOPLAM": 21,
+                "İYİ PARTİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1098/sivas-imranli-1098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "200046",
+            "oyveotesi_sync_timestamp": 1684359043
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 21,
+            "sayim_sonuc": {
+                "TOPLAM": 21,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-imranli/1xxx/1098/sivas-imranli-1098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "200046",
+            "oyveotesi_sync_timestamp": 1684359043
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

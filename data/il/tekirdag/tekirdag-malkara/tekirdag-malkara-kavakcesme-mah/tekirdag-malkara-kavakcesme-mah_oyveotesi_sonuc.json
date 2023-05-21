@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-malkara",
+        "mahalle": "KAVAKÇEŞME MAH.",
+        "ilce_adi": "MALKARA",
+        "okul_adi": "KAVAKÇEŞME MAH. KOOPERATİF BİNASI",
+        "sandik_no": 1115,
+        "mahalle_id": "tekirdag-malkara-kavakcesme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368323
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 119,
+            "sayim_sonuc": {
+                "TOPLAM": 119,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-malkara/1xxx/1115/tekirdag-malkara-1115-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368323
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

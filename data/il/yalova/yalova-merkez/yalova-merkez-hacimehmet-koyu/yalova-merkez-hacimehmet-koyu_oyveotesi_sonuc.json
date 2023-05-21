@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "ilce_id": "yalova-merkez",
+        "mahalle": "HACIMEHMET KÖYÜ",
+        "ilce_adi": "YALOVA MERKEZ",
+        "okul_adi": "HACIMEHMET KÖYÜ SOSYAL TESİSİ (DÜĞÜN SALONU)",
+        "sandik_no": 1267,
+        "mahalle_id": "yalova-merkez-hacimehmet-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363240
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 269,
+            "sayim_sonuc": {
+                "TOPLAM": 269,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-merkez/1xxx/1267/yalova-merkez-1267-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363240
+        },
+        "secim_bolge_id": "yalova"
+    },
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "ilce_id": "yalova-merkez",
+        "mahalle": "HACIMEHMET KÖYÜ",
+        "ilce_adi": "YALOVA MERKEZ",
+        "okul_adi": "HACIMEHMET KÖYÜ SOSYAL TESİSİ (DÜĞÜN SALONU)",
+        "sandik_no": 1268,
+        "mahalle_id": "yalova-merkez-hacimehmet-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 266,
+            "sayim_sonuc": {
+                "TOPLAM": 266,
+                "İYİ PARTİ": 16,
+                "MİLLET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 40,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 115,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-merkez/1xxx/1268/yalova-merkez-1268-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "764883",
+            "oyveotesi_sync_timestamp": 1684363240
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 9,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 166
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-merkez/1xxx/1268/yalova-merkez-1268-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "764883",
+            "oyveotesi_sync_timestamp": 1684363240
+        },
+        "secim_bolge_id": "yalova"
+    }
+]

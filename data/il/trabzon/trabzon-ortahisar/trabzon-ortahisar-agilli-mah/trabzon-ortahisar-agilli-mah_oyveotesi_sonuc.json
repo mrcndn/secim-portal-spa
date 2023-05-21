@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-ortahisar",
+        "mahalle": "AĞILLI MAH.",
+        "ilce_adi": "ORTAHİSAR",
+        "okul_adi": "AĞILLI MAH.KÖY KONAĞI",
+        "sandik_no": 2124,
+        "mahalle_id": "trabzon-ortahisar-agilli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366396
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 262
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-ortahisar/2xxx/2124/trabzon-ortahisar-2124-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684366396
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

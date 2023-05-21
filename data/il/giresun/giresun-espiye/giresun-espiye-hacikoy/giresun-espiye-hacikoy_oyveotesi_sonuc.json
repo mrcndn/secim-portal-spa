@@ -1,0 +1,52 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-espiye",
+        "mahalle": "HACIKÖY",
+        "ilce_adi": "ESPİYE",
+        "okul_adi": "HACIKÖY İLK.ÖĞ.OK.",
+        "sandik_no": 1082,
+        "mahalle_id": "giresun-espiye-hacikoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "İYİ PARTİ": 58,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 155,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-espiye/1xxx/1082/giresun-espiye-1082-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "304668",
+            "oyveotesi_sync_timestamp": 1684343018
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 217
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-espiye/1xxx/1082/giresun-espiye-1082-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "304668",
+            "oyveotesi_sync_timestamp": 1684343018
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

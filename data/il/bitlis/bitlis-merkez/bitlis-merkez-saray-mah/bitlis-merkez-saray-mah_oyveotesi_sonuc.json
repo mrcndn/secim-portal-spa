@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-merkez",
+        "mahalle": "SARAY MAH.",
+        "ilce_adi": "BİTLİS MERKEZ",
+        "okul_adi": "SARAY İLKÖĞRETİM OKULU",
+        "sandik_no": 1076,
+        "mahalle_id": "bitlis-merkez-saray-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "SOL PARTİ": 3,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 0,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 106,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bitlis-tutanaklari/blob/main/tutanak/bitlis/bitlis-merkez/1xxx/1076/bitlis-merkez-1076-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "335439",
+            "oyveotesi_sync_timestamp": 1684333309
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 173,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bitlis-tutanaklari/blob/main/tutanak/bitlis/bitlis-merkez/1xxx/1076/bitlis-merkez-1076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "335439",
+            "oyveotesi_sync_timestamp": 1684333309
+        },
+        "secim_bolge_id": "bitlis"
+    },
+    {
+        "il_id": "bitlis",
+        "il_adi": "BİTLİS",
+        "il_kodu": 13,
+        "ilce_id": "bitlis-merkez",
+        "mahalle": "SARAY MAH.",
+        "ilce_adi": "BİTLİS MERKEZ",
+        "okul_adi": "POLİS AMCA İLKÖĞRETİM OKULU",
+        "sandik_no": 1075,
+        "mahalle_id": "bitlis-merkez-saray-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333309
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684333309
+        },
+        "secim_bolge_id": "bitlis"
+    }
+]

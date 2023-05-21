@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-dinar",
+        "mahalle": "CUMHURİYET KÖYÜ",
+        "ilce_adi": "DİNAR",
+        "okul_adi": "CUMHURİYET İLKÖĞRETİM OKULU",
+        "sandik_no": 1102,
+        "mahalle_id": "afyonkarahisar-dinar-cumhuriyet-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1102/afyonkarahisar-dinar-1102-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831661",
+            "oyveotesi_sync_timestamp": 1684329555
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 110,
+            "sayim_sonuc": {
+                "TOPLAM": 110,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-dinar/1xxx/1102/afyonkarahisar-dinar-1102-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831661",
+            "oyveotesi_sync_timestamp": 1684329555
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

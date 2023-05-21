@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-duzkoy",
+        "mahalle": "CEVİZLİK MAH.",
+        "ilce_adi": "DÜZKÖY",
+        "okul_adi": "CEVİZLİK İLKÖĞRETİM OKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "trabzon-duzkoy-cevizlik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 10,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "ADALET VE KALKINMA PARTİSİ": 98,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-duzkoy/1xxx/1007/trabzon-duzkoy-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "447568",
+            "oyveotesi_sync_timestamp": 1684366673
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 135
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-duzkoy/1xxx/1007/trabzon-duzkoy-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "447568",
+            "oyveotesi_sync_timestamp": 1684366673
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

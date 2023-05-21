@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-nilufer",
+        "mahalle": "GÖKÇE MAH.",
+        "ilce_adi": "NİLÜFER",
+        "okul_adi": "GÖKÇE İLKOKULU",
+        "sandik_no": 1382,
+        "mahalle_id": "bursa-nilufer-gokce-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 15,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 11,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 147,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "783979",
+            "oyveotesi_sync_timestamp": 1684335139
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 7,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "783979",
+            "oyveotesi_sync_timestamp": 1684335139
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

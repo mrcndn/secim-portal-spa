@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "kirikkale",
+        "il_adi": "KIRIKKALE",
+        "il_kodu": 71,
+        "ilce_id": "kirikkale-delice",
+        "mahalle": "AŞAĞIİHSANGAZİLİ KÖYÜ",
+        "ilce_adi": "DELİCE",
+        "okul_adi": "AŞAĞI İHSANGAZİLİ KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1021,
+        "mahalle_id": "kirikkale-delice-asagiihsangazili-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-delice/1xxx/1021/kirikkale-delice-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836179",
+            "oyveotesi_sync_timestamp": 1684348823
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 59,
+            "sayim_sonuc": {
+                "TOPLAM": 59,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-delice/1xxx/1021/kirikkale-delice-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836179",
+            "oyveotesi_sync_timestamp": 1684348823
+        },
+        "secim_bolge_id": "kirikkale"
+    }
+]

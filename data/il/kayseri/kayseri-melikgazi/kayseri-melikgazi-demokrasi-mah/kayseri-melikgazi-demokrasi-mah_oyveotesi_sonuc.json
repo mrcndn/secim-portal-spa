@@ -1,0 +1,2467 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3050,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 354,
+            "sayim_sonuc": {
+                "TOPLAM": 354,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 93,
+                "RECEP TAYYİP ERDOĞAN": 237
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3050/kayseri-melikgazi-3050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3053,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 13,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 76,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3053/kayseri-melikgazi-3053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604154",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SİNAN OĞAN": 25,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 248
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3053/kayseri-melikgazi-3053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604154",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3052,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 19,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 50,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3052/kayseri-melikgazi-3052-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601210",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 35,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 208
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3052/kayseri-melikgazi-3052-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "601210",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3051,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 350,
+            "sayim_sonuc": {
+                "TOPLAM": 350,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 242
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3051/kayseri-melikgazi-3051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3049,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 227
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3049/kayseri-melikgazi-3049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3047,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 8,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 140,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 64,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3047/kayseri-melikgazi-3047-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "599800",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SİNAN OĞAN": 36,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 211
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3047/kayseri-melikgazi-3047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "599800",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3048,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 13,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 26,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "ADALET VE KALKINMA PARTİSİ": 120,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 64,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3048/kayseri-melikgazi-3048-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "600514",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 217
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3048/kayseri-melikgazi-3048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "600514",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3102,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 15,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 64,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3102/kayseri-melikgazi-3102-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "418421",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 224
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3102/kayseri-melikgazi-3102-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "418421",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3101,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 22,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 130,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 65,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3101/kayseri-melikgazi-3101-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "417726",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 38,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 214
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3101/kayseri-melikgazi-3101-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "417726",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3100,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 15,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "ADALET VE KALKINMA PARTİSİ": 128,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 67
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3100/kayseri-melikgazi-3100-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "416921",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 202
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3100/kayseri-melikgazi-3100-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "416921",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3099,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 78,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3099/kayseri-melikgazi-3099-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "427876",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 38,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 210
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3099/kayseri-melikgazi-3099-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "427876",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3098,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 302,
+            "sayim_sonuc": {
+                "TOPLAM": 302,
+                "İYİ PARTİ": 27,
+                "ZAFER PARTİSİ": 12,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 127,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 79,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3098/kayseri-melikgazi-3098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "416068",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 230
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3098/kayseri-melikgazi-3098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "416068",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3097,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "SOL PARTİ": 52,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 20,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 116,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3097/kayseri-melikgazi-3097-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "422061",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 41,
+                "KEMAL KILIÇDAROĞLU": 57,
+                "RECEP TAYYİP ERDOĞAN": 217
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3097/kayseri-melikgazi-3097-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "422061",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3096,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 299,
+            "sayim_sonuc": {
+                "TOPLAM": 299,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 61,
+                "RECEP TAYYİP ERDOĞAN": 202
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3096/kayseri-melikgazi-3096-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3095,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 308,
+            "sayim_sonuc": {
+                "TOPLAM": 308,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 211
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3095/kayseri-melikgazi-3095-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "TOKİ ŞEHİT NAZIM İLKOKULU",
+        "sandik_no": 3094,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 9,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 126,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3094/kayseri-melikgazi-3094-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "412185",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 209
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3094/kayseri-melikgazi-3094-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "412185",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3093,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 310,
+            "sayim_sonuc": {
+                "TOPLAM": 310,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 34,
+                "ZAFER PARTİSİ": 21,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "ADALET VE KALKINMA PARTİSİ": 114,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3093/kayseri-melikgazi-3093-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "443336",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 51,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 203
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3093/kayseri-melikgazi-3093-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "443336",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3092,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 36,
+                "KEMAL KILIÇDAROĞLU": 89,
+                "RECEP TAYYİP ERDOĞAN": 199
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3092/kayseri-melikgazi-3092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3091,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 32,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 225
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3091/kayseri-melikgazi-3091-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3090,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 35,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 13,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 22,
+                "BÜYÜK BİRLİK PARTİSİ": 17,
+                "CUMHURİYET HALK PARTİSİ": 33,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 140,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3090/kayseri-melikgazi-3090-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "609510",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SİNAN OĞAN": 45,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 214
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3090/kayseri-melikgazi-3090-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "609510",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3089,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 15,
+                "MEMLEKET PARTİSİ": 9,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 61,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3089/kayseri-melikgazi-3089-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "625770",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 345,
+            "sayim_sonuc": {
+                "TOPLAM": 345,
+                "SİNAN OĞAN": 42,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 215
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3089/kayseri-melikgazi-3089-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "625770",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3088,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 14,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 164,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 53,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3088/kayseri-melikgazi-3088-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "622935",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 343,
+            "sayim_sonuc": {
+                "TOPLAM": 343,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 240
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3088/kayseri-melikgazi-3088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "622935",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3087,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 346,
+            "sayim_sonuc": {
+                "TOPLAM": 346,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 238
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3087/kayseri-melikgazi-3087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3086,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 13,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 25,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 133,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 77,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3086/kayseri-melikgazi-3086-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224317",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 342,
+            "sayim_sonuc": {
+                "TOPLAM": 342,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 250
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3086/kayseri-melikgazi-3086-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "224317",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3085,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 334,
+            "sayim_sonuc": {
+                "TOPLAM": 334,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 8,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 86,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3085/kayseri-melikgazi-3085-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "207966",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 31,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 237
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3085/kayseri-melikgazi-3085-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "207966",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3084,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 15,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 142,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3084/kayseri-melikgazi-3084-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "439999",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 34,
+                "KEMAL KILIÇDAROĞLU": 63,
+                "RECEP TAYYİP ERDOĞAN": 238
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3084/kayseri-melikgazi-3084-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "439999",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3083,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 52,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 14,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 57,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3083/kayseri-melikgazi-3083-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "228608",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 102,
+                "RECEP TAYYİP ERDOĞAN": 204
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3083/kayseri-melikgazi-3083-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "228608",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3082,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 144,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 74,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3082/kayseri-melikgazi-3082-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "610694",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 67,
+                "RECEP TAYYİP ERDOĞAN": 232
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3082/kayseri-melikgazi-3082-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "610694",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3081,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 11,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 79,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3081/kayseri-melikgazi-3081-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "454662",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 243
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3081/kayseri-melikgazi-3081-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "454662",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3080,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 37,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 216
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3080/kayseri-melikgazi-3080-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3079,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 12,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 84,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3079/kayseri-melikgazi-3079-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203081",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 35,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 237
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3079/kayseri-melikgazi-3079-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "203081",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3078,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 345,
+            "sayim_sonuc": {
+                "TOPLAM": 345,
+                "SİNAN OĞAN": 36,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 224
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3078/kayseri-melikgazi-3078-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3077,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 204
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3077/kayseri-melikgazi-3077-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "HASAN POLATKAN İLKOKULU",
+        "sandik_no": 3076,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "ADALET VE KALKINMA PARTİSİ": 168,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3076/kayseri-melikgazi-3076-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "615701",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 235
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3076/kayseri-melikgazi-3076-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "615701",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3075,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "SİNAN OĞAN": 30,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 71,
+                "RECEP TAYYİP ERDOĞAN": 228
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3075/kayseri-melikgazi-3075-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3074,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 19,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 139,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 72,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3074/kayseri-melikgazi-3074-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "654802",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 37,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 214
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3074/kayseri-melikgazi-3074-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "654802",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3073,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "İYİ PARTİ": 35,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 16,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3073/kayseri-melikgazi-3073-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "771775",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 38,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 229
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3073/kayseri-melikgazi-3073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "771775",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3072,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 17,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "ADALET VE KALKINMA PARTİSİ": 117,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 84,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3072/kayseri-melikgazi-3072-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "672675",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 37,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 212
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3072/kayseri-melikgazi-3072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "672675",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3071,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 232
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3071/kayseri-melikgazi-3071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3070,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 26,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 36,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 123,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 65,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3070/kayseri-melikgazi-3070-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "219316",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 226
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3070/kayseri-melikgazi-3070-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "219316",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3069,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 2,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 127,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3069/kayseri-melikgazi-3069-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "598359",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "598359",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3068,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 227
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3068/kayseri-melikgazi-3068-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3067,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 14,
+                "MEMLEKET PARTİSİ": 9,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 115,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 80,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3067/kayseri-melikgazi-3067-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718121",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 35,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 216
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3067/kayseri-melikgazi-3067-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718121",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3066,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 18,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "ADALET VE KALKINMA PARTİSİ": 148,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3066/kayseri-melikgazi-3066-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "647678",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 243
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3066/kayseri-melikgazi-3066-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "647678",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3065,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 22,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 17,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 134,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 70,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3065/kayseri-melikgazi-3065-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266025",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 42,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 235
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3065/kayseri-melikgazi-3065-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266025",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3064,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 145,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 68,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3064/kayseri-melikgazi-3064-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266016",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 40,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 221
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3064/kayseri-melikgazi-3064-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "266016",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3063,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 39,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 216
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3063/kayseri-melikgazi-3063-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3062,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 230
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3062/kayseri-melikgazi-3062-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3061,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "İYİ PARTİ": 29,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "ADALET VE KALKINMA PARTİSİ": 152,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 66,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3061/kayseri-melikgazi-3061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "701108",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 234
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3061/kayseri-melikgazi-3061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "701108",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3060,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 22,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "ADALET VE KALKINMA PARTİSİ": 119,
+                "TÜRKİYE İŞÇİ PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 59,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3060/kayseri-melikgazi-3060-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "773778",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 41,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3060/kayseri-melikgazi-3060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "773778",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3059,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 9,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3059/kayseri-melikgazi-3059-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "780303",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SİNAN OĞAN": 34,
+                "KEMAL KILIÇDAROĞLU": 74,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3059/kayseri-melikgazi-3059-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "780303",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "FATİN RÜŞTÜ ZORLU İLKOKULU-ORTAOKULU",
+        "sandik_no": 3058,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 142,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3058/kayseri-melikgazi-3058-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198082",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 298,
+            "sayim_sonuc": {
+                "TOPLAM": 298,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 211
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3058/kayseri-melikgazi-3058-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198082",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3057,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 340,
+            "sayim_sonuc": {
+                "TOPLAM": 340,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 18,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 118,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 102,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3057/kayseri-melikgazi-3057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "607182",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 354,
+            "sayim_sonuc": {
+                "TOPLAM": 354,
+                "SİNAN OĞAN": 39,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 240
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3057/kayseri-melikgazi-3057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "607182",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3056,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 21,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 72,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3056/kayseri-melikgazi-3056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "605806",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 32,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 72,
+                "RECEP TAYYİP ERDOĞAN": 230
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3056/kayseri-melikgazi-3056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "605806",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3055,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 47,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 136,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 67,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3055/kayseri-melikgazi-3055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "599144",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 77,
+                "RECEP TAYYİP ERDOĞAN": 224
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3055/kayseri-melikgazi-3055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "599144",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-melikgazi",
+        "mahalle": "DEMOKRASİ MAH.",
+        "ilce_adi": "MELİKGAZİ",
+        "okul_adi": "ADNAN MENDERES İLKOKULU",
+        "sandik_no": 3054,
+        "mahalle_id": "kayseri-melikgazi-demokrasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 32,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 28,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "BÜYÜK BİRLİK PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 122,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 68,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3054/kayseri-melikgazi-3054-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604820",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 345,
+            "sayim_sonuc": {
+                "TOPLAM": 345,
+                "SİNAN OĞAN": 51,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 84,
+                "RECEP TAYYİP ERDOĞAN": 208
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-melikgazi/3xxx/3054/kayseri-melikgazi-3054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604820",
+            "oyveotesi_sync_timestamp": 1684359980
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

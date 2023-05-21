@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-merkez",
+        "mahalle": "BURMAGEÇİT KÖYÜ",
+        "ilce_adi": "TUNCELİ MERKEZ",
+        "okul_adi": "BURMAGEÇİT KÖY İLKOKULU",
+        "sandik_no": 1081,
+        "mahalle_id": "tunceli-merkez-burmagecit-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SOL PARTİ": 4,
+                "İYİ PARTİ": 6,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 130
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-merkez/1xxx/1081/tunceli-merkez-1081-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "192822",
+            "oyveotesi_sync_timestamp": 1684361283
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 200,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-merkez/1xxx/1081/tunceli-merkez-1081-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "192822",
+            "oyveotesi_sync_timestamp": 1684361283
+        },
+        "secim_bolge_id": "tunceli"
+    },
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-merkez",
+        "mahalle": "BURMAGEÇİT KÖYÜ",
+        "ilce_adi": "TUNCELİ MERKEZ",
+        "okul_adi": "BURMAGEÇİT KÖY İLKOKULU",
+        "sandik_no": 1082,
+        "mahalle_id": "tunceli-merkez-burmagecit-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361283
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 178,
+            "sayim_sonuc": {
+                "TOPLAM": 178,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 131,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-merkez/1xxx/1082/tunceli-merkez-1082-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361283
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

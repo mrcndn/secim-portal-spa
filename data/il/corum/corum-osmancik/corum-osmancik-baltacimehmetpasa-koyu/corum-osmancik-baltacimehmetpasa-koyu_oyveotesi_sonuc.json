@@ -1,0 +1,81 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "BALTACIMEHMETPAŞA KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "B.M.PAŞA GÜNEY MAH. İLKOKULU",
+        "sandik_no": 1085,
+        "mahalle_id": "corum-osmancik-baltacimehmetpasa-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "MİLLET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 75,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1085/corum-osmancik-1085-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821874",
+            "oyveotesi_sync_timestamp": 1684368955
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1085/corum-osmancik-1085-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821874",
+            "oyveotesi_sync_timestamp": 1684368955
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-osmancik",
+        "mahalle": "BALTACIMEHMETPAŞA KÖYÜ",
+        "ilce_adi": "OSMANCIK",
+        "okul_adi": "B.M.PAŞA DERE MAH İLKOKULU",
+        "sandik_no": 1084,
+        "mahalle_id": "corum-osmancik-baltacimehmetpasa-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 48,
+            "sayim_sonuc": {
+                "TOPLAM": 48,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1084/corum-osmancik-1084-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "238172",
+            "oyveotesi_sync_timestamp": 1684368955
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 48,
+            "sayim_sonuc": {
+                "TOPLAM": 48,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-osmancik/1xxx/1084/corum-osmancik-1084-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "238172",
+            "oyveotesi_sync_timestamp": 1684368955
+        },
+        "secim_bolge_id": "corum"
+    }
+]

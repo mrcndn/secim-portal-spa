@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-camliyayla",
+        "mahalle": "BAĞÇATAĞI MAH.",
+        "ilce_adi": "ÇAMLIYAYLA",
+        "okul_adi": "BAĞÇATAĞI KÖY KONAĞI",
+        "sandik_no": 1001,
+        "mahalle_id": "mersin-camliyayla-bagcatagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363785
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-camliyayla/1xxx/1001/mersin-camliyayla-1001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363785
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "il_id": "kirikkale",
+        "il_adi": "KIRIKKALE",
+        "il_kodu": 71,
+        "ilce_id": "kirikkale-bahsili",
+        "mahalle": "HALİM ŞENSES MAH.",
+        "ilce_adi": "BAHŞILI",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "kirikkale-bahsili-halim-senses-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 20,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 118,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-bahsili/1xxx/1010/kirikkale-bahsili-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "800850",
+            "oyveotesi_sync_timestamp": 1684348691
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 227
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-bahsili/1xxx/1010/kirikkale-bahsili-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "800850",
+            "oyveotesi_sync_timestamp": 1684348691
+        },
+        "secim_bolge_id": "kirikkale"
+    },
+    {
+        "il_id": "kirikkale",
+        "il_adi": "KIRIKKALE",
+        "il_kodu": 71,
+        "ilce_id": "kirikkale-bahsili",
+        "mahalle": "HALİM ŞENSES MAH.",
+        "ilce_adi": "BAHŞILI",
+        "okul_adi": "ATATÜRK İLKOKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "kirikkale-bahsili-halim-senses-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 35,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 131,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 72,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-bahsili/1xxx/1009/kirikkale-bahsili-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790046",
+            "oyveotesi_sync_timestamp": 1684348691
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "790046",
+            "oyveotesi_sync_timestamp": 1684348691
+        },
+        "secim_bolge_id": "kirikkale"
+    }
+]

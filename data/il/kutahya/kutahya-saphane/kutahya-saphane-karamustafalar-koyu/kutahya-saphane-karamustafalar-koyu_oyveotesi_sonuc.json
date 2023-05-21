@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-saphane",
+        "mahalle": "KARAMUSTAFALAR KÖYÜ",
+        "ilce_adi": "ŞAPHANE",
+        "okul_adi": "KARAMUSTAFALAR KÖYÜ- KÖY KONAĞI",
+        "sandik_no": 1019,
+        "mahalle_id": "kutahya-saphane-karamustafalar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350551
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-saphane/1xxx/1019/kutahya-saphane-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350551
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

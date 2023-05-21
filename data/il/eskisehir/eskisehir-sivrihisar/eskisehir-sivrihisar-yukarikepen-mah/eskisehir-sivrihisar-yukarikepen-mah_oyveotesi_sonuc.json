@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "YUKARIKEPEN MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "YUKARIKEPEN MAHALLE ODASI",
+        "sandik_no": 1091,
+        "mahalle_id": "eskisehir-sivrihisar-yukarikepen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1091/eskisehir-sivrihisar-1091-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178434",
+            "oyveotesi_sync_timestamp": 1684341854
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 69,
+            "sayim_sonuc": {
+                "TOPLAM": 69,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1091/eskisehir-sivrihisar-1091-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "178434",
+            "oyveotesi_sync_timestamp": 1684341854
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

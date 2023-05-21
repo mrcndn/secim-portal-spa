@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-guneysu",
+        "mahalle": "GÜRGEN KÖYÜ",
+        "ilce_adi": "GÜNEYSU",
+        "okul_adi": "GÜRGEN KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "rize-guneysu-gurgen-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356432
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356432
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-guneysu",
+        "mahalle": "GÜRGEN KÖYÜ",
+        "ilce_adi": "GÜNEYSU",
+        "okul_adi": "GÜRGEN KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "rize-guneysu-gurgen-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 179,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-guneysu/1xxx/1027/rize-guneysu-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "649610",
+            "oyveotesi_sync_timestamp": 1684356432
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "649610",
+            "oyveotesi_sync_timestamp": 1684356432
+        },
+        "secim_bolge_id": "rize"
+    }
+]

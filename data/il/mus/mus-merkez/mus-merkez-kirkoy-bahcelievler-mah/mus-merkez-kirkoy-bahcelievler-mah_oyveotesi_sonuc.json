@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "KIRKÖY-BAHÇELİEVLER MAH.",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "KIRKÖY BEL.B.EVLER MAH. ŞEHİT ZEKERİYA YATI İMAM HATİP ORTAOKULU",
+        "sandik_no": 1213,
+        "mahalle_id": "mus-merkez-kirkoy-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394049
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394049
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "KIRKÖY-BAHÇELİEVLER MAH.",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "KIRKÖY BEL.B.EVLER MAH. ŞEHİT ZEKERİYA YATI İMAM HATİP ORTAOKULU",
+        "sandik_no": 1212,
+        "mahalle_id": "mus-merkez-kirkoy-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394049
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1212/mus-merkez-1212-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394049
+        },
+        "secim_bolge_id": "mus"
+    }
+]

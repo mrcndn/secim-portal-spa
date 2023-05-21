@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-caybasi",
+        "mahalle": "CEMALLI MAH.",
+        "ilce_adi": "ÇAYBAŞI",
+        "okul_adi": "CEMALLI MAH. KÖY ODASI",
+        "sandik_no": 1005,
+        "mahalle_id": "ordu-caybasi-cemalli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360803
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 111,
+            "sayim_sonuc": {
+                "TOPLAM": 111,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-caybasi/1xxx/1005/ordu-caybasi-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360803
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

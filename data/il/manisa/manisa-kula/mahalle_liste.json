@@ -1,0 +1,602 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "KIZILKAYA MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-kizilkaya-mah",
+        "oyveotesi_neighborhood_id": 5963
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ZAFERİYE MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-zaferiye-mah",
+        "oyveotesi_neighborhood_id": 5960
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "YURTBAŞI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-yurtbasi-mah",
+        "oyveotesi_neighborhood_id": 5964
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "YEŞİLYAYLA MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-yesilyayla-mah",
+        "oyveotesi_neighborhood_id": 5987
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 5971
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "YAĞBASTI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-yagbasti-mah",
+        "oyveotesi_neighborhood_id": 5982
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "TOPUZDAMLARI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-topuzdamlari-mah",
+        "oyveotesi_neighborhood_id": 5981
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "TATLIÇEŞME MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-tatlicesme-mah",
+        "oyveotesi_neighborhood_id": 5986
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "SÖĞÜTDERE MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-sogutdere-mah",
+        "oyveotesi_neighborhood_id": 5980
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ŞIHLI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-sihli-mah",
+        "oyveotesi_neighborhood_id": 5988
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "SEYİTALİ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-seyitali-mah",
+        "oyveotesi_neighborhood_id": 5979
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ŞERİTLİ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-seritli-mah",
+        "oyveotesi_neighborhood_id": 5951
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ŞEREMET MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-seremet-mah",
+        "oyveotesi_neighborhood_id": 5976
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ŞEHİTLİOĞLU MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-sehitlioglu-mah",
+        "oyveotesi_neighborhood_id": 5991
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "SARNIÇ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-sarnic-mah",
+        "oyveotesi_neighborhood_id": 5990
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "SARAÇLAR MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-saraclar-mah",
+        "oyveotesi_neighborhood_id": 5957
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "SANDAL MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-sandal-mah",
+        "oyveotesi_neighborhood_id": 5933
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "PAPUÇLU MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-papuclu-mah",
+        "oyveotesi_neighborhood_id": 5959
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ORTAKÖY MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-ortakoy-mah",
+        "oyveotesi_neighborhood_id": 5970
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "NARINCALISÜLEYMAN MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-narincalisuleyman-mah",
+        "oyveotesi_neighborhood_id": 5938
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "NARINCALIPITRAK MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-narincalipitrak-mah",
+        "oyveotesi_neighborhood_id": 5966
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "KÖREZ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-korez-mah",
+        "oyveotesi_neighborhood_id": 5949
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "KONURCA MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-konurca-mah",
+        "oyveotesi_neighborhood_id": 5969
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "KENGER MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-kenger-mah",
+        "oyveotesi_neighborhood_id": 5985
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "KAVACIK MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-kavacik-mah",
+        "oyveotesi_neighborhood_id": 5965
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "KARAOBA MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-karaoba-mah",
+        "oyveotesi_neighborhood_id": 5937
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "KALINHARMAN MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-kalinharman-mah",
+        "oyveotesi_neighborhood_id": 5968
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "İNCESU MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-incesu-mah",
+        "oyveotesi_neighborhood_id": 5942
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "İBRAHİMAĞA MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-ibrahimaga-mah",
+        "oyveotesi_neighborhood_id": 5975
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "HAYALLİ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-hayalli-mah",
+        "oyveotesi_neighborhood_id": 5956
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "HAMİDİYE MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-hamidiye-mah",
+        "oyveotesi_neighborhood_id": 5989
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "HACITUFAN MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-hacitufan-mah",
+        "oyveotesi_neighborhood_id": 5984
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "GÜVERCİNLİK MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-guvercinlik-mah",
+        "oyveotesi_neighborhood_id": 5945
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "GÖLBAŞI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-golbasi-mah",
+        "oyveotesi_neighborhood_id": 5935
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "GÖKDERE MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-gokdere-mah",
+        "oyveotesi_neighborhood_id": 5936
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "GÖKÇEÖREN MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-gokceoren-mah",
+        "oyveotesi_neighborhood_id": 5953
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "EVCİLER MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-evciler-mah",
+        "oyveotesi_neighborhood_id": 5941
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ESENYAZI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-esenyazi-mah",
+        "oyveotesi_neighborhood_id": 5978
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "EROĞLU MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-eroglu-mah",
+        "oyveotesi_neighborhood_id": 5958
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ERENBAĞI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-erenbagi-mah",
+        "oyveotesi_neighborhood_id": 5948
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ENCEKLER MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-encekler-mah",
+        "oyveotesi_neighborhood_id": 5977
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "EMRE MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-emre-mah",
+        "oyveotesi_neighborhood_id": 5932
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-derekoy-mah",
+        "oyveotesi_neighborhood_id": 5962
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ÇİFTÇİİBRAHİM MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-ciftciibrahim-mah",
+        "oyveotesi_neighborhood_id": 5961
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ÇARIKMAHMUTLU MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-carikmahmutlu-mah",
+        "oyveotesi_neighborhood_id": 5954
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "ÇARIKBALLI MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-carikballi-mah",
+        "oyveotesi_neighborhood_id": 5946
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "CAMİİ CEDİT MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-camii-cedit-mah",
+        "oyveotesi_neighborhood_id": 5950
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "BÖRTLÜCE MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-bortluce-mah",
+        "oyveotesi_neighborhood_id": 5940
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "BEY MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-bey-mah",
+        "oyveotesi_neighborhood_id": 5944
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "BEBEKLİ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-bebekli-mah",
+        "oyveotesi_neighborhood_id": 5943
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "BAYRAMŞAH MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-bayramsah-mah",
+        "oyveotesi_neighborhood_id": 5967
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "BATTALMUSTAFA MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-battalmustafa-mah",
+        "oyveotesi_neighborhood_id": 5974
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "BAŞIBÜYÜK MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-basibuyuk-mah",
+        "oyveotesi_neighborhood_id": 5955
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "BALIBEY MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-balibey-mah",
+        "oyveotesi_neighborhood_id": 5983
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "AYVATLAR MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-ayvatlar-mah",
+        "oyveotesi_neighborhood_id": 5952
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "AYAZÖREN MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-ayazoren-mah",
+        "oyveotesi_neighborhood_id": 5934
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "AKTAŞ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-aktas-mah",
+        "oyveotesi_neighborhood_id": 5973
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "AKGÜN MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-akgun-mah",
+        "oyveotesi_neighborhood_id": 5939
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "AHMETLİ MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-ahmetli-mah",
+        "oyveotesi_neighborhood_id": 5947
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-kula",
+        "mahalle": "4 EYLÜL MAH.",
+        "ilce_adi": "KULA",
+        "mahalle_id": "manisa-kula-4-eylul-mah",
+        "oyveotesi_neighborhood_id": 5972
+    }
+]

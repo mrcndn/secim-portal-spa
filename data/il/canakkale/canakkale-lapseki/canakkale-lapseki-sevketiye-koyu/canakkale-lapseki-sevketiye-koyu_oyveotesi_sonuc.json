@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-lapseki",
+        "mahalle": "ŞEVKETİYE KÖYÜ",
+        "ilce_adi": "LAPSEKİ",
+        "okul_adi": "ŞEVKETİYE İLKÖĞRETİM OKULU",
+        "sandik_no": 1088,
+        "mahalle_id": "canakkale-lapseki-sevketiye-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 40,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "ADALET VE KALKINMA PARTİSİ": 96,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-lapseki/1xxx/1088/canakkale-lapseki-1088-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565505",
+            "oyveotesi_sync_timestamp": 1684335613
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "565505",
+            "oyveotesi_sync_timestamp": 1684335613
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "KARACAÖREN MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "KARACAÖREN MAHALLESİ KONAĞI",
+        "sandik_no": 1073,
+        "mahalle_id": "ankara-kizilcahamam-karacaoren-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "810774",
+            "oyveotesi_sync_timestamp": 1684395413
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "810774",
+            "oyveotesi_sync_timestamp": 1684395413
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-babaeski",
+        "mahalle": "KULELİ KÖYÜ",
+        "ilce_adi": "BABAESKİ",
+        "okul_adi": "KULELİ KÖYÜ (İLKOKULU)",
+        "sandik_no": 1102,
+        "mahalle_id": "kirklareli-babaeski-kuleli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "İYİ PARTİ": 38,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 119,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1102/kirklareli-babaeski-1102-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570519",
+            "oyveotesi_sync_timestamp": 1684349091
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 239,
+            "sayim_sonuc": {
+                "TOPLAM": 239,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 165,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1102/kirklareli-babaeski-1102-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "570519",
+            "oyveotesi_sync_timestamp": 1684349091
+        },
+        "secim_bolge_id": "kirklareli"
+    },
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-babaeski",
+        "mahalle": "KULELİ KÖYÜ",
+        "ilce_adi": "BABAESKİ",
+        "okul_adi": "KULELİ KÖYÜ (İLKOKULU)",
+        "sandik_no": 1103,
+        "mahalle_id": "kirklareli-babaeski-kuleli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349091
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-babaeski/1xxx/1103/kirklareli-babaeski-1103-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349091
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

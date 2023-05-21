@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-eflani",
+        "mahalle": "BAŞİĞDİR KÖYÜ",
+        "ilce_adi": "EFLANİ",
+        "okul_adi": "BAŞİĞDİR KÖYÜ MERKEZ MAHALLESİ SOSYAL TESİSİ",
+        "sandik_no": 1018,
+        "mahalle_id": "karabuk-eflani-basigdir-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345969
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 58,
+            "sayim_sonuc": {
+                "TOPLAM": 58,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-eflani/1xxx/1018/karabuk-eflani-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345969
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

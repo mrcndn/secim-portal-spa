@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-savsat",
+        "mahalle": "ÇAĞLIYAN KÖYÜ",
+        "ilce_adi": "ŞAVŞAT",
+        "okul_adi": "ÇAĞLIYAN KÖYÜ CAMİİ MÜŞTEMİLATI",
+        "sandik_no": 1026,
+        "mahalle_id": "artvin-savsat-cagliyan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361592
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-savsat/1xxx/1026/artvin-savsat-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361592
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

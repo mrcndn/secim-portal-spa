@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-simav",
+        "mahalle": "ÇAVDIR MAH.",
+        "ilce_adi": "SİMAV",
+        "okul_adi": "ÇAVDIR MAH.SİMAV ÖZEL EĞİTİM VE İŞ UYGULAMA OKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "kutahya-simav-cavdir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 37,
+                "ADALET VE KALKINMA PARTİSİ": 95,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1014/kutahya-simav-1014-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "588453",
+            "oyveotesi_sync_timestamp": 1684350578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1014/kutahya-simav-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "588453",
+            "oyveotesi_sync_timestamp": 1684350578
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-simav",
+        "mahalle": "ÇAVDIR MAH.",
+        "ilce_adi": "SİMAV",
+        "okul_adi": "ÇAVDIR MAH.SİMAV ÖZEL EĞİTİM VE İŞ UYGULAMA OKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "kutahya-simav-cavdir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1013/kutahya-simav-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350578
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

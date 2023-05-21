@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-findikli",
+        "mahalle": "LİMAN MAH.",
+        "ilce_adi": "FINDIKLI",
+        "okul_adi": "LİMAN MHALLESİ ÇAYKUR TOROSİ ÇAY ALIM MERKEZİ",
+        "sandik_no": 1010,
+        "mahalle_id": "rize-findikli-liman-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "CUMHURİYET HALK PARTİSİ": 122,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1010/rize-findikli-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "689674",
+            "oyveotesi_sync_timestamp": 1684356374
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 122,
+                "RECEP TAYYİP ERDOĞAN": 67
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1010/rize-findikli-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "689674",
+            "oyveotesi_sync_timestamp": 1684356374
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-findikli",
+        "mahalle": "LİMAN MAH.",
+        "ilce_adi": "FINDIKLI",
+        "okul_adi": "LİMAN MHALLESİ ÇAYKUR TOROSİ ÇAY ALIM MERKEZİ",
+        "sandik_no": 1011,
+        "mahalle_id": "rize-findikli-liman-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 82,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1011/rize-findikli-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "258823",
+            "oyveotesi_sync_timestamp": 1684356374
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 88
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-findikli/1xxx/1011/rize-findikli-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "258823",
+            "oyveotesi_sync_timestamp": 1684356374
+        },
+        "secim_bolge_id": "rize"
+    }
+]

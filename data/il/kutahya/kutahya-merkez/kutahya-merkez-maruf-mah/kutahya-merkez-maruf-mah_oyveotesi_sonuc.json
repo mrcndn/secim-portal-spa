@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-merkez",
+        "mahalle": "MARUF MAH.",
+        "ilce_adi": "KÜTAHYA MERKEZ",
+        "okul_adi": "DEVLET HATUN MESLEKİ TEKNİK ANADOLU LİSESİ (MARUF MAH.)",
+        "sandik_no": 1305,
+        "mahalle_id": "kutahya-merkez-maruf-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350456
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 183,
+            "sayim_sonuc": {
+                "TOPLAM": 183,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-merkez/1xxx/1305/kutahya-merkez-1305-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350456
+        },
+        "secim_bolge_id": "kutahya"
+    },
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-merkez",
+        "mahalle": "MARUF MAH.",
+        "ilce_adi": "KÜTAHYA MERKEZ",
+        "okul_adi": "DEVLET HATUN MESLEKİ TEKNİK ANADOLU LİSESİ (MARUF MAH.)",
+        "sandik_no": 1304,
+        "mahalle_id": "kutahya-merkez-maruf-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350456
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350456
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

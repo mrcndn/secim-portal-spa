@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-ferizli",
+        "mahalle": "HOCAOĞLU MAH.",
+        "ilce_adi": "FERİZLİ",
+        "okul_adi": "HOCAOĞLU KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1027,
+        "mahalle_id": "sakarya-ferizli-hocaoglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 76,
+            "sayim_sonuc": {
+                "TOPLAM": 76,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 7,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 51,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-ferizli/1xxx/1027/sakarya-ferizli-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569624",
+            "oyveotesi_sync_timestamp": 1684357704
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "569624",
+            "oyveotesi_sync_timestamp": 1684357704
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

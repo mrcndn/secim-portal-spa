@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-manavgat",
+        "mahalle": "KALEMLER MAH.",
+        "ilce_adi": "MANAVGAT",
+        "okul_adi": "KALEMLER MAH.İLKOKULU",
+        "sandik_no": 1236,
+        "mahalle_id": "antalya-manavgat-kalemler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "İYİ PARTİ": 17,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-manavgat/1xxx/1236/antalya-manavgat-1236-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823517",
+            "oyveotesi_sync_timestamp": 1684325907
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-manavgat/1xxx/1236/antalya-manavgat-1236-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823517",
+            "oyveotesi_sync_timestamp": 1684325907
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

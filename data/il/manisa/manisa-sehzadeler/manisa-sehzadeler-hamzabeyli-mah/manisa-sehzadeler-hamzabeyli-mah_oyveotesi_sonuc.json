@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-sehzadeler",
+        "mahalle": "HAMZABEYLİ MAH.",
+        "ilce_adi": "ŞEHZADELER",
+        "okul_adi": "HAMZABEYLİ KÖY YAŞAM MERKEZİ",
+        "sandik_no": 1165,
+        "mahalle_id": "manisa-sehzadeler-hamzabeyli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 65,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 80,
+                "ADALET VE KALKINMA PARTİSİ": 43,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-sehzadeler/1xxx/1165/manisa-sehzadeler-1165-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "761718",
+            "oyveotesi_sync_timestamp": 1684396855
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "761718",
+            "oyveotesi_sync_timestamp": 1684396855
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-sehzadeler",
+        "mahalle": "HAMZABEYLİ MAH.",
+        "ilce_adi": "ŞEHZADELER",
+        "okul_adi": "HAMZABEYLİ KÖY YAŞAM MERKEZİ",
+        "sandik_no": 1166,
+        "mahalle_id": "manisa-sehzadeler-hamzabeyli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396855
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 96
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-sehzadeler/1xxx/1166/manisa-sehzadeler-1166-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396855
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-SARMAŞIK MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "okul_adi": "SARMAŞIK KÖY ODASI/KÖY DERNEĞİ",
+        "sandik_no": 1133,
+        "mahalle_id": "bilecik-merkez-bayirkoy-sarmasik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1133/bilecik-merkez-1133-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "495836",
+            "oyveotesi_sync_timestamp": 1684327611
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 33,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1133/bilecik-merkez-1133-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "495836",
+            "oyveotesi_sync_timestamp": 1684327611
+        },
+        "secim_bolge_id": "bilecik"
+    }
+]

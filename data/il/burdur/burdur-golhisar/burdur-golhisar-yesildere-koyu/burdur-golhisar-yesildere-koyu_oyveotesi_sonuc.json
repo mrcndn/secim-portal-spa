@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-golhisar",
+        "mahalle": "YEŞİLDERE KÖYÜ",
+        "ilce_adi": "GÖLHİSAR",
+        "okul_adi": "YEŞİLDERE İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "burdur-golhisar-yesildere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334526
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334526
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-golhisar",
+        "mahalle": "YEŞİLDERE KÖYÜ",
+        "ilce_adi": "GÖLHİSAR",
+        "okul_adi": "YEŞİLDERE İLKOKULU",
+        "sandik_no": 1057,
+        "mahalle_id": "burdur-golhisar-yesildere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 188,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-golhisar/1xxx/1057/burdur-golhisar-1057-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "591920",
+            "oyveotesi_sync_timestamp": 1684334526
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 277
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-golhisar/1xxx/1057/burdur-golhisar-1057-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "591920",
+            "oyveotesi_sync_timestamp": 1684334526
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

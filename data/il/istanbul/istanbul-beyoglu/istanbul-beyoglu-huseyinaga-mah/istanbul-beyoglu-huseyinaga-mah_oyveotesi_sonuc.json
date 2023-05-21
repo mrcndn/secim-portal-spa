@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beyoglu",
+        "mahalle": "HÜSEYİNAĞA MAH.",
+        "ilce_adi": "BEYOĞLU",
+        "okul_adi": "ÖZEL ZOĞRAFYAN RUM LİSESİ VE TİCARET OKULU",
+        "sandik_no": 1077,
+        "mahalle_id": "istanbul-beyoglu-huseyinaga-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 62,
+                "ADALET VE KALKINMA PARTİSİ": 69,
+                "TÜRKİYE İŞÇİ PARTİSİ": 15,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 62
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "317375",
+            "oyveotesi_sync_timestamp": 1684330086
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 7,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 103
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "317375",
+            "oyveotesi_sync_timestamp": 1684330086
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-merkez",
+        "mahalle": "RECEP MAH.",
+        "ilce_adi": "BURDUR MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY HALK EĞİTİM MERKEZİ EK BİNA(MÜFTÜLÜK KARŞISI)",
+        "sandik_no": 1158,
+        "mahalle_id": "burdur-merkez-recep-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334454
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-merkez/1xxx/1158/burdur-merkez-1158-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334454
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-merkez",
+        "mahalle": "RECEP MAH.",
+        "ilce_adi": "BURDUR MERKEZ",
+        "okul_adi": "MEHMET AKİF ERSOY HALK EĞİTİM MERKEZİ EK BİNA(MÜFTÜLÜK KARŞISI)",
+        "sandik_no": 1157,
+        "mahalle_id": "burdur-merkez-recep-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 63,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-merkez/1xxx/1157/burdur-merkez-1157-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "207031",
+            "oyveotesi_sync_timestamp": 1684334454
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 79,
+                "RECEP TAYYİP ERDOĞAN": 77
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-merkez/1xxx/1157/burdur-merkez-1157-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "207031",
+            "oyveotesi_sync_timestamp": 1684334454
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

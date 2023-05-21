@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-cubuk",
+        "mahalle": "AĞILCIK MAH.",
+        "ilce_adi": "ÇUBUK",
+        "okul_adi": "AĞILCIK İLKÖĞRETİM OKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "ankara-cubuk-agilcik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 222,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "827700",
+            "oyveotesi_sync_timestamp": 1684376148
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 270
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "827700",
+            "oyveotesi_sync_timestamp": 1684376148
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

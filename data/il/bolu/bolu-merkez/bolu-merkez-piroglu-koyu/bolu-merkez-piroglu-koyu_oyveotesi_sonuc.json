@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "PİROĞLU KÖYÜ",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "PİROĞLU KÖY KONAĞI",
+        "sandik_no": 1453,
+        "mahalle_id": "bolu-merkez-piroglu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1453/bolu-merkez-1453-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834718",
+            "oyveotesi_sync_timestamp": 1684333751
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 65
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1453/bolu-merkez-1453-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834718",
+            "oyveotesi_sync_timestamp": 1684333751
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

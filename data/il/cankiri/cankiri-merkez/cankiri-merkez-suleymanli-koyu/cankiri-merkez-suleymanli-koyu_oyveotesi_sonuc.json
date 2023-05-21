@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-merkez",
+        "mahalle": "SÜLEYMANLI KÖYÜ",
+        "ilce_adi": "ÇANKIRI MERKEZ",
+        "okul_adi": "SÜLEYMANLI KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1211,
+        "mahalle_id": "cankiri-merkez-suleymanli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 133,
+            "sayim_sonuc": {
+                "TOPLAM": 133,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-merkez/1xxx/1211/cankiri-merkez-1211-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1024938",
+            "oyveotesi_sync_timestamp": 1684336310
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 101
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-merkez/1xxx/1211/cankiri-merkez-1211-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1024938",
+            "oyveotesi_sync_timestamp": 1684336310
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "KERTME KÖYÜ",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "KERTME KÖY İLK OKULU",
+        "sandik_no": 2127,
+        "mahalle_id": "corum-merkez-kertme-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2127/corum-merkez-2127-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "758259",
+            "oyveotesi_sync_timestamp": 1684369177
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "758259",
+            "oyveotesi_sync_timestamp": 1684369177
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "KERTME KÖYÜ",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "KERTME KÖYÜ BABAOĞLU KÜLTÜR EVİ MÜŞTEMİLATI",
+        "sandik_no": 2128,
+        "mahalle_id": "corum-merkez-kertme-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369177
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 41,
+            "sayim_sonuc": {
+                "TOPLAM": 41,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2128/corum-merkez-2128-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369177
+        },
+        "secim_bolge_id": "corum"
+    }
+]

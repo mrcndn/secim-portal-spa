@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-kas",
+        "mahalle": "ÇERLER MAH.",
+        "ilce_adi": "KAŞ",
+        "okul_adi": "ÇERLER İLKÖĞRETİM OKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "antalya-kas-cerler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329896
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 65,
+            "sayim_sonuc": {
+                "TOPLAM": 65,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-kas/1xxx/1056/antalya-kas-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684329896
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

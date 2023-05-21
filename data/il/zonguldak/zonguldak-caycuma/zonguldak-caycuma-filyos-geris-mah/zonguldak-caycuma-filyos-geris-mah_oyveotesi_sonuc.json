@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-caycuma",
+        "mahalle": "FİLYOS-GERİŞ MAH.",
+        "ilce_adi": "ÇAYCUMA",
+        "okul_adi": "FİLYOS GERİŞ MAH KONAĞI CAMİ ALTI",
+        "sandik_no": 1071,
+        "mahalle_id": "zonguldak-caycuma-filyos-geris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "İYİ PARTİ": 17,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 46,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-caycuma/1xxx/1071/zonguldak-caycuma-1071-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "390697",
+            "oyveotesi_sync_timestamp": 1684370329
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 119,
+            "sayim_sonuc": {
+                "TOPLAM": 119,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 50
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-caycuma/1xxx/1071/zonguldak-caycuma-1071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "390697",
+            "oyveotesi_sync_timestamp": 1684370329
+        },
+        "secim_bolge_id": "zonguldak"
+    }
+]

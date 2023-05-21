@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-kemalpasa",
+        "mahalle": "ÜÇKARDEŞ KÖYÜ",
+        "ilce_adi": "KEMALPAŞA",
+        "okul_adi": "ÜÇKARDEŞ KÖYÜ ÇETİNKAYA ÇAY ALIM YERİ",
+        "sandik_no": 1027,
+        "mahalle_id": "artvin-kemalpasa-uckardes-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 64,
+                "ADALET VE KALKINMA PARTİSİ": 19,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-kemalpasa/1xxx/1027/artvin-kemalpasa-1027-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827971",
+            "oyveotesi_sync_timestamp": 1684361772
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 138,
+            "sayim_sonuc": {
+                "TOPLAM": 138,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 98,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-kemalpasa/1xxx/1027/artvin-kemalpasa-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "827971",
+            "oyveotesi_sync_timestamp": 1684361772
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

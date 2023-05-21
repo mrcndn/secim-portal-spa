@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-iznik",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "İZNİK",
+        "okul_adi": "DEREKÖY İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "bursa-iznik-derekoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "İYİ PARTİ": 49,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 71,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "508539",
+            "oyveotesi_sync_timestamp": 1684334757
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "508539",
+            "oyveotesi_sync_timestamp": 1684334757
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

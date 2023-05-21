@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-suloglu",
+        "mahalle": "BÜYÜK GERDELLİ KÖYÜ",
+        "ilce_adi": "SÜLOĞLU",
+        "okul_adi": "BÜYÜKGERDELLİ KÖYÜ OKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "edirne-suloglu-buyuk-gerdelli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 284,
+            "sayim_sonuc": {
+                "TOPLAM": 284,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 186,
+                "RECEP TAYYİP ERDOĞAN": 90
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-suloglu/1xxx/1010/edirne-suloglu-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338578
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-suloglu",
+        "mahalle": "BÜYÜK GERDELLİ KÖYÜ",
+        "ilce_adi": "SÜLOĞLU",
+        "okul_adi": "BÜYÜKGERDELLİ KÖYÜ OKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "edirne-suloglu-buyuk-gerdelli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "İYİ PARTİ": 60,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 100,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-suloglu/1xxx/1009/edirne-suloglu-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "696816",
+            "oyveotesi_sync_timestamp": 1684338578
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 179,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-suloglu/1xxx/1009/edirne-suloglu-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "696816",
+            "oyveotesi_sync_timestamp": 1684338578
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

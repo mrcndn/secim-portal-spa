@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-pervari",
+        "mahalle": "EKİNDÜZÜ KÖYÜ",
+        "ilce_adi": "PERVARİ",
+        "okul_adi": "EKİNDÜZÜ İLK-ORTA MÜD.",
+        "sandik_no": 1035,
+        "mahalle_id": "siirt-pervari-ekinduzu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364348
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 132,
+            "sayim_sonuc": {
+                "TOPLAM": 132,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 59,
+                "RECEP TAYYİP ERDOĞAN": 67
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-pervari/1xxx/1035/siirt-pervari-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364348
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

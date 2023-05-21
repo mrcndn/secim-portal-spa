@@ -1,0 +1,86 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ikizce",
+        "mahalle": "SEYMENLİ MAH.",
+        "ilce_adi": "İKİZCE",
+        "okul_adi": "SEYMENLİ MAH. AŞAĞIKÜÇÜKGERİŞ İLKOKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "ordu-ikizce-seymenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360286
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360286
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ikizce",
+        "mahalle": "SEYMENLİ MAH.",
+        "ilce_adi": "İKİZCE",
+        "okul_adi": "SEYMENLİ MAH. A.SEYMENLİ ŞEHİT H.SEKMEN İLKOKULU",
+        "sandik_no": 1038,
+        "mahalle_id": "ordu-ikizce-seymenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360286
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360286
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-ikizce",
+        "mahalle": "SEYMENLİ MAH.",
+        "ilce_adi": "İKİZCE",
+        "okul_adi": "SEYMENLİ MAH. A.SEYMENLİ ŞEHİT H.SEKMEN İLKOKULU",
+        "sandik_no": 1039,
+        "mahalle_id": "ordu-ikizce-seymenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360286
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-ikizce/1xxx/1039/ordu-ikizce-1039-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360286
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

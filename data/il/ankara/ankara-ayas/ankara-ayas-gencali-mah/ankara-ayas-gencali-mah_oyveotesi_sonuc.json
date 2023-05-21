@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "GENÇALİ MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "GENÇALİ KÖYÜ İLKOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "ankara-ayas-gencali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 32,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "586612",
+            "oyveotesi_sync_timestamp": 1684393653
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 180,
+            "sayim_sonuc": {
+                "TOPLAM": 180,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 100
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "586612",
+            "oyveotesi_sync_timestamp": 1684393653
+        },
+        "secim_bolge_id": "ankara3"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "GENÇALİ MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "GENÇALİ KÖYÜ İLKOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "ankara-ayas-gencali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393653
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393653
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

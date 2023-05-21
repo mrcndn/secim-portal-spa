@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "OVADÜZÜ MAH.",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "OVADÜZÜ MAHALLESİ OKULU",
+        "sandik_no": 1237,
+        "mahalle_id": "bolu-merkez-ovaduzu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 259,
+            "sayim_sonuc": {
+                "TOPLAM": 259,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 99,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1237/bolu-merkez-1237-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821598",
+            "oyveotesi_sync_timestamp": 1684333747
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1237/bolu-merkez-1237-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821598",
+            "oyveotesi_sync_timestamp": 1684333747
+        },
+        "secim_bolge_id": "bolu"
+    },
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-merkez",
+        "mahalle": "OVADÜZÜ MAH.",
+        "ilce_adi": "BOLU MERKEZ",
+        "okul_adi": "OVADÜZÜ MAHALLESİ OKULU",
+        "sandik_no": 1236,
+        "mahalle_id": "bolu-merkez-ovaduzu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 243,
+            "sayim_sonuc": {
+                "TOPLAM": 243,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1236/bolu-merkez-1236-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823103",
+            "oyveotesi_sync_timestamp": 1684333747
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 168
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-merkez/1xxx/1236/bolu-merkez-1236-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823103",
+            "oyveotesi_sync_timestamp": 1684333747
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

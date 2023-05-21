@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "KÖMÜRLÜK MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "KÖMÜRLÜK CAMİİ SOSYAL YARDIMLAŞMA VE CAMİİ YAŞATMA DERNEĞİ SALONU",
+        "sandik_no": 1093,
+        "mahalle_id": "istanbul-sile-komurluk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345125
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 138
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345125
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

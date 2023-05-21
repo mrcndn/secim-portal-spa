@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-cay",
+        "mahalle": "AŞAĞI MAH.",
+        "ilce_adi": "ÇAY",
+        "okul_adi": "GAZİ MUSTAFA KEMAL ORTAOKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "afyonkarahisar-cay-asagi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 313,
+            "sayim_sonuc": {
+                "TOPLAM": 313,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 134,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 74,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1006/afyonkarahisar-cay-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776265",
+            "oyveotesi_sync_timestamp": 1684324786
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 179,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-cay/1xxx/1006/afyonkarahisar-cay-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "776265",
+            "oyveotesi_sync_timestamp": 1684324786
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

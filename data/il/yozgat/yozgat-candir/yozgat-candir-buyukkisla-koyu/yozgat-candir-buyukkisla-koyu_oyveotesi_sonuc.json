@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-candir",
+        "mahalle": "BÜYÜKKIŞLA KÖYÜ",
+        "ilce_adi": "ÇANDIR",
+        "okul_adi": "ŞEHİT RAMİS ŞAHİN KIZ T.M.L.",
+        "sandik_no": 1012,
+        "mahalle_id": "yozgat-candir-buyukkisla-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396593
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-candir/1xxx/1012/yozgat-candir-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396593
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

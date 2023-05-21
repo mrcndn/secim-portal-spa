@@ -1,0 +1,80 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-fethiye",
+        "mahalle": "KARAAĞAÇ MAH.",
+        "ilce_adi": "FETHİYE",
+        "okul_adi": "KARAAĞAÇ İLKÖĞRTETİM OKULU",
+        "sandik_no": 1143,
+        "mahalle_id": "mugla-fethiye-karaagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374711
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374711
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-fethiye",
+        "mahalle": "KARAAĞAÇ MAH.",
+        "ilce_adi": "FETHİYE",
+        "okul_adi": "KARAAĞAÇ KİRME İLKÖĞRTİM OKULU.",
+        "sandik_no": 1144,
+        "mahalle_id": "mugla-fethiye-karaagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-fethiye/1xxx/1144/mugla-fethiye-1144-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "181071",
+            "oyveotesi_sync_timestamp": 1684374711
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-fethiye/1xxx/1144/mugla-fethiye-1144-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "181071",
+            "oyveotesi_sync_timestamp": 1684374711
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

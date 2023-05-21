@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "KUBBELİ MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "KUBBELİ MAH.PROF..DR.MEHMET KAPLAN ORTAOKULU",
+        "sandik_no": 1069,
+        "mahalle_id": "eskisehir-sivrihisar-kubbeli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 38,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1069/eskisehir-sivrihisar-1069-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034475",
+            "oyveotesi_sync_timestamp": 1684341834
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 58
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1069/eskisehir-sivrihisar-1069-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034475",
+            "oyveotesi_sync_timestamp": 1684341834
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

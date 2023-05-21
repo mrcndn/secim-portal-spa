@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mudanya",
+        "mahalle": "İPEKYAYLA MAH.",
+        "ilce_adi": "MUDANYA",
+        "okul_adi": "İPEKYAYLA ESKİ OKUL BİNASI",
+        "sandik_no": 1180,
+        "mahalle_id": "bursa-mudanya-ipekyayla-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "283149",
+            "oyveotesi_sync_timestamp": 1684328708
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 203
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "283149",
+            "oyveotesi_sync_timestamp": 1684328708
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beykoz",
+        "mahalle": "KILIÇLI MAH.",
+        "ilce_adi": "BEYKOZ",
+        "okul_adi": "KILIÇLI DAYANIŞMA VE KÜLTÜR DERNEGİ",
+        "sandik_no": 1322,
+        "mahalle_id": "istanbul-beykoz-kilicli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344537
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344537
+        },
+        "secim_bolge_id": "istanbul1"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-beykoz",
+        "mahalle": "KILIÇLI MAH.",
+        "ilce_adi": "BEYKOZ",
+        "okul_adi": "KILIÇLI DAYANIŞMA VE KÜLTÜR DERNEGİ",
+        "sandik_no": 1323,
+        "mahalle_id": "istanbul-beykoz-kilicli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344537
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344537
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

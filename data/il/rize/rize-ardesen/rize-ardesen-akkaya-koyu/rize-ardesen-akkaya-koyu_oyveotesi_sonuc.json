@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-ardesen",
+        "mahalle": "AKKAYA KÖYÜ",
+        "ilce_adi": "ARDEŞEN",
+        "okul_adi": "AKKAYA KÖYÜ ESKİ SAĞLIK OCAĞI",
+        "sandik_no": 1083,
+        "mahalle_id": "rize-ardesen-akkaya-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356301
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 182
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1083/rize-ardesen-1083-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356301
+        },
+        "secim_bolge_id": "rize"
+    }
+]

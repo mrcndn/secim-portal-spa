@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-sarkisla",
+        "mahalle": "BAŞAĞAÇ KÖYÜ",
+        "ilce_adi": "ŞARKIŞLA",
+        "okul_adi": "BAŞAĞAÇ KÖY OKULU",
+        "sandik_no": 1073,
+        "mahalle_id": "sivas-sarkisla-basagac-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 12,
+            "sayim_sonuc": {
+                "TOPLAM": 12,
+                "İYİ PARTİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-sarkisla/1xxx/1073/sivas-sarkisla-1073-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837677",
+            "oyveotesi_sync_timestamp": 1684358360
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 12,
+            "sayim_sonuc": {
+                "TOPLAM": 12,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-sarkisla/1xxx/1073/sivas-sarkisla-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837677",
+            "oyveotesi_sync_timestamp": 1684358360
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

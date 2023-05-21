@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-dicle",
+        "mahalle": "SÜSÜMLÜ MAH.",
+        "ilce_adi": "DİCLE",
+        "okul_adi": "SÜSÜMLÜ (KAYGISIZ İLKOKULU)",
+        "sandik_no": 1069,
+        "mahalle_id": "diyarbakir-dicle-susumlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337232
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-dicle",
+        "mahalle": "SÜSÜMLÜ MAH.",
+        "ilce_adi": "DİCLE",
+        "okul_adi": "SÜSÜMLÜ (KAYGISIZ İLKOKULU)",
+        "sandik_no": 1070,
+        "mahalle_id": "diyarbakir-dicle-susumlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "İYİ PARTİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 142
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-dicle/1xxx/1070/diyarbakir-dicle-1070-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "268034",
+            "oyveotesi_sync_timestamp": 1684337232
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "268034",
+            "oyveotesi_sync_timestamp": 1684337232
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

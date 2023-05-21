@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-kurucasile",
+        "mahalle": "ŞEYHLER KÖYÜ",
+        "ilce_adi": "KURUCAŞİLE",
+        "okul_adi": "ŞEYHLER KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1031,
+        "mahalle_id": "bartin-kurucasile-seyhler-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 42,
+            "sayim_sonuc": {
+                "TOPLAM": 42,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1031/bartin-kurucasile-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "465612",
+            "oyveotesi_sync_timestamp": 1684331181
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 42,
+            "sayim_sonuc": {
+                "TOPLAM": 42,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-kurucasile/1xxx/1031/bartin-kurucasile-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "465612",
+            "oyveotesi_sync_timestamp": 1684331181
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

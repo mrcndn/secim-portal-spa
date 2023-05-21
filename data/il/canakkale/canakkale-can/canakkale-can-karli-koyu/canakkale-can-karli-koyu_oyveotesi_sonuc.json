@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "KARLI KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "KARLI KÖY KONAĞI",
+        "sandik_no": 1124,
+        "mahalle_id": "canakkale-can-karli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1124/canakkale-can-1124-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1012515",
+            "oyveotesi_sync_timestamp": 1684335951
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1012515",
+            "oyveotesi_sync_timestamp": 1684335951
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

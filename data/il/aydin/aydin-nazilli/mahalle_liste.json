@@ -1,0 +1,822 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "APAKLAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-apaklar-mah",
+        "oyveotesi_neighborhood_id": 46010
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-akpinar-mah",
+        "oyveotesi_neighborhood_id": 45938
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "AKSU MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-aksu-mah",
+        "oyveotesi_neighborhood_id": 45969
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ALTINTAŞ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-altintas-mah",
+        "oyveotesi_neighborhood_id": 45961
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ARSLANLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-arslanli-mah",
+        "oyveotesi_neighborhood_id": 45955
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "AŞAĞIÖRENCİK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-asagiorencik-mah",
+        "oyveotesi_neighborhood_id": 45956
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "AŞAĞIYAKACIK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-asagiyakacik-mah",
+        "oyveotesi_neighborhood_id": 46000
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "AYDOĞDU MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-aydogdu-mah",
+        "oyveotesi_neighborhood_id": 45994
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "BAĞCILLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-bagcilli-mah",
+        "oyveotesi_neighborhood_id": 46014
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "BAYINDIR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-bayindir-mah",
+        "oyveotesi_neighborhood_id": 45970
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "BEĞERLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-begerli-mah",
+        "oyveotesi_neighborhood_id": 45990
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "BEKİRLER MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-bekirler-mah",
+        "oyveotesi_neighborhood_id": 45989
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "BEREKETLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-bereketli-mah",
+        "oyveotesi_neighborhood_id": 45971
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "BOZYURT MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-bozyurt-mah",
+        "oyveotesi_neighborhood_id": 46001
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ÇAPAHASAN MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-capahasan-mah",
+        "oyveotesi_neighborhood_id": 45993
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ÇATAK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-catak-mah",
+        "oyveotesi_neighborhood_id": 46017
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ÇAYLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-cayli-mah",
+        "oyveotesi_neighborhood_id": 45937
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ÇOBANLAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-cobanlar-mah",
+        "oyveotesi_neighborhood_id": 45945
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 45980
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "DALLICA MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-dallica-mah",
+        "oyveotesi_neighborhood_id": 46011
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "DEMİRCİLER MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-demirciler-mah",
+        "oyveotesi_neighborhood_id": 45972
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "DEREAĞZI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-dereagzi-mah",
+        "oyveotesi_neighborhood_id": 45991
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "DEREBAŞI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-derebasi-mah",
+        "oyveotesi_neighborhood_id": 45957
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "DUALAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-dualar-mah",
+        "oyveotesi_neighborhood_id": 46012
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "DUMLUPINAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-dumlupinar-mah",
+        "oyveotesi_neighborhood_id": 45976
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "DURASILLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-durasilli-mah",
+        "oyveotesi_neighborhood_id": 45962
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ESENKÖY MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-esenkoy-mah",
+        "oyveotesi_neighborhood_id": 45965
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-esentepe-mah",
+        "oyveotesi_neighborhood_id": 45958
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "EYCELLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-eycelli-mah",
+        "oyveotesi_neighborhood_id": 46002
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "GEDİKALTI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-gedikalti-mah",
+        "oyveotesi_neighborhood_id": 45939
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "GEDİK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-gedik-mah",
+        "oyveotesi_neighborhood_id": 45995
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "GÜZELKÖY MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-guzelkoy-mah",
+        "oyveotesi_neighborhood_id": 45981
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "HAMİDİYE MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-hamidiye-mah",
+        "oyveotesi_neighborhood_id": 45940
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "HAMZALLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-hamzalli-mah",
+        "oyveotesi_neighborhood_id": 46015
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "HASKÖY MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-haskoy-mah",
+        "oyveotesi_neighborhood_id": 46003
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "HAYDARLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-haydarli-mah",
+        "oyveotesi_neighborhood_id": 45996
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "HİSARCIK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-hisarcik-mah",
+        "oyveotesi_neighborhood_id": 45947
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "İSABEYLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-isabeyli-mah",
+        "oyveotesi_neighborhood_id": 46007
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "IŞIKLAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-isiklar-mah",
+        "oyveotesi_neighborhood_id": 45942
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "İSTİKLAL MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-istiklal-mah",
+        "oyveotesi_neighborhood_id": 45944
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KAHVEDERESİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kahvederesi-mah",
+        "oyveotesi_neighborhood_id": 45966
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KARAÇAY MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-karacay-mah",
+        "oyveotesi_neighborhood_id": 45992
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KARAHALLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-karahalli-mah",
+        "oyveotesi_neighborhood_id": 45967
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KARDEŞKÖY MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kardeskoy-mah",
+        "oyveotesi_neighborhood_id": 45948
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KAŞIKÇILAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kasikcilar-mah",
+        "oyveotesi_neighborhood_id": 45997
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KAVACIK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kavacik-mah",
+        "oyveotesi_neighborhood_id": 46013
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KESTEL MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kestel-mah",
+        "oyveotesi_neighborhood_id": 45982
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KETENDERE MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-ketendere-mah",
+        "oyveotesi_neighborhood_id": 45951
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KETENOVA MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-ketenova-mah",
+        "oyveotesi_neighborhood_id": 46016
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KIRCAKLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kircakli-mah",
+        "oyveotesi_neighborhood_id": 45949
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KIZILDERE MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kizildere-mah",
+        "oyveotesi_neighborhood_id": 45952
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KOCAKESİK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kocakesik-mah",
+        "oyveotesi_neighborhood_id": 45983
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KOZDERE MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kozdere-mah",
+        "oyveotesi_neighborhood_id": 45968
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kurtulus-mah",
+        "oyveotesi_neighborhood_id": 45978
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "KUŞÇULAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-kuscular-mah",
+        "oyveotesi_neighborhood_id": 45941
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "MESCİTLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-mescitli-mah",
+        "oyveotesi_neighborhood_id": 45950
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "OCAKLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-ocakli-mah",
+        "oyveotesi_neighborhood_id": 45984
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "OVACIK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-ovacik-mah",
+        "oyveotesi_neighborhood_id": 45953
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "PINARBAŞI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-pinarbasi-mah",
+        "oyveotesi_neighborhood_id": 46008
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "PİRLİBEY MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-pirlibey-mah",
+        "oyveotesi_neighborhood_id": 45986
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "PROF.MUAMMER AKSOY MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-prof-muammer-aksoy-mah",
+        "oyveotesi_neighborhood_id": 45985
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "RAHMANLAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-rahmanlar-mah",
+        "oyveotesi_neighborhood_id": 45943
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "SAİLER MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-sailer-mah",
+        "oyveotesi_neighborhood_id": 46004
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "SAMAİLLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-samailli-mah",
+        "oyveotesi_neighborhood_id": 45954
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "SEVİNDİKLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-sevindikli-mah",
+        "oyveotesi_neighborhood_id": 45936
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ŞİMŞELLİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-simselli-mah",
+        "oyveotesi_neighborhood_id": 45999
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ŞİRİNEVLER MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-sirinevler-mah",
+        "oyveotesi_neighborhood_id": 45975
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "SÜMER MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-sumer-mah",
+        "oyveotesi_neighborhood_id": 45973
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "TOYGAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-toygar-mah",
+        "oyveotesi_neighborhood_id": 45979
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "TURAN MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-turan-mah",
+        "oyveotesi_neighborhood_id": 46005
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "UZUNÇAM MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-uzuncam-mah",
+        "oyveotesi_neighborhood_id": 45963
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YALINKUYU MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yalinkuyu-mah",
+        "oyveotesi_neighborhood_id": 45987
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YAYLAPINAR MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yaylapinar-mah",
+        "oyveotesi_neighborhood_id": 45946
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YAZIRLI MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yazirli-mah",
+        "oyveotesi_neighborhood_id": 45977
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YELLİCE MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yellice-mah",
+        "oyveotesi_neighborhood_id": 45964
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yeni-mah",
+        "oyveotesi_neighborhood_id": 45974
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YENİ SANAYİİ MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yeni-sanayii-mah",
+        "oyveotesi_neighborhood_id": 45998
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YEŞİL MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yesil-mah",
+        "oyveotesi_neighborhood_id": 45960
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yesilyurt-mah",
+        "oyveotesi_neighborhood_id": 45959
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YILDIZTEPE MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yildiztepe-mah",
+        "oyveotesi_neighborhood_id": 46009
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "YUKARIÖRENCİK MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-yukariorencik-mah",
+        "oyveotesi_neighborhood_id": 46006
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-nazilli",
+        "mahalle": "ZAFER MAH.",
+        "ilce_adi": "NAZİLLİ",
+        "mahalle_id": "aydin-nazilli-zafer-mah",
+        "oyveotesi_neighborhood_id": 45988
+    }
+]

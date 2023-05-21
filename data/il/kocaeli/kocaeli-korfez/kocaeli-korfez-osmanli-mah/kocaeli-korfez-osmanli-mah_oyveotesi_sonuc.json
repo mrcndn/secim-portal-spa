@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-korfez",
+        "mahalle": "OSMANLI MAH.",
+        "ilce_adi": "KÖRFEZ",
+        "okul_adi": "OSMANLI İLKÖĞRETİM OKULU",
+        "sandik_no": 1282,
+        "mahalle_id": "kocaeli-korfez-osmanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "İYİ PARTİ": 24,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 12,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-korfez/1xxx/1282/kocaeli-korfez-1282-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "226997",
+            "oyveotesi_sync_timestamp": 1684327227
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-korfez/1xxx/1282/kocaeli-korfez-1282-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "226997",
+            "oyveotesi_sync_timestamp": 1684327227
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

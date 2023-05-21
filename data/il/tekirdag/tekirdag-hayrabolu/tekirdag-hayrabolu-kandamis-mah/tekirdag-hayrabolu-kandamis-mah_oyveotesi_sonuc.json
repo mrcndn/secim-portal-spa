@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-hayrabolu",
+        "mahalle": "KANDAMIŞ MAH.",
+        "ilce_adi": "HAYRABOLU",
+        "okul_adi": "KANDAMIŞ MAH. KONAĞI",
+        "sandik_no": 1069,
+        "mahalle_id": "tekirdag-hayrabolu-kandamis-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 115,
+            "sayim_sonuc": {
+                "TOPLAM": 115,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "ADALET VE KALKINMA PARTİSİ": 13,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1069/tekirdag-hayrabolu-1069-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825150",
+            "oyveotesi_sync_timestamp": 1684368575
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1069/tekirdag-hayrabolu-1069-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825150",
+            "oyveotesi_sync_timestamp": 1684368575
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ERKİLET MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "okul_adi": "ARABIDIN TAZİYE EVİ",
+        "sandik_no": 1120,
+        "mahalle_id": "kayseri-kocasinan-erkilet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359906
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359906
+        },
+        "secim_bolge_id": "kayseri"
+    },
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-kocasinan",
+        "mahalle": "ERKİLET MAH.",
+        "ilce_adi": "KOCASİNAN",
+        "okul_adi": "ARABIDIN TAZİYE EVİ",
+        "sandik_no": 1121,
+        "mahalle_id": "kayseri-kocasinan-erkilet-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 13,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-kocasinan/1xxx/1121/kayseri-kocasinan-1121-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824922",
+            "oyveotesi_sync_timestamp": 1684359906
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-kocasinan/1xxx/1121/kayseri-kocasinan-1121-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824922",
+            "oyveotesi_sync_timestamp": 1684359906
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

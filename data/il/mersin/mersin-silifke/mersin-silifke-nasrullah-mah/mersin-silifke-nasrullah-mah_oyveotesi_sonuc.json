@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-silifke",
+        "mahalle": "NASRULLAH MAH.",
+        "ilce_adi": "SİLİFKE",
+        "okul_adi": "NASRULLAH MAH. ESKİ OKUL BİNASI",
+        "sandik_no": 1199,
+        "mahalle_id": "mersin-silifke-nasrullah-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363497
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 37,
+            "sayim_sonuc": {
+                "TOPLAM": 37,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-silifke/1xxx/1199/mersin-silifke-1199-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363497
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

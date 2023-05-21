@@ -1,0 +1,885 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1161,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 179,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1161/manisa-soma-1161-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1162,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 34,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 112,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 99,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1162/manisa-soma-1162-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "666288",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 150,
+                "RECEP TAYYİP ERDOĞAN": 128
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1162/manisa-soma-1162-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "666288",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1163,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 33,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 26,
+                "CUMHURİYET HALK PARTİSİ": 119,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1163/manisa-soma-1163-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "688812",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 159,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1163/manisa-soma-1163-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "688812",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1164,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 43,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 35,
+                "CUMHURİYET HALK PARTİSİ": 112,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 17,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1164/manisa-soma-1164-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "745840",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 169,
+                "RECEP TAYYİP ERDOĞAN": 132
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1164/manisa-soma-1164-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "745840",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1165,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 46,
+                "ZAFER PARTİSİ": 10,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 26,
+                "CUMHURİYET HALK PARTİSİ": 100,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1165/manisa-soma-1165-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750420",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1165/manisa-soma-1165-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750420",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1166,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 41,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 21,
+                "CUMHURİYET HALK PARTİSİ": 115,
+                "ADALET VE KALKINMA PARTİSİ": 90,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1166/manisa-soma-1166-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "759635",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 159,
+                "RECEP TAYYİP ERDOĞAN": 139
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1166/manisa-soma-1166-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "759635",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1167,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 320,
+            "sayim_sonuc": {
+                "TOPLAM": 320,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 136
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1167/manisa-soma-1167-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1168,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 167,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1168/manisa-soma-1168-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1169,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 14,
+                "BÜYÜK BİRLİK PARTİSİ": 31,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 104,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1169/manisa-soma-1169-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "682871",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 321,
+            "sayim_sonuc": {
+                "TOPLAM": 321,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 148,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1169/manisa-soma-1169-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "682871",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1170,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 151
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1170/manisa-soma-1170-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1171,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 323,
+            "sayim_sonuc": {
+                "TOPLAM": 323,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1171/manisa-soma-1171-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "YUNUS EMRE İMAM HATİP ORTA OK.(BÜYÜK BİNA)",
+        "sandik_no": 1172,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 308,
+            "sayim_sonuc": {
+                "TOPLAM": 308,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 9,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 22,
+                "CUMHURİYET HALK PARTİSİ": 111,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 84,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1172/manisa-soma-1172-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "698794",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 311,
+            "sayim_sonuc": {
+                "TOPLAM": 311,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1172/manisa-soma-1172-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "698794",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1160,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "SİNAN OĞAN": 34,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 177,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1160/manisa-soma-1160-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1152,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "İYİ PARTİ": 41,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 8,
+                "CUMHURİYET HALK PARTİSİ": 120,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1152/manisa-soma-1152-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429246",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1152/manisa-soma-1152-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429246",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1153,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 3,
+                "İYİ PARTİ": 42,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 17,
+                "CUMHURİYET HALK PARTİSİ": 118,
+                "ADALET VE KALKINMA PARTİSİ": 86,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1153/manisa-soma-1153-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "431661",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "SİNAN OĞAN": 29,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 124
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1153/manisa-soma-1153-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "431661",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1154,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 168,
+                "RECEP TAYYİP ERDOĞAN": 140
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1154/manisa-soma-1154-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1155,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 328,
+            "sayim_sonuc": {
+                "TOPLAM": 328,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 39,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 28,
+                "CUMHURİYET HALK PARTİSİ": 124,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 83,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1155/manisa-soma-1155-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718425",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 332,
+            "sayim_sonuc": {
+                "TOPLAM": 332,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 176,
+                "RECEP TAYYİP ERDOĞAN": 136
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1155/manisa-soma-1155-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "718425",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1156,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 325,
+            "sayim_sonuc": {
+                "TOPLAM": 325,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 10,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 33,
+                "CUMHURİYET HALK PARTİSİ": 134,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1156/manisa-soma-1156-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429244",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 163,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1156/manisa-soma-1156-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429244",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1157,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 336,
+            "sayim_sonuc": {
+                "TOPLAM": 336,
+                "SİNAN OĞAN": 23,
+                "KEMAL KILIÇDAROĞLU": 198,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1157/manisa-soma-1157-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1158,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 33,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 156,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1158/manisa-soma-1158-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-soma",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "SOMA",
+        "okul_adi": "ERTUĞRUL GAZİ İLKOKULU",
+        "sandik_no": 1159,
+        "mahalle_id": "manisa-soma-kurtulus-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 322,
+            "sayim_sonuc": {
+                "TOPLAM": 322,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 31,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİLİK PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 33,
+                "CUMHURİYET HALK PARTİSİ": 117,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1159/manisa-soma-1159-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429261",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 26,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 153,
+                "RECEP TAYYİP ERDOĞAN": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-soma/1xxx/1159/manisa-soma-1159-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "429261",
+            "oyveotesi_sync_timestamp": 1684396822
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

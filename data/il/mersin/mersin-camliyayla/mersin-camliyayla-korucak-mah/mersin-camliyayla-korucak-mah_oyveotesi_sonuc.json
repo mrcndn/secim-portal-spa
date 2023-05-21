@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-camliyayla",
+        "mahalle": "KORUCAK MAH.",
+        "ilce_adi": "ÇAMLIYAYLA",
+        "okul_adi": "KORUCAK ESKİ OKUL BİNASI",
+        "sandik_no": 1017,
+        "mahalle_id": "mersin-camliyayla-korucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 55
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-camliyayla/1xxx/1017/mersin-camliyayla-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "426991",
+            "oyveotesi_sync_timestamp": 1684363794
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-camliyayla/1xxx/1017/mersin-camliyayla-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "426991",
+            "oyveotesi_sync_timestamp": 1684363794
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

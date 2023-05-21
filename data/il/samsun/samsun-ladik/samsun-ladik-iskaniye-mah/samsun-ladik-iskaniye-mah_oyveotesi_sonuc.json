@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-ladik",
+        "mahalle": "İSKANİYE MAH.",
+        "ilce_adi": "LADİK",
+        "okul_adi": "İSKANİYE MAH.YEMEKHANESİ",
+        "sandik_no": 1046,
+        "mahalle_id": "samsun-ladik-iskaniye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 92,
+            "sayim_sonuc": {
+                "TOPLAM": 92,
+                "İYİ PARTİ": 4,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1046/samsun-ladik-1046-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "303039",
+            "oyveotesi_sync_timestamp": 1684367381
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 65
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-ladik/1xxx/1046/samsun-ladik-1046-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "303039",
+            "oyveotesi_sync_timestamp": 1684367381
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

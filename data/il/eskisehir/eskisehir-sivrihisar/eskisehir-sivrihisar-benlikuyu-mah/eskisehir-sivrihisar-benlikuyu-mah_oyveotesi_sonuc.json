@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "BENLİKUYU MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "BENLİKUYU MAHALLE KONAĞI",
+        "sandik_no": 1008,
+        "mahalle_id": "eskisehir-sivrihisar-benlikuyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "İYİ PARTİ": 8,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1008/eskisehir-sivrihisar-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835189",
+            "oyveotesi_sync_timestamp": 1684341783
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1008/eskisehir-sivrihisar-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835189",
+            "oyveotesi_sync_timestamp": 1684341783
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

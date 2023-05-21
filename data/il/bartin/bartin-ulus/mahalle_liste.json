@@ -1,0 +1,812 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "SAMAT MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-samat-mah",
+        "oyveotesi_neighborhood_id": 18399
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ABDİPAŞA-DERECİK MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-abdipasa-derecik-mah",
+        "oyveotesi_neighborhood_id": 18429
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ABDİPAŞA-KADIOĞLU MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-abdipasa-kadioglu-mah",
+        "oyveotesi_neighborhood_id": 18419
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ABDİPAŞA-KARADİKEN MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-abdipasa-karadiken-mah",
+        "oyveotesi_neighborhood_id": 49818
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ABDİPAŞA-ULUPINAR MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-abdipasa-ulupinar-mah",
+        "oyveotesi_neighborhood_id": 18420
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ABDİPAŞA-YEŞİLPAZAR MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-abdipasa-yesilpazar-mah",
+        "oyveotesi_neighborhood_id": 18434
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ABDURRAHMAN KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-abdurrahman-koyu",
+        "oyveotesi_neighborhood_id": 18418
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AĞAKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-agakoy",
+        "oyveotesi_neighborhood_id": 18439
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AKÖRENSÖKÜLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-akorensokuler-koyu",
+        "oyveotesi_neighborhood_id": 18458
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AKTAŞ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-aktas-koyu",
+        "oyveotesi_neighborhood_id": 18400
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ALIÇLI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-alicli-koyu",
+        "oyveotesi_neighborhood_id": 18451
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ALPI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-alpi-koyu",
+        "oyveotesi_neighborhood_id": 18454
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ARPACIK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-arpacik-koyu",
+        "oyveotesi_neighborhood_id": 18465
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AŞAĞIÇAMLI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-asagicamli-koyu",
+        "oyveotesi_neighborhood_id": 18426
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AŞAĞIÇERÇİ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-asagicerci-koyu",
+        "oyveotesi_neighborhood_id": 18435
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AŞAĞIDERE KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-asagidere-koyu",
+        "oyveotesi_neighborhood_id": 18424
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AŞAĞIEMİRCE KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-asagiemirce-koyu",
+        "oyveotesi_neighborhood_id": 18425
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "AŞAĞIKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-asagikoy",
+        "oyveotesi_neighborhood_id": 18466
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "BAĞDATLI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-bagdatli-koyu",
+        "oyveotesi_neighborhood_id": 18421
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "BAHÇECİK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-bahcecik-koyu",
+        "oyveotesi_neighborhood_id": 18440
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "BALICAK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-balicak-koyu",
+        "oyveotesi_neighborhood_id": 18407
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "BUĞURLAR KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-bugurlar-koyu",
+        "oyveotesi_neighborhood_id": 18443
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ÇAVUŞKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-cavuskoy",
+        "oyveotesi_neighborhood_id": 18409
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ÇERDE KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-cerde-koyu",
+        "oyveotesi_neighborhood_id": 18405
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "CEYÜPLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-ceyupler-koyu",
+        "oyveotesi_neighborhood_id": 18401
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ÇUBUKBELİ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-cubukbeli-koyu",
+        "oyveotesi_neighborhood_id": 18456
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ÇUBUKLU KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-cubuklu-koyu",
+        "oyveotesi_neighborhood_id": 18472
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DERELİ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-dereli-koyu",
+        "oyveotesi_neighborhood_id": 18444
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DİBEKTAŞ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-dibektas-koyu",
+        "oyveotesi_neighborhood_id": 18427
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DODURGA KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-dodurga-koyu",
+        "oyveotesi_neighborhood_id": 18410
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DOĞANKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-dogankoy",
+        "oyveotesi_neighborhood_id": 18469
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DÖNGELLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-dongeller-koyu",
+        "oyveotesi_neighborhood_id": 18430
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DÖREKLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-dorekler-koyu",
+        "oyveotesi_neighborhood_id": 18436
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DORUCAŞAHİNCİ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-dorucasahinci-koyu",
+        "oyveotesi_neighborhood_id": 18441
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "DÜZKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-duzkoy",
+        "oyveotesi_neighborhood_id": 18447
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ELDEŞ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-eldes-koyu",
+        "oyveotesi_neighborhood_id": 18402
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ELMACIK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-elmacik-koyu",
+        "oyveotesi_neighborhood_id": 18473
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ESELER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-eseler-koyu",
+        "oyveotesi_neighborhood_id": 18448
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "GÖKPINAR KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-gokpinar-koyu",
+        "oyveotesi_neighborhood_id": 18442
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "GÜNEYÖREN KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-guneyoren-koyu",
+        "oyveotesi_neighborhood_id": 18422
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "HASANÖREN KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-hasanoren-koyu",
+        "oyveotesi_neighborhood_id": 18411
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "HİSARKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-hisarkoy",
+        "oyveotesi_neighborhood_id": 18449
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "HOCAKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-hocakoy",
+        "oyveotesi_neighborhood_id": 18467
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "İBRAHİMDERESİ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-ibrahimderesi-koyu",
+        "oyveotesi_neighborhood_id": 18406
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "İĞNECİLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-igneciler-koyu",
+        "oyveotesi_neighborhood_id": 18464
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "İNCEÇAM KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-incecam-koyu",
+        "oyveotesi_neighborhood_id": 18457
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ISIRGANLI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-isirganli-koyu",
+        "oyveotesi_neighborhood_id": 18423
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KADIKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kadikoy",
+        "oyveotesi_neighborhood_id": 18474
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KALDIRIM MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kaldirim-mah",
+        "oyveotesi_neighborhood_id": 18431
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KALECİK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kalecik-koyu",
+        "oyveotesi_neighborhood_id": 18403
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KARAHASAN KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-karahasan-koyu",
+        "oyveotesi_neighborhood_id": 18475
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KARAKIŞLA KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-karakisla-koyu",
+        "oyveotesi_neighborhood_id": 18452
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KASIMLAR MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kasimlar-mah",
+        "oyveotesi_neighborhood_id": 18412
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KAYABAŞI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kayabasi-koyu",
+        "oyveotesi_neighborhood_id": 18445
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KEÇİDERESİ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kecideresi-koyu",
+        "oyveotesi_neighborhood_id": 18414
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KİRAZCIK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kirazcik-koyu",
+        "oyveotesi_neighborhood_id": 18415
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KİRSİNLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kirsinler-koyu",
+        "oyveotesi_neighborhood_id": 18408
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KIYIKLAR KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kiyiklar-koyu",
+        "oyveotesi_neighborhood_id": 18438
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KIZILLAR KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kizillar-koyu",
+        "oyveotesi_neighborhood_id": 18462
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KÖKLÜ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-koklu-koyu",
+        "oyveotesi_neighborhood_id": 18398
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KONAK KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-konak-koyu",
+        "oyveotesi_neighborhood_id": 18463
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KONUKLU KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-konuklu-koyu",
+        "oyveotesi_neighborhood_id": 18470
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KOZANLI KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kozanli-koyu",
+        "oyveotesi_neighborhood_id": 18396
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KÜLLÜ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kullu-koyu",
+        "oyveotesi_neighborhood_id": 18455
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KUMLUCA-KAVAKLIKALDIRIM MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kumluca-kavaklikaldirim-mah",
+        "oyveotesi_neighborhood_id": 18476
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KUMLUCA-MERKEZ MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kumluca-merkez-mah",
+        "oyveotesi_neighborhood_id": 18397
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "KUMLUCA-YENİ MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-kumluca-yeni-mah",
+        "oyveotesi_neighborhood_id": 18471
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "MEZGELLER MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-mezgeller-mah",
+        "oyveotesi_neighborhood_id": 18413
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ÖNCÜLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-onculer-koyu",
+        "oyveotesi_neighborhood_id": 18433
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "SARIFASIL KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-sarifasil-koyu",
+        "oyveotesi_neighborhood_id": 18459
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "SARNIÇ KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-sarnic-koyu",
+        "oyveotesi_neighborhood_id": 18446
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "SAZ MAH.",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-saz-mah",
+        "oyveotesi_neighborhood_id": 18404
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ŞİRİNLER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-sirinler-koyu",
+        "oyveotesi_neighborhood_id": 18428
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ÜÇSARAY KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-ucsaray-koyu",
+        "oyveotesi_neighborhood_id": 18417
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ULUKAYA KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-ulukaya-koyu",
+        "oyveotesi_neighborhood_id": 18460
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ULUKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-ulukoy",
+        "oyveotesi_neighborhood_id": 18461
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "YENİKIŞLA KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-yenikisla-koyu",
+        "oyveotesi_neighborhood_id": 18450
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "YENİKÖY",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-yenikoy",
+        "oyveotesi_neighborhood_id": 18437
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "YILANLAR KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-yilanlar-koyu",
+        "oyveotesi_neighborhood_id": 18432
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "YUKARIDERE KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-yukaridere-koyu",
+        "oyveotesi_neighborhood_id": 18453
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-ulus",
+        "mahalle": "ZAFER KÖYÜ",
+        "ilce_adi": "ULUS",
+        "mahalle_id": "bartin-ulus-zafer-koyu",
+        "oyveotesi_neighborhood_id": 18416
+    }
+]

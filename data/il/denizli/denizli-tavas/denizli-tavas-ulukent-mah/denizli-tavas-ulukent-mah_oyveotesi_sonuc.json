@@ -1,0 +1,99 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-tavas",
+        "mahalle": "ULUKENT MAH.",
+        "ilce_adi": "TAVAS",
+        "okul_adi": "ULUKENT BAŞALAN MAH. KÖY CAMİ BAĞIMSIZ LOJMANI",
+        "sandik_no": 1097,
+        "mahalle_id": "denizli-tavas-ulukent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "İYİ PARTİ": 18,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "ADALET VE KALKINMA PARTİSİ": 41,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-tavas/1xxx/1097/denizli-tavas-1097-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "788000",
+            "oyveotesi_sync_timestamp": 1684365853
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 111,
+            "sayim_sonuc": {
+                "TOPLAM": 111,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-tavas/1xxx/1097/denizli-tavas-1097-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "788000",
+            "oyveotesi_sync_timestamp": 1684365853
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-tavas",
+        "mahalle": "ULUKENT MAH.",
+        "ilce_adi": "TAVAS",
+        "okul_adi": "ULUKENT MAH .AYŞE KONAKCI İLKOKULU",
+        "sandik_no": 1098,
+        "mahalle_id": "denizli-tavas-ulukent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365853
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365853
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-tavas",
+        "mahalle": "ULUKENT MAH.",
+        "ilce_adi": "TAVAS",
+        "okul_adi": "ULUKENT MAH .AYŞE KONAKCI İLKOKULU",
+        "sandik_no": 1099,
+        "mahalle_id": "denizli-tavas-ulukent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365853
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365853
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

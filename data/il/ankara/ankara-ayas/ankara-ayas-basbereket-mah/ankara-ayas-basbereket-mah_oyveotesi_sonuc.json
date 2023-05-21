@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "BAŞBEREKET MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "BAŞBEREKET MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1003,
+        "mahalle_id": "ankara-ayas-basbereket-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 127,
+            "sayim_sonuc": {
+                "TOPLAM": 127,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "832551",
+            "oyveotesi_sync_timestamp": 1684393642
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 37,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "832551",
+            "oyveotesi_sync_timestamp": 1684393642
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-gazipasa",
+        "mahalle": "ÜÇKONAK MAH.",
+        "ilce_adi": "GAZİPAŞA",
+        "okul_adi": "ÜÇKONAK İ.Ö.O.",
+        "sandik_no": 1127,
+        "mahalle_id": "antalya-gazipasa-uckonak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 85,
+            "sayim_sonuc": {
+                "TOPLAM": 85,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 16,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1127/antalya-gazipasa-1127-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1009313",
+            "oyveotesi_sync_timestamp": 1684325743
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 88,
+            "sayim_sonuc": {
+                "TOPLAM": 88,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 53,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1127/antalya-gazipasa-1127-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1009313",
+            "oyveotesi_sync_timestamp": 1684325743
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

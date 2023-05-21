@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-duzici",
+        "mahalle": "ELLEK-ÇİRAZ MAH.",
+        "ilce_adi": "DÜZİÇİ",
+        "okul_adi": "ELLEK ŞEHİT BURAK MART İLKOKULU",
+        "sandik_no": 1130,
+        "mahalle_id": "osmaniye-duzici-ellek-ciraz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374941
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 86,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-duzici/1xxx/1130/osmaniye-duzici-1130-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374941
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-duzici",
+        "mahalle": "ELLEK-ÇİRAZ MAH.",
+        "ilce_adi": "DÜZİÇİ",
+        "okul_adi": "ELLEK ŞEHİT BURAK MART İLKOKULU",
+        "sandik_no": 1131,
+        "mahalle_id": "osmaniye-duzici-ellek-ciraz-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374941
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374941
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-kepsut",
+        "mahalle": "TEKKEIŞIKLAR MAH.",
+        "ilce_adi": "KEPSUT",
+        "okul_adi": "TEKKEIŞIKLAR KÖY KAHVESİ",
+        "sandik_no": 1077,
+        "mahalle_id": "balikesir-kepsut-tekkeisiklar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332147
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-kepsut/1xxx/1077/balikesir-kepsut-1077-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332147
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

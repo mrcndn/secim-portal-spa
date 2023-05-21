@@ -1,0 +1,91 @@
+[
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-hanak",
+        "mahalle": "SELAM VERDİ MAH.",
+        "ilce_adi": "HANAK",
+        "okul_adi": "ATATÜRK ORTAOKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "ardahan-hanak-selam-verdi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 261,
+            "sayim_sonuc": {
+                "TOPLAM": 261,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 37,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 109,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 81,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-hanak/1xxx/1009/ardahan-hanak-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "780505",
+            "oyveotesi_sync_timestamp": 1684330307
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 172,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-hanak/1xxx/1009/ardahan-hanak-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "780505",
+            "oyveotesi_sync_timestamp": 1684330307
+        },
+        "secim_bolge_id": "ardahan"
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-hanak",
+        "mahalle": "SELAM VERDİ MAH.",
+        "ilce_adi": "HANAK",
+        "okul_adi": "ATATÜRK ORTAOKULU",
+        "sandik_no": 1008,
+        "mahalle_id": "ardahan-hanak-selam-verdi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330307
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 255,
+            "sayim_sonuc": {
+                "TOPLAM": 255,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 122,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-hanak/1xxx/1008/ardahan-hanak-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330307
+        },
+        "secim_bolge_id": "ardahan"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-buldan",
+        "mahalle": "YENİÇAM MAH.",
+        "ilce_adi": "BULDAN",
+        "okul_adi": "YENİÇAM İLKOKULU",
+        "sandik_no": 1071,
+        "mahalle_id": "denizli-buldan-yenicam-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 126,
+            "sayim_sonuc": {
+                "TOPLAM": 126,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 14,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 8,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-buldan/1xxx/1071/denizli-buldan-1071-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829293",
+            "oyveotesi_sync_timestamp": 1684365966
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 68
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-buldan/1xxx/1071/denizli-buldan-1071-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "829293",
+            "oyveotesi_sync_timestamp": 1684365966
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

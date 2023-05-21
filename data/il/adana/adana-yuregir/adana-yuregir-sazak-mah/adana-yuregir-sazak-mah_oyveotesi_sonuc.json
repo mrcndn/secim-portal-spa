@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-yuregir",
+        "mahalle": "SAZAK MAH.",
+        "ilce_adi": "YÜREĞİR",
+        "okul_adi": "SAZAK İLKOKULU",
+        "sandik_no": 1289,
+        "mahalle_id": "adana-yuregir-sazak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 5,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 30
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yuregir/1xxx/1289/adana-yuregir-1289-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "258375",
+            "oyveotesi_sync_timestamp": 1684371033
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 80
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yuregir/1xxx/1289/adana-yuregir-1289-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "258375",
+            "oyveotesi_sync_timestamp": 1684371033
+        },
+        "secim_bolge_id": "adana"
+    }
+]

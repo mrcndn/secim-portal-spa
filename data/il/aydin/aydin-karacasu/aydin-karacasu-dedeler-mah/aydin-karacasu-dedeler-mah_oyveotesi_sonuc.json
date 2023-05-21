@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-karacasu",
+        "mahalle": "DEDELER MAH.",
+        "ilce_adi": "KARACASU",
+        "okul_adi": "DEDELER İLKOKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "aydin-karacasu-dedeler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 76,
+            "sayim_sonuc": {
+                "TOPLAM": 76,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 18,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1021/aydin-karacasu-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "628937",
+            "oyveotesi_sync_timestamp": 1684394652
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 79,
+            "sayim_sonuc": {
+                "TOPLAM": 79,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1021/aydin-karacasu-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "628937",
+            "oyveotesi_sync_timestamp": 1684394652
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

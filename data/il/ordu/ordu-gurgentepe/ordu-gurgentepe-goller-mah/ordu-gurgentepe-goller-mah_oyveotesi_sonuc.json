@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-gurgentepe",
+        "mahalle": "GÖLLER MAH.",
+        "ilce_adi": "GÜRGENTEPE",
+        "okul_adi": "CUMHURİYET ORTA OKULU",
+        "sandik_no": 1021,
+        "mahalle_id": "ordu-gurgentepe-goller-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "İYİ PARTİ": 10,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 149,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-gurgentepe/1xxx/1021/ordu-gurgentepe-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816827",
+            "oyveotesi_sync_timestamp": 1684360127
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 164,
+                "RECEP TAYYİP ERDOĞAN": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-gurgentepe/1xxx/1021/ordu-gurgentepe-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "816827",
+            "oyveotesi_sync_timestamp": 1684360127
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-gurgentepe",
+        "mahalle": "GÖLLER MAH.",
+        "ilce_adi": "GÜRGENTEPE",
+        "okul_adi": "CUMHURİYET ORTA OKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "ordu-gurgentepe-goller-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360127
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 159,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-gurgentepe/1xxx/1022/ordu-gurgentepe-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360127
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

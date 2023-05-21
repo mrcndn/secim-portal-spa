@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-akincilar",
+        "mahalle": "YEŞİLYAZI MAH.",
+        "ilce_adi": "AKINCILAR",
+        "okul_adi": "YEŞİLYAZI MAHALLESİ-YEŞİLYAZI İLKÖĞRETİM OKULU",
+        "sandik_no": 1009,
+        "mahalle_id": "sivas-akincilar-yesilyazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 154,
+            "sayim_sonuc": {
+                "TOPLAM": 154,
+                "SOL PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-akincilar/1xxx/1009/sivas-akincilar-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176082",
+            "oyveotesi_sync_timestamp": 1684358458
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 155,
+            "sayim_sonuc": {
+                "TOPLAM": 155,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 117
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-akincilar/1xxx/1009/sivas-akincilar-1009-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176082",
+            "oyveotesi_sync_timestamp": 1684358458
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

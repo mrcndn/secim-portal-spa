@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-karayazi",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "KARAYAZI",
+        "okul_adi": "YENİKÖY MAHALESİ OKULU",
+        "sandik_no": 1085,
+        "mahalle_id": "erzurum-karayazi-yenikoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340750
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 68,
+            "sayim_sonuc": {
+                "TOPLAM": 68,
+                "KEMAL KILIÇDAROĞLU": 46,
+                "RECEP TAYYİP ERDOĞAN": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-karayazi/1xxx/1085/erzurum-karayazi-1085-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340750
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

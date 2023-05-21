@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-abana",
+        "mahalle": "ÇAYIRCIK MAH.",
+        "ilce_adi": "ABANA",
+        "okul_adi": "ÇAYIRCIK MAH.OKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "kastamonu-abana-cayircik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kastamonu-tutanaklari/blob/main/tutanak/kastamonu/kastamonu-abana/1xxx/1002/kastamonu-abana-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1023030",
+            "oyveotesi_sync_timestamp": 1684347185
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1023030",
+            "oyveotesi_sync_timestamp": 1684347185
+        },
+        "secim_bolge_id": "kastamonu"
+    }
+]

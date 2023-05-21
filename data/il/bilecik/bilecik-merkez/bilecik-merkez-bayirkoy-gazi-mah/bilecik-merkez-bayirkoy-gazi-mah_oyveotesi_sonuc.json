@@ -1,0 +1,84 @@
+[
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-GAZİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "okul_adi": "BAYIRKÖY İLKOKULU/ORTAOKULU",
+        "sandik_no": 1131,
+        "mahalle_id": "bilecik-merkez-bayirkoy-gazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 304,
+            "sayim_sonuc": {
+                "TOPLAM": 304,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 42,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 129,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1131/bilecik-merkez-1131-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "580643",
+            "oyveotesi_sync_timestamp": 1684327610
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 300,
+            "sayim_sonuc": {
+                "TOPLAM": 300,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 177,
+                "RECEP TAYYİP ERDOĞAN": 107
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1131/bilecik-merkez-1131-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "580643",
+            "oyveotesi_sync_timestamp": 1684327610
+        },
+        "secim_bolge_id": "bilecik"
+    },
+    {
+        "il_id": "bilecik",
+        "il_adi": "BİLECİK",
+        "il_kodu": 11,
+        "ilce_id": "bilecik-merkez",
+        "mahalle": "BAYIRKÖY-GAZİ MAH.",
+        "ilce_adi": "BİLECİK MERKEZ",
+        "okul_adi": "BAYIRKÖY İLKOKULU/ORTAOKULU",
+        "sandik_no": 1132,
+        "mahalle_id": "bilecik-merkez-bayirkoy-gazi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327610
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 149,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bilecik-tutanaklari/blob/main/tutanak/bilecik/bilecik-merkez/1xxx/1132/bilecik-merkez-1132-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327610
+        },
+        "secim_bolge_id": "bilecik"
+    }
+]

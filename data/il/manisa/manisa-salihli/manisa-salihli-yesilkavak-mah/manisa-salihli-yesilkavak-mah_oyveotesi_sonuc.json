@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-salihli",
+        "mahalle": "YEŞİLKAVAK MAH.",
+        "ilce_adi": "SALİHLİ",
+        "okul_adi": "YEŞİLKAVAK MH. KÖY KAHVESİ",
+        "sandik_no": 1342,
+        "mahalle_id": "manisa-salihli-yesilkavak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 250,
+            "sayim_sonuc": {
+                "TOPLAM": 250,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 46,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 69,
+                "ADALET VE KALKINMA PARTİSİ": 60,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 57,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1342/manisa-salihli-1342-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "633647",
+            "oyveotesi_sync_timestamp": 1684397156
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 265,
+            "sayim_sonuc": {
+                "TOPLAM": 265,
+                "SİNAN OĞAN": 17,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-salihli/1xxx/1342/manisa-salihli-1342-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "633647",
+            "oyveotesi_sync_timestamp": 1684397156
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "YAHNİKAPAN MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "YAHNİKAPAN İLKOKULU",
+        "sandik_no": 2454,
+        "mahalle_id": "eskisehir-odunpazari-yahnikapan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "İYİ PARTİ": 23,
+                "VATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 202,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2454/eskisehir-odunpazari-2454-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831520",
+            "oyveotesi_sync_timestamp": 1684341696
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "KEMAL KILIÇDAROĞLU": 230,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2454/eskisehir-odunpazari-2454-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "831520",
+            "oyveotesi_sync_timestamp": 1684341696
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

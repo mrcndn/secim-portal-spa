@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "ÇELEBİ MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "ÇELEBİ KÖY KAHVESİ",
+        "sandik_no": 1058,
+        "mahalle_id": "istanbul-sile-celebi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 149,
+            "sayim_sonuc": {
+                "TOPLAM": 149,
+                "İYİ PARTİ": 9,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "316278",
+            "oyveotesi_sync_timestamp": 1684345099
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 154,
+            "sayim_sonuc": {
+                "TOPLAM": 154,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 120
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "316278",
+            "oyveotesi_sync_timestamp": 1684345099
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-pulumur",
+        "mahalle": "DOĞANPINAR KÖYÜ",
+        "ilce_adi": "PÜLÜMÜR",
+        "okul_adi": "DOĞANPINAR KÖYÜ SANDIK ALANI",
+        "sandik_no": 1011,
+        "mahalle_id": "tunceli-pulumur-doganpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361262
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361262
+        },
+        "secim_bolge_id": "tunceli"
+    },
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-pulumur",
+        "mahalle": "DOĞANPINAR KÖYÜ",
+        "ilce_adi": "PÜLÜMÜR",
+        "okul_adi": "DOĞANPINAR KÖYÜ (MUTU MEZRASI)",
+        "sandik_no": 1012,
+        "mahalle_id": "tunceli-pulumur-doganpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 272,
+            "sayim_sonuc": {
+                "TOPLAM": 272,
+                "İYİ PARTİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 210,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-pulumur/1xxx/1012/tunceli-pulumur-1012-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814942",
+            "oyveotesi_sync_timestamp": 1684361262
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 274,
+            "sayim_sonuc": {
+                "TOPLAM": 274,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 238,
+                "RECEP TAYYİP ERDOĞAN": 28
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-pulumur/1xxx/1012/tunceli-pulumur-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814942",
+            "oyveotesi_sync_timestamp": 1684361262
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

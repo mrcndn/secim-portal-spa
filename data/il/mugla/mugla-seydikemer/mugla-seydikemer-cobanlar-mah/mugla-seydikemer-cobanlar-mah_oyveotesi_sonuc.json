@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "ÇOBANLAR MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "ÇOBANLAR MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1047,
+        "mahalle_id": "mugla-seydikemer-cobanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374573
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 317,
+            "sayim_sonuc": {
+                "TOPLAM": 317,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 10,
+                "KEMAL KILIÇDAROĞLU": 140,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1047/mugla-seydikemer-1047-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374573
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "ÇOBANLAR MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "ÇOBANLAR MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1048,
+        "mahalle_id": "mugla-seydikemer-cobanlar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 309,
+            "sayim_sonuc": {
+                "TOPLAM": 309,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 61,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1048/mugla-seydikemer-1048-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "756321",
+            "oyveotesi_sync_timestamp": 1684374573
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 106,
+                "RECEP TAYYİP ERDOĞAN": 199
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1048/mugla-seydikemer-1048-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "756321",
+            "oyveotesi_sync_timestamp": 1684374573
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

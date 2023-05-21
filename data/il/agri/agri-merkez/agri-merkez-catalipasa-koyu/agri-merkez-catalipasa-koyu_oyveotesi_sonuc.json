@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-merkez",
+        "mahalle": "ÇATALİPAŞA KÖYÜ",
+        "ilce_adi": "AĞRI MERKEZ",
+        "okul_adi": "ÇATALİPAŞA KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1237,
+        "mahalle_id": "agri-merkez-catalipasa-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "İYİ PARTİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 113,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-merkez/1xxx/1237/agri-merkez-1237-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "399073",
+            "oyveotesi_sync_timestamp": 1684326640
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 130,
+            "sayim_sonuc": {
+                "TOPLAM": 130,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-merkez/1xxx/1237/agri-merkez-1237-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "399073",
+            "oyveotesi_sync_timestamp": 1684326640
+        },
+        "secim_bolge_id": "agri"
+    }
+]

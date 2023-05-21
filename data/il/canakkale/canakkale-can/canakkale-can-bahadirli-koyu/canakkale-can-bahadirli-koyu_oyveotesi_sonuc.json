@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "BAHADIRLI KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "BAHADIRLI KÖY KONAĞI",
+        "sandik_no": 1079,
+        "mahalle_id": "canakkale-can-bahadirli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "İYİ PARTİ": 74,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1079/canakkale-can-1079-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1012691",
+            "oyveotesi_sync_timestamp": 1684335911
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 166,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1079/canakkale-can-1079-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1012691",
+            "oyveotesi_sync_timestamp": 1684335911
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

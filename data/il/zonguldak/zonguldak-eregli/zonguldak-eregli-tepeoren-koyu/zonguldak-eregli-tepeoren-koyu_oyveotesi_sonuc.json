@@ -1,0 +1,53 @@
+[
+    {
+        "il_id": "zonguldak",
+        "il_adi": "ZONGULDAK",
+        "il_kodu": 67,
+        "ilce_id": "zonguldak-eregli",
+        "mahalle": "TEPEÖREN KÖYÜ",
+        "ilce_adi": "EREĞLİ",
+        "okul_adi": "TEPEÖREN KÖYÜ YEMEKHANESİ",
+        "sandik_no": 1405,
+        "mahalle_id": "zonguldak-eregli-tepeoren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 53,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-eregli/1xxx/1405/zonguldak-eregli-1405-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828162",
+            "oyveotesi_sync_timestamp": 1684370022
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 110,
+            "sayim_sonuc": {
+                "TOPLAM": 110,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 42,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-zonguldak-tutanaklari/blob/main/tutanak/zonguldak/zonguldak-eregli/1xxx/1405/zonguldak-eregli-1405-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828162",
+            "oyveotesi_sync_timestamp": 1684370022
+        },
+        "secim_bolge_id": "zonguldak"
+    }
+]

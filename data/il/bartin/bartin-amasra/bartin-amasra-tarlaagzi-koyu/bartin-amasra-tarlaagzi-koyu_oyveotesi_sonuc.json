@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "TARLAAĞZI KÖYÜ",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "TARLAAĞZI ESKİ İLKOKULU",
+        "sandik_no": 1043,
+        "mahalle_id": "bartin-amasra-tarlaagzi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 53,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1043/bartin-amasra-1043-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "551474",
+            "oyveotesi_sync_timestamp": 1684327780
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 122
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1043/bartin-amasra-1043-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "551474",
+            "oyveotesi_sync_timestamp": 1684327780
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

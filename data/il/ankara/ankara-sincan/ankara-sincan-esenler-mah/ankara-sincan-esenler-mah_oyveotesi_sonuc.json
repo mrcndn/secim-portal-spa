@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-sincan",
+        "mahalle": "ESENLER MAH.",
+        "ilce_adi": "SİNCAN",
+        "okul_adi": "ESENLER KÖY KONAĞI",
+        "sandik_no": 2118,
+        "mahalle_id": "ankara-sincan-esenler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "İYİ PARTİ": 28,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "823823",
+            "oyveotesi_sync_timestamp": 1684393245
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 104,
+            "sayim_sonuc": {
+                "TOPLAM": 104,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 53
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "823823",
+            "oyveotesi_sync_timestamp": 1684393245
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

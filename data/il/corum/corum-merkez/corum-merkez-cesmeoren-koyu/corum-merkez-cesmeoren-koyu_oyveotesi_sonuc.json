@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-merkez",
+        "mahalle": "ÇEŞMEÖREN KÖYÜ",
+        "ilce_adi": "ÇORUM MERKEZ",
+        "okul_adi": "ÇEŞMEÖREN KÖY KONAĞI",
+        "sandik_no": 2053,
+        "mahalle_id": "corum-merkez-cesmeoren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 150,
+            "sayim_sonuc": {
+                "TOPLAM": 150,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 96,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2053/corum-merkez-2053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176563",
+            "oyveotesi_sync_timestamp": 1684369237
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 151,
+            "sayim_sonuc": {
+                "TOPLAM": 151,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 138
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-merkez/2xxx/2053/corum-merkez-2053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176563",
+            "oyveotesi_sync_timestamp": 1684369237
+        },
+        "secim_bolge_id": "corum"
+    }
+]

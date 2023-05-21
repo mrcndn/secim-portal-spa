@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-beydag",
+        "mahalle": "MENDERES MAH.",
+        "ilce_adi": "BEYDAĞ",
+        "okul_adi": "MENDERES KÖY ODASI",
+        "sandik_no": 1030,
+        "mahalle_id": "izmir-beydag-menderes-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "İYİ PARTİ": 16,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "329863",
+            "oyveotesi_sync_timestamp": 1684361965
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 92,
+            "sayim_sonuc": {
+                "TOPLAM": 92,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 54
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "329863",
+            "oyveotesi_sync_timestamp": 1684361965
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

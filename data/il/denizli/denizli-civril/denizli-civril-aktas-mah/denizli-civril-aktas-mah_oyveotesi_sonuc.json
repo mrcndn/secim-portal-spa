@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-civril",
+        "mahalle": "AKTAŞ MAH.",
+        "ilce_adi": "ÇİVRİL",
+        "okul_adi": "AKTAŞ KÖY BİNASI",
+        "sandik_no": 1007,
+        "mahalle_id": "denizli-civril-aktas-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 45,
+            "sayim_sonuc": {
+                "TOPLAM": 45,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1007/denizli-civril-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569244",
+            "oyveotesi_sync_timestamp": 1684365674
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 47,
+            "sayim_sonuc": {
+                "TOPLAM": 47,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 6,
+                "RECEP TAYYİP ERDOĞAN": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-civril/1xxx/1007/denizli-civril-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569244",
+            "oyveotesi_sync_timestamp": 1684365674
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

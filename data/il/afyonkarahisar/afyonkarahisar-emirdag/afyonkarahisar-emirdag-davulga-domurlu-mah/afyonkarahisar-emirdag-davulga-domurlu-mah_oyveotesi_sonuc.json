@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-emirdag",
+        "mahalle": "DAVULGA-DOMURLU MAH.",
+        "ilce_adi": "EMİRDAĞ",
+        "okul_adi": "DAVULGA İLKÖĞRETİM OKULU",
+        "sandik_no": 1055,
+        "mahalle_id": "afyonkarahisar-emirdag-davulga-domurlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330177
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684330177
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-emirdag",
+        "mahalle": "DAVULGA-DOMURLU MAH.",
+        "ilce_adi": "EMİRDAĞ",
+        "okul_adi": "DAVULGA İLKÖĞRETİM OKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "afyonkarahisar-emirdag-davulga-domurlu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "İYİ PARTİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-emirdag/1xxx/1056/afyonkarahisar-emirdag-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "759567",
+            "oyveotesi_sync_timestamp": 1684330177
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 99,
+            "sayim_sonuc": {
+                "TOPLAM": 99,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-emirdag/1xxx/1056/afyonkarahisar-emirdag-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "759567",
+            "oyveotesi_sync_timestamp": 1684330177
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-karakocan",
+        "mahalle": "KARŞIYAKA MAH.",
+        "ilce_adi": "KARAKOÇAN",
+        "okul_adi": "KARŞIYAKA MAHALLESİ FATİH ANAOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "elazig-karakocan-karsiyaka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 1,
+                "ZAFER PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 137
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-karakocan/1xxx/1005/elazig-karakocan-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "780182",
+            "oyveotesi_sync_timestamp": 1684339056
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 241,
+            "sayim_sonuc": {
+                "TOPLAM": 241,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 195,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-karakocan/1xxx/1005/elazig-karakocan-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "780182",
+            "oyveotesi_sync_timestamp": 1684339056
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

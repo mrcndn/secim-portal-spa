@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-eyyubiye",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "EYYÜBİYE",
+        "okul_adi": "ŞEHİT NUSRET İMAM HATİP ORTAOKULU",
+        "sandik_no": 1090,
+        "mahalle_id": "sanliurfa-eyyubiye-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 154,
+            "sayim_sonuc": {
+                "TOPLAM": 154,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 126
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-eyyubiye/1xxx/1090/sanliurfa-eyyubiye-1090-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371710
+        },
+        "secim_bolge_id": "sanliurfa"
+    },
+    {
+        "il_id": "sanliurfa",
+        "il_adi": "ŞANLIURFA",
+        "il_kodu": 63,
+        "ilce_id": "sanliurfa-eyyubiye",
+        "mahalle": "CAMİKEBİR MAH.",
+        "ilce_adi": "EYYÜBİYE",
+        "okul_adi": "ŞEHİT NUSRET İMAM HATİP ORTAOKULU",
+        "sandik_no": 1089,
+        "mahalle_id": "sanliurfa-eyyubiye-camikebir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 147
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sanliurfa-tutanaklari/blob/main/tutanak/sanliurfa/sanliurfa-eyyubiye/1xxx/1089/sanliurfa-eyyubiye-1089-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684371710
+        },
+        "secim_bolge_id": "sanliurfa"
+    }
+]

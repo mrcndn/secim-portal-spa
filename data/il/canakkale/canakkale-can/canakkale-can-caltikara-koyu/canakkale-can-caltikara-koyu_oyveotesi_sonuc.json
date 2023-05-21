@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "ÇALTIKARA KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "ÇALTIKARA KÖY KONAĞI",
+        "sandik_no": 1089,
+        "mahalle_id": "canakkale-can-caltikara-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 46,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1089/canakkale-can-1089-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1013763",
+            "oyveotesi_sync_timestamp": 1684335919
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 65,
+            "sayim_sonuc": {
+                "TOPLAM": 65,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1089/canakkale-can-1089-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1013763",
+            "oyveotesi_sync_timestamp": 1684335919
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

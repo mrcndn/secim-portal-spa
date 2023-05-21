@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-fatih",
+        "mahalle": "SARAÇ İSHAK MAH.",
+        "ilce_adi": "FATİH",
+        "okul_adi": "TEVFİK KUT ORTAOKULU 1. KAT",
+        "sandik_no": 1172,
+        "mahalle_id": "istanbul-fatih-sarac-ishak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344803
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 108
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684344803
+        },
+        "secim_bolge_id": "istanbul2"
+    },
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-fatih",
+        "mahalle": "SARAÇ İSHAK MAH.",
+        "ilce_adi": "FATİH",
+        "okul_adi": "TEVFİK KUT ORTAOKULU 1. KAT",
+        "sandik_no": 1173,
+        "mahalle_id": "istanbul-fatih-sarac-ishak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 220,
+            "sayim_sonuc": {
+                "TOPLAM": 220,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "CUMHURİYET HALK PARTİSİ": 34,
+                "ADALET VE KALKINMA PARTİSİ": 74,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 79
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "212275",
+            "oyveotesi_sync_timestamp": 1684344803
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "212275",
+            "oyveotesi_sync_timestamp": 1684344803
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

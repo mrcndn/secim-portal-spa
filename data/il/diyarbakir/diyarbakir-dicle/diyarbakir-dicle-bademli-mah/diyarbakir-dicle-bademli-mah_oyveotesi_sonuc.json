@@ -1,0 +1,84 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-dicle",
+        "mahalle": "BADEMLİ MAH.",
+        "ilce_adi": "DİCLE",
+        "okul_adi": "BADEMLİ KÖYÜ İLKOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "diyarbakir-dicle-bademli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337199
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-dicle/1xxx/1019/diyarbakir-dicle-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684337199
+        },
+        "secim_bolge_id": "diyarbakir"
+    },
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-dicle",
+        "mahalle": "BADEMLİ MAH.",
+        "ilce_adi": "DİCLE",
+        "okul_adi": "BADEMLİ KÖYÜ İLKOKULU",
+        "sandik_no": 1020,
+        "mahalle_id": "diyarbakir-dicle-bademli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 153,
+            "sayim_sonuc": {
+                "TOPLAM": 153,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 13,
+                "VATAN PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-dicle/1xxx/1020/diyarbakir-dicle-1020-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828486",
+            "oyveotesi_sync_timestamp": 1684337199
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 70
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-dicle/1xxx/1020/diyarbakir-dicle-1020-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828486",
+            "oyveotesi_sync_timestamp": 1684337199
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

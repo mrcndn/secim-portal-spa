@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-sur",
+        "mahalle": "BOZDEMİR MAH.",
+        "ilce_adi": "SUR",
+        "okul_adi": "BOZDEMİR İ.Ö.O",
+        "sandik_no": 1034,
+        "mahalle_id": "diyarbakir-sur-bozdemir-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 51
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-sur/1xxx/1034/diyarbakir-sur-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "789975",
+            "oyveotesi_sync_timestamp": 1684337712
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "789975",
+            "oyveotesi_sync_timestamp": 1684337712
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

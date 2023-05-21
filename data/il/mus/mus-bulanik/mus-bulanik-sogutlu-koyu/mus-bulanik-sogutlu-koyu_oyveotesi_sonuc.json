@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-bulanik",
+        "mahalle": "SÖĞÜTLÜ KÖYÜ",
+        "ilce_adi": "BULANIK",
+        "okul_adi": "SÖĞÜTLÜ İLK VE ORTAOKULU",
+        "sandik_no": 1144,
+        "mahalle_id": "mus-bulanik-sogutlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393771
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393771
+        },
+        "secim_bolge_id": "mus"
+    },
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-bulanik",
+        "mahalle": "SÖĞÜTLÜ KÖYÜ",
+        "ilce_adi": "BULANIK",
+        "okul_adi": "SÖĞÜTLÜ İLK VE ORTAOKULU",
+        "sandik_no": 1145,
+        "mahalle_id": "mus-bulanik-sogutlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393771
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 139,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-bulanik/1xxx/1145/mus-bulanik-1145-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393771
+        },
+        "secim_bolge_id": "mus"
+    }
+]

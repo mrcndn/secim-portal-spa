@@ -1,0 +1,66 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-ipsala",
+        "mahalle": "KOYUNTEPE KÖYÜ",
+        "ilce_adi": "İPSALA",
+        "okul_adi": "KOYUNTEPE İLKOKULU",
+        "sandik_no": 1054,
+        "mahalle_id": "edirne-ipsala-koyuntepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338439
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 349,
+            "sayim_sonuc": {
+                "TOPLAM": 349,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 222,
+                "RECEP TAYYİP ERDOĞAN": 118
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-ipsala/1xxx/1054/edirne-ipsala-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338439
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-ipsala",
+        "mahalle": "KOYUNTEPE KÖYÜ",
+        "ilce_adi": "İPSALA",
+        "okul_adi": "KOYUNTEPE İLKOKULU",
+        "sandik_no": 1053,
+        "mahalle_id": "edirne-ipsala-koyuntepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338439
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 198,
+                "RECEP TAYYİP ERDOĞAN": 115
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-ipsala/1xxx/1053/edirne-ipsala-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338439
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

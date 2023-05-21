@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-camlihemsin",
+        "mahalle": "SIRAKÖY",
+        "ilce_adi": "ÇAMLIHEMŞİN",
+        "okul_adi": "SIRAKÖY KÖYÜ CAMİİ AVLUSU",
+        "sandik_no": 1030,
+        "mahalle_id": "rize-camlihemsin-sirakoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 29,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1030/rize-camlihemsin-1030-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "535824",
+            "oyveotesi_sync_timestamp": 1684356156
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1030/rize-camlihemsin-1030-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "535824",
+            "oyveotesi_sync_timestamp": 1684356156
+        },
+        "secim_bolge_id": "rize"
+    }
+]

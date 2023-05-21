@@ -1,0 +1,57 @@
+[
+    {
+        "il_id": "yalova",
+        "il_adi": "YALOVA",
+        "il_kodu": 77,
+        "ilce_id": "yalova-ciftlikkoy",
+        "mahalle": "GACIK KÖYÜ",
+        "ilce_adi": "ÇİFTLİKKÖY",
+        "okul_adi": "GACIK KÖY KONAĞI",
+        "sandik_no": 1098,
+        "mahalle_id": "yalova-ciftlikkoy-gacik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 339,
+            "sayim_sonuc": {
+                "TOPLAM": 339,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 48,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 21,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 101,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 105,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-ciftlikkoy/1xxx/1098/yalova-ciftlikkoy-1098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "231052",
+            "oyveotesi_sync_timestamp": 1684363283
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 348,
+            "sayim_sonuc": {
+                "TOPLAM": 348,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 11,
+                "KEMAL KILIÇDAROĞLU": 162,
+                "RECEP TAYYİP ERDOĞAN": 154
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yalova-tutanaklari/blob/main/tutanak/yalova/yalova-ciftlikkoy/1xxx/1098/yalova-ciftlikkoy-1098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "231052",
+            "oyveotesi_sync_timestamp": 1684363283
+        },
+        "secim_bolge_id": "yalova"
+    }
+]

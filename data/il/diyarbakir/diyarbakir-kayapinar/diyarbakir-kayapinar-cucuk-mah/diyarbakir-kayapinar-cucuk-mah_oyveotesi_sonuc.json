@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "diyarbakir",
+        "il_adi": "DİYARBAKIR",
+        "il_kodu": 21,
+        "ilce_id": "diyarbakir-kayapinar",
+        "mahalle": "CÜCÜK MAH.",
+        "ilce_adi": "KAYAPINAR",
+        "okul_adi": "KAYAPINAR 1 CÜCÜK İLKOKULU",
+        "sandik_no": 1056,
+        "mahalle_id": "diyarbakir-kayapinar-cucuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "İYİ PARTİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 179
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-kayapinar/1xxx/1056/diyarbakir-kayapinar-1056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034682",
+            "oyveotesi_sync_timestamp": 1684337491
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "KEMAL KILIÇDAROĞLU": 194,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-diyarbakir-tutanaklari/blob/main/tutanak/diyarbakir/diyarbakir-kayapinar/1xxx/1056/diyarbakir-kayapinar-1056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034682",
+            "oyveotesi_sync_timestamp": 1684337491
+        },
+        "secim_bolge_id": "diyarbakir"
+    }
+]

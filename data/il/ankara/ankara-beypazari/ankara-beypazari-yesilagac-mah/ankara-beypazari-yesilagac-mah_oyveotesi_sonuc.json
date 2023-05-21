@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-beypazari",
+        "mahalle": "YEŞİLAĞAÇ MAH.",
+        "ilce_adi": "BEYPAZARI",
+        "okul_adi": "YEŞİLAĞAÇ MAHALLLE KONAĞI YENİ",
+        "sandik_no": 1144,
+        "mahalle_id": "ankara-beypazari-yesilagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 264,
+            "sayim_sonuc": {
+                "TOPLAM": 264,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 88,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 103,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 42,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "800385",
+            "oyveotesi_sync_timestamp": 1684393374
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 264,
+            "sayim_sonuc": {
+                "TOPLAM": 264,
+                "SİNAN OĞAN": 21,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "800385",
+            "oyveotesi_sync_timestamp": 1684393374
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

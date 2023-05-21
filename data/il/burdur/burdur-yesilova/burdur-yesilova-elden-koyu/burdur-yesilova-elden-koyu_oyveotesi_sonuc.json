@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-yesilova",
+        "mahalle": "ELDEN KÖYÜ",
+        "ilce_adi": "YEŞİLOVA",
+        "okul_adi": "ELDEN KÖY KAHVESİ",
+        "sandik_no": 1036,
+        "mahalle_id": "burdur-yesilova-elden-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 66,
+            "sayim_sonuc": {
+                "TOPLAM": 66,
+                "İYİ PARTİ": 9,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-yesilova/1xxx/1036/burdur-yesilova-1036-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604748",
+            "oyveotesi_sync_timestamp": 1684333835
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 67,
+            "sayim_sonuc": {
+                "TOPLAM": 67,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-yesilova/1xxx/1036/burdur-yesilova-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "604748",
+            "oyveotesi_sync_timestamp": 1684333835
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-biga",
+        "mahalle": "ÇELİKGÜRÜ KÖYÜ",
+        "ilce_adi": "BİGA",
+        "okul_adi": "ÇELİKGÜRÜ KÖYÜ KÖY KIRAATHANESİ",
+        "sandik_no": 1170,
+        "mahalle_id": "canakkale-biga-celikguru-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 30,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 135,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-biga/1xxx/1170/canakkale-biga-1170-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "538187",
+            "oyveotesi_sync_timestamp": 1684335803
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 233,
+            "sayim_sonuc": {
+                "TOPLAM": 233,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 175
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-biga/1xxx/1170/canakkale-biga-1170-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "538187",
+            "oyveotesi_sync_timestamp": 1684335803
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "agri",
+        "il_adi": "AĞRI",
+        "il_kodu": 4,
+        "ilce_id": "agri-merkez",
+        "mahalle": "BOZTOPRAK KÖYÜ",
+        "ilce_adi": "AĞRI MERKEZ",
+        "okul_adi": "BOZTOPRAK KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1232,
+        "mahalle_id": "agri-merkez-boztoprak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326636
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 52
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-agri-tutanaklari/blob/main/tutanak/agri/agri-merkez/1xxx/1232/agri-merkez-1232-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326636
+        },
+        "secim_bolge_id": "agri"
+    }
+]

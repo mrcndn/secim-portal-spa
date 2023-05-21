@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-ipsala",
+        "mahalle": "KAPUCU MAH.",
+        "ilce_adi": "İPSALA",
+        "okul_adi": "KURTULUŞ İLKOKULU",
+        "sandik_no": 1013,
+        "mahalle_id": "edirne-ipsala-kapucu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338434
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338434
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-ipsala",
+        "mahalle": "KAPUCU MAH.",
+        "ilce_adi": "İPSALA",
+        "okul_adi": "KURTULUŞ İLKOKULU",
+        "sandik_no": 1012,
+        "mahalle_id": "edirne-ipsala-kapucu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-ipsala/1xxx/1012/edirne-ipsala-1012-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "803561",
+            "oyveotesi_sync_timestamp": 1684338434
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 128,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-ipsala/1xxx/1012/edirne-ipsala-1012-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "803561",
+            "oyveotesi_sync_timestamp": 1684338434
+        },
+        "secim_bolge_id": "edirne"
+    },
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-ipsala",
+        "mahalle": "KAPUCU MAH.",
+        "ilce_adi": "İPSALA",
+        "okul_adi": "KURTULUŞ İLKOKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "edirne-ipsala-kapucu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338434
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338434
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

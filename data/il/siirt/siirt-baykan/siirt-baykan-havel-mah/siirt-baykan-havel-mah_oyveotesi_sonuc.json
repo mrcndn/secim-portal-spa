@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "siirt",
+        "il_adi": "SİİRT",
+        "il_kodu": 56,
+        "ilce_id": "siirt-baykan",
+        "mahalle": "HAVEL MAH.",
+        "ilce_adi": "BAYKAN",
+        "okul_adi": "BAYKAN YATILI BÖLGE ORTAOKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "siirt-baykan-havel-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 248,
+            "sayim_sonuc": {
+                "TOPLAM": 248,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 23,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-siirt-tutanaklari/blob/main/tutanak/siirt/siirt-baykan/1xxx/1002/siirt-baykan-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "611584",
+            "oyveotesi_sync_timestamp": 1684364184
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "611584",
+            "oyveotesi_sync_timestamp": 1684364184
+        },
+        "secim_bolge_id": "siirt"
+    }
+]

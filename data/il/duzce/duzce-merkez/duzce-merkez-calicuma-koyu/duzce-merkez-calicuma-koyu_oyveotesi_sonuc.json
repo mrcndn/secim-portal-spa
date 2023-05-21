@@ -1,0 +1,63 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "ÇALICUMA KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "KARAÇALI İLKOKULU",
+        "sandik_no": 1426,
+        "mahalle_id": "duzce-merkez-calicuma-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "ZAFER PARTİSİ": 10,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 99,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 37
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1426/duzce-merkez-1426-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "396974",
+            "oyveotesi_sync_timestamp": 1684338033
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "396974",
+            "oyveotesi_sync_timestamp": 1684338033
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "ÇALICUMA KÖYÜ",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "KARAÇALI İLKOKULU",
+        "sandik_no": 1427,
+        "mahalle_id": "duzce-merkez-calicuma-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338033
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338033
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

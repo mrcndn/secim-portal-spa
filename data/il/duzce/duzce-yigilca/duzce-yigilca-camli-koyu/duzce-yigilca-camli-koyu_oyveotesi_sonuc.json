@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-yigilca",
+        "mahalle": "ÇAMLI KÖYÜ",
+        "ilce_adi": "YIĞILCA",
+        "okul_adi": "ÇAMLI KÖYÜ, KÖY İLKÖĞRETİM OKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "duzce-yigilca-camli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338264
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 357,
+            "sayim_sonuc": {
+                "TOPLAM": 357,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 301
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-yigilca/1xxx/1014/duzce-yigilca-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338264
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

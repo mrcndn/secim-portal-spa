@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-gudul",
+        "mahalle": "AKÇAKESE MAH.",
+        "ilce_adi": "GÜDÜL",
+        "okul_adi": "AKÇAKESE MAHALLE KONAĞI",
+        "sandik_no": 1004,
+        "mahalle_id": "ankara-gudul-akcakese-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "596326",
+            "oyveotesi_sync_timestamp": 1684395279
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "596326",
+            "oyveotesi_sync_timestamp": 1684395279
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

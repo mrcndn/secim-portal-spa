@@ -1,0 +1,101 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-sorgun",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "SORGUN",
+        "okul_adi": "MEHMET AKİF ERSOY ORTAOKULU",
+        "sandik_no": 1041,
+        "mahalle_id": "yozgat-sorgun-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395943
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395943
+        },
+        "secim_bolge_id": "yozgat"
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-sorgun",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "SORGUN",
+        "okul_adi": "MEHMET AKİF ERSOY ORTAOKULU",
+        "sandik_no": 1040,
+        "mahalle_id": "yozgat-sorgun-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395943
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684395943
+        },
+        "secim_bolge_id": "yozgat"
+    },
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-sorgun",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "SORGUN",
+        "okul_adi": "MEHMET AKİF ERSOY ORTAOKULU",
+        "sandik_no": 1039,
+        "mahalle_id": "yozgat-sorgun-bahcelievler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 316,
+            "sayim_sonuc": {
+                "TOPLAM": 316,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 75,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 9,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 17,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 156,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 50,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-sorgun/1xxx/1039/yozgat-sorgun-1039-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "271319",
+            "oyveotesi_sync_timestamp": 1684395943
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 314,
+            "sayim_sonuc": {
+                "TOPLAM": 314,
+                "SİNAN OĞAN": 18,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 228
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-sorgun/1xxx/1039/yozgat-sorgun-1039-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "271319",
+            "oyveotesi_sync_timestamp": 1684395943
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

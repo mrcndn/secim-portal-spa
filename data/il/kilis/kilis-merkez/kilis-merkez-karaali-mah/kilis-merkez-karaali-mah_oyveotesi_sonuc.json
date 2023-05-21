@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "kilis",
+        "il_adi": "KİLİS",
+        "il_kodu": 79,
+        "ilce_id": "kilis-merkez",
+        "mahalle": "KARAALİ MAH.",
+        "ilce_adi": "KİLİS MERKEZ",
+        "okul_adi": "MERCİDABIK ORTA OKULU",
+        "sandik_no": 1109,
+        "mahalle_id": "kilis-merkez-karaali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348548
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 239,
+            "sayim_sonuc": {
+                "TOPLAM": 239,
+                "SİNAN OĞAN": 16,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 163
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kilis-tutanaklari/blob/main/tutanak/kilis/kilis-merkez/1xxx/1109/kilis-merkez-1109-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348548
+        },
+        "secim_bolge_id": "kilis"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-egirdir",
+        "mahalle": "AKDOĞAN KÖYÜ",
+        "ilce_adi": "EĞİRDİR",
+        "okul_adi": "AKDOĞAN KÖYÜ ANAOKULU",
+        "sandik_no": 1053,
+        "mahalle_id": "isparta-egirdir-akdogan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 138,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 124,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-egirdir/1xxx/1053/isparta-egirdir-1053-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585220",
+            "oyveotesi_sync_timestamp": 1684343972
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 329,
+            "sayim_sonuc": {
+                "TOPLAM": 329,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 47,
+                "RECEP TAYYİP ERDOĞAN": 266
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-egirdir/1xxx/1053/isparta-egirdir-1053-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585220",
+            "oyveotesi_sync_timestamp": 1684343972
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

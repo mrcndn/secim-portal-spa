@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-aladag",
+        "mahalle": "YETİMLİ MAH.",
+        "ilce_adi": "ALADAĞ",
+        "okul_adi": "YETİMLİ MAHALLESİ İLKOKULU",
+        "sandik_no": 1050,
+        "mahalle_id": "adana-aladag-yetimli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 40,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 29,
+                "ADALET VE KALKINMA PARTİSİ": 133,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1050/adana-aladag-1050-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585381",
+            "oyveotesi_sync_timestamp": 1684371657
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 24,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 201
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-aladag/1xxx/1050/adana-aladag-1050-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "585381",
+            "oyveotesi_sync_timestamp": 1684371657
+        },
+        "secim_bolge_id": "adana"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bergama",
+        "mahalle": "YERLİTAHTACI MAH.",
+        "ilce_adi": "BERGAMA",
+        "okul_adi": "YERLİTAHTACI MAH. YERLİTAHTACI İLKOKULU",
+        "sandik_no": 1282,
+        "mahalle_id": "izmir-bergama-yerlitahtaci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "İYİ PARTİ": 12,
+                "MEMLEKET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 108,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "764882",
+            "oyveotesi_sync_timestamp": 1684362914
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 136,
+            "sayim_sonuc": {
+                "TOPLAM": 136,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 10
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "764882",
+            "oyveotesi_sync_timestamp": 1684362914
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

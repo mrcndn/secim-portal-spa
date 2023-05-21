@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-akseki",
+        "mahalle": "SUSUZŞAHAP MAH.",
+        "ilce_adi": "AKSEKİ",
+        "okul_adi": "SUSUZŞAHAP MAH. İLKOKULU",
+        "sandik_no": 1054,
+        "mahalle_id": "antalya-akseki-susuzsahap-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325518
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 81,
+            "sayim_sonuc": {
+                "TOPLAM": 81,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 63
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-akseki/1xxx/1054/antalya-akseki-1054-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325518
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

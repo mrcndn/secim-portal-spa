@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "CİĞİRLER MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "CİĞİRLER MAHALLESİ KONAĞI",
+        "sandik_no": 1035,
+        "mahalle_id": "ankara-kizilcahamam-cigirler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 107,
+            "sayim_sonuc": {
+                "TOPLAM": 107,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 38,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "836988",
+            "oyveotesi_sync_timestamp": 1684395383
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 35,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "836988",
+            "oyveotesi_sync_timestamp": 1684395383
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

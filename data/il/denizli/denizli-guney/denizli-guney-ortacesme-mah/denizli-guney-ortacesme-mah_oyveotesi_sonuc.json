@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-guney",
+        "mahalle": "ORTAÇEŞME MAH.",
+        "ilce_adi": "GÜNEY",
+        "okul_adi": "ORTAÇEŞME SAĞLIK OCAĞI",
+        "sandik_no": 1022,
+        "mahalle_id": "denizli-guney-ortacesme-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "İYİ PARTİ": 46,
+                "ZAFER PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-guney/1xxx/1022/denizli-guney-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565856",
+            "oyveotesi_sync_timestamp": 1684365786
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-guney/1xxx/1022/denizli-guney-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "565856",
+            "oyveotesi_sync_timestamp": 1684365786
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

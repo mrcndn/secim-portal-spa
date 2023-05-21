@@ -1,0 +1,106 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menderes",
+        "mahalle": "SANCAKLI MAH.",
+        "ilce_adi": "MENDERES",
+        "okul_adi": "SANCAKLI AHMETÇİK İLKOKULU",
+        "sandik_no": 1230,
+        "mahalle_id": "izmir-menderes-sancakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 293,
+            "sayim_sonuc": {
+                "TOPLAM": 293,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 43,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 152,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "295259",
+            "oyveotesi_sync_timestamp": 1684363190
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 301,
+            "sayim_sonuc": {
+                "TOPLAM": 301,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 206,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "295259",
+            "oyveotesi_sync_timestamp": 1684363190
+        },
+        "secim_bolge_id": "izmir1"
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-menderes",
+        "mahalle": "SANCAKLI MAH.",
+        "ilce_adi": "MENDERES",
+        "okul_adi": "SANCAKLI AHMETÇİK İLKOKULU",
+        "sandik_no": 1231,
+        "mahalle_id": "izmir-menderes-sancakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 281,
+            "sayim_sonuc": {
+                "TOPLAM": 281,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 28,
+                "ZAFER PARTİSİ": 4,
+                "MİLLET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 140,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 17
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "336280",
+            "oyveotesi_sync_timestamp": 1684363190
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 296,
+            "sayim_sonuc": {
+                "TOPLAM": 296,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 193,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "336280",
+            "oyveotesi_sync_timestamp": 1684363190
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

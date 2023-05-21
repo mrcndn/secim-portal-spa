@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KILIÇARSLAN-KOCATEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "okul_adi": "KILIÇASLAN İLKOKULU",
+        "sandik_no": 1052,
+        "mahalle_id": "afyonkarahisar-sinanpasa-kilicarslan-kocatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328886
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328886
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    },
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-sinanpasa",
+        "mahalle": "KILIÇARSLAN-KOCATEPE MAH.",
+        "ilce_adi": "SİNANPAŞA",
+        "okul_adi": "KILIÇASLAN İLKOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "afyonkarahisar-sinanpasa-kilicarslan-kocatepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328886
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 170
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-sinanpasa/1xxx/1051/afyonkarahisar-sinanpasa-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328886
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

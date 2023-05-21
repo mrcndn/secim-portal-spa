@@ -1,0 +1,90 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-akcakoca",
+        "mahalle": "ÇAYAĞZI KÖYÜ",
+        "ilce_adi": "AKÇAKOCA",
+        "okul_adi": "ÇAYAĞZI KÖY KONAĞI",
+        "sandik_no": 1073,
+        "mahalle_id": "duzce-akcakoca-cayagzi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 10,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 10,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 77,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 46
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-akcakoca/1xxx/1073/duzce-akcakoca-1073-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "645715",
+            "oyveotesi_sync_timestamp": 1684337852
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 134
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-akcakoca/1xxx/1073/duzce-akcakoca-1073-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "645715",
+            "oyveotesi_sync_timestamp": 1684337852
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-akcakoca",
+        "mahalle": "ÇAYAĞZI KÖYÜ",
+        "ilce_adi": "AKÇAKOCA",
+        "okul_adi": "ÇAYAĞZI KÖY KONAĞI",
+        "sandik_no": 1072,
+        "mahalle_id": "duzce-akcakoca-cayagzi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "GENÇ PARTİ": 2,
+                "ZAFER PARTİSİ": 5,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 95,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-akcakoca/1xxx/1072/duzce-akcakoca-1072-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "647430",
+            "oyveotesi_sync_timestamp": 1684337852
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 211,
+            "sayim_sonuc": {
+                "TOPLAM": 211,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-akcakoca/1xxx/1072/duzce-akcakoca-1072-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "647430",
+            "oyveotesi_sync_timestamp": 1684337852
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

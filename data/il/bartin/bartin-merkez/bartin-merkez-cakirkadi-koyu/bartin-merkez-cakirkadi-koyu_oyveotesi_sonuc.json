@@ -1,0 +1,71 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ÇAKIRKADI KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ÇAKIRKADI KÖY KONAĞI",
+        "sandik_no": 1237,
+        "mahalle_id": "bartin-merkez-cakirkadi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327837
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684327837
+        },
+        "secim_bolge_id": "bartin"
+    },
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-merkez",
+        "mahalle": "ÇAKIRKADI KÖYÜ",
+        "ilce_adi": "BARTIN MERKEZ",
+        "okul_adi": "ÇAKIRKADI KÖY KONAĞI",
+        "sandik_no": 1238,
+        "mahalle_id": "bartin-merkez-cakirkadi-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 254,
+            "sayim_sonuc": {
+                "TOPLAM": 254,
+                "ZAFER PARTİSİ": 7,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 83
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1238/bartin-merkez-1238-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "820617",
+            "oyveotesi_sync_timestamp": 1684327837
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 257,
+            "sayim_sonuc": {
+                "TOPLAM": 257,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 8,
+                "KEMAL KILIÇDAROĞLU": 44,
+                "RECEP TAYYİP ERDOĞAN": 184
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-merkez/1xxx/1238/bartin-merkez-1238-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "820617",
+            "oyveotesi_sync_timestamp": 1684327837
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

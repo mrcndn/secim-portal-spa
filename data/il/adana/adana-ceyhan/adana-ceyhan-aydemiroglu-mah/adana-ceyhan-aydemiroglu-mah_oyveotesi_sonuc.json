@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-ceyhan",
+        "mahalle": "AYDEMİROĞLU MAH.",
+        "ilce_adi": "CEYHAN",
+        "okul_adi": "AYDEMİROĞLU MH.-ATATÜRK İLKOKULU",
+        "sandik_no": 1015,
+        "mahalle_id": "adana-ceyhan-aydemiroglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 253,
+            "sayim_sonuc": {
+                "TOPLAM": 253,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 18,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 104,
+                "TÜRKİYE İŞÇİ PARTİSİ": 10,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-ceyhan/1xxx/1015/adana-ceyhan-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "192784",
+            "oyveotesi_sync_timestamp": 1684371558
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 114,
+                "RECEP TAYYİP ERDOĞAN": 143
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-ceyhan/1xxx/1015/adana-ceyhan-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "192784",
+            "oyveotesi_sync_timestamp": 1684371558
+        },
+        "secim_bolge_id": "adana"
+    }
+]

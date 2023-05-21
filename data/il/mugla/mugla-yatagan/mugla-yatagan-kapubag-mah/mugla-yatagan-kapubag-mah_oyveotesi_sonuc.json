@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-yatagan",
+        "mahalle": "KAPUBAĞ MAH.",
+        "ilce_adi": "YATAĞAN",
+        "okul_adi": "KAPUBAĞ MAH. KÖY KAHVESİ",
+        "sandik_no": 1074,
+        "mahalle_id": "mugla-yatagan-kapubag-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374830
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 138,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-yatagan/1xxx/1074/mugla-yatagan-1074-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374830
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

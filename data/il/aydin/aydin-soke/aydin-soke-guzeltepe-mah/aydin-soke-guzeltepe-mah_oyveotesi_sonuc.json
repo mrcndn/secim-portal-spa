@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-soke",
+        "mahalle": "GÜZELTEPE MAH.",
+        "ilce_adi": "SÖKE",
+        "okul_adi": "GÜZELTEPE MAH. İLKOKULU",
+        "sandik_no": 1133,
+        "mahalle_id": "aydin-soke-guzeltepe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 94,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-soke/1xxx/1133/aydin-soke-1133-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176804",
+            "oyveotesi_sync_timestamp": 1684394539
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 129,
+            "sayim_sonuc": {
+                "TOPLAM": 129,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 123,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-soke/1xxx/1133/aydin-soke-1133-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176804",
+            "oyveotesi_sync_timestamp": 1684394539
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

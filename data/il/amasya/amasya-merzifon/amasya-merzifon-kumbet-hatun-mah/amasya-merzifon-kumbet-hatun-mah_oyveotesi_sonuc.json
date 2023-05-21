@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merzifon",
+        "mahalle": "KÜMBET HATUN MAH.",
+        "ilce_adi": "MERZİFON",
+        "okul_adi": "MERZİFON MESLEKİ EĞİTİM MERKEZİ",
+        "sandik_no": 1069,
+        "mahalle_id": "amasya-merzifon-kumbet-hatun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 59,
+                "ADALET VE KALKINMA PARTİSİ": 79,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merzifon/1xxx/1069/amasya-merzifon-1069-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "808076",
+            "oyveotesi_sync_timestamp": 1684329381
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "808076",
+            "oyveotesi_sync_timestamp": 1684329381
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "ÇALICAALAN MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "ÇALICAALAN MAHALLESİ KONAĞI",
+        "sandik_no": 1030,
+        "mahalle_id": "ankara-nallihan-calicaalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 82,
+            "sayim_sonuc": {
+                "TOPLAM": 82,
+                "İYİ PARTİ": 20,
+                "ANAVATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "602883",
+            "oyveotesi_sync_timestamp": 1684376059
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 84,
+            "sayim_sonuc": {
+                "TOPLAM": 84,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 49
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "602883",
+            "oyveotesi_sync_timestamp": 1684376059
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

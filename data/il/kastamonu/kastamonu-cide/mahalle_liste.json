@@ -1,0 +1,912 @@
+[
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KALAFAT MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kalafat-mah",
+        "oyveotesi_neighborhood_id": 50707
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KAPISUYU KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kapisuyu-koyu",
+        "oyveotesi_neighborhood_id": 14724
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KARAKADI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-karakadi-koyu",
+        "oyveotesi_neighborhood_id": 14698
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KASABA MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kasaba-mah",
+        "oyveotesi_neighborhood_id": 14712
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KASIM MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kasim-mah",
+        "oyveotesi_neighborhood_id": 49732
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KAYAARDI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kayaardi-koyu",
+        "oyveotesi_neighborhood_id": 14701
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KAZANLI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kazanli-koyu",
+        "oyveotesi_neighborhood_id": 14660
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KEMERLİ MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kemerli-mah",
+        "oyveotesi_neighborhood_id": 14713
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KETHÜDA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kethuda-koyu",
+        "oyveotesi_neighborhood_id": 14668
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KEZAĞZI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kezagzi-koyu",
+        "oyveotesi_neighborhood_id": 14673
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KIRANLIKOZ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kiranlikoz-koyu",
+        "oyveotesi_neighborhood_id": 14702
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KIRCI MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kirci-mah",
+        "oyveotesi_neighborhood_id": 14674
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KOÇLAR KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-koclar-koyu",
+        "oyveotesi_neighborhood_id": 14703
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KONUKLAR KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-konuklar-koyu",
+        "oyveotesi_neighborhood_id": 14690
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KÖSELİ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-koseli-koyu",
+        "oyveotesi_neighborhood_id": 14681
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KOVANÖREN KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kovanoren-koyu",
+        "oyveotesi_neighborhood_id": 14641
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KUMKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kumkoy",
+        "oyveotesi_neighborhood_id": 14727
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KUMLUCA MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kumluca-mah",
+        "oyveotesi_neighborhood_id": 14691
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KUŞÇU KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kuscu-koyu",
+        "oyveotesi_neighborhood_id": 14661
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "KUŞKAYASI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-kuskayasi-koyu",
+        "oyveotesi_neighborhood_id": 14645
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "MEMİŞ MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-memis-mah",
+        "oyveotesi_neighborhood_id": 14646
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "MENCEKLİ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-mencekli-koyu",
+        "oyveotesi_neighborhood_id": 14643
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "MENÜK KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-menuk-koyu",
+        "oyveotesi_neighborhood_id": 14704
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "MUSAKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-musakoy",
+        "oyveotesi_neighborhood_id": 14654
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "NANEPINARI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-nanepinari-koyu",
+        "oyveotesi_neighborhood_id": 14682
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "NASUH MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-nasuh-mah",
+        "oyveotesi_neighborhood_id": 14662
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "OKÇULAR KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-okcular-koyu",
+        "oyveotesi_neighborhood_id": 14663
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "OLUCAK KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-olucak-koyu",
+        "oyveotesi_neighborhood_id": 14699
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ORTACA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ortaca-koyu",
+        "oyveotesi_neighborhood_id": 14675
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "OVACIK KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ovacik-koyu",
+        "oyveotesi_neighborhood_id": 14652
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÖVEÇLER KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ovecler-koyu",
+        "oyveotesi_neighborhood_id": 14715
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "PEHLİVANLI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-pehlivanli-koyu",
+        "oyveotesi_neighborhood_id": 14644
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "SAKALLI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-sakalli-koyu",
+        "oyveotesi_neighborhood_id": 14695
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ŞENKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-senkoy",
+        "oyveotesi_neighborhood_id": 14678
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "SİPAHİ MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-sipahi-mah",
+        "oyveotesi_neighborhood_id": 50125
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "SIRAKAYA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-sirakaya-koyu",
+        "oyveotesi_neighborhood_id": 14653
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "SOFULAR MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-sofular-mah",
+        "oyveotesi_neighborhood_id": 50535
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "SOĞUCAK KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-sogucak-koyu",
+        "oyveotesi_neighborhood_id": 14664
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "TARAKÇI MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-tarakci-mah",
+        "oyveotesi_neighborhood_id": 49716
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "TOYGARLI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-toygarli-koyu",
+        "oyveotesi_neighborhood_id": 14647
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÜÇAĞIL KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ucagil-koyu",
+        "oyveotesi_neighborhood_id": 14676
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "UĞURLU KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ugurlu-koyu",
+        "oyveotesi_neighborhood_id": 14642
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "VELİOĞLU KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-velioglu-koyu",
+        "oyveotesi_neighborhood_id": 14716
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "YALÇINKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-yalcinkoy",
+        "oyveotesi_neighborhood_id": 14706
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "YAYLAKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-yaylakoy",
+        "oyveotesi_neighborhood_id": 14705
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "YENİCE KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-yenice-koyu",
+        "oyveotesi_neighborhood_id": 14700
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "YENİKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-yenikoy",
+        "oyveotesi_neighborhood_id": 14665
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "YURTBAŞI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-yurtbasi-koyu",
+        "oyveotesi_neighborhood_id": 14714
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "YILDIZALAN KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-yildizalan-koyu",
+        "oyveotesi_neighborhood_id": 14725
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ABDULKADİR KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-abdulkadir-koyu",
+        "oyveotesi_neighborhood_id": 14655
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "AĞAÇBÜKÜ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-agacbuku-koyu",
+        "oyveotesi_neighborhood_id": 14726
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "AKBAYIR KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-akbayir-koyu",
+        "oyveotesi_neighborhood_id": 14696
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "AKÇA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-akca-koyu",
+        "oyveotesi_neighborhood_id": 14719
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ALAYAZI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-alayazi-koyu",
+        "oyveotesi_neighborhood_id": 14707
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ALAYÜZ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-alayuz-koyu",
+        "oyveotesi_neighborhood_id": 14686
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "AYDINCIK KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-aydincik-koyu",
+        "oyveotesi_neighborhood_id": 14679
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "BAĞYURDU MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-bagyurdu-mah",
+        "oyveotesi_neighborhood_id": 14680
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "BALTACI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-baltaci-koyu",
+        "oyveotesi_neighborhood_id": 14656
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "BAŞKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-baskoy",
+        "oyveotesi_neighborhood_id": 14720
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "BELTEPE KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-beltepe-koyu",
+        "oyveotesi_neighborhood_id": 14657
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "BEŞEVLER KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-besevler-koyu",
+        "oyveotesi_neighborhood_id": 14658
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇAKIRLI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-cakirli-koyu",
+        "oyveotesi_neighborhood_id": 14717
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇAMALTI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-camalti-koyu",
+        "oyveotesi_neighborhood_id": 14685
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇAMDİBİ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-camdibi-koyu",
+        "oyveotesi_neighborhood_id": 14728
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇATALOLUK KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-cataloluk-koyu",
+        "oyveotesi_neighborhood_id": 14718
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇAYÜSTÜ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-cayustu-koyu",
+        "oyveotesi_neighborhood_id": 14666
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇAYYAKA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-cayyaka-koyu",
+        "oyveotesi_neighborhood_id": 14684
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇİLEKÇE KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-cilekce-koyu",
+        "oyveotesi_neighborhood_id": 14693
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ÇUKURÇAL KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-cukurcal-koyu",
+        "oyveotesi_neighborhood_id": 14667
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "CUMHURİYET MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-cumhuriyet-mah",
+        "oyveotesi_neighborhood_id": 14708
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "DENİZKONAK KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-denizkonak-koyu",
+        "oyveotesi_neighborhood_id": 14687
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "DEREBAĞ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-derebag-koyu",
+        "oyveotesi_neighborhood_id": 14648
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "DEREBUCAĞI KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-derebucagi-koyu",
+        "oyveotesi_neighborhood_id": 14688
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "DOĞANKAYA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-dogankaya-koyu",
+        "oyveotesi_neighborhood_id": 14709
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "DÖNGELCE KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-dongelce-koyu",
+        "oyveotesi_neighborhood_id": 14659
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "DÜZKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-duzkoy",
+        "oyveotesi_neighborhood_id": 14721
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "ECE MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ece-mah",
+        "oyveotesi_neighborhood_id": 14689
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "EMİRLER KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-emirler-koyu",
+        "oyveotesi_neighborhood_id": 14639
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "GEBEŞ MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-gebes-mah",
+        "oyveotesi_neighborhood_id": 50562
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "GÖKÇELER KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-gokceler-koyu",
+        "oyveotesi_neighborhood_id": 14722
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "GÖKÇEÖREN KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-gokceoren-koyu",
+        "oyveotesi_neighborhood_id": 14649
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "GÜNDOĞAN KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-gundogan-koyu",
+        "oyveotesi_neighborhood_id": 14671
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "GÜNEBAKAN KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-gunebakan-koyu",
+        "oyveotesi_neighborhood_id": 14711
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "GÜZELYAYLA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-guzelyayla-koyu",
+        "oyveotesi_neighborhood_id": 14694
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "HACIAHMET KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-haciahmet-koyu",
+        "oyveotesi_neighborhood_id": 14672
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "HAMİTLİ KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-hamitli-koyu",
+        "oyveotesi_neighborhood_id": 14650
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "HİMMETBEŞE KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-himmetbese-koyu",
+        "oyveotesi_neighborhood_id": 14723
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "İLYASBEY KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ilyasbey-koyu",
+        "oyveotesi_neighborhood_id": 14677
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "IRMAK MAH.",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-irmak-mah",
+        "oyveotesi_neighborhood_id": 14651
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "İSAKÖY",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-isakoy",
+        "oyveotesi_neighborhood_id": 14729
+    },
+    {
+        "il_id": "kastamonu",
+        "il_adi": "KASTAMONU",
+        "il_kodu": 37,
+        "ilce_id": "kastamonu-cide",
+        "mahalle": "İSHAKÇA KÖYÜ",
+        "ilce_adi": "CİDE",
+        "mahalle_id": "kastamonu-cide-ishakca-koyu",
+        "oyveotesi_neighborhood_id": 14670
+    }
+]

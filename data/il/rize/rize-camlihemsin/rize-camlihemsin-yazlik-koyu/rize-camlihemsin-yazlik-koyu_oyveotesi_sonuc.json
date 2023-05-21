@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-camlihemsin",
+        "mahalle": "YAZLIK KÖYÜ",
+        "ilce_adi": "ÇAMLIHEMŞİN",
+        "okul_adi": "YAZLIK KÖYÜ CAMİİ AVLUSU",
+        "sandik_no": 1037,
+        "mahalle_id": "rize-camlihemsin-yazlik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 18,
+            "sayim_sonuc": {
+                "TOPLAM": 18,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1037/rize-camlihemsin-1037-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "539314",
+            "oyveotesi_sync_timestamp": 1684356176
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "539314",
+            "oyveotesi_sync_timestamp": 1684356176
+        },
+        "secim_bolge_id": "rize"
+    }
+]

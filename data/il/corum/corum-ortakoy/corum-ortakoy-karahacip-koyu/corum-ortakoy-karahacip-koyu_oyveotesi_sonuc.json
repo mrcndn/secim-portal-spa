@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-ortakoy",
+        "mahalle": "KARAHACİP KÖYÜ",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "ŞEHİT ERDAL ÖZTAŞ İLKÖĞRETİM OKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "corum-ortakoy-karahacip-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 331,
+            "sayim_sonuc": {
+                "TOPLAM": 331,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 206,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 74
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1019/corum-ortakoy-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "615515",
+            "oyveotesi_sync_timestamp": 1684369392
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 341,
+            "sayim_sonuc": {
+                "TOPLAM": 341,
+                "SİNAN OĞAN": 12,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 291
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1019/corum-ortakoy-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "615515",
+            "oyveotesi_sync_timestamp": 1684369392
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-ortakoy",
+        "mahalle": "KARAHACİP KÖYÜ",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "ŞEHİT ERDAL ÖZTAŞ İLKÖĞRETİM OKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "corum-ortakoy-karahacip-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369392
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 344,
+            "sayim_sonuc": {
+                "TOPLAM": 344,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 312
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1018/corum-ortakoy-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369392
+        },
+        "secim_bolge_id": "corum"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-aliaga",
+        "mahalle": "AŞAĞIŞAKRAN MAH.",
+        "ilce_adi": "ALİAĞA",
+        "okul_adi": "AŞAĞIŞAKRAN KÖY KONAĞI",
+        "sandik_no": 1001,
+        "mahalle_id": "izmir-aliaga-asagisakran-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 191,
+            "sayim_sonuc": {
+                "TOPLAM": 191,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "TÜRKİYE İŞÇİ PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "777367",
+            "oyveotesi_sync_timestamp": 1684362777
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 91,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "777367",
+            "oyveotesi_sync_timestamp": 1684362777
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

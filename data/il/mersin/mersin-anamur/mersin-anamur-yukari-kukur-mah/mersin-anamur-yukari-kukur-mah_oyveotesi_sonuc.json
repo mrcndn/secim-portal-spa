@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "YUKARI KÜKÜR MAH.",
+        "ilce_adi": "ANAMUR",
+        "okul_adi": "KÜKÜR KÖYÜ BAKARA MAH. İLK OKULU",
+        "sandik_no": 1178,
+        "mahalle_id": "mersin-anamur-yukari-kukur-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1178/mersin-anamur-1178-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814350",
+            "oyveotesi_sync_timestamp": 1684363896
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 102,
+            "sayim_sonuc": {
+                "TOPLAM": 102,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 36,
+                "RECEP TAYYİP ERDOĞAN": 64
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1178/mersin-anamur-1178-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "814350",
+            "oyveotesi_sync_timestamp": 1684363896
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-anamur",
+        "mahalle": "YUKARI KÜKÜR MAH.",
+        "ilce_adi": "ANAMUR",
+        "okul_adi": "KÜKÜR KÖYÜ MAŞAT İLKOKULU",
+        "sandik_no": 1179,
+        "mahalle_id": "mersin-anamur-yukari-kukur-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363896
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-anamur/1xxx/1179/mersin-anamur-1179-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363896
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

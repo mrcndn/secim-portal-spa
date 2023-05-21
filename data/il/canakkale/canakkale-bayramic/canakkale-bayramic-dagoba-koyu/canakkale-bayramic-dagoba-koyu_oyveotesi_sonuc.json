@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "DAĞOBA KÖYÜ",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "DAĞOBA KÖYÜ KÖY KAHVEHANESİ",
+        "sandik_no": 1060,
+        "mahalle_id": "canakkale-bayramic-dagoba-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 42,
+            "sayim_sonuc": {
+                "TOPLAM": 42,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1060/canakkale-bayramic-1060-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "552597",
+            "oyveotesi_sync_timestamp": 1684335718
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 41,
+            "sayim_sonuc": {
+                "TOPLAM": 41,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1060/canakkale-bayramic-1060-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "552597",
+            "oyveotesi_sync_timestamp": 1684335718
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

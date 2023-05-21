@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-sile",
+        "mahalle": "ÇATAKLI MAH.",
+        "ilce_adi": "ŞİLE",
+        "okul_adi": "ÇATAKLI KÖY SALONU",
+        "sandik_no": 1029,
+        "mahalle_id": "istanbul-sile-catakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 48,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 28
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "300749",
+            "oyveotesi_sync_timestamp": 1684345095
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 73,
+                "RECEP TAYYİP ERDOĞAN": 129
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "300749",
+            "oyveotesi_sync_timestamp": 1684345095
+        },
+        "secim_bolge_id": "istanbul1"
+    }
+]

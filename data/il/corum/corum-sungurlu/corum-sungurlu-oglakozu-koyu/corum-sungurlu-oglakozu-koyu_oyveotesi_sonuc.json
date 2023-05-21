@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-sungurlu",
+        "mahalle": "OĞLAKÖZÜ KÖYÜ",
+        "ilce_adi": "SUNGURLU",
+        "okul_adi": "OĞLAKÖZÜ İLKOKULU (KAPALI OKUL)",
+        "sandik_no": 1154,
+        "mahalle_id": "corum-sungurlu-oglakozu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 98,
+            "sayim_sonuc": {
+                "TOPLAM": 98,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-sungurlu/1xxx/1154/corum-sungurlu-1154-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "610273",
+            "oyveotesi_sync_timestamp": 1684368985
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 99,
+            "sayim_sonuc": {
+                "TOPLAM": 99,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-sungurlu/1xxx/1154/corum-sungurlu-1154-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "610273",
+            "oyveotesi_sync_timestamp": 1684368985
+        },
+        "secim_bolge_id": "corum"
+    }
+]

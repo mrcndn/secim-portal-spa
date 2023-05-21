@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-gebze",
+        "mahalle": "HATİPLER MAH.",
+        "ilce_adi": "GEBZE",
+        "okul_adi": "HATİPLER KÖYÜ DÜĞÜN SALONU",
+        "sandik_no": 2131,
+        "mahalle_id": "kocaeli-gebze-hatipler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349731
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 247,
+            "sayim_sonuc": {
+                "TOPLAM": 247,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 45,
+                "RECEP TAYYİP ERDOĞAN": 189
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-gebze/2xxx/2131/kocaeli-gebze-2131-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349731
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

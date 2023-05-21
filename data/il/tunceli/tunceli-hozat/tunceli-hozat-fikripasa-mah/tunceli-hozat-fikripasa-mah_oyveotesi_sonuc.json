@@ -1,0 +1,74 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-hozat",
+        "mahalle": "FİKRİPAŞA MAH.",
+        "ilce_adi": "HOZAT",
+        "okul_adi": "ZÜBEYDE HANIM LİSESİ SANDIK ALANI",
+        "sandik_no": 1005,
+        "mahalle_id": "tunceli-hozat-fikripasa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 77,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-hozat/1xxx/1005/tunceli-hozat-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "473904",
+            "oyveotesi_sync_timestamp": 1684361338
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 176,
+            "sayim_sonuc": {
+                "TOPLAM": 176,
+                "KEMAL KILIÇDAROĞLU": 171,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-hozat/1xxx/1005/tunceli-hozat-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "473904",
+            "oyveotesi_sync_timestamp": 1684361338
+        },
+        "secim_bolge_id": "tunceli"
+    },
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-hozat",
+        "mahalle": "FİKRİPAŞA MAH.",
+        "ilce_adi": "HOZAT",
+        "okul_adi": "ZÜBEYDE HANIM LİSESİ SANDIK ALANI",
+        "sandik_no": 1004,
+        "mahalle_id": "tunceli-hozat-fikripasa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361338
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 161,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-hozat/1xxx/1004/tunceli-hozat-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684361338
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

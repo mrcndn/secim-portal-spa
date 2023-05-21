@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-dikili",
+        "mahalle": "YAYLAYURT MAH.",
+        "ilce_adi": "DİKİLİ",
+        "okul_adi": "YAYLAYURT İLKOKULU",
+        "sandik_no": 1123,
+        "mahalle_id": "izmir-dikili-yaylayurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684362417
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 258,
+                "RECEP TAYYİP ERDOĞAN": 13
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684362417
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

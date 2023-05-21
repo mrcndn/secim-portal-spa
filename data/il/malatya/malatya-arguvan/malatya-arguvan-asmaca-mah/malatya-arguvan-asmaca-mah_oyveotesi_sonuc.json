@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "malatya",
+        "il_adi": "MALATYA",
+        "il_kodu": 44,
+        "ilce_id": "malatya-arguvan",
+        "mahalle": "ASMACA MAH.",
+        "ilce_adi": "ARGUVAN",
+        "okul_adi": "ASMACA MAHALLESİ OKUL LOJMANI",
+        "sandik_no": 1005,
+        "mahalle_id": "malatya-arguvan-asmaca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350963
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "KEMAL KILIÇDAROĞLU": 55,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-malatya-tutanaklari/blob/main/tutanak/malatya/malatya-arguvan/1xxx/1005/malatya-arguvan-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684350963
+        },
+        "secim_bolge_id": "malatya"
+    }
+]

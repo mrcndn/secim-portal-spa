@@ -1,0 +1,32 @@
+[
+    {
+        "il_id": "sivas",
+        "il_adi": "SİVAS",
+        "il_kodu": 58,
+        "ilce_id": "sivas-ulas",
+        "mahalle": "KAPUKAYA KÖYÜ",
+        "ilce_adi": "ULAŞ",
+        "okul_adi": "KAPUKAYA KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1027,
+        "mahalle_id": "sivas-ulas-kapukaya-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359015
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 33,
+            "sayim_sonuc": {
+                "TOPLAM": 33,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sivas-tutanaklari/blob/main/tutanak/sivas/sivas-ulas/1xxx/1027/sivas-ulas-1027-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684359015
+        },
+        "secim_bolge_id": "sivas"
+    }
+]

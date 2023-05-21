@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-kizilcahamam",
+        "mahalle": "ÇIRPAN MAH.",
+        "ilce_adi": "KIZILCAHAMAM",
+        "okul_adi": "ÇIRPAN MAHALLESİ KONAĞI",
+        "sandik_no": 1042,
+        "mahalle_id": "ankara-kizilcahamam-cirpan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 60,
+            "sayim_sonuc": {
+                "TOPLAM": 60,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 34,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "658615",
+            "oyveotesi_sync_timestamp": 1684395384
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 61,
+            "sayim_sonuc": {
+                "TOPLAM": 61,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 47
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "658615",
+            "oyveotesi_sync_timestamp": 1684395384
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

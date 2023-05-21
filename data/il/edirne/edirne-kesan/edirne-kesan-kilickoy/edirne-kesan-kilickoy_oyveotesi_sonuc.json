@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-kesan",
+        "mahalle": "KILIÇKÖY",
+        "ilce_adi": "KEŞAN",
+        "okul_adi": "KILIÇKÖY KÖY KAHVESİ",
+        "sandik_no": 1182,
+        "mahalle_id": "edirne-kesan-kilickoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 62,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 187,
+                "ADALET VE KALKINMA PARTİSİ": 48,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1182/edirne-kesan-1182-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "763718",
+            "oyveotesi_sync_timestamp": 1684338488
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 333,
+            "sayim_sonuc": {
+                "TOPLAM": 333,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 258,
+                "RECEP TAYYİP ERDOĞAN": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-kesan/1xxx/1182/edirne-kesan-1182-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "763718",
+            "oyveotesi_sync_timestamp": 1684338488
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

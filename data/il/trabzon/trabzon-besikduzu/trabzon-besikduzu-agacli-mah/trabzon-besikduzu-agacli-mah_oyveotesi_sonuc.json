@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-besikduzu",
+        "mahalle": "AĞAÇLI MAH.",
+        "ilce_adi": "BEŞİKDÜZÜ",
+        "okul_adi": "AĞAÇLI MAH. İLKÖĞRETİM OKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "trabzon-besikduzu-agacli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "İYİ PARTİ": 97,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "ADALET VE KALKINMA PARTİSİ": 49,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-besikduzu/1xxx/1003/trabzon-besikduzu-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "492120",
+            "oyveotesi_sync_timestamp": 1684366655
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 182,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-besikduzu/1xxx/1003/trabzon-besikduzu-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "492120",
+            "oyveotesi_sync_timestamp": 1684366655
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

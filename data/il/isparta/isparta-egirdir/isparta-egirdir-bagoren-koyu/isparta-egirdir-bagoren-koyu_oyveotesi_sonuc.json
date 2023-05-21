@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-egirdir",
+        "mahalle": "BAĞÖREN KÖYÜ",
+        "ilce_adi": "EĞİRDİR",
+        "okul_adi": "BAĞÖREN KÖY KONAĞI",
+        "sandik_no": 1061,
+        "mahalle_id": "isparta-egirdir-bagoren-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 133,
+            "sayim_sonuc": {
+                "TOPLAM": 133,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 45,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-egirdir/1xxx/1061/isparta-egirdir-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "620677",
+            "oyveotesi_sync_timestamp": 1684343981
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "620677",
+            "oyveotesi_sync_timestamp": 1684343981
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

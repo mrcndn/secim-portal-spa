@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-alpu",
+        "mahalle": "KOŞMAT MAH.",
+        "ilce_adi": "ALPU",
+        "okul_adi": "KOŞMAT MAHALLESİ KONAĞI",
+        "sandik_no": 1031,
+        "mahalle_id": "eskisehir-alpu-kosmat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "İYİ PARTİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 87,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 11,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1031/eskisehir-alpu-1031-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790826",
+            "oyveotesi_sync_timestamp": 1684341413
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 107,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-alpu/1xxx/1031/eskisehir-alpu-1031-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "790826",
+            "oyveotesi_sync_timestamp": 1684341413
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

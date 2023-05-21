@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-gunyuzu",
+        "mahalle": "KAYAKENT MAH.",
+        "ilce_adi": "GÜNYÜZÜ",
+        "okul_adi": "KAYAKENT FATİH MAH A.H.CUM İ.Ö.O.",
+        "sandik_no": 1014,
+        "mahalle_id": "eskisehir-gunyuzu-kayakent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341492
+        },
+        "secim_bolge_id": "eskisehir"
+    },
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-gunyuzu",
+        "mahalle": "KAYAKENT MAH.",
+        "ilce_adi": "GÜNYÜZÜ",
+        "okul_adi": "KAYAKENT FATİH MAH A.H.CUM İ.Ö.O.",
+        "sandik_no": 1015,
+        "mahalle_id": "eskisehir-gunyuzu-kayakent-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341492
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 337,
+            "sayim_sonuc": {
+                "TOPLAM": 337,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 276
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-gunyuzu/1xxx/1015/eskisehir-gunyuzu-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684341492
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

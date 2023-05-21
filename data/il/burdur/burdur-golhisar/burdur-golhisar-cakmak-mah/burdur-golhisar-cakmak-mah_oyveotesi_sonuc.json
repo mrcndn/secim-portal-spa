@@ -1,0 +1,35 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-golhisar",
+        "mahalle": "ÇAKMAK MAH.",
+        "ilce_adi": "GÖLHİSAR",
+        "okul_adi": "ÇAKMAK MAH. KÖY LOJMANI",
+        "sandik_no": 1005,
+        "mahalle_id": "burdur-golhisar-cakmak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 44,
+            "sayim_sonuc": {
+                "TOPLAM": 44,
+                "İYİ PARTİ": 4,
+                "YENİLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-golhisar/1xxx/1005/burdur-golhisar-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "623697",
+            "oyveotesi_sync_timestamp": 1684334507
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "623697",
+            "oyveotesi_sync_timestamp": 1684334507
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

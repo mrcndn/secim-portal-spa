@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "KIZILAĞAÇ MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "KIZILAĞAÇ İLKOKULU",
+        "sandik_no": 1298,
+        "mahalle_id": "mugla-milas-kizilagac-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 97,
+            "sayim_sonuc": {
+                "TOPLAM": 97,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1298/mugla-milas-1298-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834245",
+            "oyveotesi_sync_timestamp": 1684374413
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1298/mugla-milas-1298-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "834245",
+            "oyveotesi_sync_timestamp": 1684374413
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

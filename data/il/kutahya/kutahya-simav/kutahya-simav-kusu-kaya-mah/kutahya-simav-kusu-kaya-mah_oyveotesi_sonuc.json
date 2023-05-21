@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-simav",
+        "mahalle": "KUŞU-KAYA MAH.",
+        "ilce_adi": "SİMAV",
+        "okul_adi": "KUŞU KAYA MAH. NURULLAH BAYRAM İLKOKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "kutahya-simav-kusu-kaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "İYİ PARTİ": 66,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 123,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1092/kutahya-simav-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536983",
+            "oyveotesi_sync_timestamp": 1684350638
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 50,
+                "RECEP TAYYİP ERDOĞAN": 164
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-simav/1xxx/1092/kutahya-simav-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "536983",
+            "oyveotesi_sync_timestamp": 1684350638
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

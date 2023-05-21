@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-bozdogan",
+        "mahalle": "KAVAKLI MAH.",
+        "ilce_adi": "BOZDOĞAN",
+        "okul_adi": "KAVAKLI İ.O.",
+        "sandik_no": 1049,
+        "mahalle_id": "aydin-bozdogan-kavakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 50,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 38,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-bozdogan/1xxx/1049/aydin-bozdogan-1049-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "578459",
+            "oyveotesi_sync_timestamp": 1684394136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 181,
+            "sayim_sonuc": {
+                "TOPLAM": 181,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 44
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-bozdogan/1xxx/1049/aydin-bozdogan-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "578459",
+            "oyveotesi_sync_timestamp": 1684394136
+        },
+        "secim_bolge_id": "aydin"
+    },
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-bozdogan",
+        "mahalle": "KAVAKLI MAH.",
+        "ilce_adi": "BOZDOĞAN",
+        "okul_adi": "KAVAKLI İ.O.",
+        "sandik_no": 1048,
+        "mahalle_id": "aydin-bozdogan-kavakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394136
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394136
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

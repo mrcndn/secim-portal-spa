@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-golbasi",
+        "mahalle": "HALAÇLI MAH.",
+        "ilce_adi": "GÖLBAŞI",
+        "okul_adi": "HALLAÇLI KÜLTÜR MERKEZİ",
+        "sandik_no": 1134,
+        "mahalle_id": "ankara-golbasi-halacli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "GENÇ PARTİ": 9,
+                "İYİ PARTİ": 15,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 80
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1016004",
+            "oyveotesi_sync_timestamp": 1684375936
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 169
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1016004",
+            "oyveotesi_sync_timestamp": 1684375936
+        },
+        "secim_bolge_id": "ankara1"
+    }
+]

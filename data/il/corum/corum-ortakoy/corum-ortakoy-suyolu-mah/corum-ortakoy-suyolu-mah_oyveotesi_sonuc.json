@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-ortakoy",
+        "mahalle": "SUYOLU MAH.",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "HALK EĞİTİM MERKEZİ",
+        "sandik_no": 1006,
+        "mahalle_id": "corum-ortakoy-suyolu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "SOL PARTİ": 2,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "ADALET VE KALKINMA PARTİSİ": 100,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 69
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1006/corum-ortakoy-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "812159",
+            "oyveotesi_sync_timestamp": 1684369386
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 102,
+                "RECEP TAYYİP ERDOĞAN": 158
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1006/corum-ortakoy-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "812159",
+            "oyveotesi_sync_timestamp": 1684369386
+        },
+        "secim_bolge_id": "corum"
+    },
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-ortakoy",
+        "mahalle": "SUYOLU MAH.",
+        "ilce_adi": "ORTAKÖY",
+        "okul_adi": "HALK EĞİTİM MERKEZİ",
+        "sandik_no": 1005,
+        "mahalle_id": "corum-ortakoy-suyolu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369386
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 278,
+            "sayim_sonuc": {
+                "TOPLAM": 278,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 172
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-ortakoy/1xxx/1005/corum-ortakoy-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684369386
+        },
+        "secim_bolge_id": "corum"
+    }
+]

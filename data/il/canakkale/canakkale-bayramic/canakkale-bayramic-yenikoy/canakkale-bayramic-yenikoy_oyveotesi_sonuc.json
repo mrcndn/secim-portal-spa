@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-bayramic",
+        "mahalle": "YENİKÖY",
+        "ilce_adi": "BAYRAMİÇ",
+        "okul_adi": "YENİKÖY KÖYÜ KÖY ODASI",
+        "sandik_no": 1111,
+        "mahalle_id": "canakkale-bayramic-yenikoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 15,
+            "sayim_sonuc": {
+                "TOPLAM": 15,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 4,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 0,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1111/canakkale-bayramic-1111-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "550385",
+            "oyveotesi_sync_timestamp": 1684335770
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 15,
+            "sayim_sonuc": {
+                "TOPLAM": 15,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 10,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-bayramic/1xxx/1111/canakkale-bayramic-1111-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "550385",
+            "oyveotesi_sync_timestamp": 1684335770
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

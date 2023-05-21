@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-kiziloren",
+        "mahalle": "EKİNOVA KÖYÜ",
+        "ilce_adi": "KIZILÖREN",
+        "okul_adi": "EKİNOVA KÖY KONAĞI BİNASI",
+        "sandik_no": 1005,
+        "mahalle_id": "afyonkarahisar-kiziloren-ekinova-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 234,
+            "sayim_sonuc": {
+                "TOPLAM": 234,
+                "İYİ PARTİ": 19,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 148,
+                "ADALET VE KALKINMA PARTİSİ": 42,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-kiziloren/1xxx/1005/afyonkarahisar-kiziloren-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "635752",
+            "oyveotesi_sync_timestamp": 1684324919
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "635752",
+            "oyveotesi_sync_timestamp": 1684324919
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

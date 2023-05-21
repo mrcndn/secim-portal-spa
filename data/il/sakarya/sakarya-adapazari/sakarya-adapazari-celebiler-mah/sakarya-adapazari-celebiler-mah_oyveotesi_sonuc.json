@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-adapazari",
+        "mahalle": "ÇELEBİLER MAH.",
+        "ilce_adi": "ADAPAZARI",
+        "okul_adi": "KÖY KONAGI TOPLANTI SALONU",
+        "sandik_no": 2056,
+        "mahalle_id": "sakarya-adapazari-celebiler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2056/sakarya-adapazari-2056-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836501",
+            "oyveotesi_sync_timestamp": 1684357514
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 95,
+            "sayim_sonuc": {
+                "TOPLAM": 95,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-adapazari/2xxx/2056/sakarya-adapazari-2056-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836501",
+            "oyveotesi_sync_timestamp": 1684357514
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

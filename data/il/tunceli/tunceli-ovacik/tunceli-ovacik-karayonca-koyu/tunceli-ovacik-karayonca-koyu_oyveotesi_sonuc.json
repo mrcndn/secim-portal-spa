@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-ovacik",
+        "mahalle": "KARAYONCA KÖYÜ",
+        "ilce_adi": "OVACIK",
+        "okul_adi": "YEŞİLYAZI HOCA AHMET YESEVİ YATILI BÖLGE OKULU 1",
+        "sandik_no": 1028,
+        "mahalle_id": "tunceli-ovacik-karayonca-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "ADALET VE KALKINMA PARTİSİ": 7,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-ovacik/1xxx/1028/tunceli-ovacik-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836312",
+            "oyveotesi_sync_timestamp": 1684361416
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 34,
+            "sayim_sonuc": {
+                "TOPLAM": 34,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-ovacik/1xxx/1028/tunceli-ovacik-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836312",
+            "oyveotesi_sync_timestamp": 1684361416
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

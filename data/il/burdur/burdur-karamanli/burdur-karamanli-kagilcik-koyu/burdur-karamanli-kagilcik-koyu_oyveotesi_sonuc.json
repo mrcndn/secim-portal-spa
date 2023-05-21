@@ -1,0 +1,58 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-karamanli",
+        "mahalle": "KAĞILCIK KÖYÜ",
+        "ilce_adi": "KARAMANLI",
+        "okul_adi": "KAĞILCIK KÖYÜ ÇOK AMAÇLI SALON",
+        "sandik_no": 1021,
+        "mahalle_id": "burdur-karamanli-kagilcik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 355,
+            "sayim_sonuc": {
+                "TOPLAM": 355,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 140,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 126,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-karamanli/1xxx/1021/burdur-karamanli-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579784",
+            "oyveotesi_sync_timestamp": 1684334538
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 353,
+            "sayim_sonuc": {
+                "TOPLAM": 353,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 162,
+                "RECEP TAYYİP ERDOĞAN": 173
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-karamanli/1xxx/1021/burdur-karamanli-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579784",
+            "oyveotesi_sync_timestamp": 1684334538
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

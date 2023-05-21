@@ -1,0 +1,35 @@
+[
+    {
+        "il_id": "yozgat",
+        "il_adi": "YOZGAT",
+        "il_kodu": 66,
+        "ilce_id": "yozgat-cekerek",
+        "mahalle": "MEHMETLİ KÖYÜ",
+        "ilce_adi": "ÇEKEREK",
+        "okul_adi": "MEHMETLİ KÖYÜ İLKÖĞRETİMOKULU",
+        "sandik_no": 1063,
+        "mahalle_id": "yozgat-cekerek-mehmetli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 55,
+            "sayim_sonuc": {
+                "TOPLAM": 55,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 40,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-yozgat-tutanaklari/blob/main/tutanak/yozgat/yozgat-cekerek/1xxx/1063/yozgat-cekerek-1063-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "824825",
+            "oyveotesi_sync_timestamp": 1684396619
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "824825",
+            "oyveotesi_sync_timestamp": 1684396619
+        },
+        "secim_bolge_id": "yozgat"
+    }
+]

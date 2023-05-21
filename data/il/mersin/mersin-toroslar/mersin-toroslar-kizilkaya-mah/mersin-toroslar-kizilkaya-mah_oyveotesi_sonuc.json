@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-toroslar",
+        "mahalle": "KIZILKAYA MAH.",
+        "ilce_adi": "TOROSLAR",
+        "okul_adi": "KIZILKAYA İLKOKULU LOJMANI",
+        "sandik_no": 2156,
+        "mahalle_id": "mersin-toroslar-kizilkaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 85,
+            "sayim_sonuc": {
+                "TOPLAM": 85,
+                "İYİ PARTİ": 13,
+                "ZAFER PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 55,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2156/mersin-toroslar-2156-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "706001",
+            "oyveotesi_sync_timestamp": 1684364081
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 78,
+                "RECEP TAYYİP ERDOĞAN": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-toroslar/2xxx/2156/mersin-toroslar-2156-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "706001",
+            "oyveotesi_sync_timestamp": 1684364081
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-gulnar",
+        "mahalle": "ÖRENPINAR MAH.",
+        "ilce_adi": "GÜLNAR",
+        "okul_adi": "ÖRENPINAR MAH. OKUL LOJMANI",
+        "sandik_no": 1071,
+        "mahalle_id": "mersin-gulnar-orenpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 200,
+            "sayim_sonuc": {
+                "TOPLAM": 200,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 64,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 84
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-gulnar/1xxx/1071/mersin-gulnar-1071-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1024914",
+            "oyveotesi_sync_timestamp": 1684364025
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1024914",
+            "oyveotesi_sync_timestamp": 1684364025
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

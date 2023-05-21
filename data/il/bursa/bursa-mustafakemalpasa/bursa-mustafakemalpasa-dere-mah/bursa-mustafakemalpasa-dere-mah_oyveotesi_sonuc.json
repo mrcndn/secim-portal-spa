@@ -1,0 +1,120 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mustafakemalpasa",
+        "mahalle": "DERE MAH.",
+        "ilce_adi": "MUSTAFAKEMALPAŞA",
+        "okul_adi": "GÜNER ŞENPAMUKÇU ORTA OKULU",
+        "sandik_no": 1079,
+        "mahalle_id": "bursa-mustafakemalpasa-dere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334997
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 227,
+            "sayim_sonuc": {
+                "TOPLAM": 227,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 198
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334997
+        },
+        "secim_bolge_id": "bursa1"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mustafakemalpasa",
+        "mahalle": "DERE MAH.",
+        "ilce_adi": "MUSTAFAKEMALPAŞA",
+        "okul_adi": "GÜNER ŞENPAMUKÇU ORTA OKULU",
+        "sandik_no": 1080,
+        "mahalle_id": "bursa-mustafakemalpasa-dere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 169,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 35
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "659883",
+            "oyveotesi_sync_timestamp": 1684334997
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 16,
+                "RECEP TAYYİP ERDOĞAN": 208
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "659883",
+            "oyveotesi_sync_timestamp": 1684334997
+        },
+        "secim_bolge_id": "bursa1"
+    },
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mustafakemalpasa",
+        "mahalle": "DERE MAH.",
+        "ilce_adi": "MUSTAFAKEMALPAŞA",
+        "okul_adi": "GÜNER ŞENPAMUKÇU ORTA OKULU",
+        "sandik_no": 1081,
+        "mahalle_id": "bursa-mustafakemalpasa-dere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 164,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "652194",
+            "oyveotesi_sync_timestamp": 1684334997
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 215,
+            "sayim_sonuc": {
+                "TOPLAM": 215,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 197
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "652194",
+            "oyveotesi_sync_timestamp": 1684334997
+        },
+        "secim_bolge_id": "bursa1"
+    }
+]

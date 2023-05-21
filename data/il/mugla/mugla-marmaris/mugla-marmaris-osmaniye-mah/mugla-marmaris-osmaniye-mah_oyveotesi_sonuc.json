@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-marmaris",
+        "mahalle": "OSMANİYE MAH.",
+        "ilce_adi": "MARMARİS",
+        "okul_adi": "OSMANİYE KÖY KONAĞI",
+        "sandik_no": 1160,
+        "mahalle_id": "mugla-marmaris-osmaniye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374297
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-marmaris/1xxx/1160/mugla-marmaris-1160-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374297
+        },
+        "secim_bolge_id": "mugla"
+    },
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-marmaris",
+        "mahalle": "OSMANİYE MAH.",
+        "ilce_adi": "MARMARİS",
+        "okul_adi": "OSMANİYE KÖY KONAĞI",
+        "sandik_no": 1161,
+        "mahalle_id": "mugla-marmaris-osmaniye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 148,
+            "sayim_sonuc": {
+                "TOPLAM": 148,
+                "GENÇ PARTİ": 3,
+                "VATAN PARTİSİ": 35,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-marmaris/1xxx/1161/mugla-marmaris-1161-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828441",
+            "oyveotesi_sync_timestamp": 1684374297
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 106
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-marmaris/1xxx/1161/mugla-marmaris-1161-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828441",
+            "oyveotesi_sync_timestamp": 1684374297
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

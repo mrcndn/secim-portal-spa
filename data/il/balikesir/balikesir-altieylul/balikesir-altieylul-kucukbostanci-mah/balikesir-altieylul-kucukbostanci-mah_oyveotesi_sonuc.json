@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "KÜÇÜKBOSTANCI MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "KÜÇÜKBOSTANCI KÖY ODASI",
+        "sandik_no": 1324,
+        "mahalle_id": "balikesir-altieylul-kucukbostanci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 23,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 132
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-altieylul/1xxx/1324/balikesir-altieylul-1324-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328643
+        },
+        "secim_bolge_id": "balikesir"
+    },
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-altieylul",
+        "mahalle": "KÜÇÜKBOSTANCI MAH.",
+        "ilce_adi": "ALTIEYLÜL",
+        "okul_adi": "KÜÇÜKBOSTANCI KÖY ODASI",
+        "sandik_no": 1325,
+        "mahalle_id": "balikesir-altieylul-kucukbostanci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684328643
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

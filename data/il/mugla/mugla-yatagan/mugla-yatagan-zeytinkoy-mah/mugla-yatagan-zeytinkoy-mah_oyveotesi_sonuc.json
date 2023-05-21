@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-yatagan",
+        "mahalle": "ZEYTİNKÖY MAH.",
+        "ilce_adi": "YATAĞAN",
+        "okul_adi": "ZEYTİNKÖY İLKOKULU",
+        "sandik_no": 1125,
+        "mahalle_id": "mugla-yatagan-zeytinkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 318,
+            "sayim_sonuc": {
+                "TOPLAM": 318,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 65,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 151,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 7,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 19,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-yatagan/1xxx/1125/mugla-yatagan-1125-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572080",
+            "oyveotesi_sync_timestamp": 1684374852
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 327,
+            "sayim_sonuc": {
+                "TOPLAM": 327,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 226,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-yatagan/1xxx/1125/mugla-yatagan-1125-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "572080",
+            "oyveotesi_sync_timestamp": 1684374852
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

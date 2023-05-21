@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-tepebasi",
+        "mahalle": "YUKARIKARTAL MAH.",
+        "ilce_adi": "TEPEBAŞI",
+        "okul_adi": "YUKARIKARTAL İLKOKULU",
+        "sandik_no": 1456,
+        "mahalle_id": "eskisehir-tepebasi-yukarikartal-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 75,
+            "sayim_sonuc": {
+                "TOPLAM": 75,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 24,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/1xxx/1456/eskisehir-tepebasi-1456-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832068",
+            "oyveotesi_sync_timestamp": 1684341948
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 73,
+            "sayim_sonuc": {
+                "TOPLAM": 73,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 40
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-tepebasi/1xxx/1456/eskisehir-tepebasi-1456-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832068",
+            "oyveotesi_sync_timestamp": 1684341948
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

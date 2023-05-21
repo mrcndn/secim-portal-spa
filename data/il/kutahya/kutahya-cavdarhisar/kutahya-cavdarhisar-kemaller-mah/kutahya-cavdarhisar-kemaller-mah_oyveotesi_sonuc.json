@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-cavdarhisar",
+        "mahalle": "KEMALLER MAH.",
+        "ilce_adi": "ÇAVDARHİSAR",
+        "okul_adi": "100.YIL İÖO",
+        "sandik_no": 1003,
+        "mahalle_id": "kutahya-cavdarhisar-kemaller-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "İYİ PARTİ": 10,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 8,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-cavdarhisar/1xxx/1003/kutahya-cavdarhisar-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "491559",
+            "oyveotesi_sync_timestamp": 1684350105
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 41,
+                "RECEP TAYYİP ERDOĞAN": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-cavdarhisar/1xxx/1003/kutahya-cavdarhisar-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "491559",
+            "oyveotesi_sync_timestamp": 1684350105
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

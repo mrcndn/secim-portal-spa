@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-inonu",
+        "mahalle": "SEYİTALİKÖYÜ MAH.",
+        "ilce_adi": "İNÖNÜ",
+        "okul_adi": "SEYİTALİ MAHALLE KONAĞI",
+        "sandik_no": 1018,
+        "mahalle_id": "eskisehir-inonu-seyitalikoyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 64,
+            "sayim_sonuc": {
+                "TOPLAM": 64,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 7,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 31,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1018/eskisehir-inonu-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "374938",
+            "oyveotesi_sync_timestamp": 1684341532
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 63,
+            "sayim_sonuc": {
+                "TOPLAM": 63,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 21,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-inonu/1xxx/1018/eskisehir-inonu-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "374938",
+            "oyveotesi_sync_timestamp": 1684341532
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-arsin",
+        "mahalle": "ÇUBUKLU MAH.",
+        "ilce_adi": "ARSİN",
+        "okul_adi": "ÇUBUKLU MERKEZ CAMİ KARŞISI LOJMAN ALTI SOSYAL TESİS",
+        "sandik_no": 1017,
+        "mahalle_id": "trabzon-arsin-cubuklu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "SOL PARTİ": 3,
+                "İYİ PARTİ": 20,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 31,
+                "ADALET VE KALKINMA PARTİSİ": 130,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-arsin/1xxx/1017/trabzon-arsin-1017-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "595469",
+            "oyveotesi_sync_timestamp": 1684366601
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 58,
+                "RECEP TAYYİP ERDOĞAN": 149
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-arsin/1xxx/1017/trabzon-arsin-1017-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "595469",
+            "oyveotesi_sync_timestamp": 1684366601
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-arsin",
+        "mahalle": "ÇUBUKLU MAH.",
+        "ilce_adi": "ARSİN",
+        "okul_adi": "ÇUBUKLU MERKEZ CAMİ KARŞISI LOJMAN ALTI SOSYAL TESİS",
+        "sandik_no": 1016,
+        "mahalle_id": "trabzon-arsin-cubuklu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 24,
+                "ADALET VE KALKINMA PARTİSİ": 151,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-arsin/1xxx/1016/trabzon-arsin-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "758635",
+            "oyveotesi_sync_timestamp": 1684366601
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 186
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-arsin/1xxx/1016/trabzon-arsin-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "758635",
+            "oyveotesi_sync_timestamp": 1684366601
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-aksehir",
+        "mahalle": "TİPİ MAH.",
+        "ilce_adi": "AKŞEHİR",
+        "okul_adi": "ŞEHİT ASTSUBAY HALİS KIRIMLI İLKOKULU",
+        "sandik_no": 1148,
+        "mahalle_id": "konya-aksehir-tipi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355288
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 25,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 212
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-aksehir/1xxx/1148/konya-aksehir-1148-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684355288
+        },
+        "secim_bolge_id": "konya"
+    }
+]

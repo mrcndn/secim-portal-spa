@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-pamukkale",
+        "mahalle": "AKÇAPINAR MAH.",
+        "ilce_adi": "PAMUKKALE",
+        "okul_adi": "AKÇAPINAR KÖY KAHVESİ",
+        "sandik_no": 2001,
+        "mahalle_id": "denizli-pamukkale-akcapinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 170,
+            "sayim_sonuc": {
+                "TOPLAM": 170,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 39,
+                "ZAFER PARTİSİ": 6,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 6,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-pamukkale/2xxx/2001/denizli-pamukkale-2001-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762296",
+            "oyveotesi_sync_timestamp": 1684365431
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 177,
+            "sayim_sonuc": {
+                "TOPLAM": 177,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-pamukkale/2xxx/2001/denizli-pamukkale-2001-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "762296",
+            "oyveotesi_sync_timestamp": 1684365431
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "PAŞA MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "ATATÜRK LİSESİ",
+        "sandik_no": 1309,
+        "mahalle_id": "eskisehir-odunpazari-pasa-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 31,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 5,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "TÜRKİYE İŞÇİ PARTİSİ": 6,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/1xxx/1309/eskisehir-odunpazari-1309-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "810976",
+            "oyveotesi_sync_timestamp": 1684341684
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 18,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 119,
+                "RECEP TAYYİP ERDOĞAN": 67
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/1xxx/1309/eskisehir-odunpazari-1309-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "810976",
+            "oyveotesi_sync_timestamp": 1684341684
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

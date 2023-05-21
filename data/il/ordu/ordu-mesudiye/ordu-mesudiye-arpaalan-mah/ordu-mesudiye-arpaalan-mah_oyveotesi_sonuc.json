@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-mesudiye",
+        "mahalle": "ARPAALAN MAH.",
+        "ilce_adi": "MESUDİYE",
+        "okul_adi": "ARPAALAN KÖYÜ SAĞLIK OCAĞI",
+        "sandik_no": 1008,
+        "mahalle_id": "ordu-mesudiye-arpaalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 108,
+            "sayim_sonuc": {
+                "TOPLAM": 108,
+                "İYİ PARTİ": 10,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-mesudiye/1xxx/1008/ordu-mesudiye-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "653776",
+            "oyveotesi_sync_timestamp": 1684360523
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 112,
+            "sayim_sonuc": {
+                "TOPLAM": 112,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 94
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-mesudiye/1xxx/1008/ordu-mesudiye-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "653776",
+            "oyveotesi_sync_timestamp": 1684360523
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

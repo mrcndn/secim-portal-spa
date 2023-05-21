@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-yenisehir",
+        "mahalle": "AYDOĞDU MAH.",
+        "ilce_adi": "YENİŞEHİR",
+        "okul_adi": "AYDOĞDU KÖY KAHVESİ",
+        "sandik_no": 1007,
+        "mahalle_id": "bursa-yenisehir-aydogdu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 144,
+            "sayim_sonuc": {
+                "TOPLAM": 144,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 82,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "486009",
+            "oyveotesi_sync_timestamp": 1684335417
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "486009",
+            "oyveotesi_sync_timestamp": 1684335417
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

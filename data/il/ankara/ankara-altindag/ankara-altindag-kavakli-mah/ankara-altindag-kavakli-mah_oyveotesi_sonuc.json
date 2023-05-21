@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-altindag",
+        "mahalle": "KAVAKLI MAH.",
+        "ilce_adi": "ALTINDAĞ",
+        "okul_adi": "KAVAKLI İLKOKULU",
+        "sandik_no": 2454,
+        "mahalle_id": "ankara-altindag-kavakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393137
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 305,
+            "sayim_sonuc": {
+                "TOPLAM": 305,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 238
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684393137
+        },
+        "secim_bolge_id": "ankara2"
+    },
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-altindag",
+        "mahalle": "KAVAKLI MAH.",
+        "ilce_adi": "ALTINDAĞ",
+        "okul_adi": "KAVAKLI İLKOKULU",
+        "sandik_no": 2453,
+        "mahalle_id": "ankara-altindag-kavakli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 295,
+            "sayim_sonuc": {
+                "TOPLAM": 295,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "ADALET VE KALKINMA PARTİSİ": 188,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 30
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "232535",
+            "oyveotesi_sync_timestamp": 1684393137
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 297,
+            "sayim_sonuc": {
+                "TOPLAM": 297,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 233
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "232535",
+            "oyveotesi_sync_timestamp": 1684393137
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-turgutlu",
+        "mahalle": "GÖKGEDİK MAH.",
+        "ilce_adi": "TURGUTLU",
+        "okul_adi": "GÖKGEDİK KÖY KAHVESİ",
+        "sandik_no": 1138,
+        "mahalle_id": "manisa-turgutlu-gokgedik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "İYİ PARTİ": 25,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 40,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-turgutlu/1xxx/1138/manisa-turgutlu-1138-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "777178",
+            "oyveotesi_sync_timestamp": 1684397596
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 159,
+            "sayim_sonuc": {
+                "TOPLAM": 159,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 69,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-turgutlu/1xxx/1138/manisa-turgutlu-1138-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "777178",
+            "oyveotesi_sync_timestamp": 1684397596
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

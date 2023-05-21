@@ -1,0 +1,99 @@
+[
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-kadirli",
+        "mahalle": "HARDALLIK KÖYÜ",
+        "ilce_adi": "KADİRLİ",
+        "okul_adi": "HARDALLIK İLKOKULU",
+        "sandik_no": 1231,
+        "mahalle_id": "osmaniye-kadirli-hardallik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 48,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 52,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 30,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 56,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-kadirli/1xxx/1231/osmaniye-kadirli-1231-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805986",
+            "oyveotesi_sync_timestamp": 1684375045
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 194,
+            "sayim_sonuc": {
+                "TOPLAM": 194,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-kadirli/1xxx/1231/osmaniye-kadirli-1231-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "805986",
+            "oyveotesi_sync_timestamp": 1684375045
+        },
+        "secim_bolge_id": "osmaniye"
+    },
+    {
+        "il_id": "osmaniye",
+        "il_adi": "OSMANİYE",
+        "il_kodu": 80,
+        "ilce_id": "osmaniye-kadirli",
+        "mahalle": "HARDALLIK KÖYÜ",
+        "ilce_adi": "KADİRLİ",
+        "okul_adi": "HARDALLIK İLKOKULU",
+        "sandik_no": 1230,
+        "mahalle_id": "osmaniye-kadirli-hardallik-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 184,
+            "sayim_sonuc": {
+                "TOPLAM": 184,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 47,
+                "ZAFER PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 51,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 53
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-kadirli/1xxx/1230/osmaniye-kadirli-1230-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809377",
+            "oyveotesi_sync_timestamp": 1684375045
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 186,
+            "sayim_sonuc": {
+                "TOPLAM": 186,
+                "SİNAN OĞAN": 22,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-osmaniye-tutanaklari/blob/main/tutanak/osmaniye/osmaniye-kadirli/1xxx/1230/osmaniye-kadirli-1230-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "809377",
+            "oyveotesi_sync_timestamp": 1684375045
+        },
+        "secim_bolge_id": "osmaniye"
+    }
+]

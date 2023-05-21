@@ -1,0 +1,74 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "BOZGUÇ KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "BOZGUÇ İLKOKULU (KÖY YAŞAM MERKEZİ)",
+        "sandik_no": 1084,
+        "mahalle_id": "canakkale-can-bozguc-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 251,
+            "sayim_sonuc": {
+                "TOPLAM": 251,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 50,
+                "ZAFER PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 95,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1084/canakkale-can-1084-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1013331",
+            "oyveotesi_sync_timestamp": 1684335915
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "1013331",
+            "oyveotesi_sync_timestamp": 1684335915
+        },
+        "secim_bolge_id": "canakkale"
+    },
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "BOZGUÇ KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "BOZGUÇ İLKOKULU (KÖY YAŞAM MERKEZİ)",
+        "sandik_no": 1083,
+        "mahalle_id": "canakkale-can-bozguc-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335915
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 112,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1083/canakkale-can-1083-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684335915
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

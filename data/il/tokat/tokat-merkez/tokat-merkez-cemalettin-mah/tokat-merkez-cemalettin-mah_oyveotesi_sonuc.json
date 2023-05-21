@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-merkez",
+        "mahalle": "CEMALETTİN MAH.",
+        "ilce_adi": "TOKAT MERKEZ",
+        "okul_adi": "İBNİ-SİNA İLKOKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "tokat-merkez-cemalettin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365246
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365246
+        },
+        "secim_bolge_id": "tokat"
+    },
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-merkez",
+        "mahalle": "CEMALETTİN MAH.",
+        "ilce_adi": "TOKAT MERKEZ",
+        "okul_adi": "İBNİ-SİNA İLKOKULU",
+        "sandik_no": 1052,
+        "mahalle_id": "tokat-merkez-cemalettin-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 326,
+            "sayim_sonuc": {
+                "TOPLAM": 326,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 5,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 16,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 151,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 117,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1052/tokat-merkez-1052-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "752758",
+            "oyveotesi_sync_timestamp": 1684365246
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 330,
+            "sayim_sonuc": {
+                "TOPLAM": 330,
+                "SİNAN OĞAN": 21,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 30,
+                "RECEP TAYYİP ERDOĞAN": 278
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1052/tokat-merkez-1052-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "752758",
+            "oyveotesi_sync_timestamp": 1684365246
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

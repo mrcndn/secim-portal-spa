@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-derik",
+        "mahalle": "KOÇYİĞİT MAH.",
+        "ilce_adi": "DERİK",
+        "okul_adi": "KOÇYİĞİT İLKÖĞRETİM OKULU",
+        "sandik_no": 1100,
+        "mahalle_id": "mardin-derik-kocyigit-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353728
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 165,
+            "sayim_sonuc": {
+                "TOPLAM": 165,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mardin-tutanaklari/blob/main/tutanak/mardin/mardin-derik/1xxx/1100/mardin-derik-1100-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353728
+        },
+        "secim_bolge_id": "mardin"
+    },
+    {
+        "il_id": "mardin",
+        "il_adi": "MARDİN",
+        "il_kodu": 47,
+        "ilce_id": "mardin-derik",
+        "mahalle": "KOÇYİĞİT MAH.",
+        "ilce_adi": "DERİK",
+        "okul_adi": "KOÇYİĞİT İLKÖĞRETİM OKULU",
+        "sandik_no": 1099,
+        "mahalle_id": "mardin-derik-kocyigit-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353728
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353728
+        },
+        "secim_bolge_id": "mardin"
+    }
+]

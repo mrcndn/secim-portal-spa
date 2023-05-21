@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-can",
+        "mahalle": "MALTEPE KÖYÜ",
+        "ilce_adi": "ÇAN",
+        "okul_adi": "MALTEPE İLKOKULU",
+        "sandik_no": 1136,
+        "mahalle_id": "canakkale-can-maltepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "İYİ PARTİ": 37,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 143,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1136/canakkale-can-1136-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1013260",
+            "oyveotesi_sync_timestamp": 1684335962
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 290,
+            "sayim_sonuc": {
+                "TOPLAM": 290,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 118,
+                "RECEP TAYYİP ERDOĞAN": 156
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-can/1xxx/1136/canakkale-can-1136-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1013260",
+            "oyveotesi_sync_timestamp": 1684335962
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

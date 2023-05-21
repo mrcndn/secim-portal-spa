@@ -1,0 +1,92 @@
+[
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-merkez",
+        "mahalle": "AŞAĞIAKPINAR KÖYÜ",
+        "ilce_adi": "BİNGÖL MERKEZ",
+        "okul_adi": "YEŞİLYURT İLK VE ORTAOKULU",
+        "sandik_no": 1271,
+        "mahalle_id": "bingol-merkez-asagiakpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332939
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 270,
+            "sayim_sonuc": {
+                "TOPLAM": 270,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 200
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-merkez/1xxx/1271/bingol-merkez-1271-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332939
+        },
+        "secim_bolge_id": "bingol"
+    },
+    {
+        "il_id": "bingol",
+        "il_adi": "BİNGÖL",
+        "il_kodu": 12,
+        "ilce_id": "bingol-merkez",
+        "mahalle": "AŞAĞIAKPINAR KÖYÜ",
+        "ilce_adi": "BİNGÖL MERKEZ",
+        "okul_adi": "YEŞİLYURT İLK VE ORTAOKULU",
+        "sandik_no": 1272,
+        "mahalle_id": "bingol-merkez-asagiakpinar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 2,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİLİK PARTİSİ": 0,
+                "MİLLİ YOL PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 38,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 125,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 36,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-merkez/1xxx/1272/bingol-merkez-1272-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "226977",
+            "oyveotesi_sync_timestamp": 1684332939
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 268,
+            "sayim_sonuc": {
+                "TOPLAM": 268,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 70,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bingol-tutanaklari/blob/main/tutanak/bingol/bingol-merkez/1xxx/1272/bingol-merkez-1272-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "226977",
+            "oyveotesi_sync_timestamp": 1684332939
+        },
+        "secim_bolge_id": "bingol"
+    }
+]

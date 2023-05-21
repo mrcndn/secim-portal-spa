@@ -1,0 +1,76 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-ercis",
+        "mahalle": "GÖZÜTOK MAH.",
+        "ilce_adi": "ERCİŞ",
+        "okul_adi": "GÖZÜTOK İ.Ö. OKULU",
+        "sandik_no": 1146,
+        "mahalle_id": "van-ercis-gozutok-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356833
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 161,
+            "sayim_sonuc": {
+                "TOPLAM": 161,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 126,
+                "RECEP TAYYİP ERDOĞAN": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1146/van-ercis-1146-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356833
+        },
+        "secim_bolge_id": "van"
+    },
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-ercis",
+        "mahalle": "GÖZÜTOK MAH.",
+        "ilce_adi": "ERCİŞ",
+        "okul_adi": "GÖZÜTOK İ.Ö. OKULU",
+        "sandik_no": 1147,
+        "mahalle_id": "van-ercis-gozutok-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "SOL PARTİ": 1,
+                "VATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 105
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1147/van-ercis-1147-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "282502",
+            "oyveotesi_sync_timestamp": 1684356833
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "KEMAL KILIÇDAROĞLU": 132,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-ercis/1xxx/1147/van-ercis-1147-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "282502",
+            "oyveotesi_sync_timestamp": 1684356833
+        },
+        "secim_bolge_id": "van"
+    }
+]

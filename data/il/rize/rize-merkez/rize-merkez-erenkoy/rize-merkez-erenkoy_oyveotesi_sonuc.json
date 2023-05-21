@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-merkez",
+        "mahalle": "ERENKÖY",
+        "ilce_adi": "RİZE MERKEZ",
+        "okul_adi": "ERENKÖY KÖYÜ KÖY CAMİ LOJMANI",
+        "sandik_no": 1302,
+        "mahalle_id": "rize-merkez-erenkoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356127
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 146
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-merkez/1xxx/1302/rize-merkez-1302-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356127
+        },
+        "secim_bolge_id": "rize"
+    }
+]

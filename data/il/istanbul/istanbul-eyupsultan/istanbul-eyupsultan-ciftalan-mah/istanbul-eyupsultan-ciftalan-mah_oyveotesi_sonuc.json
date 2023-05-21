@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-eyupsultan",
+        "mahalle": "ÇİFTALAN MAH.",
+        "ilce_adi": "EYÜPSULTAN",
+        "okul_adi": "ÇİFTALAN MAHALLESİ KONAĞI",
+        "sandik_no": 2186,
+        "mahalle_id": "istanbul-eyupsultan-ciftalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 124,
+            "sayim_sonuc": {
+                "TOPLAM": 124,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "186941",
+            "oyveotesi_sync_timestamp": 1684344727
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 131,
+            "sayim_sonuc": {
+                "TOPLAM": 131,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 84
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "186941",
+            "oyveotesi_sync_timestamp": 1684344727
+        },
+        "secim_bolge_id": "istanbul2"
+    }
+]

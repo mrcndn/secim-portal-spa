@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "bartin",
+        "il_adi": "BARTIN",
+        "il_kodu": 74,
+        "ilce_id": "bartin-amasra",
+        "mahalle": "TOPALLAR KÖYÜ",
+        "ilce_adi": "AMASRA",
+        "okul_adi": "TOPALLAR KÖYÜ ESKİ İLKOKULU",
+        "sandik_no": 1044,
+        "mahalle_id": "bartin-amasra-topallar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 46,
+            "sayim_sonuc": {
+                "TOPLAM": 46,
+                "GENÇ PARTİ": 2,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 18,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1044/bartin-amasra-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "511931",
+            "oyveotesi_sync_timestamp": 1684327781
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bartin-tutanaklari/blob/main/tutanak/bartin/bartin-amasra/1xxx/1044/bartin-amasra-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "511931",
+            "oyveotesi_sync_timestamp": 1684327781
+        },
+        "secim_bolge_id": "bartin"
+    }
+]

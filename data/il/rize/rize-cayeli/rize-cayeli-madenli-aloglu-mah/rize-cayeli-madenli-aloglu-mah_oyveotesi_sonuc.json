@@ -1,0 +1,73 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-cayeli",
+        "mahalle": "MADENLİ-ALOĞLU MAH.",
+        "ilce_adi": "ÇAYELİ",
+        "okul_adi": "MADENLİ - ALOĞLU-ALIM YERİ",
+        "sandik_no": 1069,
+        "mahalle_id": "rize-cayeli-madenli-aloglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 135,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-cayeli/1xxx/1069/rize-cayeli-1069-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818823",
+            "oyveotesi_sync_timestamp": 1684356205
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 201,
+            "sayim_sonuc": {
+                "TOPLAM": 201,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-cayeli/1xxx/1069/rize-cayeli-1069-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "818823",
+            "oyveotesi_sync_timestamp": 1684356205
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-cayeli",
+        "mahalle": "MADENLİ-ALOĞLU MAH.",
+        "ilce_adi": "ÇAYELİ",
+        "okul_adi": "MADENLİ - ALOĞLU-ALIM YERİ",
+        "sandik_no": 1068,
+        "mahalle_id": "rize-cayeli-madenli-aloglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356205
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 192,
+            "sayim_sonuc": {
+                "TOPLAM": 192,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 0,
+                "RECEP TAYYİP ERDOĞAN": 176
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-cayeli/1xxx/1068/rize-cayeli-1068-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356205
+        },
+        "secim_bolge_id": "rize"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-camlihemsin",
+        "mahalle": "MERKEZ MAH.",
+        "ilce_adi": "ÇAMLIHEMŞİN",
+        "okul_adi": "MERKEZ MAHALLE ATATÜRK İLKÖĞRETİM OKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "rize-camlihemsin-merkez-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 285,
+            "sayim_sonuc": {
+                "TOPLAM": 285,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 23,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 173,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1007/rize-camlihemsin-1007-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514051",
+            "oyveotesi_sync_timestamp": 1684356149
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 291,
+            "sayim_sonuc": {
+                "TOPLAM": 291,
+                "SİNAN OĞAN": 16,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 236
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-camlihemsin/1xxx/1007/rize-camlihemsin-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "514051",
+            "oyveotesi_sync_timestamp": 1684356149
+        },
+        "secim_bolge_id": "rize"
+    }
+]

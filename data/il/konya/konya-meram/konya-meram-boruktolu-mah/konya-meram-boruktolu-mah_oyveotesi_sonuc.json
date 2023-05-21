@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-meram",
+        "mahalle": "BORUKTOLU MAH.",
+        "ilce_adi": "MERAM",
+        "okul_adi": "BORUKTOLU İLK/ORTAOKULU",
+        "sandik_no": 1093,
+        "mahalle_id": "konya-meram-boruktolu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684354639
+        },
+        "secim_bolge_id": "konya"
+    },
+    {
+        "il_id": "konya",
+        "il_adi": "KONYA",
+        "il_kodu": 42,
+        "ilce_id": "konya-meram",
+        "mahalle": "BORUKTOLU MAH.",
+        "ilce_adi": "MERAM",
+        "okul_adi": "BORUKTOLU İLK/ORTAOKULU",
+        "sandik_no": 1092,
+        "mahalle_id": "konya-meram-boruktolu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 260,
+            "sayim_sonuc": {
+                "TOPLAM": 260,
+                "İYİ PARTİ": 19,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 15,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 12,
+                "ADALET VE KALKINMA PARTİSİ": 164,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-meram/1xxx/1092/konya-meram-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "632252",
+            "oyveotesi_sync_timestamp": 1684354639
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 262,
+            "sayim_sonuc": {
+                "TOPLAM": 262,
+                "SİNAN OĞAN": 13,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 221
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-konya-tutanaklari/blob/main/tutanak/konya/konya-meram/1xxx/1092/konya-meram-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "632252",
+            "oyveotesi_sync_timestamp": 1684354639
+        },
+        "secim_bolge_id": "konya"
+    }
+]

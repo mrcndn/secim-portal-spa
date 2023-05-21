@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "YARLI MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "YARLI MAHALLESİ MERKEZ CAMİ ALTI BOŞ BİNA",
+        "sandik_no": 1103,
+        "mahalle_id": "ordu-persembe-yarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 230,
+            "sayim_sonuc": {
+                "TOPLAM": 230,
+                "İYİ PARTİ": 13,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 20,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 154,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 33
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1103/ordu-persembe-1103-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "330536",
+            "oyveotesi_sync_timestamp": 1684360593
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 237,
+            "sayim_sonuc": {
+                "TOPLAM": 237,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 205
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1103/ordu-persembe-1103-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "330536",
+            "oyveotesi_sync_timestamp": 1684360593
+        },
+        "secim_bolge_id": "ordu"
+    },
+    {
+        "il_id": "ordu",
+        "il_adi": "ORDU",
+        "il_kodu": 52,
+        "ilce_id": "ordu-persembe",
+        "mahalle": "YARLI MAH.",
+        "ilce_adi": "PERŞEMBE",
+        "okul_adi": "YARLI MAHALLESİ ÖTEKÖY CAMİ ALTI BOŞ BİNA",
+        "sandik_no": 1104,
+        "mahalle_id": "ordu-persembe-yarli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360593
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 5,
+                "RECEP TAYYİP ERDOĞAN": 89
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ordu-tutanaklari/blob/main/tutanak/ordu/ordu-persembe/1xxx/1104/ordu-persembe-1104-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684360593
+        },
+        "secim_bolge_id": "ordu"
+    }
+]

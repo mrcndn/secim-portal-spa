@@ -1,0 +1,79 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "HASANPAŞA KÖYÜ",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "H.PAŞA- YENİ MAH. ORTAOKULU",
+        "sandik_no": 1025,
+        "mahalle_id": "burdur-tefenni-hasanpasa-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334580
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 205,
+            "sayim_sonuc": {
+                "TOPLAM": 205,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 75,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1025/burdur-tefenni-1025-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684334580
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-tefenni",
+        "mahalle": "HASANPAŞA KÖYÜ",
+        "ilce_adi": "TEFENNİ",
+        "okul_adi": "H.PAŞA- YENİ MAH. ORTAOKULU",
+        "sandik_no": 1026,
+        "mahalle_id": "burdur-tefenni-hasanpasa-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SOL PARTİ": 2,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 26,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 65,
+                "ADALET VE KALKINMA PARTİSİ": 52,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1026/burdur-tefenni-1026-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576805",
+            "oyveotesi_sync_timestamp": 1684334580
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "SİNAN OĞAN": 16,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 101,
+                "RECEP TAYYİP ERDOĞAN": 127
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-tefenni/1xxx/1026/burdur-tefenni-1026-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576805",
+            "oyveotesi_sync_timestamp": 1684334580
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

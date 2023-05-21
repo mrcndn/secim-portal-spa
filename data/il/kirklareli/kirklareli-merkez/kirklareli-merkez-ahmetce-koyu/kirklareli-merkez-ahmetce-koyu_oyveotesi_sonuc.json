@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "kirklareli",
+        "il_adi": "KIRKLARELİ",
+        "il_kodu": 39,
+        "ilce_id": "kirklareli-merkez",
+        "mahalle": "AHMETÇE KÖYÜ",
+        "ilce_adi": "KIRKLARELİ MERKEZ",
+        "okul_adi": "AHMETÇE KÖY KAHVEHANESİ",
+        "sandik_no": 1198,
+        "mahalle_id": "kirklareli-merkez-ahmetce-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "İYİ PARTİ": 6,
+                "ADALET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 42,
+                "ADALET VE KALKINMA PARTİSİ": 35,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1198/kirklareli-merkez-1198-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "712974",
+            "oyveotesi_sync_timestamp": 1684349132
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 87,
+            "sayim_sonuc": {
+                "TOPLAM": 87,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirklareli-tutanaklari/blob/main/tutanak/kirklareli/kirklareli-merkez/1xxx/1198/kirklareli-merkez-1198-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "712974",
+            "oyveotesi_sync_timestamp": 1684349132
+        },
+        "secim_bolge_id": "kirklareli"
+    }
+]

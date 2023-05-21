@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-ayas",
+        "mahalle": "EVCİ MAH.",
+        "ilce_adi": "AYAŞ",
+        "okul_adi": "EVCİ KÖY KONAĞI",
+        "sandik_no": 1013,
+        "mahalle_id": "ankara-ayas-evci-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 93,
+            "sayim_sonuc": {
+                "TOPLAM": 93,
+                "İYİ PARTİ": 9,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "835048",
+            "oyveotesi_sync_timestamp": 1684393650
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SİNAN OĞAN": 15,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 62
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "835048",
+            "oyveotesi_sync_timestamp": 1684393650
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

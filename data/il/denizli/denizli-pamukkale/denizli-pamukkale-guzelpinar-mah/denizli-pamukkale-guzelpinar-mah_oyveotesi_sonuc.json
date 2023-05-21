@@ -1,0 +1,82 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-pamukkale",
+        "mahalle": "GÜZELPINAR MAH.",
+        "ilce_adi": "PAMUKKALE",
+        "okul_adi": "YAVUZLAR BALIKÇILIK A.Ş HACI ÖMER YAVUZ İLK VE ORTA OKULU",
+        "sandik_no": 2175,
+        "mahalle_id": "denizli-pamukkale-guzelpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 4,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 163,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-pamukkale/2xxx/2175/denizli-pamukkale-2175-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "622887",
+            "oyveotesi_sync_timestamp": 1684365371
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 203,
+            "sayim_sonuc": {
+                "TOPLAM": 203,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 8,
+                "RECEP TAYYİP ERDOĞAN": 190
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-pamukkale/2xxx/2175/denizli-pamukkale-2175-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "622887",
+            "oyveotesi_sync_timestamp": 1684365371
+        },
+        "secim_bolge_id": "denizli"
+    },
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-pamukkale",
+        "mahalle": "GÜZELPINAR MAH.",
+        "ilce_adi": "PAMUKKALE",
+        "okul_adi": "YAVUZLAR BALIKÇILIK A.Ş HACI ÖMER YAVUZ İLK VE ORTA OKULU",
+        "sandik_no": 2176,
+        "mahalle_id": "denizli-pamukkale-guzelpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365371
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-pamukkale/2xxx/2176/denizli-pamukkale-2176-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365371
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

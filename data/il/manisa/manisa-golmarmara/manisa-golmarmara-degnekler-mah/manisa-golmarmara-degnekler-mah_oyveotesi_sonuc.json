@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "DEĞNEKLER MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "DEYNEKLER MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1013,
+        "mahalle_id": "manisa-golmarmara-degnekler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397021
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 191
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1013/manisa-golmarmara-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684397021
+        },
+        "secim_bolge_id": "manisa"
+    },
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-golmarmara",
+        "mahalle": "DEĞNEKLER MAH.",
+        "ilce_adi": "GÖLMARMARA",
+        "okul_adi": "DEYNEKLER MAHALLESİ DÜĞÜN SALONU",
+        "sandik_no": 1014,
+        "mahalle_id": "manisa-golmarmara-degnekler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 99
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1014/manisa-golmarmara-1014-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "700632",
+            "oyveotesi_sync_timestamp": 1684397021
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 17,
+                "RECEP TAYYİP ERDOĞAN": 197
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-golmarmara/1xxx/1014/manisa-golmarmara-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "700632",
+            "oyveotesi_sync_timestamp": 1684397021
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

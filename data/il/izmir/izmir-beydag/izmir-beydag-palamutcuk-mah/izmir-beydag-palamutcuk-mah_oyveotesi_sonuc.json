@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-beydag",
+        "mahalle": "PALAMUTÇUK MAH.",
+        "ilce_adi": "BEYDAĞ",
+        "okul_adi": "PALAMUTÇUK İLKOKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "izmir-beydag-palamutcuk-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 168,
+            "sayim_sonuc": {
+                "TOPLAM": 168,
+                "İYİ PARTİ": 30,
+                "MİLLET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "329860",
+            "oyveotesi_sync_timestamp": 1684361967
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 182,
+            "sayim_sonuc": {
+                "TOPLAM": 182,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 104,
+                "RECEP TAYYİP ERDOĞAN": 70
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "329860",
+            "oyveotesi_sync_timestamp": 1684361967
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

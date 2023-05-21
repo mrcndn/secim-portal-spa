@@ -1,0 +1,70 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-caldiran",
+        "mahalle": "KALKANDELEN MAH.",
+        "ilce_adi": "ÇALDIRAN",
+        "okul_adi": "KALKANDELEN İLKÖĞRETİM OKULU",
+        "sandik_no": 1061,
+        "mahalle_id": "van-caldiran-kalkandelen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 101,
+            "sayim_sonuc": {
+                "TOPLAM": 101,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 10,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 61
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-caldiran/1xxx/1061/van-caldiran-1061-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177733",
+            "oyveotesi_sync_timestamp": 1684356557
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 68,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-caldiran/1xxx/1061/van-caldiran-1061-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177733",
+            "oyveotesi_sync_timestamp": 1684356557
+        },
+        "secim_bolge_id": "van"
+    },
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-caldiran",
+        "mahalle": "KALKANDELEN MAH.",
+        "ilce_adi": "ÇALDIRAN",
+        "okul_adi": "ORUÇLU İLKÖĞRETİM OKULU",
+        "sandik_no": 1062,
+        "mahalle_id": "van-caldiran-kalkandelen-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356557
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684356557
+        },
+        "secim_bolge_id": "van"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "KALKANLI MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "KALKANLI İLKOKULU",
+        "sandik_no": 2372,
+        "mahalle_id": "eskisehir-odunpazari-kalkanli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 86,
+            "sayim_sonuc": {
+                "TOPLAM": 86,
+                "İYİ PARTİ": 17,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 50,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2372/eskisehir-odunpazari-2372-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836065",
+            "oyveotesi_sync_timestamp": 1684341659
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 88,
+            "sayim_sonuc": {
+                "TOPLAM": 88,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 62,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/2xxx/2372/eskisehir-odunpazari-2372-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "836065",
+            "oyveotesi_sync_timestamp": 1684341659
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

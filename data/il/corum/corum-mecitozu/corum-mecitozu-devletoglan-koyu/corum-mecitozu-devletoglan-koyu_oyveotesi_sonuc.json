@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "corum",
+        "il_adi": "ÇORUM",
+        "il_kodu": 19,
+        "ilce_id": "corum-mecitozu",
+        "mahalle": "DEVLETOĞLAN KÖYÜ",
+        "ilce_adi": "MECİTÖZÜ",
+        "okul_adi": "DEVLETOĞLAN KÖYÜ CAMİİ MÜŞTEMİLATI",
+        "sandik_no": 1028,
+        "mahalle_id": "corum-mecitozu-devletoglan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 109,
+            "sayim_sonuc": {
+                "TOPLAM": 109,
+                "ANAVATAN PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 57,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 34,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1028/corum-mecitozu-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "788792",
+            "oyveotesi_sync_timestamp": 1684368873
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 91
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-corum-tutanaklari/blob/main/tutanak/corum/corum-mecitozu/1xxx/1028/corum-mecitozu-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "788792",
+            "oyveotesi_sync_timestamp": 1684368873
+        },
+        "secim_bolge_id": "corum"
+    }
+]

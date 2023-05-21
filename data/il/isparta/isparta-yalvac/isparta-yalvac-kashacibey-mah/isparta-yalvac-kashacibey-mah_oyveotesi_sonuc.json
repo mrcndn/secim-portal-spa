@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "isparta",
+        "il_adi": "ISPARTA",
+        "il_kodu": 32,
+        "ilce_id": "isparta-yalvac",
+        "mahalle": "KAŞHACIBEY MAH.",
+        "ilce_adi": "YALVAÇ",
+        "okul_adi": "GAZİPAŞA İLKOKULU",
+        "sandik_no": 1028,
+        "mahalle_id": "isparta-yalvac-kashacibey-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 225,
+            "sayim_sonuc": {
+                "TOPLAM": 225,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 3,
+                "ZAFER PARTİSİ": 8,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 24,
+                "CUMHURİYET HALK PARTİSİ": 22,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 73,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-yalvac/1xxx/1028/isparta-yalvac-1028-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "248927",
+            "oyveotesi_sync_timestamp": 1684344349
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 27,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 56,
+                "RECEP TAYYİP ERDOĞAN": 148
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-isparta-tutanaklari/blob/main/tutanak/isparta/isparta-yalvac/1xxx/1028/isparta-yalvac-1028-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "248927",
+            "oyveotesi_sync_timestamp": 1684344349
+        },
+        "secim_bolge_id": "isparta"
+    }
+]

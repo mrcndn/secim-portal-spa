@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-ferizli",
+        "mahalle": "CEYLANDERE MAH.",
+        "ilce_adi": "FERİZLİ",
+        "okul_adi": "CEYLANDERE MAHALLESİ BELEDİYE KAHVEHANESİ",
+        "sandik_no": 1009,
+        "mahalle_id": "sakarya-ferizli-ceylandere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357715
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357715
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-ferizli",
+        "mahalle": "CEYLANDERE MAH.",
+        "ilce_adi": "FERİZLİ",
+        "okul_adi": "CEYLANDERE MAHALLESİ BELEDİYE KAHVEHANESİ",
+        "sandik_no": 1010,
+        "mahalle_id": "sakarya-ferizli-ceylandere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357715
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 240,
+            "sayim_sonuc": {
+                "TOPLAM": 240,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 217
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-ferizli/1xxx/1010/sakarya-ferizli-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357715
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

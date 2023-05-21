@@ -1,0 +1,109 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "YENİKENT KÖYÜ",
+        "ilce_adi": "GERZE",
+        "okul_adi": "YENİKENT SAĞLIK EVİ",
+        "sandik_no": 1088,
+        "mahalle_id": "sinop-gerze-yenikent-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353916
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353916
+        },
+        "secim_bolge_id": "sinop"
+    },
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "YENİKENT KÖYÜ",
+        "ilce_adi": "GERZE",
+        "okul_adi": "YENİKENT SAĞLIK EVİ",
+        "sandik_no": 1087,
+        "mahalle_id": "sinop-gerze-yenikent-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 245,
+            "sayim_sonuc": {
+                "TOPLAM": 245,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 4,
+                "ANAVATAN PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 70,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 118,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1087/sinop-gerze-1087-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "490083",
+            "oyveotesi_sync_timestamp": 1684353916
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 88,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-gerze/1xxx/1087/sinop-gerze-1087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "490083",
+            "oyveotesi_sync_timestamp": 1684353916
+        },
+        "secim_bolge_id": "sinop"
+    },
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-gerze",
+        "mahalle": "YENİKENT KÖYÜ",
+        "ilce_adi": "GERZE",
+        "okul_adi": "YENİKENT ÇECE KÖY KONAĞI",
+        "sandik_no": 1089,
+        "mahalle_id": "sinop-gerze-yenikent-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353916
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684353916
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

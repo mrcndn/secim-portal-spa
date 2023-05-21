@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "KAYACIK MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "KAYACIK MAHALLESİ İLKOKULU",
+        "sandik_no": 1087,
+        "mahalle_id": "samsun-havza-kayacik-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 160,
+            "sayim_sonuc": {
+                "TOPLAM": 160,
+                "İYİ PARTİ": 45,
+                "CUMHURİYET HALK PARTİSİ": 107,
+                "ADALET VE KALKINMA PARTİSİ": 5,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1087/samsun-havza-1087-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568711",
+            "oyveotesi_sync_timestamp": 1684367697
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "KEMAL KILIÇDAROĞLU": 157,
+                "RECEP TAYYİP ERDOĞAN": 6
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1087/samsun-havza-1087-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "568711",
+            "oyveotesi_sync_timestamp": 1684367697
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

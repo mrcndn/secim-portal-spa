@@ -1,0 +1,99 @@
+[
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-cavdir",
+        "mahalle": "PAZAR MAH.",
+        "ilce_adi": "ÇAVDIR",
+        "okul_adi": "ÇAVDIR İLKOKULU",
+        "sandik_no": 1010,
+        "mahalle_id": "burdur-cavdir-pazar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 197,
+            "sayim_sonuc": {
+                "TOPLAM": 197,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 37,
+                "ZAFER PARTİSİ": 5,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 75,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 44,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-cavdir/1xxx/1010/burdur-cavdir-1010-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198804",
+            "oyveotesi_sync_timestamp": 1684334490
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-cavdir/1xxx/1010/burdur-cavdir-1010-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "198804",
+            "oyveotesi_sync_timestamp": 1684334490
+        },
+        "secim_bolge_id": "burdur"
+    },
+    {
+        "il_id": "burdur",
+        "il_adi": "BURDUR",
+        "il_kodu": 15,
+        "ilce_id": "burdur-cavdir",
+        "mahalle": "PAZAR MAH.",
+        "ilce_adi": "ÇAVDIR",
+        "okul_adi": "ÇAVDIR İLKOKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "burdur-cavdir-pazar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 41,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 99,
+                "ADALET VE KALKINMA PARTİSİ": 36,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 29
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-cavdir/1xxx/1011/burdur-cavdir-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176757",
+            "oyveotesi_sync_timestamp": 1684334490
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 20,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 72
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-burdur-tutanaklari/blob/main/tutanak/burdur/burdur-cavdir/1xxx/1011/burdur-cavdir-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "176757",
+            "oyveotesi_sync_timestamp": 1684334490
+        },
+        "secim_bolge_id": "burdur"
+    }
+]

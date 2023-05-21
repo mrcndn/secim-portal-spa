@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-gumushacikoy",
+        "mahalle": "IRGAT MAH.",
+        "ilce_adi": "GÜMÜŞHACIKÖY",
+        "okul_adi": "GÜMÜŞ İLK VE ORTA OKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "amasya-gumushacikoy-irgat-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 10,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 25,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-gumushacikoy/1xxx/1032/amasya-gumushacikoy-1032-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "206754",
+            "oyveotesi_sync_timestamp": 1684329292
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 206,
+            "sayim_sonuc": {
+                "TOPLAM": 206,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 39,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-gumushacikoy/1xxx/1032/amasya-gumushacikoy-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "206754",
+            "oyveotesi_sync_timestamp": 1684329292
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

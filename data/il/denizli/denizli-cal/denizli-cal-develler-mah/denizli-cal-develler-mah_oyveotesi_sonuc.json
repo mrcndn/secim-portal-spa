@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-cal",
+        "mahalle": "DEVELLER MAH.",
+        "ilce_adi": "ÇAL",
+        "okul_adi": "DEVELLER İLKOKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "denizli-cal-develler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 210,
+            "sayim_sonuc": {
+                "TOPLAM": 210,
+                "GENÇ PARTİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "GÜÇ BİRLİĞİ PARTİSİ": 50,
+                "ADALET VE KALKINMA PARTİSİ": 101,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cal/1xxx/1019/denizli-cal-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "778110",
+            "oyveotesi_sync_timestamp": 1684365878
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 214,
+            "sayim_sonuc": {
+                "TOPLAM": 214,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 85,
+                "RECEP TAYYİP ERDOĞAN": 114
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-cal/1xxx/1019/denizli-cal-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "778110",
+            "oyveotesi_sync_timestamp": 1684365878
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

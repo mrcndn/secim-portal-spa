@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-aksu",
+        "mahalle": "KAYADİBİ MAH.",
+        "ilce_adi": "AKSU",
+        "okul_adi": "KAYADİBİ OKULU",
+        "sandik_no": 1094,
+        "mahalle_id": "antalya-aksu-kayadibi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 152,
+            "sayim_sonuc": {
+                "TOPLAM": 152,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 26,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-aksu/1xxx/1094/antalya-aksu-1094-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "701484",
+            "oyveotesi_sync_timestamp": 1684325644
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 156,
+            "sayim_sonuc": {
+                "TOPLAM": 156,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 51,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-aksu/1xxx/1094/antalya-aksu-1094-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "701484",
+            "oyveotesi_sync_timestamp": 1684325644
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

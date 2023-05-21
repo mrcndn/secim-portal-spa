@@ -1,0 +1,662 @@
+[
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YUKARI DERE MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yukari-dere-mah",
+        "oyveotesi_neighborhood_id": 22556
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YUKARIKARAGÜNEY KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yukarikaraguney-koyu",
+        "oyveotesi_neighborhood_id": 22588
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YUKARI KÜMBET MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yukari-kumbet-mah",
+        "oyveotesi_neighborhood_id": 22584
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ZUVAR MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-zuvar-mah",
+        "oyveotesi_neighborhood_id": 22564
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "PASLI KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-pasli-koyu",
+        "oyveotesi_neighborhood_id": 22538
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ORTAKÖY",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-ortakoy",
+        "oyveotesi_neighborhood_id": 22592
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KURUYAYLA KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-kuruyayla-koyu",
+        "oyveotesi_neighborhood_id": 22591
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KULOĞLU KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-kuloglu-koyu",
+        "oyveotesi_neighborhood_id": 22536
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KOZLU KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-kozlu-koyu",
+        "oyveotesi_neighborhood_id": 22596
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KÖTEK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-kotek-koyu",
+        "oyveotesi_neighborhood_id": 22563
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KÖRPINAR KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-korpinar-koyu",
+        "oyveotesi_neighborhood_id": 22537
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AĞDAM KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-agdam-koyu",
+        "oyveotesi_neighborhood_id": 22559
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AKÇAKALE KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-akcakale-koyu",
+        "oyveotesi_neighborhood_id": 50536
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AKÇAY KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-akcay-koyu",
+        "oyveotesi_neighborhood_id": 22553
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AKÖREN KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-akoren-koyu",
+        "oyveotesi_neighborhood_id": 22534
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AKYAYLA KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-akyayla-koyu",
+        "oyveotesi_neighborhood_id": 22533
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ALTUNGEDİK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-altungedik-koyu",
+        "oyveotesi_neighborhood_id": 22579
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AŞAĞIDERE MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-asagidere-mah",
+        "oyveotesi_neighborhood_id": 22566
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AŞAĞIKARAGÜNEY KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-asagikaraguney-koyu",
+        "oyveotesi_neighborhood_id": 22535
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AŞAĞI KÜMBET MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-asagi-kumbet-mah",
+        "oyveotesi_neighborhood_id": 22560
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AŞAĞITUT KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-asagitut-koyu",
+        "oyveotesi_neighborhood_id": 22590
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "AYDINKAVAK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-aydinkavak-koyu",
+        "oyveotesi_neighborhood_id": 22558
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "BAYAM MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-bayam-mah",
+        "oyveotesi_neighborhood_id": 22593
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "BÜCÜKLÜ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-bucuklu-koyu",
+        "oyveotesi_neighborhood_id": 22580
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "BULANIK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-bulanik-koyu",
+        "oyveotesi_neighborhood_id": 22575
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇALLI KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-calli-koyu",
+        "oyveotesi_neighborhood_id": 22551
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "CAMUŞLU KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-camuslu-koyu",
+        "oyveotesi_neighborhood_id": 22576
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇAYARASI KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-cayarasi-koyu",
+        "oyveotesi_neighborhood_id": 22552
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇAYBÜK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-caybuk-koyu",
+        "oyveotesi_neighborhood_id": 22569
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇENGİLLİ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-cengilli-koyu",
+        "oyveotesi_neighborhood_id": 22577
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇEPERLİ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-ceperli-koyu",
+        "oyveotesi_neighborhood_id": 22589
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇİÇEKLİ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-cicekli-koyu",
+        "oyveotesi_neighborhood_id": 22599
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇİLEHANE KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-cilehane-koyu",
+        "oyveotesi_neighborhood_id": 22545
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÇUKURAYVA KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-cukurayva-koyu",
+        "oyveotesi_neighborhood_id": 22565
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "DEĞİRMENDERE KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-degirmendere-koyu",
+        "oyveotesi_neighborhood_id": 22554
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "DENİZGÖLÜ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-denizgolu-koyu",
+        "oyveotesi_neighborhood_id": 22548
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "DEVEBÜK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-devebuk-koyu",
+        "oyveotesi_neighborhood_id": 22573
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "DİBEKKAYA KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-dibekkaya-koyu",
+        "oyveotesi_neighborhood_id": 22585
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "DONANDI KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-donandi-koyu",
+        "oyveotesi_neighborhood_id": 22594
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "DURANLAR KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-duranlar-koyu",
+        "oyveotesi_neighborhood_id": 22595
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ESENKIR KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-esenkir-koyu",
+        "oyveotesi_neighborhood_id": 22541
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "GÜMÜŞTEPE KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-gumustepe-koyu",
+        "oyveotesi_neighborhood_id": 50960
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "GÜNİNDİ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-gunindi-koyu",
+        "oyveotesi_neighborhood_id": 22581
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "GÜNİNDİYAYLASI KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-gunindiyaylasi-koyu",
+        "oyveotesi_neighborhood_id": 49897
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "HAZNEDAR MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-haznedar-mah",
+        "oyveotesi_neighborhood_id": 22570
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KARABAĞ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-karabag-koyu",
+        "oyveotesi_neighborhood_id": 22546
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KARABONCUK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-karaboncuk-koyu",
+        "oyveotesi_neighborhood_id": 22547
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KARACAÖREN KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-karacaoren-koyu",
+        "oyveotesi_neighborhood_id": 22549
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KARAKALE KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-karakale-koyu",
+        "oyveotesi_neighborhood_id": 22571
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KARAKUŞ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-karakus-koyu",
+        "oyveotesi_neighborhood_id": 22542
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KEŞİŞKIRAN KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-kesiskiran-koyu",
+        "oyveotesi_neighborhood_id": 22567
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "KÖMÜRLÜ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-komurlu-koyu",
+        "oyveotesi_neighborhood_id": 22597
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ŞAHİNDERE MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-sahindere-mah",
+        "oyveotesi_neighborhood_id": 22578
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ŞABAN KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-saban-koyu",
+        "oyveotesi_neighborhood_id": 22557
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "TAŞBİLEK KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-tasbilek-koyu",
+        "oyveotesi_neighborhood_id": 22540
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "TAŞBURUN KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-tasburun-koyu",
+        "oyveotesi_neighborhood_id": 22598
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "TOMRUKTAŞ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-tomruktas-koyu",
+        "oyveotesi_neighborhood_id": 22582
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "TOPRAKKALE MAH.",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-toprakkale-mah",
+        "oyveotesi_neighborhood_id": 22543
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "TUNÇKAYA KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-tunckaya-koyu",
+        "oyveotesi_neighborhood_id": 22574
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "ÜRKER KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-urker-koyu",
+        "oyveotesi_neighborhood_id": 22572
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YAĞLICA KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yaglica-koyu",
+        "oyveotesi_neighborhood_id": 22555
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YALNIZAĞAÇ KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yalnizagac-koyu",
+        "oyveotesi_neighborhood_id": 22583
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YANKIPINAR KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yankipinar-koyu",
+        "oyveotesi_neighborhood_id": 22587
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YELLİKIRAN KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yellikiran-koyu",
+        "oyveotesi_neighborhood_id": 22550
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YENİCE KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yenice-koyu",
+        "oyveotesi_neighborhood_id": 22544
+    },
+    {
+        "il_id": "kars",
+        "il_adi": "KARS",
+        "il_kodu": 36,
+        "ilce_id": "kars-kagizman",
+        "mahalle": "YOLKORUR KÖYÜ",
+        "ilce_adi": "KAĞIZMAN",
+        "mahalle_id": "kars-kagizman-yolkorur-koyu",
+        "oyveotesi_neighborhood_id": 22568
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-kozluk",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KOZLUK",
+        "okul_adi": "ŞEHİT AYBÜKE YALÇIN ÇOK PROGRAMLI LİSESİ",
+        "sandik_no": 1023,
+        "mahalle_id": "batman-kozluk-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 162,
+            "sayim_sonuc": {
+                "TOPLAM": 162,
+                "SOL PARTİ": 0,
+                "VATAN PARTİSİ": 0,
+                "ADALET PARTİSİ": 0,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 94,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-kozluk/1xxx/1023/batman-kozluk-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177172",
+            "oyveotesi_sync_timestamp": 1684332733
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 52,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-kozluk/1xxx/1023/batman-kozluk-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "177172",
+            "oyveotesi_sync_timestamp": 1684332733
+        },
+        "secim_bolge_id": "batman"
+    },
+    {
+        "il_id": "batman",
+        "il_adi": "BATMAN",
+        "il_kodu": 72,
+        "ilce_id": "batman-kozluk",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "KOZLUK",
+        "okul_adi": "ŞEHİT AYBÜKE YALÇIN ÇOK PROGRAMLI LİSESİ",
+        "sandik_no": 1022,
+        "mahalle_id": "batman-kozluk-koprubasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332733
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 155,
+            "sayim_sonuc": {
+                "TOPLAM": 155,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-batman-tutanaklari/blob/main/tutanak/batman/batman-kozluk/1xxx/1022/batman-kozluk-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684332733
+        },
+        "secim_bolge_id": "batman"
+    }
+]

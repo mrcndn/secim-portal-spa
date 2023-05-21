@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-karacasu",
+        "mahalle": "BÜYÜKDAĞLI MAH.",
+        "ilce_adi": "KARACASU",
+        "okul_adi": "ATATÜRK İLKOKULU (BÜYÜKDAĞLI MH)",
+        "sandik_no": 1013,
+        "mahalle_id": "aydin-karacasu-buyukdagli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "İYİ PARTİ": 16,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 49,
+                "ADALET VE KALKINMA PARTİSİ": 28,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1013/aydin-karacasu-1013-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "638768",
+            "oyveotesi_sync_timestamp": 1684394668
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 107,
+            "sayim_sonuc": {
+                "TOPLAM": 107,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-karacasu/1xxx/1013/aydin-karacasu-1013-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "638768",
+            "oyveotesi_sync_timestamp": 1684394668
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

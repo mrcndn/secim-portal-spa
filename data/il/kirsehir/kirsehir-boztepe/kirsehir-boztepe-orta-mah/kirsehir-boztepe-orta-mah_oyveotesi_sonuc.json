@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "kirsehir",
+        "il_adi": "KIRŞEHİR",
+        "il_kodu": 40,
+        "ilce_id": "kirsehir-boztepe",
+        "mahalle": "ORTA MAH.",
+        "ilce_adi": "BOZTEPE",
+        "okul_adi": "GAZİ OSMAN ÖZTÜRK ÇPL B BLOK",
+        "sandik_no": 1004,
+        "mahalle_id": "kirsehir-boztepe-orta-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349349
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349349
+        },
+        "secim_bolge_id": "kirsehir"
+    },
+    {
+        "il_id": "kirsehir",
+        "il_adi": "KIRŞEHİR",
+        "il_kodu": 40,
+        "ilce_id": "kirsehir-boztepe",
+        "mahalle": "ORTA MAH.",
+        "ilce_adi": "BOZTEPE",
+        "okul_adi": "GAZİ OSMAN ÖZTÜRK ÇPL B BLOK",
+        "sandik_no": 1005,
+        "mahalle_id": "kirsehir-boztepe-orta-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349349
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 109,
+                "RECEP TAYYİP ERDOĞAN": 97
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirsehir-tutanaklari/blob/main/tutanak/kirsehir/kirsehir-boztepe/1xxx/1005/kirsehir-boztepe-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349349
+        },
+        "secim_bolge_id": "kirsehir"
+    }
+]

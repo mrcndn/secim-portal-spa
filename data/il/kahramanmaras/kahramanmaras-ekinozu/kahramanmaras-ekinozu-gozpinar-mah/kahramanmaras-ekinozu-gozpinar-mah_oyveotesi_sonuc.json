@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "kahramanmaras",
+        "il_adi": "KAHRAMANMARAŞ",
+        "il_kodu": 46,
+        "ilce_id": "kahramanmaras-ekinozu",
+        "mahalle": "GÖZPINAR MAH.",
+        "ilce_adi": "EKİNÖZÜ",
+        "okul_adi": "GÖZPINAR GÖZOBASI İLKOKULU",
+        "sandik_no": 1011,
+        "mahalle_id": "kahramanmaras-ekinozu-gozpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SOL PARTİ": 2,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 60,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kahramanmaras-tutanaklari/blob/main/tutanak/kahramanmaras/kahramanmaras-ekinozu/1xxx/1011/kahramanmaras-ekinozu-1011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822314",
+            "oyveotesi_sync_timestamp": 1684345615
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 94,
+            "sayim_sonuc": {
+                "TOPLAM": 94,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 90,
+                "RECEP TAYYİP ERDOĞAN": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kahramanmaras-tutanaklari/blob/main/tutanak/kahramanmaras/kahramanmaras-ekinozu/1xxx/1011/kahramanmaras-ekinozu-1011-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "822314",
+            "oyveotesi_sync_timestamp": 1684345615
+        },
+        "secim_bolge_id": "kahramanmaras"
+    }
+]

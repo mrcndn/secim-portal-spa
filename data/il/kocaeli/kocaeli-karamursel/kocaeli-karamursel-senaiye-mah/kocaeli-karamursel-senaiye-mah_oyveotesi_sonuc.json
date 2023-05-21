@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-karamursel",
+        "mahalle": "SENAİYE MAH.",
+        "ilce_adi": "KARAMÜRSEL",
+        "okul_adi": "SENAİYE MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1134,
+        "mahalle_id": "kocaeli-karamursel-senaiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 117,
+            "sayim_sonuc": {
+                "TOPLAM": 117,
+                "İYİ PARTİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 11,
+                "CUMHURİYET HALK PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 85,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1134/kocaeli-karamursel-1134-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579875",
+            "oyveotesi_sync_timestamp": 1684350049
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-karamursel/1xxx/1134/kocaeli-karamursel-1134-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "579875",
+            "oyveotesi_sync_timestamp": 1684350049
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

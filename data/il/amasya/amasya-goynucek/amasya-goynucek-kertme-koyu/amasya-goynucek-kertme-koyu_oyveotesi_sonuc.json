@@ -1,0 +1,37 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-goynucek",
+        "mahalle": "KERTME KÖYÜ",
+        "ilce_adi": "GÖYNÜCEK",
+        "okul_adi": "KERTME KÖYÜ SAĞLIK OCAĞI",
+        "sandik_no": 1034,
+        "mahalle_id": "amasya-goynucek-kertme-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 80,
+            "sayim_sonuc": {
+                "TOPLAM": 80,
+                "İYİ PARTİ": 3,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 76
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1034/amasya-goynucek-1034-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1027037",
+            "oyveotesi_sync_timestamp": 1684325211
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-goynucek/1xxx/1034/amasya-goynucek-1034-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1027037",
+            "oyveotesi_sync_timestamp": 1684325211
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

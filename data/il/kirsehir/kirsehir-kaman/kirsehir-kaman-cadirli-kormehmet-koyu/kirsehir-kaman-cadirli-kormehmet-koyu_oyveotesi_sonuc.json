@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "kirsehir",
+        "il_adi": "KIRŞEHİR",
+        "il_kodu": 40,
+        "ilce_id": "kirsehir-kaman",
+        "mahalle": "ÇADIRLI KÖRMEHMET KÖYÜ",
+        "ilce_adi": "KAMAN",
+        "okul_adi": "ÇADIRLI KÖRMEHMET KÖYÜ KÖY İLKOKULU",
+        "sandik_no": 1062,
+        "mahalle_id": "kirsehir-kaman-cadirli-kormehmet-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 96,
+            "sayim_sonuc": {
+                "TOPLAM": 96,
+                "İYİ PARTİ": 8,
+                "ADALET PARTİSİ": 3,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirsehir-tutanaklari/blob/main/tutanak/kirsehir/kirsehir-kaman/1xxx/1062/kirsehir-kaman-1062-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "365824",
+            "oyveotesi_sync_timestamp": 1684349424
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 102,
+            "sayim_sonuc": {
+                "TOPLAM": 102,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 71
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirsehir-tutanaklari/blob/main/tutanak/kirsehir/kirsehir-kaman/1xxx/1062/kirsehir-kaman-1062-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "365824",
+            "oyveotesi_sync_timestamp": 1684349424
+        },
+        "secim_bolge_id": "kirsehir"
+    }
+]

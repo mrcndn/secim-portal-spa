@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "canakkale",
+        "il_adi": "ÇANAKKALE",
+        "il_kodu": 17,
+        "ilce_id": "canakkale-ezine",
+        "mahalle": "ÇAMLICA KÖYÜ",
+        "ilce_adi": "EZİNE",
+        "okul_adi": "ÇAMLICA KÖY SAĞLIK OCAĞI BİNASI",
+        "sandik_no": 1055,
+        "mahalle_id": "canakkale-ezine-camlica-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 147,
+            "sayim_sonuc": {
+                "TOPLAM": 147,
+                "İYİ PARTİ": 40,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 38,
+                "ADALET VE KALKINMA PARTİSİ": 58,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1055/canakkale-ezine-1055-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "670000",
+            "oyveotesi_sync_timestamp": 1684336073
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 153,
+            "sayim_sonuc": {
+                "TOPLAM": 153,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 83,
+                "RECEP TAYYİP ERDOĞAN": 67
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-canakkale-tutanaklari/blob/main/tutanak/canakkale/canakkale-ezine/1xxx/1055/canakkale-ezine-1055-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "670000",
+            "oyveotesi_sync_timestamp": 1684336073
+        },
+        "secim_bolge_id": "canakkale"
+    }
+]

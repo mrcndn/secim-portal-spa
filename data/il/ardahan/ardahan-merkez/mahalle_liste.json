@@ -1,0 +1,692 @@
+[
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "AÇIKYAZI KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-acikyazi-koyu",
+        "oyveotesi_neighborhood_id": 45131
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "YUKARIKURTOĞLU KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-yukarikurtoglu-koyu",
+        "oyveotesi_neighborhood_id": 45163
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "YOKUŞDİBİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-yokusdibi-koyu",
+        "oyveotesi_neighborhood_id": 45153
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-yeni-mah",
+        "oyveotesi_neighborhood_id": 45162
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "YAYLACIK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-yaylacik-koyu",
+        "oyveotesi_neighborhood_id": 45161
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "YANLIZÇAM KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-yanlizcam-koyu",
+        "oyveotesi_neighborhood_id": 45139
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "UZUNOVA KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-uzunova-koyu",
+        "oyveotesi_neighborhood_id": 45160
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "TUNÇOLUK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-tuncoluk-koyu",
+        "oyveotesi_neighborhood_id": 45159
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "TEPESUYU KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-tepesuyu-koyu",
+        "oyveotesi_neighborhood_id": 45171
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "TEPELER KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-tepeler-koyu",
+        "oyveotesi_neighborhood_id": 45135
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "TAZEKÖY",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-tazekoy",
+        "oyveotesi_neighborhood_id": 45180
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "TAŞLIDERE KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-taslidere-koyu",
+        "oyveotesi_neighborhood_id": 45140
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "SULAKYURT KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-sulakyurt-koyu",
+        "oyveotesi_neighborhood_id": 45170
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "SUGÖZE KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-sugoze-koyu",
+        "oyveotesi_neighborhood_id": 45152
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "SARIYAMAÇ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-sariyamac-koyu",
+        "oyveotesi_neighborhood_id": 45169
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "SAMANBEYLİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-samanbeyli-koyu",
+        "oyveotesi_neighborhood_id": 45127
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "OVAPINAR KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-ovapinar-koyu",
+        "oyveotesi_neighborhood_id": 45134
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "OTBİÇEN KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-otbicen-koyu",
+        "oyveotesi_neighborhood_id": 45179
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ORTAGEÇİT KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-ortagecit-koyu",
+        "oyveotesi_neighborhood_id": 45129
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÖMERAĞA KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-omeraga-koyu",
+        "oyveotesi_neighborhood_id": 45155
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÖLÇEK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-olcek-koyu",
+        "oyveotesi_neighborhood_id": 45130
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "NEBİOĞLU KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-nebioglu-koyu",
+        "oyveotesi_neighborhood_id": 45186
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "MEŞEDİBİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-mesedibi-koyu",
+        "oyveotesi_neighborhood_id": 45175
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "LEHİMLİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-lehimli-koyu",
+        "oyveotesi_neighborhood_id": 45185
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KÜÇÜKSÜTLÜCE KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-kucuksutluce-koyu",
+        "oyveotesi_neighborhood_id": 45126
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KÖPRÜCÜK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-koprucuk-koyu",
+        "oyveotesi_neighborhood_id": 45124
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KOCAKÖY",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-kocakoy",
+        "oyveotesi_neighborhood_id": 45145
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KIRAÇ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-kirac-koyu",
+        "oyveotesi_neighborhood_id": 45123
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KAZLIKÖY",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-kazlikoy",
+        "oyveotesi_neighborhood_id": 45133
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KARTALPINAR KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-kartalpinar-koyu",
+        "oyveotesi_neighborhood_id": 45184
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KARAGÖL MAH.",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-karagol-mah",
+        "oyveotesi_neighborhood_id": 45178
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "KAPTANPAŞA MAH.",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-kaptanpasa-mah",
+        "oyveotesi_neighborhood_id": 45132
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "İNÖNÜ MAH.",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-inonu-mah",
+        "oyveotesi_neighborhood_id": 45181
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "HÖÇVAN BUCAĞI HASKÖY",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-hocvan-bucagi-haskoy",
+        "oyveotesi_neighborhood_id": 45144
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "HASKÖY KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-haskoy-koyu",
+        "oyveotesi_neighborhood_id": 45143
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "HALİLEFENDİ MAH.",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-halilefendi-mah",
+        "oyveotesi_neighborhood_id": 45174
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "HACIALİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-haciali-koyu",
+        "oyveotesi_neighborhood_id": 45177
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "GÜZELYURT KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-guzelyurt-koyu",
+        "oyveotesi_neighborhood_id": 45156
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "GÜZÇİMENİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-guzcimeni-koyu",
+        "oyveotesi_neighborhood_id": 45138
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "GÜRÇAYIR MAH.",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-gurcayir-mah",
+        "oyveotesi_neighborhood_id": 45148
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "GÖLGELİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-golgeli-koyu",
+        "oyveotesi_neighborhood_id": 45137
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "EDEGÜL KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-edegul-koyu",
+        "oyveotesi_neighborhood_id": 45173
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "DERİNDERE KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-derindere-koyu",
+        "oyveotesi_neighborhood_id": 45151
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "DEĞİRMENLİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-degirmenli-koyu",
+        "oyveotesi_neighborhood_id": 45190
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "DEDEGÜL KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-dedegul-koyu",
+        "oyveotesi_neighborhood_id": 45168
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "DAĞEVİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-dagevi-koyu",
+        "oyveotesi_neighborhood_id": 45150
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "DAĞCI KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-dagci-koyu",
+        "oyveotesi_neighborhood_id": 45142
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇİMENKAYA KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-cimenkaya-koyu",
+        "oyveotesi_neighborhood_id": 45149
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇETİNSU KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-cetinsu-koyu",
+        "oyveotesi_neighborhood_id": 45154
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇEĞİLLİ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-cegilli-koyu",
+        "oyveotesi_neighborhood_id": 45176
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇATALKÖPRÜ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-catalkopru-koyu",
+        "oyveotesi_neighborhood_id": 45146
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇATALDERE KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-cataldere-koyu",
+        "oyveotesi_neighborhood_id": 45187
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇAMLIÇATAK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-camlicatak-koyu",
+        "oyveotesi_neighborhood_id": 45164
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇALABAŞ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-calabas-koyu",
+        "oyveotesi_neighborhood_id": 45157
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ÇAĞLAYIK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-caglayik-koyu",
+        "oyveotesi_neighborhood_id": 45165
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "BÜYÜKSÜTLÜCE KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-buyuksutluce-koyu",
+        "oyveotesi_neighborhood_id": 45136
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "BİNBAŞAR KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-binbasar-koyu",
+        "oyveotesi_neighborhood_id": 45128
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "BEŞİKTAŞ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-besiktas-koyu",
+        "oyveotesi_neighborhood_id": 45172
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "BAYRAMOĞLU KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-bayramoglu-koyu",
+        "oyveotesi_neighborhood_id": 45183
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "BALIKÇILAR KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-balikcilar-koyu",
+        "oyveotesi_neighborhood_id": 45158
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "BAĞDAŞEN KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-bagdasen-koyu",
+        "oyveotesi_neighborhood_id": 45122
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ATATÜRK MAH.",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-ataturk-mah",
+        "oyveotesi_neighborhood_id": 45147
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "AŞAĞIKURTOĞLU KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-asagikurtoglu-koyu",
+        "oyveotesi_neighborhood_id": 45189
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ARDIÇDERE KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-ardicdere-koyu",
+        "oyveotesi_neighborhood_id": 45167
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ALTAŞ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-altas-koyu",
+        "oyveotesi_neighborhood_id": 45125
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "ALAGÖZ KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-alagoz-koyu",
+        "oyveotesi_neighborhood_id": 45166
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "AKYAKA KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-akyaka-koyu",
+        "oyveotesi_neighborhood_id": 45141
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "AĞZIPEK KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-agzipek-koyu",
+        "oyveotesi_neighborhood_id": 45188
+    },
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-merkez",
+        "mahalle": "AĞAÇLI KÖYÜ",
+        "ilce_adi": "ARDAHAN MERKEZ",
+        "mahalle_id": "ardahan-merkez-agacli-koyu",
+        "oyveotesi_neighborhood_id": 45182
+    }
+]

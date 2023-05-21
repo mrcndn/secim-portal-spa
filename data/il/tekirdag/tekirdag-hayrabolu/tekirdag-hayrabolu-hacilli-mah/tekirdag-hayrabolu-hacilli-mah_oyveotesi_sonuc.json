@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "tekirdag",
+        "il_adi": "TEKİRDAĞ",
+        "il_kodu": 59,
+        "ilce_id": "tekirdag-hayrabolu",
+        "mahalle": "HACILLI MAH.",
+        "ilce_adi": "HAYRABOLU",
+        "okul_adi": "HACILLI MAH. KAHVEHANESİ",
+        "sandik_no": 1035,
+        "mahalle_id": "tekirdag-hayrabolu-hacilli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368618
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 15
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tekirdag-tutanaklari/blob/main/tutanak/tekirdag/tekirdag-hayrabolu/1xxx/1035/tekirdag-hayrabolu-1035-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684368618
+        },
+        "secim_bolge_id": "tekirdag"
+    }
+]

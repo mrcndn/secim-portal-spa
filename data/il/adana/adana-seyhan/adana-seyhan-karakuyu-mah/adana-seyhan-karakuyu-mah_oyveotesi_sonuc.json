@@ -1,0 +1,77 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KARAKUYU MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT NASIF NAMLU İLKOKULU (KARAKUYU İLKOKULU)",
+        "sandik_no": 3272,
+        "mahalle_id": "adana-seyhan-karakuyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 193,
+            "sayim_sonuc": {
+                "TOPLAM": 193,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 9,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "ADALET VE KALKINMA PARTİSİ": 72,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3272/adana-seyhan-3272-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828871",
+            "oyveotesi_sync_timestamp": 1684370901
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 202,
+            "sayim_sonuc": {
+                "TOPLAM": 202,
+                "SİNAN OĞAN": 15,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 31,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3272/adana-seyhan-3272-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "828871",
+            "oyveotesi_sync_timestamp": 1684370901
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-seyhan",
+        "mahalle": "KARAKUYU MAH.",
+        "ilce_adi": "SEYHAN",
+        "okul_adi": "ŞEHİT NASIF NAMLU İLKOKULU (KARAKUYU İLKOKULU)",
+        "sandik_no": 3273,
+        "mahalle_id": "adana-seyhan-karakuyu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370901
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 207,
+            "sayim_sonuc": {
+                "TOPLAM": 207,
+                "SİNAN OĞAN": 40,
+                "KEMAL KILIÇDAROĞLU": 29,
+                "RECEP TAYYİP ERDOĞAN": 138
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-seyhan/3xxx/3273/adana-seyhan-3273-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684370901
+        },
+        "secim_bolge_id": "adana"
+    }
+]

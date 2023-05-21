@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-gordes",
+        "mahalle": "GÜLPINAR MAH.",
+        "ilce_adi": "GÖRDES",
+        "okul_adi": "GÜLPINAR MAHALLESİ KÖY KAHVESİ",
+        "sandik_no": 1044,
+        "mahalle_id": "manisa-gordes-gulpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 54,
+            "sayim_sonuc": {
+                "TOPLAM": 54,
+                "İYİ PARTİ": 4,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 23,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1044/manisa-gordes-1044-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569338",
+            "oyveotesi_sync_timestamp": 1684396675
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 20,
+                "RECEP TAYYİP ERDOĞAN": 35
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-gordes/1xxx/1044/manisa-gordes-1044-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "569338",
+            "oyveotesi_sync_timestamp": 1684396675
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

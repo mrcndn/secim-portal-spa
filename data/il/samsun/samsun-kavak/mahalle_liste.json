@@ -1,0 +1,912 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "19 MAYIS MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-19-mayis-mah",
+        "oyveotesi_neighborhood_id": 31537
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "AĞCAKİSE MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-agcakise-mah",
+        "oyveotesi_neighborhood_id": 31481
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "AHURLU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-ahurlu-mah",
+        "oyveotesi_neighborhood_id": 31497
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "AKBELEN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-akbelen-mah",
+        "oyveotesi_neighborhood_id": 31524
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ALAÇAM MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-alacam-mah",
+        "oyveotesi_neighborhood_id": 31506
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ALAGÖMLEK MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-alagomlek-mah",
+        "oyveotesi_neighborhood_id": 31498
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "AŞAĞIÇİRİŞLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-asagicirisli-mah",
+        "oyveotesi_neighborhood_id": 31467
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ATAYURT MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-atayurt-mah",
+        "oyveotesi_neighborhood_id": 31538
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "AZAKLI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-azakli-mah",
+        "oyveotesi_neighborhood_id": 31472
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BAHÇELİEVLER MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-bahcelievler-mah",
+        "oyveotesi_neighborhood_id": 31499
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BAŞALAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-basalan-mah",
+        "oyveotesi_neighborhood_id": 31461
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BAYINDIR MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-bayindir-mah",
+        "oyveotesi_neighborhood_id": 31482
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BAYRAKLI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-bayrakli-mah",
+        "oyveotesi_neighborhood_id": 31483
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BEKDEMİR MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-bekdemir-mah",
+        "oyveotesi_neighborhood_id": 31525
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BELALAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-belalan-mah",
+        "oyveotesi_neighborhood_id": 31539
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BEYBESLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-beybesli-mah",
+        "oyveotesi_neighborhood_id": 31455
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BEYKÖY MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-beykoy-mah",
+        "oyveotesi_neighborhood_id": 31521
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BOĞAZİÇİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-bogazici-mah",
+        "oyveotesi_neighborhood_id": 31507
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BÜKCEĞİZ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-bukcegiz-mah",
+        "oyveotesi_neighborhood_id": 31512
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "BÜYÜKÇUKUR MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-buyukcukur-mah",
+        "oyveotesi_neighborhood_id": 31475
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇAKALLI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-cakalli-mah",
+        "oyveotesi_neighborhood_id": 31477
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇALBAŞI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-calbasi-mah",
+        "oyveotesi_neighborhood_id": 31518
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇARIKLIBAŞI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-cariklibasi-mah",
+        "oyveotesi_neighborhood_id": 31466
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇATALTEPE MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-cataltepe-mah",
+        "oyveotesi_neighborhood_id": 31534
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇAYIRLI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-cayirli-mah",
+        "oyveotesi_neighborhood_id": 31519
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "CELALLI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-celalli-mah",
+        "oyveotesi_neighborhood_id": 31484
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇİÇEKYAZI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-cicekyazi-mah",
+        "oyveotesi_neighborhood_id": 31520
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇİĞDEM MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-cigdem-mah",
+        "oyveotesi_neighborhood_id": 31494
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇİVRİL MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-civril-mah",
+        "oyveotesi_neighborhood_id": 31478
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÇUKURBÜK MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-cukurbuk-mah",
+        "oyveotesi_neighborhood_id": 31515
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "DEĞİRMENCİLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-degirmencili-mah",
+        "oyveotesi_neighborhood_id": 31500
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "DEMİRCİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-demirci-mah",
+        "oyveotesi_neighborhood_id": 31490
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-derekoy-mah",
+        "oyveotesi_neighborhood_id": 31530
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "DİVANBAŞI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-divanbasi-mah",
+        "oyveotesi_neighborhood_id": 31491
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "DORUK MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-doruk-mah",
+        "oyveotesi_neighborhood_id": 31508
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "DUMAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-duman-mah",
+        "oyveotesi_neighborhood_id": 31516
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "DURA MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-dura-mah",
+        "oyveotesi_neighborhood_id": 31473
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "EMİRLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-emirli-mah",
+        "oyveotesi_neighborhood_id": 31531
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "GERMİYAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-germiyan-mah",
+        "oyveotesi_neighborhood_id": 31540
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "GÖÇEBE MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-gocebe-mah",
+        "oyveotesi_neighborhood_id": 31541
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "GÜNEYCE MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-guneyce-mah",
+        "oyveotesi_neighborhood_id": 31462
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "HACILI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-hacili-mah",
+        "oyveotesi_neighborhood_id": 31463
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "İDRİSLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-idrisli-mah",
+        "oyveotesi_neighborhood_id": 31504
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "İKİZDERE MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-ikizdere-mah",
+        "oyveotesi_neighborhood_id": 31523
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ILICAKÖY MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-ilicakoy-mah",
+        "oyveotesi_neighborhood_id": 31469
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KAPUHAYAT MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kapuhayat-mah",
+        "oyveotesi_neighborhood_id": 31456
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARAASLAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-karaaslan-mah",
+        "oyveotesi_neighborhood_id": 31509
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARACALAR MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-karacalar-mah",
+        "oyveotesi_neighborhood_id": 31526
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARADAĞ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-karadag-mah",
+        "oyveotesi_neighborhood_id": 31522
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARANTU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-karantu-mah",
+        "oyveotesi_neighborhood_id": 31510
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARAPINAR MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-karapinar-mah",
+        "oyveotesi_neighborhood_id": 31513
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARAYUSUFLU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-karayusuflu-mah",
+        "oyveotesi_neighborhood_id": 31542
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARLI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-karli-mah",
+        "oyveotesi_neighborhood_id": 31485
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KARTEPE MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kartepe-mah",
+        "oyveotesi_neighborhood_id": 31486
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KAYABAŞI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kayabasi-mah",
+        "oyveotesi_neighborhood_id": 31479
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KAYAKÖY MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kayakoy-mah",
+        "oyveotesi_neighborhood_id": 31470
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KAZANCI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kazanci-mah",
+        "oyveotesi_neighborhood_id": 31511
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KETHÜDA MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kethuda-mah",
+        "oyveotesi_neighborhood_id": 31457
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KÖSELİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-koseli-mah",
+        "oyveotesi_neighborhood_id": 31492
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KOZANSIKI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kozansiki-mah",
+        "oyveotesi_neighborhood_id": 31501
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KÜÇÜKÇUKUR MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kucukcukur-mah",
+        "oyveotesi_neighborhood_id": 31468
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KURŞUNLU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kursunlu-mah",
+        "oyveotesi_neighborhood_id": 31502
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "KUZALAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-kuzalan-mah",
+        "oyveotesi_neighborhood_id": 31480
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "MAHMUTBEYLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-mahmutbeyli-mah",
+        "oyveotesi_neighborhood_id": 31476
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "MAHMUTLU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-mahmutlu-mah",
+        "oyveotesi_neighborhood_id": 31458
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "MEHMETPAŞA MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-mehmetpasa-mah",
+        "oyveotesi_neighborhood_id": 31493
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "MERT MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-mert-mah",
+        "oyveotesi_neighborhood_id": 31474
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "MUHSİNLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-muhsinli-mah",
+        "oyveotesi_neighborhood_id": 31514
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "MURATBEYLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-muratbeyli-mah",
+        "oyveotesi_neighborhood_id": 31535
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ORTAKÖY MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-ortakoy-mah",
+        "oyveotesi_neighborhood_id": 31536
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "SARALAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-saralan-mah",
+        "oyveotesi_neighborhood_id": 31505
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ŞEYHLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-seyhli-mah",
+        "oyveotesi_neighborhood_id": 31454
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ŞEYHRESUL MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-seyhresul-mah",
+        "oyveotesi_neighborhood_id": 31543
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "SEYİTALİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-seyitali-mah",
+        "oyveotesi_neighborhood_id": 31532
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "SIRALI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-sirali-mah",
+        "oyveotesi_neighborhood_id": 31459
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "SOĞUKSU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-soguksu-mah",
+        "oyveotesi_neighborhood_id": 31527
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "SUSUZ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-susuz-mah",
+        "oyveotesi_neighborhood_id": 31528
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "TABAKLI MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-tabakli-mah",
+        "oyveotesi_neighborhood_id": 31529
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "TALIŞMAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-talisman-mah",
+        "oyveotesi_neighborhood_id": 31495
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "TATARMUSLU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-tatarmuslu-mah",
+        "oyveotesi_neighborhood_id": 31471
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "TEKKEKÖY MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-tekkekoy-mah",
+        "oyveotesi_neighborhood_id": 31487
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "TEPECİK MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-tepecik-mah",
+        "oyveotesi_neighborhood_id": 31460
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "TOPTEPE MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-toptepe-mah",
+        "oyveotesi_neighborhood_id": 31464
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "ÜÇHANLAR MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-uchanlar-mah",
+        "oyveotesi_neighborhood_id": 31489
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "YAŞAR DOĞU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-yasar-dogu-mah",
+        "oyveotesi_neighborhood_id": 31453
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "YENİCAMİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-yenicami-mah",
+        "oyveotesi_neighborhood_id": 31488
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "YENİGÜN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-yenigun-mah",
+        "oyveotesi_neighborhood_id": 31496
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "YERALAN MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-yeralan-mah",
+        "oyveotesi_neighborhood_id": 31465
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "YOSUNLU MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-yosunlu-mah",
+        "oyveotesi_neighborhood_id": 31503
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "YUKARIÇİRİŞLİ MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-yukaricirisli-mah",
+        "oyveotesi_neighborhood_id": 31533
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-kavak",
+        "mahalle": "YUKARI DEREKÖY MAH.",
+        "ilce_adi": "KAVAK",
+        "mahalle_id": "samsun-kavak-yukari-derekoy-mah",
+        "oyveotesi_neighborhood_id": 31517
+    }
+]

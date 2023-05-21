@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "kirsehir",
+        "il_adi": "KIRŞEHİR",
+        "il_kodu": 40,
+        "ilce_id": "kirsehir-kaman",
+        "mahalle": "KALE KÖYÜ",
+        "ilce_adi": "KAMAN",
+        "okul_adi": "KALE KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1081,
+        "mahalle_id": "kirsehir-kaman-kale-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 1,
+                "MİLLET PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 15,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirsehir-tutanaklari/blob/main/tutanak/kirsehir/kirsehir-kaman/1xxx/1081/kirsehir-kaman-1081-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175763",
+            "oyveotesi_sync_timestamp": 1684349446
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 38,
+            "sayim_sonuc": {
+                "TOPLAM": 38,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 18,
+                "RECEP TAYYİP ERDOĞAN": 17
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirsehir-tutanaklari/blob/main/tutanak/kirsehir/kirsehir-kaman/1xxx/1081/kirsehir-kaman-1081-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "175763",
+            "oyveotesi_sync_timestamp": 1684349446
+        },
+        "secim_bolge_id": "kirsehir"
+    }
+]

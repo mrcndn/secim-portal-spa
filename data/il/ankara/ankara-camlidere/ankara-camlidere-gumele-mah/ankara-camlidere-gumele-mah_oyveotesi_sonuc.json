@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-camlidere",
+        "mahalle": "GÜMELE MAH.",
+        "ilce_adi": "ÇAMLIDERE",
+        "okul_adi": "GÜMELE MAHALLE ODASI",
+        "sandik_no": 1026,
+        "mahalle_id": "ankara-camlidere-gumele-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 50,
+            "sayim_sonuc": {
+                "TOPLAM": 50,
+                "İYİ PARTİ": 12,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "501130",
+            "oyveotesi_sync_timestamp": 1684393315
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 53,
+            "sayim_sonuc": {
+                "TOPLAM": 53,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 14,
+                "RECEP TAYYİP ERDOĞAN": 36
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "501130",
+            "oyveotesi_sync_timestamp": 1684393315
+        },
+        "secim_bolge_id": "ankara2"
+    }
+]

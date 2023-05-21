@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-havza",
+        "mahalle": "AŞAĞI YAVUCAK MAH.",
+        "ilce_adi": "HAVZA",
+        "okul_adi": "AŞAĞIYAVUCAK MAHALLESİ İLKOKULU",
+        "sandik_no": 1014,
+        "mahalle_id": "samsun-havza-asagi-yavucak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 24,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 80,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1014/samsun-havza-1014-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "623967",
+            "oyveotesi_sync_timestamp": 1684367644
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 208,
+            "sayim_sonuc": {
+                "TOPLAM": 208,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 28,
+                "RECEP TAYYİP ERDOĞAN": 171
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-havza/1xxx/1014/samsun-havza-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "623967",
+            "oyveotesi_sync_timestamp": 1684367644
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "mus",
+        "il_adi": "MUŞ",
+        "il_kodu": 49,
+        "ilce_id": "mus-merkez",
+        "mahalle": "YAZLA KÖYÜ",
+        "ilce_adi": "MUŞ MERKEZ",
+        "okul_adi": "YAZLA KÖYÜ İLK OKULU",
+        "sandik_no": 1388,
+        "mahalle_id": "mus-merkez-yazla-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 232,
+            "sayim_sonuc": {
+                "TOPLAM": 232,
+                "İYİ PARTİ": 4,
+                "ANAVATAN PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 182
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1388/mus-merkez-1388-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "795811",
+            "oyveotesi_sync_timestamp": 1684393978
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 236,
+            "sayim_sonuc": {
+                "TOPLAM": 236,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 204,
+                "RECEP TAYYİP ERDOĞAN": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mus-tutanaklari/blob/main/tutanak/mus/mus-merkez/1xxx/1388/mus-merkez-1388-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "795811",
+            "oyveotesi_sync_timestamp": 1684393978
+        },
+        "secim_bolge_id": "mus"
+    }
+]

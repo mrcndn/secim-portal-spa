@@ -1,0 +1,38 @@
+[
+    {
+        "il_id": "bolu",
+        "il_adi": "BOLU",
+        "il_kodu": 14,
+        "ilce_id": "bolu-yenicaga",
+        "mahalle": "KINDIRA KÖYÜ",
+        "ilce_adi": "YENİÇAĞA",
+        "okul_adi": "KINDIRA KÖY ODASI",
+        "sandik_no": 1023,
+        "mahalle_id": "bolu-yenicaga-kindira-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 74,
+            "sayim_sonuc": {
+                "TOPLAM": 74,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 5,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 33,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-bolu-tutanaklari/blob/main/tutanak/bolu/bolu-yenicaga/1xxx/1023/bolu-yenicaga-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "602805",
+            "oyveotesi_sync_timestamp": 1684334290
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "602805",
+            "oyveotesi_sync_timestamp": 1684334290
+        },
+        "secim_bolge_id": "bolu"
+    }
+]

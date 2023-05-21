@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-bornova",
+        "mahalle": "GÖKDERE MAH.",
+        "ilce_adi": "BORNOVA",
+        "okul_adi": "GÖKDERE KÖY İLKOKULU",
+        "sandik_no": 1280,
+        "mahalle_id": "izmir-bornova-gokdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 15,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 190,
+                "ADALET VE KALKINMA PARTİSİ": 37,
+                "TÜRKİYE İŞÇİ PARTİSİ": 41,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 6
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "731409",
+            "oyveotesi_sync_timestamp": 1684362361
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 315,
+            "sayim_sonuc": {
+                "TOPLAM": 315,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 263,
+                "RECEP TAYYİP ERDOĞAN": 43
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "731409",
+            "oyveotesi_sync_timestamp": 1684362361
+        },
+        "secim_bolge_id": "izmir2"
+    }
+]

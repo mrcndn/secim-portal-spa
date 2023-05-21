@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-merkez",
+        "mahalle": "OLUCAK KÖYÜ",
+        "ilce_adi": "AFYONKARAHİSAR MERKEZ",
+        "okul_adi": "OLUCAK KÖYÜ İLKOKULU",
+        "sandik_no": 2300,
+        "mahalle_id": "afyonkarahisar-merkez-olucak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324608
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 142,
+            "sayim_sonuc": {
+                "TOPLAM": 142,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 22,
+                "RECEP TAYYİP ERDOĞAN": 113
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-merkez/2xxx/2300/afyonkarahisar-merkez-2300-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684324608
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

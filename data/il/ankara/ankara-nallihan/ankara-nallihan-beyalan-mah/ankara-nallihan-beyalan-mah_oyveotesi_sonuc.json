@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "BEYALAN MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "BEYALAN MAHALLESİ KONAĞI",
+        "sandik_no": 1025,
+        "mahalle_id": "ankara-nallihan-beyalan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 39,
+            "sayim_sonuc": {
+                "TOPLAM": 39,
+                "İYİ PARTİ": 6,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 17,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "600402",
+            "oyveotesi_sync_timestamp": 1684376055
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 40,
+            "sayim_sonuc": {
+                "TOPLAM": 40,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "600402",
+            "oyveotesi_sync_timestamp": 1684376055
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-tavsanli",
+        "mahalle": "ALİKÖY",
+        "ilce_adi": "TAVŞANLI",
+        "okul_adi": "ALİKÖY İİLKOKULU",
+        "sandik_no": 1198,
+        "mahalle_id": "kutahya-tavsanli-alikoy",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 349,
+            "sayim_sonuc": {
+                "TOPLAM": 349,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 0,
+                "İYİ PARTİ": 9,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 19,
+                "BÜYÜK BİRLİK PARTİSİ": 14,
+                "CUMHURİYET HALK PARTİSİ": 95,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 159,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1198/kutahya-tavsanli-1198-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "667118",
+            "oyveotesi_sync_timestamp": 1684350687
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 357,
+            "sayim_sonuc": {
+                "TOPLAM": 357,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 108,
+                "RECEP TAYYİP ERDOĞAN": 241
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-tavsanli/1xxx/1198/kutahya-tavsanli-1198-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "667118",
+            "oyveotesi_sync_timestamp": 1684350687
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

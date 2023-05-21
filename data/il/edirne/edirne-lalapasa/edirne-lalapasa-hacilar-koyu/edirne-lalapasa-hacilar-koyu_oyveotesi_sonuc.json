@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-lalapasa",
+        "mahalle": "HACILAR KÖYÜ",
+        "ilce_adi": "LALAPAŞA",
+        "okul_adi": "KÖY KAHVESİ",
+        "sandik_no": 1014,
+        "mahalle_id": "edirne-lalapasa-hacilar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338530
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 57,
+            "sayim_sonuc": {
+                "TOPLAM": 57,
+                "SİNAN OĞAN": 6,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 32
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-lalapasa/1xxx/1014/edirne-lalapasa-1014-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338530
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-efeler",
+        "mahalle": "ÇİFTLİKKÖY MAH.",
+        "ilce_adi": "EFELER",
+        "okul_adi": "ÇİFTLİKKÖY KAHVESİ",
+        "sandik_no": 1092,
+        "mahalle_id": "aydin-efeler-ciftlikkoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 139,
+            "sayim_sonuc": {
+                "TOPLAM": 139,
+                "İYİ PARTİ": 12,
+                "VATAN PARTİSİ": 2,
+                "ZAFER PARTİSİ": 13,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 28,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-efeler/1xxx/1092/aydin-efeler-1092-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "183688",
+            "oyveotesi_sync_timestamp": 1684394783
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "SİNAN OĞAN": 17,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-efeler/1xxx/1092/aydin-efeler-1092-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "183688",
+            "oyveotesi_sync_timestamp": 1684394783
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-suhut",
+        "mahalle": "OYNAĞAN KÖYÜ",
+        "ilce_adi": "ŞUHUT",
+        "okul_adi": "OYNAĞAN İLKOKULU",
+        "sandik_no": 1090,
+        "mahalle_id": "afyonkarahisar-suhut-oynagan-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 155,
+            "sayim_sonuc": {
+                "TOPLAM": 155,
+                "İYİ PARTİ": 11,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 92,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-suhut/1xxx/1090/afyonkarahisar-suhut-1090-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "833051",
+            "oyveotesi_sync_timestamp": 1684328975
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "833051",
+            "oyveotesi_sync_timestamp": 1684328975
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

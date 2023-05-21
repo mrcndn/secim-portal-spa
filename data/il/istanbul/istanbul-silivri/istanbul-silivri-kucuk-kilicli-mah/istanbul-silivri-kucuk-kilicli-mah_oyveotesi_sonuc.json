@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "istanbul",
+        "il_adi": "İSTANBUL",
+        "il_kodu": 34,
+        "ilce_id": "istanbul-silivri",
+        "mahalle": "KÜÇÜK KILIÇLI MAH.",
+        "ilce_adi": "SİLİVRİ",
+        "okul_adi": "KÜÇÜKKILIÇLI KÖY YAŞAM MERKEZİ",
+        "sandik_no": 1180,
+        "mahalle_id": "istanbul-silivri-kucuk-kilicli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 249,
+            "sayim_sonuc": {
+                "TOPLAM": 249,
+                "GENÇ PARTİ": 2,
+                "İYİ PARTİ": 28,
+                "VATAN PARTİSİ": 5,
+                "ZAFER PARTİSİ": 6,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 110,
+                "ADALET VE KALKINMA PARTİSİ": 61,
+                "TÜRKİYE İŞÇİ PARTİSİ": 12,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 16,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "732996",
+            "oyveotesi_sync_timestamp": 1684345173
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 156,
+                "RECEP TAYYİP ERDOĞAN": 86
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "732996",
+            "oyveotesi_sync_timestamp": 1684345173
+        },
+        "secim_bolge_id": "istanbul3"
+    }
+]

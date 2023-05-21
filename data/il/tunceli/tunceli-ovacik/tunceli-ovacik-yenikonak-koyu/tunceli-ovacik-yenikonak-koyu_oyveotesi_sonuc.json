@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "tunceli",
+        "il_adi": "TUNCELİ",
+        "il_kodu": 62,
+        "ilce_id": "tunceli-ovacik",
+        "mahalle": "YENİKONAK KÖYÜ",
+        "ilce_adi": "OVACIK",
+        "okul_adi": "YEŞİLYAZI HOCA AHMET YESEVİ YATILI BÖLGE OKULU 1",
+        "sandik_no": 1039,
+        "mahalle_id": "tunceli-ovacik-yenikonak-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "CUMHURİYET HALK PARTİSİ": 17,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-ovacik/1xxx/1039/tunceli-ovacik-1039-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837230",
+            "oyveotesi_sync_timestamp": 1684361439
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 27,
+            "sayim_sonuc": {
+                "TOPLAM": 27,
+                "KEMAL KILIÇDAROĞLU": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tunceli-tutanaklari/blob/main/tutanak/tunceli/tunceli-ovacik/1xxx/1039/tunceli-ovacik-1039-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "837230",
+            "oyveotesi_sync_timestamp": 1684361439
+        },
+        "secim_bolge_id": "tunceli"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "NALBANTOĞLU MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "NALBANTOĞLU MAH. HÜRRİYET ORTAOKULU",
+        "sandik_no": 1296,
+        "mahalle_id": "duzce-merkez-nalbantoglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338115
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338115
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "NALBANTOĞLU MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "NALBANTOĞLU MAH. HÜRRİYET ORTAOKULU",
+        "sandik_no": 1297,
+        "mahalle_id": "duzce-merkez-nalbantoglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 6,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 169,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1297/duzce-merkez-1297-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "728015",
+            "oyveotesi_sync_timestamp": 1684338115
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "728015",
+            "oyveotesi_sync_timestamp": 1684338115
+        },
+        "secim_bolge_id": "duzce"
+    },
+    {
+        "il_id": "duzce",
+        "il_adi": "DÜZCE",
+        "il_kodu": 81,
+        "ilce_id": "duzce-merkez",
+        "mahalle": "NALBANTOĞLU MAH.",
+        "ilce_adi": "DÜZCE MERKEZ",
+        "okul_adi": "NALBANTOĞLU MAH. HÜRRİYET ORTAOKULU",
+        "sandik_no": 1295,
+        "mahalle_id": "duzce-merkez-nalbantoglu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 7,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 44,
+                "ADALET VE KALKINMA PARTİSİ": 149,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 39,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1295/duzce-merkez-1295-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "726418",
+            "oyveotesi_sync_timestamp": 1684338115
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 256,
+            "sayim_sonuc": {
+                "TOPLAM": 256,
+                "SİNAN OĞAN": 12,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 195
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-duzce-tutanaklari/blob/main/tutanak/duzce/duzce-merkez/1xxx/1295/duzce-merkez-1295-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "726418",
+            "oyveotesi_sync_timestamp": 1684338115
+        },
+        "secim_bolge_id": "duzce"
+    }
+]

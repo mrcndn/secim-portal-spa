@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-hayrat",
+        "mahalle": "YIRCA MAH.",
+        "ilce_adi": "HAYRAT",
+        "okul_adi": "YIRCA ÇAY AMBARI",
+        "sandik_no": 1040,
+        "mahalle_id": "trabzon-hayrat-yirca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 31,
+            "sayim_sonuc": {
+                "TOPLAM": 31,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 5
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-hayrat/1xxx/1040/trabzon-hayrat-1040-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "612154",
+            "oyveotesi_sync_timestamp": 1684366057
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "SİNAN OĞAN": 1,
+                "KEMAL KILIÇDAROĞLU": 5,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-hayrat/1xxx/1040/trabzon-hayrat-1040-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "612154",
+            "oyveotesi_sync_timestamp": 1684366057
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

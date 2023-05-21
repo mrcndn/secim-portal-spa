@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-cine",
+        "mahalle": "AKDAM MAH.",
+        "ilce_adi": "ÇİNE",
+        "okul_adi": "AKDAM MAHALLESİ KÖY KAHVEHANESİ",
+        "sandik_no": 1006,
+        "mahalle_id": "aydin-cine-akdam-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394219
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 47,
+            "sayim_sonuc": {
+                "TOPLAM": 47,
+                "SİNAN OĞAN": 2,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-cine/1xxx/1006/aydin-cine-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684394219
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

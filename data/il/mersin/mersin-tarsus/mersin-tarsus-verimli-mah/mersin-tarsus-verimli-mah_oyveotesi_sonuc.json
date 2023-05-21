@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-tarsus",
+        "mahalle": "VERİMLİ MAH.",
+        "ilce_adi": "TARSUS",
+        "okul_adi": "VERİMLİ MAH. OKUL BİNASI",
+        "sandik_no": 2178,
+        "mahalle_id": "mersin-tarsus-verimli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "GÜÇ BİRLİĞİ PARTİSİ": 17,
+                "ADALET VE KALKINMA PARTİSİ": 39,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 13,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2178/mersin-tarsus-2178-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "656987",
+            "oyveotesi_sync_timestamp": 1684363660
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 83,
+            "sayim_sonuc": {
+                "TOPLAM": 83,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 25,
+                "RECEP TAYYİP ERDOĞAN": 56
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-tarsus/2xxx/2178/mersin-tarsus-2178-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "656987",
+            "oyveotesi_sync_timestamp": 1684363660
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

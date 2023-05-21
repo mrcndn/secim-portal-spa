@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-alacam",
+        "mahalle": "GÜVENLİ MAH.",
+        "ilce_adi": "ALAÇAM",
+        "okul_adi": "GÜVENLİ MERKEZ İLKÖĞRETİM OKULU",
+        "sandik_no": 1036,
+        "mahalle_id": "samsun-alacam-guvenli-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 110,
+            "sayim_sonuc": {
+                "TOPLAM": 110,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "ADALET VE KALKINMA PARTİSİ": 56,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-alacam/1xxx/1036/samsun-alacam-1036-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "651600",
+            "oyveotesi_sync_timestamp": 1684367078
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 116,
+            "sayim_sonuc": {
+                "TOPLAM": 116,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 87
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-alacam/1xxx/1036/samsun-alacam-1036-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "651600",
+            "oyveotesi_sync_timestamp": 1684367078
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

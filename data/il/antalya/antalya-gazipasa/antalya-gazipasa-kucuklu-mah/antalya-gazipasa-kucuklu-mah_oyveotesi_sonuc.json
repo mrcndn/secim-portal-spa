@@ -1,0 +1,98 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-gazipasa",
+        "mahalle": "KÜÇÜKLÜ MAH.",
+        "ilce_adi": "GAZİPAŞA",
+        "okul_adi": "KÜÇÜKLÜ İLKOKULU",
+        "sandik_no": 1098,
+        "mahalle_id": "antalya-gazipasa-kucuklu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 12,
+                "MİLLET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 45,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 62,
+                "TÜRKİYE İŞÇİ PARTİSİ": 14,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1098/antalya-gazipasa-1098-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "468955",
+            "oyveotesi_sync_timestamp": 1684325734
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 174,
+            "sayim_sonuc": {
+                "TOPLAM": 174,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 4,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 93
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1098/antalya-gazipasa-1098-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "468955",
+            "oyveotesi_sync_timestamp": 1684325734
+        },
+        "secim_bolge_id": "antalya"
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-gazipasa",
+        "mahalle": "KÜÇÜKLÜ MAH.",
+        "ilce_adi": "GAZİPAŞA",
+        "okul_adi": "KÜÇÜKLÜ İLKOKULU",
+        "sandik_no": 1099,
+        "mahalle_id": "antalya-gazipasa-kucuklu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 179,
+            "sayim_sonuc": {
+                "TOPLAM": 179,
+                "İYİ PARTİ": 18,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 54,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 38
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1099/antalya-gazipasa-1099-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "468949",
+            "oyveotesi_sync_timestamp": 1684325734
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 195,
+            "sayim_sonuc": {
+                "TOPLAM": 195,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 80,
+                "RECEP TAYYİP ERDOĞAN": 98
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-gazipasa/1xxx/1099/antalya-gazipasa-1099-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "468949",
+            "oyveotesi_sync_timestamp": 1684325734
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

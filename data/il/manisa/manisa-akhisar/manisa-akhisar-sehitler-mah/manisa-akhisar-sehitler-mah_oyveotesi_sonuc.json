@@ -1,0 +1,45 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-akhisar",
+        "mahalle": "ŞEHİTLER MAH.",
+        "ilce_adi": "AKHİSAR",
+        "okul_adi": "ŞEHİTLER KÖYÜ CAMİ DEPOSU",
+        "sandik_no": 1381,
+        "mahalle_id": "manisa-akhisar-sehitler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 105,
+            "sayim_sonuc": {
+                "TOPLAM": 105,
+                "İYİ PARTİ": 12,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 67,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1381/manisa-akhisar-1381-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199601",
+            "oyveotesi_sync_timestamp": 1684397364
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 106,
+            "sayim_sonuc": {
+                "TOPLAM": 106,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 73
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-akhisar/1xxx/1381/manisa-akhisar-1381-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "199601",
+            "oyveotesi_sync_timestamp": 1684397364
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

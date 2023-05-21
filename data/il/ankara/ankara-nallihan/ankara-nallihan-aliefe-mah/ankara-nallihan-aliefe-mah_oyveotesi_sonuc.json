@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "ankara",
+        "il_adi": "ANKARA",
+        "il_kodu": 6,
+        "ilce_id": "ankara-nallihan",
+        "mahalle": "ALİEFE MAH.",
+        "ilce_adi": "NALLIHAN",
+        "okul_adi": "ALİEFE MAHALLESİ KONAĞI",
+        "sandik_no": 1012,
+        "mahalle_id": "ankara-nallihan-aliefe-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 32,
+            "sayim_sonuc": {
+                "TOPLAM": 32,
+                "ADALET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 22,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "599750",
+            "oyveotesi_sync_timestamp": 1684376133
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 31,
+            "sayim_sonuc": {
+                "TOPLAM": 31,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 4,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "599750",
+            "oyveotesi_sync_timestamp": 1684376133
+        },
+        "secim_bolge_id": "ankara3"
+    }
+]

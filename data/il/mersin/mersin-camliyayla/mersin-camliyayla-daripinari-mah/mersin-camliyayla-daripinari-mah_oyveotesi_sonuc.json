@@ -1,0 +1,93 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-camliyayla",
+        "mahalle": "DARIPINARI MAH.",
+        "ilce_adi": "ÇAMLIYAYLA",
+        "okul_adi": "DARIPINARI-ŞEHİT OĞUZHAN SEZER YİBO",
+        "sandik_no": 1009,
+        "mahalle_id": "mersin-camliyayla-daripinari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 231,
+            "sayim_sonuc": {
+                "TOPLAM": 231,
+                "SOL PARTİ": 0,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 32,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "ADALET BİRLİK PARTİSİ": 0,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 21,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 82,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-camliyayla/1xxx/1009/mersin-camliyayla-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "427973",
+            "oyveotesi_sync_timestamp": 1684363789
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "427973",
+            "oyveotesi_sync_timestamp": 1684363789
+        },
+        "secim_bolge_id": "mersin"
+    },
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-camliyayla",
+        "mahalle": "DARIPINARI MAH.",
+        "ilce_adi": "ÇAMLIYAYLA",
+        "okul_adi": "DARIPINARI-ŞEHİT OĞUZHAN SEZER YİBO",
+        "sandik_no": 1008,
+        "mahalle_id": "mersin-camliyayla-daripinari-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 40,
+                "MEMLEKET PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 27,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 75
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-camliyayla/1xxx/1008/mersin-camliyayla-1008-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "427013",
+            "oyveotesi_sync_timestamp": 1684363789
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 64,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-camliyayla/1xxx/1008/mersin-camliyayla-1008-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "427013",
+            "oyveotesi_sync_timestamp": 1684363789
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

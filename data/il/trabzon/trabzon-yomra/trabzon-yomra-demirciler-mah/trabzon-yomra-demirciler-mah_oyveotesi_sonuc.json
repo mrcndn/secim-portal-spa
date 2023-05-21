@@ -1,0 +1,74 @@
+[
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-yomra",
+        "mahalle": "DEMİRCİLER MAH.",
+        "ilce_adi": "YOMRA",
+        "okul_adi": "DEMİRCİLER 1 NOLU İLKÖĞRETİM OKULU",
+        "sandik_no": 1006,
+        "mahalle_id": "trabzon-yomra-demirciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 135,
+            "sayim_sonuc": {
+                "TOPLAM": 135,
+                "İYİ PARTİ": 25,
+                "YENİDEN REFAH PARTİSİ": 8,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 84,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-yomra/1xxx/1006/trabzon-yomra-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832887",
+            "oyveotesi_sync_timestamp": 1684374197
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "SİNAN OĞAN": 3,
+                "KEMAL KILIÇDAROĞLU": 24,
+                "RECEP TAYYİP ERDOĞAN": 110
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-yomra/1xxx/1006/trabzon-yomra-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "832887",
+            "oyveotesi_sync_timestamp": 1684374197
+        },
+        "secim_bolge_id": "trabzon"
+    },
+    {
+        "il_id": "trabzon",
+        "il_adi": "TRABZON",
+        "il_kodu": 61,
+        "ilce_id": "trabzon-yomra",
+        "mahalle": "DEMİRCİLER MAH.",
+        "ilce_adi": "YOMRA",
+        "okul_adi": "DEMİRCİLER 2 NOLU İLKÖĞRETİM OKULU",
+        "sandik_no": 1007,
+        "mahalle_id": "trabzon-yomra-demirciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374197
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 158,
+            "sayim_sonuc": {
+                "TOPLAM": 158,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 11,
+                "RECEP TAYYİP ERDOĞAN": 144
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-trabzon-tutanaklari/blob/main/tutanak/trabzon/trabzon-yomra/1xxx/1007/trabzon-yomra-1007-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684374197
+        },
+        "secim_bolge_id": "trabzon"
+    }
+]

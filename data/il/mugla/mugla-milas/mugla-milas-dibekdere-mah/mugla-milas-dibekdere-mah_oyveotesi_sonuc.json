@@ -1,0 +1,49 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-milas",
+        "mahalle": "DİBEKDERE MAH.",
+        "ilce_adi": "MİLAS",
+        "okul_adi": "DİBEKDERE İLKOKULU",
+        "sandik_no": 1144,
+        "mahalle_id": "mugla-milas-dibekdere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 271,
+            "sayim_sonuc": {
+                "TOPLAM": 271,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 44,
+                "ADALET PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 85,
+                "ADALET VE KALKINMA PARTİSİ": 111,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 11,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1144/mugla-milas-1144-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "787483",
+            "oyveotesi_sync_timestamp": 1684374496
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 7,
+                "KEMAL KILIÇDAROĞLU": 142,
+                "RECEP TAYYİP ERDOĞAN": 131
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-milas/1xxx/1144/mugla-milas-1144-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "787483",
+            "oyveotesi_sync_timestamp": 1684374496
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "balikesir",
+        "il_adi": "BALIKESİR",
+        "il_kodu": 10,
+        "ilce_id": "balikesir-bandirma",
+        "mahalle": "DEDEOBA MAH.",
+        "ilce_adi": "BANDIRMA",
+        "okul_adi": "DEDEOBA KÖY OKULU",
+        "sandik_no": 1118,
+        "mahalle_id": "balikesir-bandirma-dedeoba-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 312,
+            "sayim_sonuc": {
+                "TOPLAM": 312,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 29,
+                "ZAFER PARTİSİ": 1,
+                "ADALET PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 195,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 3,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bandirma/1xxx/1118/balikesir-bandirma-1118-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750869",
+            "oyveotesi_sync_timestamp": 1684331467
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 3,
+                "KEMAL KILIÇDAROĞLU": 65,
+                "RECEP TAYYİP ERDOĞAN": 244
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-balikesir-tutanaklari/blob/main/tutanak/balikesir/balikesir-bandirma/1xxx/1118/balikesir-bandirma-1118-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "750869",
+            "oyveotesi_sync_timestamp": 1684331467
+        },
+        "secim_bolge_id": "balikesir"
+    }
+]

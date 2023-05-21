@@ -1,0 +1,83 @@
+[
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-golcuk",
+        "mahalle": "ÖRCÜN MAH.",
+        "ilce_adi": "GÖLCÜK",
+        "okul_adi": "ÖRCÜN KÖY ODASI",
+        "sandik_no": 1217,
+        "mahalle_id": "kocaeli-golcuk-orcun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349791
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 319,
+            "sayim_sonuc": {
+                "TOPLAM": 319,
+                "SİNAN OĞAN": 28,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 156,
+                "RECEP TAYYİP ERDOĞAN": 135
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-golcuk/1xxx/1217/kocaeli-golcuk-1217-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684349791
+        },
+        "secim_bolge_id": "kocaeli"
+    },
+    {
+        "il_id": "kocaeli",
+        "il_adi": "KOCAELİ",
+        "il_kodu": 41,
+        "ilce_id": "kocaeli-golcuk",
+        "mahalle": "ÖRCÜN MAH.",
+        "ilce_adi": "GÖLCÜK",
+        "okul_adi": "ÖRCÜN KÖY ODASI",
+        "sandik_no": 1218,
+        "mahalle_id": "kocaeli-golcuk-orcun-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 335,
+            "sayim_sonuc": {
+                "TOPLAM": 335,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 43,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 17,
+                "ADALET PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 12,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 93,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 122,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 25,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-golcuk/1xxx/1218/kocaeli-golcuk-1218-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "294264",
+            "oyveotesi_sync_timestamp": 1684349791
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 338,
+            "sayim_sonuc": {
+                "TOPLAM": 338,
+                "SİNAN OĞAN": 25,
+                "KEMAL KILIÇDAROĞLU": 146,
+                "RECEP TAYYİP ERDOĞAN": 167
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kocaeli-tutanaklari/blob/main/tutanak/kocaeli/kocaeli-golcuk/1xxx/1218/kocaeli-golcuk-1218-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "294264",
+            "oyveotesi_sync_timestamp": 1684349791
+        },
+        "secim_bolge_id": "kocaeli"
+    }
+]

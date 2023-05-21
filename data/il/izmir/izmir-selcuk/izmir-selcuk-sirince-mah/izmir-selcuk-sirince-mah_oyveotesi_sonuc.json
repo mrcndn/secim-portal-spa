@@ -1,0 +1,78 @@
+[
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-selcuk",
+        "mahalle": "ŞİRİNCE MAH.",
+        "ilce_adi": "SELÇUK",
+        "okul_adi": "ŞİRİNCE MAH-B.S. İLKÖĞRETİM OKULU.",
+        "sandik_no": 1072,
+        "mahalle_id": "izmir-selcuk-sirince-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 164,
+            "sayim_sonuc": {
+                "TOPLAM": 164,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 3,
+                "MEMLEKET PARTİSİ": 5,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 84,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 10,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 9
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "230059",
+            "oyveotesi_sync_timestamp": 1684363037
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 125,
+                "RECEP TAYYİP ERDOĞAN": 46
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "230059",
+            "oyveotesi_sync_timestamp": 1684363037
+        },
+        "secim_bolge_id": "izmir1"
+    },
+    {
+        "il_id": "izmir",
+        "il_adi": "İZMİR",
+        "il_kodu": 35,
+        "ilce_id": "izmir-selcuk",
+        "mahalle": "ŞİRİNCE MAH.",
+        "ilce_adi": "SELÇUK",
+        "okul_adi": "ŞİRİNCE MAH-B.S. İLKÖĞRETİM OKULU.",
+        "sandik_no": 1073,
+        "mahalle_id": "izmir-selcuk-sirince-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363037
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 173,
+            "sayim_sonuc": {
+                "TOPLAM": 173,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 124,
+                "RECEP TAYYİP ERDOĞAN": 40
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363037
+        },
+        "secim_bolge_id": "izmir1"
+    }
+]

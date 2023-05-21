@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "ERİKLİMANI KÖYÜ",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "ERİKLİMAN KÖYÜ -YENİ KÖY KONAĞI (MERKEZ CAMİ YANI)",
+        "sandik_no": 1289,
+        "mahalle_id": "giresun-merkez-eriklimani-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343102
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 66,
+                "RECEP TAYYİP ERDOĞAN": 157
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-giresun-tutanaklari/blob/main/tutanak/giresun/giresun-merkez/1xxx/1289/giresun-merkez-1289-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343102
+        },
+        "secim_bolge_id": "giresun"
+    },
+    {
+        "il_id": "giresun",
+        "il_adi": "GİRESUN",
+        "il_kodu": 28,
+        "ilce_id": "giresun-merkez",
+        "mahalle": "ERİKLİMANI KÖYÜ",
+        "ilce_adi": "GİRESUN MERKEZ",
+        "okul_adi": "ERİKLİMAN KÖYÜ -YENİ KÖY KONAĞI (MERKEZ CAMİ YANI)",
+        "sandik_no": 1288,
+        "mahalle_id": "giresun-merkez-eriklimani-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343102
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684343102
+        },
+        "secim_bolge_id": "giresun"
+    }
+]

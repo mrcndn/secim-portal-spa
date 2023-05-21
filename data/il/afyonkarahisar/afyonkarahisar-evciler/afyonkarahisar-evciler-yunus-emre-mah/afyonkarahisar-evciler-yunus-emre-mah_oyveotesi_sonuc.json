@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "afyonkarahisar",
+        "il_adi": "AFYONKARAHİSAR",
+        "il_kodu": 3,
+        "ilce_id": "afyonkarahisar-evciler",
+        "mahalle": "YUNUS EMRE MAH.",
+        "ilce_adi": "EVCİLER",
+        "okul_adi": "ŞEHİT HÜDAİ ÇINAR ORTAOKULU - YUNUS EMRE MH.",
+        "sandik_no": 1009,
+        "mahalle_id": "afyonkarahisar-evciler-yunus-emre-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 213,
+            "sayim_sonuc": {
+                "TOPLAM": 213,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 79,
+                "ADALET VE KALKINMA PARTİSİ": 78,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 27
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-afyonkarahisar-tutanaklari/blob/main/tutanak/afyonkarahisar/afyonkarahisar-evciler/1xxx/1009/afyonkarahisar-evciler-1009-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "761663",
+            "oyveotesi_sync_timestamp": 1684324870
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "761663",
+            "oyveotesi_sync_timestamp": 1684324870
+        },
+        "secim_bolge_id": "afyonkarahisar"
+    }
+]

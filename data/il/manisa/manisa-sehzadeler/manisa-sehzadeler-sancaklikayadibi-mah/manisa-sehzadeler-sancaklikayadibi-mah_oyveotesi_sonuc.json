@@ -1,0 +1,33 @@
+[
+    {
+        "il_id": "manisa",
+        "il_adi": "MANİSA",
+        "il_kodu": 45,
+        "ilce_id": "manisa-sehzadeler",
+        "mahalle": "SANCAKLIKAYADİBİ MAH.",
+        "ilce_adi": "ŞEHZADELER",
+        "okul_adi": "SANCAKLIKAYADİBİ OKUMA VE OTURMA SALONU",
+        "sandik_no": 1272,
+        "mahalle_id": "manisa-sehzadeler-sancaklikayadibi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396871
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 118,
+            "sayim_sonuc": {
+                "TOPLAM": 118,
+                "SİNAN OĞAN": 10,
+                "KEMAL KILIÇDAROĞLU": 43,
+                "RECEP TAYYİP ERDOĞAN": 65
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-manisa-tutanaklari/blob/main/tutanak/manisa/manisa-sehzadeler/1xxx/1272/manisa-sehzadeler-1272-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684396871
+        },
+        "secim_bolge_id": "manisa"
+    }
+]

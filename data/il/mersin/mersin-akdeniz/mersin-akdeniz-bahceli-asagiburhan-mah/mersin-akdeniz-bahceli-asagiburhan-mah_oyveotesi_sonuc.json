@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "mersin",
+        "il_adi": "MERSİN",
+        "il_kodu": 33,
+        "ilce_id": "mersin-akdeniz",
+        "mahalle": "BAHÇELİ AŞAĞIBURHAN MAH.",
+        "ilce_adi": "AKDENİZ",
+        "okul_adi": "PROF.DR.HİKMET AKKIZ İLKOKULU",
+        "sandik_no": 2032,
+        "mahalle_id": "mersin-akdeniz-bahceli-asagiburhan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363831
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 324,
+            "sayim_sonuc": {
+                "TOPLAM": 324,
+                "SİNAN OĞAN": 19,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 175
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mersin-tutanaklari/blob/main/tutanak/mersin/mersin-akdeniz/2xxx/2032/mersin-akdeniz-2032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684363831
+        },
+        "secim_bolge_id": "mersin"
+    }
+]

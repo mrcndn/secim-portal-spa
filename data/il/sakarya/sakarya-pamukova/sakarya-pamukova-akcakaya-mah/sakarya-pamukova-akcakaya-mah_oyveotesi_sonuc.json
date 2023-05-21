@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-pamukova",
+        "mahalle": "AKÇAKAYA MAH.",
+        "ilce_adi": "PAMUKOVA",
+        "okul_adi": "AKÇAKAYA MAHA.İLKÖĞR. OKULU",
+        "sandik_no": 1003,
+        "mahalle_id": "sakarya-pamukova-akcakaya-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 46,
+            "sayim_sonuc": {
+                "TOPLAM": 46,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 16,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 8,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1003/sakarya-pamukova-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566672",
+            "oyveotesi_sync_timestamp": 1684357292
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-pamukova/1xxx/1003/sakarya-pamukova-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566672",
+            "oyveotesi_sync_timestamp": 1684357292
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

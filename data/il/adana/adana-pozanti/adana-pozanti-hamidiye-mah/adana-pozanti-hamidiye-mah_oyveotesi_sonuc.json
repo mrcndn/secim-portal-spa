@@ -1,0 +1,99 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-pozanti",
+        "mahalle": "HAMİDİYE MAH.",
+        "ilce_adi": "POZANTI",
+        "okul_adi": "HAMİDİYE MAH İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "adana-pozanti-hamidiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 280,
+            "sayim_sonuc": {
+                "TOPLAM": 280,
+                "SOL PARTİ": 4,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 42,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 3,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "ADALET BİRLİK PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 105,
+                "HALKIN KURTULUŞ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 73,
+                "TÜRKİYE İŞÇİ PARTİSİ": 0,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 0,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 0,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 0,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 45,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-pozanti/1xxx/1022/adana-pozanti-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573896",
+            "oyveotesi_sync_timestamp": 1684371116
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 289,
+            "sayim_sonuc": {
+                "TOPLAM": 289,
+                "SİNAN OĞAN": 12,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 155,
+                "RECEP TAYYİP ERDOĞAN": 121
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-pozanti/1xxx/1022/adana-pozanti-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "573896",
+            "oyveotesi_sync_timestamp": 1684371116
+        },
+        "secim_bolge_id": "adana"
+    },
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-pozanti",
+        "mahalle": "HAMİDİYE MAH.",
+        "ilce_adi": "POZANTI",
+        "okul_adi": "HAMİDİYE MAH İLKOKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "adana-pozanti-hamidiye-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 282,
+            "sayim_sonuc": {
+                "TOPLAM": 282,
+                "İYİ PARTİ": 45,
+                "ZAFER PARTİSİ": 2,
+                "MİLLET PARTİSİ": 0,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 82,
+                "ADALET VE KALKINMA PARTİSİ": 89,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 57,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-pozanti/1xxx/1023/adana-pozanti-1023-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576140",
+            "oyveotesi_sync_timestamp": 1684371116
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 292,
+            "sayim_sonuc": {
+                "TOPLAM": 292,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 129,
+                "RECEP TAYYİP ERDOĞAN": 152
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-pozanti/1xxx/1023/adana-pozanti-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "576140",
+            "oyveotesi_sync_timestamp": 1684371116
+        },
+        "secim_bolge_id": "adana"
+    }
+]

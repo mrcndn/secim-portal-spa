@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "van",
+        "il_adi": "VAN",
+        "il_kodu": 65,
+        "ilce_id": "van-muradiye",
+        "mahalle": "KUŞÇU MAH.",
+        "ilce_adi": "MURADİYE",
+        "okul_adi": "KÖY TOPLANTI ODASI",
+        "sandik_no": 1058,
+        "mahalle_id": "van-muradiye-kuscu-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 204,
+            "sayim_sonuc": {
+                "TOPLAM": 204,
+                "SOL PARTİ": 1,
+                "ZAFER PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 26,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 27,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 141
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-van-tutanaklari/blob/main/tutanak/van/van-muradiye/1xxx/1058/van-muradiye-1058-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "327768",
+            "oyveotesi_sync_timestamp": 1684356447
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "327768",
+            "oyveotesi_sync_timestamp": 1684356447
+        },
+        "secim_bolge_id": "van"
+    }
+]

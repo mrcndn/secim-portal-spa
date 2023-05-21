@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "mugla",
+        "il_adi": "MUĞLA",
+        "il_kodu": 48,
+        "ilce_id": "mugla-seydikemer",
+        "mahalle": "SARIYER MAH.",
+        "ilce_adi": "SEYDİKEMER",
+        "okul_adi": "SARIYER MAHALLESİ KÖY KONAĞI",
+        "sandik_no": 1137,
+        "mahalle_id": "mugla-seydikemer-sariyer-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 187,
+            "sayim_sonuc": {
+                "TOPLAM": 187,
+                "İYİ PARTİ": 24,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 7,
+                "YENİLİK PARTİSİ": 1,
+                "MİLLİ YOL PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 19,
+                "ADALET VE KALKINMA PARTİSİ": 91,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 32,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1137/mugla-seydikemer-1137-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "788719",
+            "oyveotesi_sync_timestamp": 1684374537
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 188,
+            "sayim_sonuc": {
+                "TOPLAM": 188,
+                "SİNAN OĞAN": 8,
+                "MUHARREM İNCE": 7,
+                "KEMAL KILIÇDAROĞLU": 54,
+                "RECEP TAYYİP ERDOĞAN": 119
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-mugla-tutanaklari/blob/main/tutanak/mugla/mugla-seydikemer/1xxx/1137/mugla-seydikemer-1137-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "788719",
+            "oyveotesi_sync_timestamp": 1684374537
+        },
+        "secim_bolge_id": "mugla"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-han",
+        "mahalle": "BAŞARA MAH.",
+        "ilce_adi": "HAN",
+        "okul_adi": "BAŞARA KÖY KONAĞI",
+        "sandik_no": 1004,
+        "mahalle_id": "eskisehir-han-basara-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 31,
+            "sayim_sonuc": {
+                "TOPLAM": 31,
+                "İYİ PARTİ": 6,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 5,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-han/1xxx/1004/eskisehir-han-1004-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "707939",
+            "oyveotesi_sync_timestamp": 1684341505
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 30,
+            "sayim_sonuc": {
+                "TOPLAM": 30,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 7,
+                "RECEP TAYYİP ERDOĞAN": 21
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-han/1xxx/1004/eskisehir-han-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "707939",
+            "oyveotesi_sync_timestamp": 1684341505
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

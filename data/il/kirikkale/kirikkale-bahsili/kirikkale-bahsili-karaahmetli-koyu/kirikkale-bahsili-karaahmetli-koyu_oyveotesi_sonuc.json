@@ -1,0 +1,72 @@
+[
+    {
+        "il_id": "kirikkale",
+        "il_adi": "KIRIKKALE",
+        "il_kodu": 71,
+        "ilce_id": "kirikkale-bahsili",
+        "mahalle": "KARAAHMETLİ KÖYÜ",
+        "ilce_adi": "BAHŞILI",
+        "okul_adi": "KARAAHMETLİ KÖYÜ İLKOKULU",
+        "sandik_no": 1016,
+        "mahalle_id": "kirikkale-bahsili-karaahmetli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 219,
+            "sayim_sonuc": {
+                "TOPLAM": 219,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 74,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 47
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-bahsili/1xxx/1016/kirikkale-bahsili-1016-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "304809",
+            "oyveotesi_sync_timestamp": 1684348695
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "SİNAN OĞAN": 11,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 134
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kirikkale-tutanaklari/blob/main/tutanak/kirikkale/kirikkale-bahsili/1xxx/1016/kirikkale-bahsili-1016-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "304809",
+            "oyveotesi_sync_timestamp": 1684348695
+        },
+        "secim_bolge_id": "kirikkale"
+    },
+    {
+        "il_id": "kirikkale",
+        "il_adi": "KIRIKKALE",
+        "il_kodu": 71,
+        "ilce_id": "kirikkale-bahsili",
+        "mahalle": "KARAAHMETLİ KÖYÜ",
+        "ilce_adi": "BAHŞILI",
+        "okul_adi": "KARAAHMETLİ KÖYÜ İLKOKULU",
+        "sandik_no": 1017,
+        "mahalle_id": "kirikkale-bahsili-karaahmetli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348695
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684348695
+        },
+        "secim_bolge_id": "kirikkale"
+    }
+]

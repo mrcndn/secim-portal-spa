@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-kahta",
+        "mahalle": "BELENLİ KÖYÜ",
+        "ilce_adi": "KAHTA",
+        "okul_adi": "BELENLİ KÖYÜ İLKÖĞRETİM OKULU",
+        "sandik_no": 1184,
+        "mahalle_id": "adiyaman-kahta-belenli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326419
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684326419
+        },
+        "secim_bolge_id": "adiyaman"
+    },
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-kahta",
+        "mahalle": "BELENLİ KÖYÜ",
+        "ilce_adi": "KAHTA",
+        "okul_adi": "BELENLİ KÖYÜ/YÜKSEK YAYLA MEZRASI İLKÖĞRETİM OKULU",
+        "sandik_no": 1185,
+        "mahalle_id": "adiyaman-kahta-belenli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 37,
+            "sayim_sonuc": {
+                "TOPLAM": 37,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 6,
+                "ADALET VE KALKINMA PARTİSİ": 20,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 10
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-kahta/1xxx/1185/adiyaman-kahta-1185-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835863",
+            "oyveotesi_sync_timestamp": 1684326419
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 38,
+            "sayim_sonuc": {
+                "TOPLAM": 38,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 25
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-kahta/1xxx/1185/adiyaman-kahta-1185-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "835863",
+            "oyveotesi_sync_timestamp": 1684326419
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]

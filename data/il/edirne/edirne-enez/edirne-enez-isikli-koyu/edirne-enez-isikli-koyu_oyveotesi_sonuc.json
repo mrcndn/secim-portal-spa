@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-enez",
+        "mahalle": "IŞIKLI KÖYÜ",
+        "ilce_adi": "ENEZ",
+        "okul_adi": "IŞIKLI KÖYÜ SAĞLIK OCAĞI",
+        "sandik_no": 1021,
+        "mahalle_id": "edirne-enez-isikli-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 4,
+                "İYİ PARTİ": 59,
+                "ZAFER PARTİSİ": 9,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 92,
+                "HALKIN KURTULUŞ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 32,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-enez/1xxx/1021/edirne-enez-1021-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825640",
+            "oyveotesi_sync_timestamp": 1684338374
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 217,
+            "sayim_sonuc": {
+                "TOPLAM": 217,
+                "SİNAN OĞAN": 6,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 170,
+                "RECEP TAYYİP ERDOĞAN": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-enez/1xxx/1021/edirne-enez-1021-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "825640",
+            "oyveotesi_sync_timestamp": 1684338374
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

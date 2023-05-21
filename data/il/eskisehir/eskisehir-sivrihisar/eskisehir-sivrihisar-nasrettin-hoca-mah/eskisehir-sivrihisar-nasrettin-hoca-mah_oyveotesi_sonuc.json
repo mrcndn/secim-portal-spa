@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-sivrihisar",
+        "mahalle": "NASRETTİN HOCA MAH.",
+        "ilce_adi": "SİVRİHİSAR",
+        "okul_adi": "NASRETTİN HOCA MAH NASRETTİN HOCA İ.Ö.O",
+        "sandik_no": 1074,
+        "mahalle_id": "eskisehir-sivrihisar-nasrettin-hoca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 294,
+            "sayim_sonuc": {
+                "TOPLAM": 294,
+                "İYİ PARTİ": 30,
+                "MİLLET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİLİK PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 10,
+                "CUMHURİYET HALK PARTİSİ": 66,
+                "HALKIN KURTULUŞ PARTİSİ": 3,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 49,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1074/eskisehir-sivrihisar-1074-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034438",
+            "oyveotesi_sync_timestamp": 1684341839
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 307,
+            "sayim_sonuc": {
+                "TOPLAM": 307,
+                "SİNAN OĞAN": 14,
+                "MUHARREM İNCE": 7,
+                "KEMAL KILIÇDAROĞLU": 94,
+                "RECEP TAYYİP ERDOĞAN": 192
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-sivrihisar/1xxx/1074/eskisehir-sivrihisar-1074-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "1034438",
+            "oyveotesi_sync_timestamp": 1684341839
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

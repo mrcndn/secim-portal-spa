@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-resadiye",
+        "mahalle": "CİMİTEKKE-KAVAKLIDERE MAH.",
+        "ilce_adi": "REŞADİYE",
+        "okul_adi": "CİMİTEKKE BEL.KAVAKLIDERE MAH.İLK ÖĞRETİM OKULU",
+        "sandik_no": 1049,
+        "mahalle_id": "tokat-resadiye-cimitekke-kavaklidere-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364697
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 111,
+            "sayim_sonuc": {
+                "TOPLAM": 111,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 12,
+                "RECEP TAYYİP ERDOĞAN": 97
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-resadiye/1xxx/1049/tokat-resadiye-1049-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684364697
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

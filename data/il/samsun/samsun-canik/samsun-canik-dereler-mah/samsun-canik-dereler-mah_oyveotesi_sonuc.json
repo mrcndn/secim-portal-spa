@@ -1,0 +1,98 @@
+[
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-canik",
+        "mahalle": "DERELER MAH.",
+        "ilce_adi": "CANİK",
+        "okul_adi": "DERELER İLK-ORTAOKULU",
+        "sandik_no": 1032,
+        "mahalle_id": "samsun-canik-dereler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 218,
+            "sayim_sonuc": {
+                "TOPLAM": 218,
+                "İYİ PARTİ": 20,
+                "ZAFER PARTİSİ": 4,
+                "MEMLEKET PARTİSİ": 3,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "ADALET BİRLİK PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 13,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 121,
+                "TÜRKİYE İŞÇİ PARTİSİ": 2,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 41
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-canik/1xxx/1032/samsun-canik-1032-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "284165",
+            "oyveotesi_sync_timestamp": 1684367276
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 222,
+            "sayim_sonuc": {
+                "TOPLAM": 222,
+                "SİNAN OĞAN": 13,
+                "KEMAL KILIÇDAROĞLU": 32,
+                "RECEP TAYYİP ERDOĞAN": 177
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-samsun-tutanaklari/blob/main/tutanak/samsun/samsun-canik/1xxx/1032/samsun-canik-1032-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "284165",
+            "oyveotesi_sync_timestamp": 1684367276
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-canik",
+        "mahalle": "DERELER MAH.",
+        "ilce_adi": "CANİK",
+        "okul_adi": "DERELER İLK-ORTAOKULU",
+        "sandik_no": 1033,
+        "mahalle_id": "samsun-canik-dereler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367276
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367276
+        },
+        "secim_bolge_id": "samsun"
+    },
+    {
+        "il_id": "samsun",
+        "il_adi": "SAMSUN",
+        "il_kodu": 55,
+        "ilce_id": "samsun-canik",
+        "mahalle": "DERELER MAH.",
+        "ilce_adi": "CANİK",
+        "okul_adi": "DERELER İLK-ORTAOKULU",
+        "sandik_no": 1034,
+        "mahalle_id": "samsun-canik-dereler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367276
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684367276
+        },
+        "secim_bolge_id": "samsun"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-ardesen",
+        "mahalle": "CAMİ MAH.",
+        "ilce_adi": "ARDEŞEN",
+        "okul_adi": "CAMİ MAHALLESİ YUNUS EMRE İLKÖĞRETİM OKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "rize-ardesen-cami-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 221,
+            "sayim_sonuc": {
+                "TOPLAM": 221,
+                "ADALET PARTİSİ": 6,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 112,
+                "ADALET VE KALKINMA PARTİSİ": 93,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 7,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1005/rize-ardesen-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "710254",
+            "oyveotesi_sync_timestamp": 1684356311
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 223,
+            "sayim_sonuc": {
+                "TOPLAM": 223,
+                "SİNAN OĞAN": 5,
+                "KEMAL KILIÇDAROĞLU": 95,
+                "RECEP TAYYİP ERDOĞAN": 123
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1005/rize-ardesen-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "710254",
+            "oyveotesi_sync_timestamp": 1684356311
+        },
+        "secim_bolge_id": "rize"
+    }
+]

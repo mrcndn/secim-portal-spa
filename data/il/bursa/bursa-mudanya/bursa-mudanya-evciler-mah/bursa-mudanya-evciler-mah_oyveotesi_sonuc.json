@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "bursa",
+        "il_adi": "BURSA",
+        "il_kodu": 16,
+        "ilce_id": "bursa-mudanya",
+        "mahalle": "EVCİLER MAH.",
+        "ilce_adi": "MUDANYA",
+        "okul_adi": "EVCİLER KÖYÜ YEMEKHANE ( CAMİ ALTI)",
+        "sandik_no": 1042,
+        "mahalle_id": "bursa-mudanya-evciler-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 145,
+            "sayim_sonuc": {
+                "TOPLAM": 145,
+                "SOL PARTİ": 1,
+                "İYİ PARTİ": 21,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 88,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 15
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "819950",
+            "oyveotesi_sync_timestamp": 1684328694
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 157,
+            "sayim_sonuc": {
+                "TOPLAM": 157,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 40,
+                "RECEP TAYYİP ERDOĞAN": 112
+            },
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "819950",
+            "oyveotesi_sync_timestamp": 1684328694
+        },
+        "secim_bolge_id": "bursa2"
+    }
+]

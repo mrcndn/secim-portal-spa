@@ -1,0 +1,42 @@
+[
+    {
+        "il_id": "kayseri",
+        "il_adi": "KAYSERİ",
+        "il_kodu": 38,
+        "ilce_id": "kayseri-pinarbasi",
+        "mahalle": "TERSAKAN MAH.",
+        "ilce_adi": "PINARBAŞI",
+        "okul_adi": "TERSAKAN KÖYÜ İLKOKULU",
+        "sandik_no": 1118,
+        "mahalle_id": "kayseri-pinarbasi-tersakan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 35,
+            "sayim_sonuc": {
+                "TOPLAM": 35,
+                "MİLLİ YOL PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 14,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-pinarbasi/1xxx/1118/kayseri-pinarbasi-1118-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "791097",
+            "oyveotesi_sync_timestamp": 1684359373
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 49,
+            "sayim_sonuc": {
+                "TOPLAM": 49,
+                "SİNAN OĞAN": 2,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 23,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kayseri-tutanaklari/blob/main/tutanak/kayseri/kayseri-pinarbasi/1xxx/1118/kayseri-pinarbasi-1118-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "791097",
+            "oyveotesi_sync_timestamp": 1684359373
+        },
+        "secim_bolge_id": "kayseri"
+    }
+]

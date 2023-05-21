@@ -1,0 +1,40 @@
+[
+    {
+        "il_id": "aydin",
+        "il_adi": "AYDIN",
+        "il_kodu": 9,
+        "ilce_id": "aydin-efeler",
+        "mahalle": "GÖZPINAR MAH.",
+        "ilce_adi": "EFELER",
+        "okul_adi": "GÖZPINAR KÖY ODASI",
+        "sandik_no": 2149,
+        "mahalle_id": "aydin-efeler-gozpinar-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 23,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 41,
+                "ADALET VE KALKINMA PARTİSİ": 107,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 58,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-aydin-tutanaklari/blob/main/tutanak/aydin/aydin-efeler/2xxx/2149/aydin-efeler-2149-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "436727",
+            "oyveotesi_sync_timestamp": 1684394768
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "436727",
+            "oyveotesi_sync_timestamp": 1684394768
+        },
+        "secim_bolge_id": "aydin"
+    }
+]

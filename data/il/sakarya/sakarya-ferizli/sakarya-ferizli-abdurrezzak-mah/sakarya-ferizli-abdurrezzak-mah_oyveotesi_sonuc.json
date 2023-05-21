@@ -1,0 +1,59 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-ferizli",
+        "mahalle": "ABDÜRREZZAK MAH.",
+        "ilce_adi": "FERİZLİ",
+        "okul_adi": "ABDUREZZAK İLKÖĞRETİM OKULU",
+        "sandik_no": 1001,
+        "mahalle_id": "sakarya-ferizli-abdurrezzak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357710
+        },
+        "secim_bolge_id": "sakarya"
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-ferizli",
+        "mahalle": "ABDÜRREZZAK MAH.",
+        "ilce_adi": "FERİZLİ",
+        "okul_adi": "ABDUREZZAK İLKÖĞRETİM OKULU",
+        "sandik_no": 1002,
+        "mahalle_id": "sakarya-ferizli-abdurrezzak-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357710
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 238,
+            "sayim_sonuc": {
+                "TOPLAM": 238,
+                "SİNAN OĞAN": 14,
+                "KEMAL KILIÇDAROĞLU": 48,
+                "RECEP TAYYİP ERDOĞAN": 176
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sakarya-tutanaklari/blob/main/tutanak/sakarya/sakarya-ferizli/1xxx/1002/sakarya-ferizli-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684357710
+        },
+        "secim_bolge_id": "sakarya"
+    }
+]

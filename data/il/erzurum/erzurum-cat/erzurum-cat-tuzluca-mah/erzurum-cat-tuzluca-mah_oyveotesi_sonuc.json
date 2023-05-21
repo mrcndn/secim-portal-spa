@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-cat",
+        "mahalle": "TUZLUCA MAH.",
+        "ilce_adi": "ÇAT",
+        "okul_adi": "TUZLUCA İLKÖĞRETİM OKULU",
+        "sandik_no": 1051,
+        "mahalle_id": "erzurum-cat-tuzluca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340355
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 276,
+            "sayim_sonuc": {
+                "TOPLAM": 276,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 26,
+                "RECEP TAYYİP ERDOĞAN": 239
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-erzurum-tutanaklari/blob/main/tutanak/erzurum/erzurum-cat/1xxx/1051/erzurum-cat-1051-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340355
+        },
+        "secim_bolge_id": "erzurum"
+    },
+    {
+        "il_id": "erzurum",
+        "il_adi": "ERZURUM",
+        "il_kodu": 25,
+        "ilce_id": "erzurum-cat",
+        "mahalle": "TUZLUCA MAH.",
+        "ilce_adi": "ÇAT",
+        "okul_adi": "TUZLUCA MAHALESİ BEŞİKTAŞ MEZRASI İLKÖĞRETİM OKULU",
+        "sandik_no": 1052,
+        "mahalle_id": "erzurum-cat-tuzluca-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340355
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684340355
+        },
+        "secim_bolge_id": "erzurum"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "il_id": "kahramanmaras",
+        "il_adi": "KAHRAMANMARAŞ",
+        "il_kodu": 46,
+        "ilce_id": "kahramanmaras-nurhak",
+        "mahalle": "PINARBAŞI MAH.",
+        "ilce_adi": "NURHAK",
+        "okul_adi": "PINARBAŞI İLKOKULU",
+        "sandik_no": 1022,
+        "mahalle_id": "kahramanmaras-nurhak-pinarbasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345813
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345813
+        },
+        "secim_bolge_id": "kahramanmaras"
+    },
+    {
+        "il_id": "kahramanmaras",
+        "il_adi": "KAHRAMANMARAŞ",
+        "il_kodu": 46,
+        "ilce_id": "kahramanmaras-nurhak",
+        "mahalle": "PINARBAŞI MAH.",
+        "ilce_adi": "NURHAK",
+        "okul_adi": "PINARBAŞI İLKOKULU",
+        "sandik_no": 1023,
+        "mahalle_id": "kahramanmaras-nurhak-pinarbasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345813
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 196,
+            "sayim_sonuc": {
+                "TOPLAM": 196,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 186,
+                "RECEP TAYYİP ERDOĞAN": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kahramanmaras-tutanaklari/blob/main/tutanak/kahramanmaras/kahramanmaras-nurhak/1xxx/1023/kahramanmaras-nurhak-1023-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684345813
+        },
+        "secim_bolge_id": "kahramanmaras"
+    }
+]

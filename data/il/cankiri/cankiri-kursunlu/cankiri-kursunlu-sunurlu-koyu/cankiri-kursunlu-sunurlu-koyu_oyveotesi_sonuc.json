@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "cankiri",
+        "il_adi": "ÇANKIRI",
+        "il_kodu": 18,
+        "ilce_id": "cankiri-kursunlu",
+        "mahalle": "SÜNÜRLÜ KÖYÜ",
+        "ilce_adi": "KURŞUNLU",
+        "okul_adi": "SÜNÜRLÜ KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1042,
+        "mahalle_id": "cankiri-kursunlu-sunurlu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 166,
+            "sayim_sonuc": {
+                "TOPLAM": 166,
+                "İYİ PARTİ": 5,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 83,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 68
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1042/cankiri-kursunlu-1042-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "742422",
+            "oyveotesi_sync_timestamp": 1684336643
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 153
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-cankiri-tutanaklari/blob/main/tutanak/cankiri/cankiri-kursunlu/1xxx/1042/cankiri-kursunlu-1042-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "742422",
+            "oyveotesi_sync_timestamp": 1684336643
+        },
+        "secim_bolge_id": "cankiri"
+    }
+]

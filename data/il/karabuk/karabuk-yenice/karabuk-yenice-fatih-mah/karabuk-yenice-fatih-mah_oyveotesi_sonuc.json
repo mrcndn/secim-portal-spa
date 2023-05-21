@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-yenice",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "YENİCE",
+        "okul_adi": "FATİH MAHALLESİ İMAMHATİP ORTAOKULU",
+        "sandik_no": 1005,
+        "mahalle_id": "karabuk-yenice-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 163,
+            "sayim_sonuc": {
+                "TOPLAM": 163,
+                "İYİ PARTİ": 11,
+                "ZAFER PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 4,
+                "CUMHURİYET HALK PARTİSİ": 76,
+                "ADALET VE KALKINMA PARTİSİ": 47,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 23,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-yenice/1xxx/1005/karabuk-yenice-1005-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830568",
+            "oyveotesi_sync_timestamp": 1684346289
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 167,
+            "sayim_sonuc": {
+                "TOPLAM": 167,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 71,
+                "RECEP TAYYİP ERDOĞAN": 85
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-yenice/1xxx/1005/karabuk-yenice-1005-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "830568",
+            "oyveotesi_sync_timestamp": 1684346289
+        },
+        "secim_bolge_id": "karabuk"
+    },
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-yenice",
+        "mahalle": "FATİH MAH.",
+        "ilce_adi": "YENİCE",
+        "okul_adi": "FATİH MAHALLESİ İMAMHATİP ORTAOKULU",
+        "sandik_no": 1004,
+        "mahalle_id": "karabuk-yenice-fatih-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346289
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 171,
+            "sayim_sonuc": {
+                "TOPLAM": 171,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 82,
+                "RECEP TAYYİP ERDOĞAN": 76
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-yenice/1xxx/1004/karabuk-yenice-1004-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684346289
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "il_id": "usak",
+        "il_adi": "UŞAK",
+        "il_kodu": 64,
+        "ilce_id": "usak-banaz",
+        "mahalle": "HALAÇLAR KÖYÜ",
+        "ilce_adi": "BANAZ",
+        "okul_adi": "HALLAÇLAR KÖYÜ OKUL BİNASI",
+        "sandik_no": 1075,
+        "mahalle_id": "usak-banaz-halaclar-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 209,
+            "sayim_sonuc": {
+                "TOPLAM": 209,
+                "SOL PARTİ": 1,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 17,
+                "VATAN PARTİSİ": 1,
+                "ZAFER PARTİSİ": 8,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 104,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 59,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1075/usak-banaz-1075-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "607888",
+            "oyveotesi_sync_timestamp": 1684369732
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 216,
+            "sayim_sonuc": {
+                "TOPLAM": 216,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 6,
+                "KEMAL KILIÇDAROĞLU": 121,
+                "RECEP TAYYİP ERDOĞAN": 79
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-usak-tutanaklari/blob/main/tutanak/usak/usak-banaz/1xxx/1075/usak-banaz-1075-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "607888",
+            "oyveotesi_sync_timestamp": 1684369732
+        },
+        "secim_bolge_id": "usak"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "karabuk",
+        "il_adi": "KARABÜK",
+        "il_kodu": 78,
+        "ilce_id": "karabuk-safranbolu",
+        "mahalle": "TOPRAKCUMA KÖYÜ",
+        "ilce_adi": "SAFRANBOLU",
+        "okul_adi": "TOPRAKCUMA KÖYÜ KÖY KONAĞI",
+        "sandik_no": 1187,
+        "mahalle_id": "karabuk-safranbolu-toprakcuma-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "İYİ PARTİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 7,
+                "ADALET VE KALKINMA PARTİSİ": 55,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 8
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-safranbolu/1xxx/1187/karabuk-safranbolu-1187-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "399041",
+            "oyveotesi_sync_timestamp": 1684346269
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 78,
+            "sayim_sonuc": {
+                "TOPLAM": 78,
+                "SİNAN OĞAN": 3,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 9,
+                "RECEP TAYYİP ERDOĞAN": 66
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-karabuk-tutanaklari/blob/main/tutanak/karabuk/karabuk-safranbolu/1xxx/1187/karabuk-safranbolu-1187-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "399041",
+            "oyveotesi_sync_timestamp": 1684346269
+        },
+        "secim_bolge_id": "karabuk"
+    }
+]

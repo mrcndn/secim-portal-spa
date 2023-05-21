@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "amasya",
+        "il_adi": "AMASYA",
+        "il_kodu": 5,
+        "ilce_id": "amasya-merkez",
+        "mahalle": "BAĞLARÜSTÜ KÖYÜ",
+        "ilce_adi": "AMASYA MERKEZ",
+        "okul_adi": "BAĞLARÜSTÜ KÖYÜ KÖY ODASI",
+        "sandik_no": 1254,
+        "mahalle_id": "amasya-merkez-baglarustu-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 258,
+            "sayim_sonuc": {
+                "TOPLAM": 258,
+                "İYİ PARTİ": 7,
+                "ZAFER PARTİSİ": 2,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 3,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 12,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 2,
+                "ADALET VE KALKINMA PARTİSİ": 204,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1254/amasya-merkez-1254-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542941",
+            "oyveotesi_sync_timestamp": 1684324937
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 263,
+            "sayim_sonuc": {
+                "TOPLAM": 263,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 15,
+                "RECEP TAYYİP ERDOĞAN": 242
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-amasya-tutanaklari/blob/main/tutanak/amasya/amasya-merkez/1xxx/1254/amasya-merkez-1254-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "542941",
+            "oyveotesi_sync_timestamp": 1684324937
+        },
+        "secim_bolge_id": "amasya"
+    }
+]

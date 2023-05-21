@@ -1,0 +1,51 @@
+[
+    {
+        "il_id": "sinop",
+        "il_adi": "SİNOP",
+        "il_kodu": 57,
+        "ilce_id": "sinop-dikmen",
+        "mahalle": "AKÇAKESE KÖYÜ",
+        "ilce_adi": "DİKMEN",
+        "okul_adi": "AKÇAKESE KÖYÜ KÖY BİNASI",
+        "sandik_no": 1006,
+        "mahalle_id": "sinop-dikmen-akcakese-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 89,
+            "sayim_sonuc": {
+                "TOPLAM": 89,
+                "İYİ PARTİ": 5,
+                "VATAN PARTİSİ": 0,
+                "ZAFER PARTİSİ": 0,
+                "ADALET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİLİK PARTİSİ": 0,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 0,
+                "CUMHURİYET HALK PARTİSİ": 9,
+                "HALKIN KURTULUŞ PARTİSİ": 1,
+                "GÜÇ BİRLİĞİ PARTİSİ": 0,
+                "ADALET VE KALKINMA PARTİSİ": 68,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 0
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1006/sinop-dikmen-1006-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "317111",
+            "oyveotesi_sync_timestamp": 1684354173
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 91,
+            "sayim_sonuc": {
+                "TOPLAM": 91,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 13,
+                "RECEP TAYYİP ERDOĞAN": 78
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-sinop-tutanaklari/blob/main/tutanak/sinop/sinop-dikmen/1xxx/1006/sinop-dikmen-1006-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "317111",
+            "oyveotesi_sync_timestamp": 1684354173
+        },
+        "secim_bolge_id": "sinop"
+    }
+]

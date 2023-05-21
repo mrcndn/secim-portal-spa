@@ -1,0 +1,912 @@
+[
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AKARCA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-akarca-mah",
+        "oyveotesi_neighborhood_id": 16085
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AKÇAYIR MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-akcayir-mah",
+        "oyveotesi_neighborhood_id": 16087
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AKOVA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-akova-mah",
+        "oyveotesi_neighborhood_id": 16086
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AKPINAR MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-akpinar-mah",
+        "oyveotesi_neighborhood_id": 16062
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AKSU MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-aksu-mah",
+        "oyveotesi_neighborhood_id": 16077
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AKTEFEK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-aktefek-mah",
+        "oyveotesi_neighborhood_id": 16138
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "AŞAĞIÇALICA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-asagicalica-mah",
+        "oyveotesi_neighborhood_id": 16092
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BAKACAK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-bakacak-mah",
+        "oyveotesi_neighborhood_id": 16133
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BALIKLIİHSANİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-balikliihsaniye-mah",
+        "oyveotesi_neighborhood_id": 16127
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BAŞPINAR MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-baspinar-mah",
+        "oyveotesi_neighborhood_id": 16072
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BAYRAKTEPE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-bayraktepe-mah",
+        "oyveotesi_neighborhood_id": 16103
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BEYKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-beykoy-mah",
+        "oyveotesi_neighborhood_id": 16104
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BEYLİCE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-beylice-mah",
+        "oyveotesi_neighborhood_id": 16093
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BIÇKIATİK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-bickiatik-mah",
+        "oyveotesi_neighborhood_id": 16098
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "BÜYÜKDERE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-buyukdere-mah",
+        "oyveotesi_neighborhood_id": 16139
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ÇAĞLAYAN MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-caglayan-mah",
+        "oyveotesi_neighborhood_id": 50716
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ÇAKALLIK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-cakallik-mah",
+        "oyveotesi_neighborhood_id": 16108
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ÇAMLICA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-camlica-mah",
+        "oyveotesi_neighborhood_id": 16123
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ÇAYIRBAŞI MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-cayirbasi-mah",
+        "oyveotesi_neighborhood_id": 16144
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ÇİFTLİK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-ciftlik-mah",
+        "oyveotesi_neighborhood_id": 16091
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ÇOBANYATAK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-cobanyatak-mah",
+        "oyveotesi_neighborhood_id": 16124
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ÇUKURHAN MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-cukurhan-mah",
+        "oyveotesi_neighborhood_id": 16075
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "DEREBOĞAZI MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-derebogazi-mah",
+        "oyveotesi_neighborhood_id": 16057
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "DEREKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-derekoy-mah",
+        "oyveotesi_neighborhood_id": 16128
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "DİKMEN MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-dikmen-mah",
+        "oyveotesi_neighborhood_id": 16129
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ESENTEPE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-esentepe-mah",
+        "oyveotesi_neighborhood_id": 16088
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ESKİBIÇKI MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-eskibicki-mah",
+        "oyveotesi_neighborhood_id": 16134
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "GÖKSU MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-goksu-mah",
+        "oyveotesi_neighborhood_id": 16073
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "GÜLDİBİ MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-guldibi-mah",
+        "oyveotesi_neighborhood_id": 16110
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "GÜNDOĞAN MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-gundogan-mah",
+        "oyveotesi_neighborhood_id": 16099
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "GÜNEY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-guney-mah",
+        "oyveotesi_neighborhood_id": 16063
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "HACIKIŞLA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-hacikisla-mah",
+        "oyveotesi_neighborhood_id": 16078
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "HACİMBEY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-hacimbey-mah",
+        "oyveotesi_neighborhood_id": 16058
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "HALAÇ MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-halac-mah",
+        "oyveotesi_neighborhood_id": 16064
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "HAMİTLİ MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-hamitli-mah",
+        "oyveotesi_neighborhood_id": 16115
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "HARMANTEPE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-harmantepe-mah",
+        "oyveotesi_neighborhood_id": 16105
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "HİCRİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-hicriye-mah",
+        "oyveotesi_neighborhood_id": 16094
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "HÜSEYİNŞEYH MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-huseyinseyh-mah",
+        "oyveotesi_neighborhood_id": 16069
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "İKBALİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-ikbaliye-mah",
+        "oyveotesi_neighborhood_id": 16137
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "İKRAMİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-ikramiye-mah",
+        "oyveotesi_neighborhood_id": 16109
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KADİFEKALE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kadifekale-mah",
+        "oyveotesi_neighborhood_id": 16054
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KAHRAMAN MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kahraman-mah",
+        "oyveotesi_neighborhood_id": 16070
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KALAYIK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kalayik-mah",
+        "oyveotesi_neighborhood_id": 16079
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KARADERE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-karadere-mah",
+        "oyveotesi_neighborhood_id": 16059
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KARATOPRAK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-karatoprak-mah",
+        "oyveotesi_neighborhood_id": 16130
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KARGALI HANBABA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kargali-hanbaba-mah",
+        "oyveotesi_neighborhood_id": 16055
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KARGALIYENİKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kargaliyenikoy-mah",
+        "oyveotesi_neighborhood_id": 16116
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KAZIMİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kazimiye-mah",
+        "oyveotesi_neighborhood_id": 16135
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KEMALİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kemaliye-mah",
+        "oyveotesi_neighborhood_id": 16117
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KIRKTEPE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kirktepe-mah",
+        "oyveotesi_neighborhood_id": 16089
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KIZANLIK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kizanlik-mah",
+        "oyveotesi_neighborhood_id": 16095
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KOCAAHMETLER MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kocaahmetler-mah",
+        "oyveotesi_neighborhood_id": 16080
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KOCATÖNGEL MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kocatongel-mah",
+        "oyveotesi_neighborhood_id": 16140
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KÖPRÜBAŞI MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-koprubasi-mah",
+        "oyveotesi_neighborhood_id": 16119
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KURTKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kurtkoy-mah",
+        "oyveotesi_neighborhood_id": 16065
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "KURTULUŞ MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-kurtulus-mah",
+        "oyveotesi_neighborhood_id": 16118
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "LÜTFİYEKÖŞK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-lutfiyekosk-mah",
+        "oyveotesi_neighborhood_id": 16141
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "MAHMUTBEY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-mahmutbey-mah",
+        "oyveotesi_neighborhood_id": 16136
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "MARTİNLER MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-martinler-mah",
+        "oyveotesi_neighborhood_id": 16111
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "MURADİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-muradiye-mah",
+        "oyveotesi_neighborhood_id": 16106
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "NURİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-nuriye-mah",
+        "oyveotesi_neighborhood_id": 16081
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "PAŞAKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-pasakoy-mah",
+        "oyveotesi_neighborhood_id": 16082
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "PINARLI MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-pinarli-mah",
+        "oyveotesi_neighborhood_id": 16120
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "PUNA ORTAKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-puna-ortakoy-mah",
+        "oyveotesi_neighborhood_id": 16066
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "RASİMPAŞA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-rasimpasa-mah",
+        "oyveotesi_neighborhood_id": 16100
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SARIDEDE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-saridede-mah",
+        "oyveotesi_neighborhood_id": 16113
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SARIYER MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-sariyer-mah",
+        "oyveotesi_neighborhood_id": 16142
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SERVETİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-servetiye-mah",
+        "oyveotesi_neighborhood_id": 16060
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "ŞEYHLER MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-seyhler-mah",
+        "oyveotesi_neighborhood_id": 16126
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SİVRİTEPE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-sivritepe-mah",
+        "oyveotesi_neighborhood_id": 16083
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SOFULAR MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-sofular-mah",
+        "oyveotesi_neighborhood_id": 16074
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SOĞUKSU MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-soguksu-mah",
+        "oyveotesi_neighborhood_id": 16061
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SUKENARI MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-sukenari-mah",
+        "oyveotesi_neighborhood_id": 16101
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SÜLEYMANİYE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-suleymaniye-mah",
+        "oyveotesi_neighborhood_id": 16125
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "SÜMBÜLLÜ MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-sumbullu-mah",
+        "oyveotesi_neighborhood_id": 16121
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "TURANLAR MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-turanlar-mah",
+        "oyveotesi_neighborhood_id": 16090
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "TÜRBE MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-turbe-mah",
+        "oyveotesi_neighborhood_id": 16076
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "TUZAK MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-tuzak-mah",
+        "oyveotesi_neighborhood_id": 16056
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "UZUNCAORMAN MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-uzuncaorman-mah",
+        "oyveotesi_neighborhood_id": 16114
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "UZUNÇARŞI MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-uzuncarsi-mah",
+        "oyveotesi_neighborhood_id": 16067
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YAĞBASAN MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yagbasan-mah",
+        "oyveotesi_neighborhood_id": 16131
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YARICA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yarica-mah",
+        "oyveotesi_neighborhood_id": 16084
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YAYALAR MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yayalar-mah",
+        "oyveotesi_neighborhood_id": 16071
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YENİKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yenikoy-mah",
+        "oyveotesi_neighborhood_id": 16132
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YENİ MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yeni-mah",
+        "oyveotesi_neighborhood_id": 16122
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YENİYAYLA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yeniyayla-mah",
+        "oyveotesi_neighborhood_id": 16096
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YEŞİLKÖY MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yesilkoy-mah",
+        "oyveotesi_neighborhood_id": 16102
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YEŞİLVADİ MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yesilvadi-mah",
+        "oyveotesi_neighborhood_id": 16107
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YEŞİLYURT MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yesilyurt-mah",
+        "oyveotesi_neighborhood_id": 16068
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YUKARIÇALICA MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yukaricalica-mah",
+        "oyveotesi_neighborhood_id": 16143
+    },
+    {
+        "il_id": "sakarya",
+        "il_adi": "SAKARYA",
+        "il_kodu": 54,
+        "ilce_id": "sakarya-hendek",
+        "mahalle": "YUKARIHÜSEYİNŞEYH MAH.",
+        "ilce_adi": "HENDEK",
+        "mahalle_id": "sakarya-hendek-yukarihuseyinseyh-mah",
+        "oyveotesi_neighborhood_id": 16097
+    }
+]

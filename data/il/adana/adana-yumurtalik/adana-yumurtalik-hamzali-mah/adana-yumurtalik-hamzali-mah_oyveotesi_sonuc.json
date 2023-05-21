@@ -1,0 +1,46 @@
+[
+    {
+        "il_id": "adana",
+        "il_adi": "ADANA",
+        "il_kodu": 1,
+        "ilce_id": "adana-yumurtalik",
+        "mahalle": "HAMZALI MAH.",
+        "ilce_adi": "YUMURTALIK",
+        "okul_adi": "HAMZALI KÖY KONAĞI (ESKİ İLKOKUL)",
+        "sandik_no": 1022,
+        "mahalle_id": "adana-yumurtalik-hamzali-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "İYİ PARTİ": 69,
+                "ZAFER PARTİSİ": 6,
+                "MEMLEKET PARTİSİ": 2,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 43,
+                "ADALET VE KALKINMA PARTİSİ": 70,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "HAK VE ÖZGÜRLÜKLER PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 30,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 1
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1022/adana-yumurtalik-1022-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "488949",
+            "oyveotesi_sync_timestamp": 1684371436
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 226,
+            "sayim_sonuc": {
+                "TOPLAM": 226,
+                "SİNAN OĞAN": 9,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 111,
+                "RECEP TAYYİP ERDOĞAN": 104
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adana-tutanaklari/blob/main/tutanak/adana/adana-yumurtalik/1xxx/1022/adana-yumurtalik-1022-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "488949",
+            "oyveotesi_sync_timestamp": 1684371436
+        },
+        "secim_bolge_id": "adana"
+    }
+]

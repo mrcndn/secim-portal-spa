@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "edirne",
+        "il_adi": "EDİRNE",
+        "il_kodu": 22,
+        "ilce_id": "edirne-merkez",
+        "mahalle": "KÜÇÜKDÖLLÜK KÖYÜ",
+        "ilce_adi": "EDİRNE MERKEZ",
+        "okul_adi": "KÜÇÜKDÖLLÜK KÖY SAĞLIK OCAĞI",
+        "sandik_no": 1378,
+        "mahalle_id": "edirne-merkez-kucukdolluk-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 114,
+            "sayim_sonuc": {
+                "TOPLAM": 114,
+                "İYİ PARTİ": 25,
+                "ZAFER PARTİSİ": 2,
+                "ANAVATAN PARTİSİ": 2,
+                "BÜYÜK BİRLİK PARTİSİ": 3,
+                "CUMHURİYET HALK PARTİSİ": 35,
+                "ADALET VE KALKINMA PARTİSİ": 26,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 18,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 3
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-merkez/1xxx/1378/edirne-merkez-1378-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823595",
+            "oyveotesi_sync_timestamp": 1684338336
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 113,
+            "sayim_sonuc": {
+                "TOPLAM": 113,
+                "SİNAN OĞAN": 5,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 60,
+                "RECEP TAYYİP ERDOĞAN": 48
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-edirne-tutanaklari/blob/main/tutanak/edirne/edirne-merkez/1xxx/1378/edirne-merkez-1378-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "823595",
+            "oyveotesi_sync_timestamp": 1684338336
+        },
+        "secim_bolge_id": "edirne"
+    }
+]

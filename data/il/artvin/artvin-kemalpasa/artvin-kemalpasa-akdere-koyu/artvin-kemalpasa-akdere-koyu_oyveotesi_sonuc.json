@@ -1,0 +1,43 @@
+[
+    {
+        "il_id": "artvin",
+        "il_adi": "ARTVİN",
+        "il_kodu": 8,
+        "ilce_id": "artvin-kemalpasa",
+        "mahalle": "AKDERE KÖYÜ",
+        "ilce_adi": "KEMALPAŞA",
+        "okul_adi": "AKDERE KÖYÜ ÇİÇEK ANASINIFI",
+        "sandik_no": 1015,
+        "mahalle_id": "artvin-kemalpasa-akdere-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 99,
+            "sayim_sonuc": {
+                "TOPLAM": 99,
+                "SOL PARTİ": 3,
+                "İYİ PARTİ": 6,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 58,
+                "ADALET VE KALKINMA PARTİSİ": 21,
+                "TÜRKİYE İŞÇİ PARTİSİ": 3,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-kemalpasa/1xxx/1015/artvin-kemalpasa-1015-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "725007",
+            "oyveotesi_sync_timestamp": 1684361771
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 100,
+            "sayim_sonuc": {
+                "TOPLAM": 100,
+                "KEMAL KILIÇDAROĞLU": 76,
+                "RECEP TAYYİP ERDOĞAN": 24
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-artvin-tutanaklari/blob/main/tutanak/artvin/artvin-kemalpasa/1xxx/1015/artvin-kemalpasa-1015-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "725007",
+            "oyveotesi_sync_timestamp": 1684361771
+        },
+        "secim_bolge_id": "artvin"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "il_id": "elazig",
+        "il_adi": "ELAZIĞ",
+        "il_kodu": 23,
+        "ilce_id": "elazig-merkez",
+        "mahalle": "SEDEFTEPE KÖYÜ",
+        "ilce_adi": "ELAZIĞ MERKEZ",
+        "okul_adi": "SEDEFTEPE KÖYÜ SOSYAL TESİSİ",
+        "sandik_no": 2466,
+        "mahalle_id": "elazig-merkez-sedeftepe-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338954
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 229,
+            "sayim_sonuc": {
+                "TOPLAM": 229,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 209,
+                "RECEP TAYYİP ERDOĞAN": 20
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-elazig-tutanaklari/blob/main/tutanak/elazig/elazig-merkez/2xxx/2466/elazig-merkez-2466-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684338954
+        },
+        "secim_bolge_id": "elazig"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "il_id": "denizli",
+        "il_adi": "DENİZLİ",
+        "il_kodu": 20,
+        "ilce_id": "denizli-kale",
+        "mahalle": "DOĞANKÖY MAH.",
+        "ilce_adi": "KALE",
+        "okul_adi": "DOĞAN İLKOKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "denizli-kale-dogankoy-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 137,
+            "sayim_sonuc": {
+                "TOPLAM": 137,
+                "İYİ PARTİ": 11,
+                "YENİDEN REFAH PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 39,
+                "ADALET VE KALKINMA PARTİSİ": 54,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 31
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-kale/1xxx/1018/denizli-kale-1018-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "634282",
+            "oyveotesi_sync_timestamp": 1684365353
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 140,
+            "sayim_sonuc": {
+                "TOPLAM": 140,
+                "SİNAN OĞAN": 7,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 49,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-denizli-tutanaklari/blob/main/tutanak/denizli/denizli-kale/1xxx/1018/denizli-kale-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "634282",
+            "oyveotesi_sync_timestamp": 1684365353
+        },
+        "secim_bolge_id": "denizli"
+    }
+]

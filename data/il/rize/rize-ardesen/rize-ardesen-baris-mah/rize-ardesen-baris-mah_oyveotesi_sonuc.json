@@ -1,0 +1,89 @@
+[
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-ardesen",
+        "mahalle": "BARIŞ MAH.",
+        "ilce_adi": "ARDEŞEN",
+        "okul_adi": "BARIŞ MAHALLESİ CAMİİ LOKALİ",
+        "sandik_no": 1003,
+        "mahalle_id": "rize-ardesen-baris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 199,
+            "sayim_sonuc": {
+                "TOPLAM": 199,
+                "GENÇ PARTİ": 1,
+                "ZAFER PARTİSİ": 4,
+                "ADALET PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 5,
+                "CUMHURİYET HALK PARTİSİ": 86,
+                "ADALET VE KALKINMA PARTİSİ": 75,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 26
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1003/rize-ardesen-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500962",
+            "oyveotesi_sync_timestamp": 1684356307
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 198,
+            "sayim_sonuc": {
+                "TOPLAM": 198,
+                "SİNAN OĞAN": 8,
+                "KEMAL KILIÇDAROĞLU": 81,
+                "RECEP TAYYİP ERDOĞAN": 109
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1003/rize-ardesen-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "500962",
+            "oyveotesi_sync_timestamp": 1684356307
+        },
+        "secim_bolge_id": "rize"
+    },
+    {
+        "il_id": "rize",
+        "il_adi": "RİZE",
+        "il_kodu": 53,
+        "ilce_id": "rize-ardesen",
+        "mahalle": "BARIŞ MAH.",
+        "ilce_adi": "ARDEŞEN",
+        "okul_adi": "BARIŞ MAHALLESİ CAMİİ LOKALİ",
+        "sandik_no": 1002,
+        "mahalle_id": "rize-ardesen-baris-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SOL PARTİ": 2,
+                "ZAFER PARTİSİ": 2,
+                "ADALET PARTİSİ": 3,
+                "MİLLET PARTİSİ": 1,
+                "ANAVATAN PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 4,
+                "YENİDEN REFAH PARTİSİ": 6,
+                "CUMHURİYET HALK PARTİSİ": 96,
+                "ADALET VE KALKINMA PARTİSİ": 50,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "TÜRKİYE KOMÜNİST HAREKETİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1002/rize-ardesen-1002-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "502889",
+            "oyveotesi_sync_timestamp": 1684356307
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 189,
+            "sayim_sonuc": {
+                "TOPLAM": 189,
+                "SİNAN OĞAN": 10,
+                "MUHARREM İNCE": 5,
+                "KEMAL KILIÇDAROĞLU": 92,
+                "RECEP TAYYİP ERDOĞAN": 82
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-rize-tutanaklari/blob/main/tutanak/rize/rize-ardesen/1xxx/1002/rize-ardesen-1002-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "502889",
+            "oyveotesi_sync_timestamp": 1684356307
+        },
+        "secim_bolge_id": "rize"
+    }
+]

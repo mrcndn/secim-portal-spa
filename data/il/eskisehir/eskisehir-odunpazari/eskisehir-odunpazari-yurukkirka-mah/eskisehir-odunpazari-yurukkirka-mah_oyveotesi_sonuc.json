@@ -1,0 +1,39 @@
+[
+    {
+        "il_id": "eskisehir",
+        "il_adi": "ESKİŞEHİR",
+        "il_kodu": 26,
+        "ilce_id": "eskisehir-odunpazari",
+        "mahalle": "YÜRÜKKIRKA MAH.",
+        "ilce_adi": "ODUNPAZARI",
+        "okul_adi": "YÜRÜKKIRKA İLKOKULU",
+        "sandik_no": 1431,
+        "mahalle_id": "eskisehir-odunpazari-yurukkirka-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 175,
+            "sayim_sonuc": {
+                "TOPLAM": 175,
+                "İYİ PARTİ": 23,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "BÜYÜK BİRLİK PARTİSİ": 2,
+                "CUMHURİYET HALK PARTİSİ": 133,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "TÜRKİYE İŞÇİ PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-eskisehir-tutanaklari/blob/main/tutanak/eskisehir/eskisehir-odunpazari/1xxx/1431/eskisehir-odunpazari-1431-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "540973",
+            "oyveotesi_sync_timestamp": 1684341707
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "540973",
+            "oyveotesi_sync_timestamp": 1684341707
+        },
+        "secim_bolge_id": "eskisehir"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "il_id": "ardahan",
+        "il_adi": "ARDAHAN",
+        "il_kodu": 75,
+        "ilce_id": "ardahan-damal",
+        "mahalle": "ÇAYBAŞI MAH.",
+        "ilce_adi": "DAMAL",
+        "okul_adi": "DAMAL HALK EĞİTİM MERKEZİ",
+        "sandik_no": 1003,
+        "mahalle_id": "ardahan-damal-caybasi-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 144,
+            "sayim_sonuc": {
+                "TOPLAM": 144,
+                "İYİ PARTİ": 3,
+                "ZAFER PARTİSİ": 1,
+                "MEMLEKET PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 111,
+                "ADALET VE KALKINMA PARTİSİ": 4,
+                "TÜRKİYE KOMÜNİST PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 1,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 22
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-damal/1xxx/1003/ardahan-damal-1003-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "231840",
+            "oyveotesi_sync_timestamp": 1684326067
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 153,
+            "sayim_sonuc": {
+                "TOPLAM": 153,
+                "SİNAN OĞAN": 1,
+                "MUHARREM İNCE": 1,
+                "KEMAL KILIÇDAROĞLU": 149,
+                "RECEP TAYYİP ERDOĞAN": 2
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-ardahan-tutanaklari/blob/main/tutanak/ardahan/ardahan-damal/1xxx/1003/ardahan-damal-1003-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "231840",
+            "oyveotesi_sync_timestamp": 1684326067
+        },
+        "secim_bolge_id": "ardahan"
+    }
+]

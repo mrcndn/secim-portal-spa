@@ -1,0 +1,64 @@
+[
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-merkez",
+        "mahalle": "KEMALPAŞA KÖYÜ",
+        "ilce_adi": "TOKAT MERKEZ",
+        "okul_adi": "KEMALPAŞA İLKOKULU",
+        "sandik_no": 1424,
+        "mahalle_id": "tokat-merkez-kemalpasa-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 387,
+            "sayim_sonuc": {
+                "TOPLAM": 387,
+                "KEMAL KILIÇDAROĞLU": 383,
+                "RECEP TAYYİP ERDOĞAN": 4
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1424/tokat-merkez-1424-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365129
+        },
+        "secim_bolge_id": "tokat"
+    },
+    {
+        "il_id": "tokat",
+        "il_adi": "TOKAT",
+        "il_kodu": 60,
+        "ilce_id": "tokat-merkez",
+        "mahalle": "KEMALPAŞA KÖYÜ",
+        "ilce_adi": "TOKAT MERKEZ",
+        "okul_adi": "KEMALPAŞA İLKOKULU",
+        "sandik_no": 1425,
+        "mahalle_id": "tokat-merkez-kemalpasa-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365129
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 371,
+            "sayim_sonuc": {
+                "TOPLAM": 371,
+                "SİNAN OĞAN": 0,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 362,
+                "RECEP TAYYİP ERDOĞAN": 9
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-tokat-tutanaklari/blob/main/tutanak/tokat/tokat-merkez/1xxx/1425/tokat-merkez-1425-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684365129
+        },
+        "secim_bolge_id": "tokat"
+    }
+]

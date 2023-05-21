@@ -1,0 +1,47 @@
+[
+    {
+        "il_id": "kutahya",
+        "il_adi": "KÜTAHYA",
+        "il_kodu": 43,
+        "ilce_id": "kutahya-gediz",
+        "mahalle": "CEBRAİL KÖYÜ",
+        "ilce_adi": "GEDİZ",
+        "okul_adi": "CEBRAİL DÜĞÜN SALONU",
+        "sandik_no": 1088,
+        "mahalle_id": "kutahya-gediz-cebrail-koyu",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 283,
+            "sayim_sonuc": {
+                "TOPLAM": 283,
+                "GENÇ PARTİ": 1,
+                "İYİ PARTİ": 22,
+                "ZAFER PARTİSİ": 3,
+                "ADALET PARTİSİ": 1,
+                "MİLLET PARTİSİ": 7,
+                "ANAVATAN PARTİSİ": 1,
+                "YENİDEN REFAH PARTİSİ": 9,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 14,
+                "ADALET VE KALKINMA PARTİSİ": 162,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 62
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1088/kutahya-gediz-1088-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732778",
+            "oyveotesi_sync_timestamp": 1684350224
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 288,
+            "sayim_sonuc": {
+                "TOPLAM": 288,
+                "SİNAN OĞAN": 11,
+                "MUHARREM İNCE": 2,
+                "KEMAL KILIÇDAROĞLU": 38,
+                "RECEP TAYYİP ERDOĞAN": 237
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-kutahya-tutanaklari/blob/main/tutanak/kutahya/kutahya-gediz/1xxx/1088/kutahya-gediz-1088-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "732778",
+            "oyveotesi_sync_timestamp": 1684350224
+        },
+        "secim_bolge_id": "kutahya"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-korkuteli",
+        "mahalle": "AVDAN MAH.",
+        "ilce_adi": "KORKUTELİ",
+        "okul_adi": "AVDAN ŞEHİT AHMET BELEN İLKÖĞRETİM OKULU",
+        "sandik_no": 1018,
+        "mahalle_id": "antalya-korkuteli-avdan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325793
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "SİNAN OĞAN": 4,
+                "MUHARREM İNCE": 0,
+                "KEMAL KILIÇDAROĞLU": 19,
+                "RECEP TAYYİP ERDOĞAN": 212
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-korkuteli/1xxx/1018/antalya-korkuteli-1018-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": null,
+            "oyveotesi_sync_timestamp": 1684325793
+        },
+        "secim_bolge_id": "antalya"
+    },
+    {
+        "il_id": "antalya",
+        "il_adi": "ANTALYA",
+        "il_kodu": 7,
+        "ilce_id": "antalya-korkuteli",
+        "mahalle": "AVDAN MAH.",
+        "ilce_adi": "KORKUTELİ",
+        "okul_adi": "AVDAN ŞEHİT AHMET BELEN İLKÖĞRETİM OKULU",
+        "sandik_no": 1019,
+        "mahalle_id": "antalya-korkuteli-avdan-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 224,
+            "sayim_sonuc": {
+                "TOPLAM": 224,
+                "GENÇ PARTİ": 1,
+                "VATAN PARTİSİ": 1,
+                "ADALET PARTİSİ": 12,
+                "YENİDEN REFAH PARTİSİ": 172,
+                "CUMHURİYET HALK PARTİSİ": 11,
+                "ADALET VE KALKINMA PARTİSİ": 1,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 12,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 14
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-korkuteli/1xxx/1019/antalya-korkuteli-1019-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566943",
+            "oyveotesi_sync_timestamp": 1684325793
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": 228,
+            "sayim_sonuc": {
+                "TOPLAM": 228,
+                "SİNAN OĞAN": 4,
+                "KEMAL KILIÇDAROĞLU": 27,
+                "RECEP TAYYİP ERDOĞAN": 197
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-antalya-tutanaklari/blob/main/tutanak/antalya/antalya-korkuteli/1xxx/1019/antalya-korkuteli-1019-cb1-000.jpg?raw=true",
+            "oyveotesi_submission_id": "566943",
+            "oyveotesi_sync_timestamp": 1684325793
+        },
+        "secim_bolge_id": "antalya"
+    }
+]

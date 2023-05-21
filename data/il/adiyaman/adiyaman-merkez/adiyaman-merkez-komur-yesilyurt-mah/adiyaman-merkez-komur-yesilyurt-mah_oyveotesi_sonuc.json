@@ -1,0 +1,36 @@
+[
+    {
+        "il_id": "adiyaman",
+        "il_adi": "ADIYAMAN",
+        "il_kodu": 2,
+        "ilce_id": "adiyaman-merkez",
+        "mahalle": "KÖMÜR-YEŞİLYURT MAH.",
+        "ilce_adi": "ADIYAMAN MERKEZ",
+        "okul_adi": "KÖMÜR-YEŞİLYURT (HALİLAN İLKÖĞRETİM OKULU)",
+        "sandik_no": 2011,
+        "mahalle_id": "adiyaman-merkez-komur-yesilyurt-mah",
+        "ovo_mv_sonuc": {
+            "toplam_oy": 235,
+            "sayim_sonuc": {
+                "TOPLAM": 235,
+                "BÜYÜK BİRLİK PARTİSİ": 1,
+                "CUMHURİYET HALK PARTİSİ": 102,
+                "GÜÇ BİRLİĞİ PARTİSİ": 1,
+                "ADALET VE KALKINMA PARTİSİ": 9,
+                "MİLLİYETÇİ HAREKET PARTİSİ": 2,
+                "YEŞİLLER VE SOL GELECEK PARTİSİ": 120
+            },
+            "tutanak_url": "https://github.com/secim-tr/secim-2023-mayis-adiyaman-tutanaklari/blob/main/tutanak/adiyaman/adiyaman-merkez/2xxx/2011/adiyaman-merkez-2011-mv-000.jpg?raw=true",
+            "oyveotesi_submission_id": "821554",
+            "oyveotesi_sync_timestamp": 1684330482
+        },
+        "ovo_cb1_sonuc": {
+            "toplam_oy": null,
+            "sayim_sonuc": null,
+            "tutanak_url": null,
+            "oyveotesi_submission_id": "821554",
+            "oyveotesi_sync_timestamp": 1684330482
+        },
+        "secim_bolge_id": "adiyaman"
+    }
+]
